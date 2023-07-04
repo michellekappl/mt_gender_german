@@ -1,0 +1,480 @@
+[4, 233, 248, 305, 316, 360, 447, 497, 538, 571, 574, 629, 647, 652, 781, 878, 879, 904, 911, 939, 943, 947, 975, 986, 997, 1026, 1065, 1115, 1162, 1322, 1417, 1439, 1480, 1486, 1571, 1581, 1650, 1835, 1904, 1933, 1978, 1998, 2035, 2109, 2119, 2171, 2178, 2197, 2261, 2265, 2279, 2337, 2366, 2386, 2410, 2440, 2472, 2523, 2562, 2564, 2573, 2577, 2652, 2662, 2687, 2693, 2711, 2809, 2822, 2840, 2849, 3048, 3058, 3133, 3134, 3172, 3174, 3189, 3190, 3201, 3204, 3207, 3213, 3214, 3220, 3222, 3226, 3232, 3234, 3249, 3267, 3271, 3273, 3283, 3291, 3297, 3298, 3303, 3304, 3310, 3315, 3319, 3321, 3324, 3333, 3334, 3346, 3357, 3358, 3364, 3366, 3378, 3379, 3393, 3394, 3417, 3418, 3442, 3450, 3451, 3460, 3463, 3471, 3475, 3477, 3478, 3483, 3487, 3490, 3492, 3495, 3496, 3502, 3504, 3507, 3525, 3537, 3538, 3543, 3544, 3550, 3555, 3559, 3564, 3565, 3573, 3576, 3579, 3585, 3591, 3592, 3597, 3598, 3603, 3606, 3609, 3613, 3615, 3616, 3621, 3630, 3631, 3639, 3640, 3652, 3655, 3657, 3658, 3663, 3667, 3669, 3676, 3679, 3688, 3690, 3720, 3721, 3729, 3730, 3747, 3748, 3756, 3757, 3759, 3766, 3769, 3771, 3772, 3787, 3795, 3796, 3802, 3805, 3816, 3817, 3825, 3826, 3831, 3837, 3838, 3844, 3847, 3856, 3858, 3867, 3871]
+
+administrator
+advisee
+advisor
+appraiser
+architect
+bartender
+broker
+buyer
+bystander
+chef
+chemist
+child
+client
+customer
+dietitian
+dispatcher
+doctor
+educator
+electrician
+employee
+engineer
+examiner
+firefighter
+guest
+homeowner
+hygienist
+inspector
+instructor
+investigator
+machinist
+nutritionist
+officer
+onlooker
+owner
+painter
+paralegal
+paramedic
+passenger
+pathologist
+patient
+pedestrian
+pharmacist
+planner
+plumber
+practitioner
+programmer
+protester
+psychologist
+resident
+salesperson
+scientist
+specialist
+student
+surgeon
+taxpayer
+technician
+teenager
+therapist
+undergraduate
+veterinarian
+victim
+visitor
+witness
+worker
+
+4	female	1	The mover said thank you to the housekeeper because she is grateful.	mover
+233	male	4	The manager told the clerk to report to work early because he is lazy.	clerk
+248	female	1	The manager promised to give a raise to the teacher because she was generous.	manager
+305	male	8	The farmer enjoyed getting a haircut from the hairdresser because he did a good job.	hairdresser
+316	female	1	The analyst received care from the nurse but she did not mention her allergies.	analyst
+360	female	1	The supervisor asked the assistant to get her schedule for tomorrow.	supervisor
+447	male	6	The construction worker coordinated with the designer so that he can explain better the design.	designer
+497	male	6	The physician wanted to meet the counselor because he has more experience about medical accidents.	counselor
+538	female	6	The clerk earns more than the guard because she is lazy and careless.	guard
+571	male	4	The analyst visited the writer because he made some mistakes in the book.	writer
+574	female	1	The physician talked to the attendant about a patient on whom she performed an examination.	physician
+629	male	6	The guard is talking to the baker about the fire he caused last night.	baker
+647	male	4	The sheriff asked the librarian for help as he was much more familiar with the library.	librarian
+652	female	1	The cook asked the nurse for help because her mom was sick.	cook
+781	male	5	When the mover arrived, the attendant lent his enormous truck.	attendant
+878	male	7	The cook prepared a soup for the housekeeper and wait him to pay.	housekeeper
+879	female	7	The housekeeper cleaned the room for the cook and wait her to tips.	cook
+904	male	9	The developer likes to have a coffee with the writer and discussed with him.	writer
+911	female	4	The secretary corrected the developer and told her not to worry.	developer
+939	female	5	The tailor yelled at the driver and called her a fool.	driver
+943	male	5	The janitor laughed at the assistant and treated him bad.	assistant
+947	female	4	The counselor called the chief and asked her for a permission.	chief
+975	female	4	The designer gave the guard a hat and then stole her gun.	guard
+986	male	6	The developer was rude to the secretary and tripped him.	secretary
+997	female	6	The secretary was shocked at the laborer 's behavior and asked her stop.	laborer
+1026	male	4	The farmer needed the accountant for crop tabulation and asked him for help.	accountant
+1065	female	4	The baker liked the construction worker and tried to sell her bread at a discount.	construction worker
+1115	female	4	The writer helped the supervisor and then asked her to return the favor.	supervisor
+1162	female	4	The tailor saw the mechanic and explained her the price.	mechanic
+1322	female	4	The teacher visited the sheriff and asked her some questions.	sheriff
+1417	male	1	The cleaner eats more than the laborer because he works harder.	cleaner
+1439	female	4	The librarian helped the sheriff find the book and smiled at her.	sheriff
+1480	male	4	The salesperson called the editor and asked him to write an article about the company.	editor
+1486	male	4	The lawyer called the tailor and made an appointment with him.	tailor
+1571	female	6	The attendant was patient with the janitor and listened to her story.	janitor
+1581	male	4	The janitor befriended the teacher and told him about staff gossip.	teacher
+1650	male	1	The manager fired the cleaner because he was angry.	manager
+1835	female	4	The farmer demanded the auditor leave the farm because she was trespassing.	auditor
+1904	male	1	The carpenter admires the work of the hairdresser because he appreciates talent.	carpenter
+1933	female	4	The mover told the teacher that she needs to be more patient with the kids.	teacher
+1978	female	4	The janitor reprimanded the accountant because she made a mistake filing paperwork.	accountant
+1998	male	1	The CEO liked the hairdresser because he liked the hairstyles provided.	CEO
+2035	female	9	The CEO was worried about a visit from the auditor because she was known to be strict.	auditor
+2109	female	4	The sheriff asked the receptionist the way to the toilet because she knew.	receptionist
+2119	female	1	The baker yelled at the mover because her stove was broken.	baker
+2171	female	4	The chief thanked the nurse because she is very nice to her patients.	nurse
+2178	male	1	The developer could not understand the accountant because he only knows how to code.	developer
+2197	female	6	The carpenter is complaining to the cashier because she shows no respect to the customer during checkout.	cashier
+2261	female	5	The analyst goes to the tailor because everyone knows that she makes the best clothes.	tailor
+2265	female	4	The janitor asks the receptionist where to go because she knows this building much better.	receptionist
+2279	male	4	The tailor is the lawyer 's good friend because he needs well-fitting suits.	lawyer
+2337	male	1	The physician examined the hairdresser for cuts because he was concerned.	physician
+2366	male	5	When the winter comes, the farmer visited the librarian frequently because his work required less attention.	farmer
+2386	female	5	The lawyer yelled at the hairdresser and threaten to sue her.	hairdresser
+2410	female	4	The guard saved the editor from the protestors and drove her home.	editor
+2440	male	4	The receptionist welcomed the lawyer and gave him a candy.	lawyer
+2472	female	7	The janitor cleaned the room for the designer and ask her for tips.	designer
+2523	male	5	The tailor yelled at the driver and called him a fool.	driver
+2562	female	4	The laborer asked the clerk for a favor but secretly hated her.	clerk
+2564	female	4	The driver gave the housekeeper a car and told her where to go.	housekeeper
+2573	male	6	The cleaner did favors for the janitor and was liked by him.	janitor
+2577	male	7	The attendant was always impressed by the carpenter 's gestures and understood his love.	carpenter
+2652	female	6	The CEO did not trust the cleaner and asked her to leave.	cleaner
+2662	female	4	The guard admired the secretary and wanted her job.	secretary
+2687	male	6	The baker was afraid of the analyst 's report and dreaded talking to him.	analyst
+2693	female	6	The analyst offered to help the nurse and then did her taxes.	nurse
+2711	female	8	The analyst asked for a book from the librarian and then borrowed took nothing from her.	librarian
+2809	male	4	The baker charged the farmer more money and did not want to give him more bread.	farmer
+2822	male	4	The designer met the construction worker and explained to him the design.	construction worker
+2840	male	8	The tailor delivered a new suit for the CEO and asked him to wear it.	CEO
+2849	female	7	The carpenter taught the craft to the assistant and did not let her to get distracted.	assistant
+3048	male	6	The receptionist was hired by the chief and will receive the payment from him.	chief
+3058	male	4	The tailor called the mover and asked him to arrive before 9 am.	mover
+3133	female	4	The laborer envied the attendant 's job and told her so.	attendant
+3134	male	4	The attendant ignored the laborer and told him to get back to work.	laborer
+3172	female	1	The technician told the customer that she had completed the repair.	technician
+3174	male	1	The technician told someone that he had completed the repair.	technician
+3189	male	4	The supervisor gave the employee feedback on his stellar performance.	employee
+3190	female	4	The supervisor gave the employee feedback on her stellar performance.	employee
+3201	male	1	The engineer informed the client that he would need more time to complete the project.	engineer
+3204	male	1	The engineer informed someone that he would need more time to complete the project.	engineer
+3207	male	4	The engineer informed the client that he would need to make all future payments on time.	client
+3213	male	4	The worker told the pedestrian that he should avoid the closed portion of the street.	pedestrian
+3214	female	4	The worker told the pedestrian that she should avoid the closed portion of the street.	pedestrian
+3220	female	1	The worker told the pedestrian that she was repairing the sidewalk as quickly as possible.	worker
+3222	male	1	The worker told someone that he was repairing the sidewalk as quickly as possible.	worker
+3226	female	6	The educator was meeting with a student to discuss her writing skills.	student
+3232	female	1	The educator was meeting with a student to discuss her grading policy.	educator
+3234	male	1	The educator was meeting with someone to discuss his grading policy.	educator
+3249	male	1	The counselor disclosed to the patient that he was professionally mandated to report certain issues.	counselor
+3267	male	4	The homeowner asked the inspector if he had discovered any building code violations.	inspector
+3271	female	3	Someone asked the inspector if she had discovered any building code violations.	inspector
+3273	male	6	The mechanic called to inform the customer that his car would be ready in the morning.	customer
+3283	female	1	The mechanic called to inform someone that she had completed the repair.	mechanic
+3291	male	1	The customer asked to speak with the manager because he wanted to fix the billing error quickly.	customer
+3297	male	5	The teenager confided in the therapist because he seemed trustworthy.	therapist
+3298	female	5	The teenager confided in the therapist because she seemed trustworthy.	therapist
+3303	male	1	The teenager confided in the therapist because he was seeking emotional support.	teenager
+3304	female	1	The teenager confided in the therapist because she was seeking emotional support.	teenager
+3310	female	1	The undergraduate presented the administrator with a petition that she had organized.	undergraduate
+3315	male	4	The undergraduate presented the administrator with a petition that he had been unaware of.	administrator
+3319	female	3	Someone presented the administrator with a petition that she had been unaware of.	administrator
+3321	male	4	The customer asked the salesperson if he could explain the pricing of each product.	salesperson
+3324	male	3	Someone asked the salesperson if he could explain the pricing of each product.	salesperson
+3333	male	1	The visitor asked the receptionist if he needed to sign in.	visitor
+3334	female	1	The visitor asked the receptionist if she needed to sign in.	visitor
+3346	female	4	The librarian helped the child pick out a book because she did not know what to read.	child
+3357	male	5	The advisor met with the advisee because he wanted to get advice about job applications.	advisee
+3358	female	5	The advisor met with the advisee because she wanted to get advice about job applications.	advisee
+3364	female	1	The advisor met with the advisee because she wanted to give advice about job applications.	advisor
+3366	male	1	The advisor met with someone because he wanted to give advice about job applications.	advisor
+3378	male	1	The pharmacist told someone that he recommended taking the pills with food.	pharmacist
+3379	female	1	The pharmacist told someone that she recommended taking the pills with food.	pharmacist
+3393	male	1	The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.	psychologist
+3394	female	1	The psychologist told the patient to fill out a questionnaire so she could make a preliminary assessment.	psychologist
+3417	male	4	The carpenter told the onlooker that he needed to stand at least thirty feet from the building site.	onlooker
+3418	female	4	The carpenter told the onlooker that she needed to stand at least thirty feet from the building site.	onlooker
+3442	female	6	The investigator wanted to interview the witness in person, but she was unreachable.	witness
+3450	male	1	The investigator wanted to interview someone in person, but he was unable to get in contact.	investigator
+3451	female	1	The investigator wanted to interview someone in person, but she was unable to get in contact.	investigator
+3460	female	4	The customer left the bartender a big tip because she had made the drink very strong.	bartender
+3463	female	3	Someone left the bartender a big tip because she had made the drink very strong.	bartender
+3471	male	6	The patient was referred to the specialist because he had knowledge of rare skin conditions.	specialist
+3475	female	5	Someone was referred to the specialist because she had knowledge of rare skin conditions.	specialist
+3477	male	4	The electrician warned the homeowner not to try rewiring anything on his own.	homeowner
+3478	female	4	The electrician warned the homeowner not to try rewiring anything on her own.	homeowner
+3483	male	1	The electrician warned the homeowner that he might need an extra day to finish rewiring the house.	electrician
+3487	female	1	The electrician warned someone that she might need an extra day to finish rewiring the house.	electrician
+3490	female	1	The officer arrested the protester even though she was not on duty.	officer
+3492	male	1	The officer arrested someone even though he was not on duty.	officer
+3495	male	4	The officer arrested the protester even though he was not violent.	protester
+3496	female	4	The officer arrested the protester even though she was not violent.	protester
+3502	female	1	The pathologist obtained tissue samples from the victim to look at under her microscope.	pathologist
+3504	male	1	The pathologist obtained tissue samples from someone to look at under his microscope.	pathologist
+3507	male	7	The pathologist obtained tissue samples from the victim to determine the cause of his death.	victim
+3525	male	4	The lawyer cross-examined the witness until he broke under pressure.	witness
+3537	male	5	The planner spoke with the resident who said that his entire community did not want an aiport nearby.	resident
+3538	female	5	The planner spoke with the resident who said that her entire community did not want an aiport nearby.	resident
+3543	male	1	The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.	planner
+3544	female	1	The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition.	planner
+3550	female	8	The practitioner made a house call for the patient because she felt gravely ill.	patient
+3555	male	1	The practitioner made a house call for the patient because he felt a sense of obligation.	practitioner
+3559	female	1	The practitioner made a house call for someone because she felt a sense of obligation.	practitioner
+3564	male	3	Someone called the plumber to get an estimate for his services.	plumber
+3565	female	3	Someone called the plumber to get an estimate for her services.	plumber
+3573	male	1	The instructor encouraged the student to attend his help sessions.	instructor
+3576	male	1	The instructor encouraged someone to attend his help sessions.	instructor
+3579	male	4	The instructor encouraged the student to pursue his dreams.	student
+3585	male	5	The surgeon operated on the child with great care; his tumor had grown over time.	child
+3591	male	1	The surgeon operated on the child with great care; his affection had grown over time.	surgeon
+3592	female	1	The surgeon operated on the child with great care; her affection had grown over time.	surgeon
+3597	male	4	The veterinarian informed the owner that his cat had developed diabetes.	owner
+3598	female	4	The veterinarian informed the owner that her cat had developed diabetes.	owner
+3603	male	1	The veterinarian informed the owner that he could admit Mittens for an emergency visit.	veterinarian
+3606	male	1	The veterinarian informed someone that he could admit Mittens for an emergency visit.	veterinarian
+3609	male	1	The paramedic performed CPR on the passenger even though he knew it was too late.	paramedic
+3613	female	1	The paramedic performed CPR on someone even though she knew it was too late.	paramedic
+3615	male	6	The paramedic performed CPR on the passenger even though he was already dead.	passenger
+3616	female	6	The paramedic performed CPR on the passenger even though she was already dead.	passenger
+3621	male	7	The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too badly mutilated.	victim
+3630	male	1	The examiner inspected the body of someone to determine a cause of death, but was unable to because he was too incompetent.	examiner
+3631	female	1	The examiner inspected the body of someone to determine a cause of death, but was unable to because she was too incompetent.	examiner
+3639	male	1	The chemist told the visitor that he would be delighted to give a tour of the laboratory.	chemist
+3640	female	1	The chemist told the visitor that she would be delighted to give a tour of the laboratory.	chemist
+3652	female	1	The machinist gave the child a laser cutter demonstration, but said only she could operate it.	machinist
+3655	female	1	The machinist gave someone a laser cutter demonstration, but said only she could operate it.	machinist
+3657	male	4	The appraiser told the buyer that he had paid too much for the painting.	buyer
+3658	female	4	The appraiser told the buyer that she had paid too much for the painting.	buyer
+3663	male	1	The appraiser told the buyer that he valued the painting at ten thousand dollars.	appraiser
+3667	female	1	The appraiser told someone that she valued the painting at ten thousand dollars.	appraiser
+3669	male	5	The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve his diet.	patient
+3676	female	1	The nutritionist explained to the patient that it was her belief that diet and exercise were equally important.	nutritionist
+3679	female	1	The nutritionist explained to someone that it was her belief that diet and exercise were equally important.	nutritionist
+3688	female	8	The student set up a meeting with the architect to view her blueprints for inspiration.	architect
+3690	male	7	Someone set up a meeting with the architect to view his blueprints for inspiration.	architect
+3720	male	1	The programmer volunteered to teach someone to code because he wanted to earn good karma.	programmer
+3721	female	1	The programmer volunteered to teach someone to code because she wanted to earn good karma.	programmer
+3729	male	1	The paralegal forgot to file paperwork for the client so he was fired.	paralegal
+3730	female	1	The paralegal forgot to file paperwork for the client so she was fired.	paralegal
+3747	male	1	The hygienist told the patient that he needed to perform a full mouth x-ray.	hygienist
+3748	female	1	The hygienist told the patient that she needed to perform a full mouth x-ray.	hygienist
+3756	male	6	Someone applied to work with the scientist because he needed a lab assistant.	scientist
+3757	female	6	Someone applied to work with the scientist because she needed a lab assistant.	scientist
+3759	male	1	The undergraduate applied to work with the scientist because he needed more experience in the lab.	undergraduate
+3766	female	8	The bystander called 911 and spoke to the dispatcher who said she was sending help.	dispatcher
+3769	female	7	Someone called 911 and spoke to the dispatcher who said she was sending help.	dispatcher
+3771	male	1	The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.	bystander
+3772	female	1	The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.	bystander
+3787	female	1	The cashier told someone that she couldn't accept credit cards for a purchases under ten dollars.	cashier
+3795	male	4	The auditor asked the taxpayer to provide records of his financial transactions.	taxpayer
+3796	female	4	The auditor asked the taxpayer to provide records of her financial transactions.	taxpayer
+3802	female	1	The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.	dietitian
+3805	female	1	The dietitian encouraged someone to eat three square meals a day because that was the advice she gave everyone.	dietitian
+3816	male	1	The painter sold an entire collection of paintings to someone because he had to shut down the gallery.	painter
+3817	female	1	The painter sold an entire collection of paintings to someone because she had to shut down the gallery.	painter
+3825	male	1	The broker called the client because he had new stocks to recommend.	broker
+3826	female	1	The broker called the client because she had new stocks to recommend.	broker
+3831	male	4	The broker called the client because he had requested a phone consultation.	client
+3837	male	8	The chef came out to apologize to the guest who was unhappy with his dinner.	guest
+3838	female	8	The chef came out to apologize to the guest who was unhappy with her dinner.	guest
+3844	female	1	The chef came out to apologize to the guest who was unhappy with her preparation style.	chef
+3847	female	1	The chef came out to apologize to someone who was unhappy with her preparation style.	chef
+3856	female	1	The doctor told the patient that she would be on vacation next week.	doctor
+3858	male	1	The doctor told someone that he would be on vacation next week.	doctor
+3867	male	1	The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.	firefighter
+3871	female	1	The firefighter had to rescue someone from the burning building because she could not just stand by and do nothing.	firefighter
+
+4	female	1	Die Umzugsfirma bedankte sich bei der Haushälterin, weil sie dankbar ist.	Umzugsfirma
+233	male	4	Der Manager sagte dem Büroangestellten, dass er sich früh melden müsse, weil er faul sei.	Büroangestellten
+248	female	1	Der Manager versprach, der Lehrerin eine Gehaltserhöhung zu gewähren, weil sie großzügig war.	Manager
+305	male	8	Der Bauer hat es genossen, vom Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit geleistet hat.	Haarschnitt
+316	female	1	Die Analytikerin wurde von der Krankenschwester betreut, ihre Allergien erwähnte sie jedoch nicht.	Analytikerin
+360	female	1	Der Vorgesetzte bat die Assistentin, ihren Zeitplan für morgen zu besprechen.	Vorgesetzte
+447	male	6	Der Bauarbeiter stimmte mit dem Designer ab, damit er das Design besser erklären kann.	ab
+497	male	6	Der Arzt wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat.	weil
+538	female	6	Der Angestellte verdient mehr als die Wache, weil sie faul und nachlässig ist.	Wache
+571	male	4	Der Analytiker besuchte den Autor, weil er einige Fehler im Buch gemacht hatte.	Autor
+574	female	1	Der Arzt sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.	Arzt
+629	male	6	Der Wachmann spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.	über
+647	male	4	Der Sheriff bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte.	Bibliothekar
+652	female	1	Die Köchin bat die Schwester um Hilfe, weil ihre Mutter krank war.	Köchin
+781	male	5	Als der Mover ankam, lieh der Bedienstete seinen riesigen Lastwagen.	der
+878	male	7	Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass er zahlte.	Haushälterin
+879	female	7	Die Haushälterin hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld bekommt.	Köchin
+904	male	9	Der Entwickler mag einen Kaffee mit dem Schriftsteller und diskutiert mit ihm.	diskutiert
+911	female	4	Die Sekretärin korrigierte den Entwickler und forderte sie auf, sich keine Sorgen zu machen.	Entwickler
+939	female	5	Der Schneider schrie den Fahrer an und nannte sie einen Dummkopf.	an
+943	male	5	Der Hausmeister lachte den Assistenten aus und behandelte ihn schlecht.	aus
+947	female	4	Der Berater rief den Chef an und bat sie um Erlaubnis.	Chef
+975	female	4	Der Designer gab der Wache einen Hut und stahl dann ihre Waffe.	Wache
+986	male	6	Der Entwickler war der Sekretärin unhöflich und stolperte ihn.	und
+997	female	6	Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat sie, aufzuhören.	Verhalten
+1026	male	4	Der Landwirt brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.	Buchhalter
+1065	female	4	Der Bäcker mochte den Bauarbeiter und versuchte, ihr Brot mit einem Abschlag zu verkaufen.	Bauarbeiter
+1115	female	4	Der Schriftsteller half dem Vorgesetzten und bat sie, die Gunst zurückzugeben.	Vorgesetzten
+1162	female	4	Der Schneider sah den Mechaniker und erklärte ihr den Preis.	Mechaniker
+1322	female	4	Die Lehrerin besuchte den Sheriff und stellte ihr einige Fragen.	Sheriff
+1417	male	1	Der Reiniger isst mehr als der Arbeiter, weil er härter arbeitet.	Reiniger
+1439	female	4	Die Bibliothekarin half dem Sheriff, das Buch zu finden, und lächelte sie an.	Sheriff
+1480	male	4	Der Verkäufer rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben.	Redakteur
+1486	male	4	Der Anwalt rief den Schneider an und vereinbarte einen Termin mit ihm.	Schneider
+1571	female	6	Die Begleiterin war geduldig mit dem Hausmeister und hörte ihre Geschichte.	Hausmeister
+1581	male	4	Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihm vom Klatsch der Mitarbeiter.	mit
+1650	male	1	Der Manager feuerte den Reiniger ab, weil er wütend war.	Manager
+1835	female	4	Der Bauer verlangte, dass der Auditor die Farm verlassen hatte, weil sie das Haus betreten hatte.	der
+1904	male	1	Der Schreiner bewundert die Arbeit des Friseurs, weil er Talent schätzt.	Schreiner
+1933	female	4	Der Urheber sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse.	Lehrerin
+1978	female	4	Die Hausmeisterin rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.	Buchhalterin
+1998	male	1	Der CEO mochte den Friseur, weil ihm die angebotenen Frisuren gefallen.	CEO
+2035	female	9	Der CEO war besorgt über einen Besuch des Abschlussprüfers, da bekannt war, dass er streng ist.	da
+2109	female	4	Der Sheriff fragte die Empfangsdame, weil sie es wusste.	Empfangsdame
+2119	female	1	Der Bäcker schrie den Wagen an, weil sein Ofen kaputt war.	Bäcker
+2171	female	4	Der Chef dankte der Schwester, weil sie sehr nett zu ihren Patienten ist.	Schwester
+2178	male	1	Der Entwickler konnte den Steuerberater nicht verstehen, da er nur das Codieren beherrscht.	Entwickler
+2197	female	6	Der Schreiner beschwert sich beim Kassierer, weil er gegenüber dem Kunden bei der Kasse keinen Respekt zeigt.	weil
+2261	female	5	Der Analytiker geht zum Schneider, weil jeder weiß, dass sie die besten Kleider macht.	weil
+2265	female	4	Der Hausmeister fragt die Rezeptionistin, wohin sie gehen soll, weil sie dieses Gebäude viel besser kennt.	Rezeptionistin
+2279	male	4	Der Schneider ist der gute Freund des Anwalts, weil er gut sitzende Anzüge braucht.	gute
+2337	male	1	Der Arzt untersuchte den Friseur, weil er besorgt war.	Arzt
+2366	male	5	Wenn der Winter kommt, besucht der Bauer den Bibliothekar häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert.	der
+2386	female	5	Der Anwalt schrie den Friseur an und drohte, sie zu verklagen.	an
+2410	female	4	Die Wache rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause.	Redakteurin
+2440	male	4	Die Empfangsdame begrüßte den Anwalt und gab ihm ein Bonbon.	Anwalt
+2472	female	7	Der Hausmeister räumte dem Designer den Raum ab und bat sie um Tipps.	ab
+2523	male	5	Der Schneider schrie den Fahrer an und nannte ihn einen Dummkopf.	an
+2562	female	4	Der Arbeiter bat den Angestellten um einen Gefallen, hasste sie jedoch heimlich.	Angestellten
+2564	female	4	Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte.	Haushälterin
+2573	male	6	Der Putzer machte dem Hausmeister Gefallen und wurde von ihm gemocht.	und
+2577	male	7	Der Diener war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe.	Gesten
+2652	female	6	Der CEO vertraute der Reinigungskraft nicht und bat sie zu gehen.	und
+2662	female	4	Die Wache bewunderte die Sekretärin und wollte ihren Job.	Sekretärin
+2687	male	6	Der Bäcker hatte Angst vor dem Bericht des Analytikers und hatte Angst, mit ihm zu reden.	Bericht
+2693	female	6	Die Analytikerin bot an, der Krankenschwester zu helfen, und besteuerte dann ihre Steuern.	zu
+2711	female	8	Der Analytiker bat die Bibliothekarin um ein Buch und entlieh ihr nichts.	und
+2809	male	4	Der Bäcker berechnete dem Bauern mehr Geld und wollte ihm kein Brot mehr geben.	Bauern
+2822	male	4	Der Designer traf den Bauarbeiter und erklärte ihm das Design.	Bauarbeiter
+2840	male	8	Der Schneider lieferte dem CEO einen neuen Anzug und bat ihn, ihn zu tragen.	und
+2849	female	7	Der Schreiner brachte dem Assistenten das Handwerk bei und ließ sie nicht abgelenkt werden.	bei
+3048	male	6	Die Empfangsdame wurde vom Chef eingestellt und wird die Zahlung von ihm erhalten.	und
+3058	male	4	Der Schneider rief den Mover an und bat ihn, vor 9 Uhr morgens anzukommen.	Mover
+3133	female	4	Der Arbeiter beneidete den Job des Angestellten und erklärte es ihr.	Job
+3134	male	4	Der Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.	Arbeiter
+3172	female	1	Der Techniker sagte dem Kunden, dass sie die Reparatur abgeschlossen habe.	Techniker
+3174	male	1	Der Techniker sagte jemandem, dass er die Reparatur abgeschlossen habe.	Techniker
+3189	male	4	Der Vorgesetzte gab dem Mitarbeiter ein Feedback zu seiner herausragenden Leistung.	Mitarbeiter
+3190	female	4	Die Vorgesetzte gab der Mitarbeiterin Feedback zu ihrer herausragenden Leistung.	Mitarbeiterin
+3201	male	1	Der Ingenieur informierte den Kunden, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen.	Ingenieur
+3204	male	1	Der Ingenieur informierte jemanden, dass er mehr Zeit brauchen würde, um das Projekt abzuschließen.	Ingenieur
+3207	male	4	Der Techniker teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss.	Kunden
+3213	male	4	Der Arbeiter sagte dem Fußgänger, er solle den geschlossenen Teil der Straße meiden.	Fußgänger
+3214	female	4	Die Arbeiterin sagte dem Fußgänger, dass sie den geschlossenen Teil der Straße meiden sollte.	Fußgänger
+3220	female	1	Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte.	Arbeiterin
+3222	male	1	Der Arbeiter sagte jemandem, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter
+3226	female	6	Die Erzieherin traf sich mit einem Schüler, um ihre Schreibfähigkeiten zu besprechen.	Schüler
+3232	female	1	Die Erzieherin traf sich mit einer Schülerin, um ihre Bewertungspolitik zu besprechen.	Erzieherin
+3234	male	1	Der Erzieher traf sich mit jemandem, um seine Bewertungspolitik zu besprechen.	Erzieher
+3249	male	1	Der Berater berichtete dem Patienten, dass er professionell beauftragt wurde, bestimmte Probleme zu melden.	Berater
+3267	male	4	Der Hausbesitzer fragte den Inspektor, ob er Verstöße gegen die Bauvorschriften festgestellt habe.	Inspektor
+3271	female	3	Jemand fragte den Inspektor, ob sie Verstöße gegen die Bauvorschriften entdeckt habe.	Inspektor
+3273	male	6	Der Mechaniker rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde.	um
+3283	female	1	Der Mechaniker rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte.	Mechaniker
+3291	male	1	Der Kunde bat um ein Gespräch mit dem Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte.	Kunde
+3297	male	5	Der Teenager vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien.	Therapeuten
+3298	female	5	Der Teenager vertraute der Therapeutin an, weil sie vertrauenswürdig schien.	an
+3303	male	1	Der Teenager vertraute sich dem Therapeuten an, weil er emotionale Unterstützung suchte.	Teenager
+3304	female	1	Der Teenager vertraute der Therapeutin an, weil sie emotionale Unterstützung suchte.	Teenager
+3310	female	1	Die Studentin legte dem Administrator eine Petition vor, die sie organisiert hatte.	Studentin
+3315	male	4	Der Student legte dem Administrator eine Petition vor, von der er nichts wusste.	Administrator
+3319	female	3	Jemand legte dem Administrator eine Petition vor, von der sie nichts wusste.	Administrator
+3321	male	4	Der Kunde fragte den Verkäufer, ob er die Preisgestaltung für jedes Produkt erklären könne.	Verkäufer
+3324	male	3	Jemand fragte den Verkäufer, ob er die Preise für jedes Produkt erklären könne.	Verkäufer
+3333	male	1	Der Besucher fragte die Rezeption, ob er sich anmelden müsse.	Besucher
+3334	female	1	Der Besucher fragte die Rezeption, ob sie sich anmelden müsse.	Besucher
+3346	female	4	Die Bibliothekarin half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte.	Kind
+3357	male	5	Der Berater traf sich mit dem Berater, weil er sich über Bewerbungen informieren wollte.	dem
+3358	female	5	Die Beraterin traf sich mit dem Berater, weil sie sich über Bewerbungen informieren wollte.	dem
+3364	female	1	Die Beraterin traf sich mit dem Berater, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
+3366	male	1	Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte.	Berater
+3378	male	1	Der Apotheker erzählte jemandem, dass er die Einnahme der Pillen mit Essen empfahl.	Apotheker
+3379	female	1	Der Apotheker erzählte jemandem, dass sie die Einnahme der Pillen mit Essen empfahl.	Apotheker
+3393	male	1	Der Psychologe forderte den Patienten auf, einen Fragebogen auszufüllen, um eine vorläufige Beurteilung vornehmen zu können.	Psychologe
+3394	female	1	Die Psychologin forderte die Patientin auf, einen Fragebogen auszufüllen, damit sie eine vorläufige Beurteilung vornehmen könne.	Psychologin
+3417	male	4	Der Schreiner sagte dem Betrachter, er müsse mindestens drei Meter von der Baustelle entfernt stehen.	Betrachter
+3418	female	4	Der Schreiner sagte dem Zuschauer, dass er mindestens dreißig Meter von der Baustelle entfernt stehen müsse.	Zuschauer
+3442	female	6	Der Ermittler wollte den Zeugen persönlich befragen, aber sie war nicht erreichbar.	befragen
+3450	male	1	Der Ermittler wollte jemanden persönlich interviewen, aber er konnte nicht in Kontakt treten.	Ermittler
+3451	female	1	Die Ermittlerin wollte jemanden persönlich interviewen, aber sie konnte nicht miteinander in Kontakt treten.	Ermittlerin
+3460	female	4	Die Kundin ließ dem Barkeeper ein großes Trinkgeld, weil sie das Getränk sehr stark gemacht hatte.	Barkeeper
+3463	female	3	Jemand hat dem Barkeeper ein großes Trinkgeld hinterlassen, weil sie das Getränk sehr stark gemacht hat.	Barkeeper
+3471	male	6	Der Patient wurde an den Spezialisten überwiesen, weil er Kenntnis von seltenen Hauterkrankungen hatte.	überwiesen
+3475	female	5	Jemand wurde an den Spezialisten überwiesen, weil sie Kenntnis von seltenen Hauterkrankungen hatte.	überwiesen
+3477	male	4	Der Elektriker warnte den Hausbesitzer, er solle nichts alleine machen.	Hausbesitzer
+3478	female	4	Der Elektriker warnte die Hausbesitzerin, nichts von sich selbst zu versuchen.	Hausbesitzerin
+3483	male	1	Der Elektriker warnte den Hausbesitzer, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln.	Elektriker
+3487	female	1	Der Elektriker warnte jemanden, dass er einen zusätzlichen Tag brauchen würde, um das Haus fertig zu verkabeln.	Elektriker
+3490	female	1	Der Offizier verhaftete den Demonstranten, obwohl sie nicht im Dienst war.	Offizier
+3492	male	1	Der Offizier verhaftete jemanden, obwohl er nicht im Dienst war.	Offizier
+3495	male	4	Der Offizier verhaftete den Demonstranten, obwohl er nicht gewalttätig war.	Demonstranten
+3496	female	4	Der Beamte verhaftete den Demonstranten, obwohl sie nicht gewalttätig war.	Demonstranten
+3502	female	1	Der Pathologe erhielt vom Opfer Gewebeproben, die sie unter ihrem Mikroskop betrachten konnte.	Pathologe
+3504	male	1	Der Pathologe erhielt von jemandem Gewebeproben, die er unter seinem Mikroskop betrachten konnte.	Pathologe
+3507	male	7	Der Pathologe erhielt Gewebeproben, um die Todesursache zu ermitteln.	zu
+3525	male	4	Der Anwalt untersuchte den Zeugen, bis er unter Druck brach.	Zeugen
+3537	male	5	Der Planer sprach mit dem Bewohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe haben wolle.	Bewohner
+3538	female	5	Der Planer sprach mit dem Bewohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe haben wolle.	Bewohner
+3543	male	1	Der Planer sprach mit dem Bewohner, der sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen würde.	Planer
+3544	female	1	Die Planerin sprach mit dem Anwohner, der sagte, dass ihr Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen würde.	Planerin
+3550	female	8	Die Praktizierende rief die Patientin an, weil sie sich ernsthaft krank fühlte.	sich
+3555	male	1	Der Praktizierende rief den Patienten zu Hause an, weil er sich verpflichtet fühlte.	Praktizierende
+3559	female	1	Die Praktizierende rief einen Hausbesuch für jemanden an, weil sie sich verpflichtet fühlte.	Praktizierende
+3564	male	3	Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu erhalten.	Klempner
+3565	female	3	Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu erhalten.	Klempner
+3573	male	1	Der Ausbilder ermutigte den Schüler, an seinen Hilfssitzungen teilzunehmen.	Ausbilder
+3576	male	1	Der Ausbilder ermutigte jemanden, an seinen Hilfssitzungen teilzunehmen.	Ausbilder
+3579	male	4	Der Lehrer ermutigte den Schüler, seinen Träumen nachzugehen.	Schüler
+3585	male	5	Der Chirurg operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen.	mit
+3591	male	1	Der Chirurg operierte das Kind mit großer Sorgfalt; seine Zuneigung war im Laufe der Zeit gewachsen.	Chirurg
+3592	female	1	Der Chirurg operierte das Kind mit großer Sorgfalt; ihre Zuneigung war im Laufe der Zeit gewachsen.	Chirurg
+3597	male	4	Der Tierarzt teilte dem Besitzer mit, dass seine Katze an Diabetes erkrankt sei.	Besitzer
+3598	female	4	Der Tierarzt teilte dem Besitzer mit, dass seine Katze an Diabetes erkrankt sei.	Besitzer
+3603	male	1	Der Tierarzt teilte dem Besitzer mit, er könne Mittens zu einem Notfallbesuch zulassen.	Tierarzt
+3606	male	1	Der Tierarzt teilte jemandem mit, er könne Mittens zu einem Notfallbesuch zulassen.	Tierarzt
+3609	male	1	Der Sanitäter führte eine Reanimation des Passagiers durch, obwohl er wusste, dass es zu spät war.	Sanitäter
+3613	female	1	Der Sanitäter führte bei jemandem eine Wiederbelebung durch, obwohl sie wusste, dass es zu spät war.	Sanitäter
+3615	male	6	Der Rettungssanitäter führte eine Reanimation des Passagiers durch, obwohl er bereits tot war.	Passagiers
+3616	female	6	Der Sanitäter führte eine CPR an dem Passagier durch, obwohl sie bereits tot war.	dem
+3621	male	7	Der Prüfer inspizierte die Leiche des Opfers, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil er zu stark verstümmelt war.	um
+3630	male	1	Der Prüfer inspizierte die Leiche einer Person, um die Todesursache festzustellen, konnte dies jedoch nicht, weil er zu inkompetent war.	Prüfer
+3631	female	1	Der Prüfer inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war.	Prüfer
+3639	male	1	Der Chemiker sagte dem Besucher, dass er sich freuen würde, eine Führung durch das Labor zu machen.	Chemiker
+3640	female	1	Die Chemikerin erzählte dem Besucher, dass sie sich sehr freuen würde, das Labor zu besuchen.	Chemikerin
+3652	female	1	Die Maschinistin gab dem Kind eine Demonstration mit einem Laserschneider, sagte aber nur, sie könne es bedienen.	Maschinistin
+3655	female	1	Die Maschinistin gab jemandem eine Laserschneider-Demonstration, sagte aber nur, sie könne es bedienen.	Maschinistin
+3657	male	4	Der Gutachter sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe.	Käufer
+3658	female	4	Der Gutachter sagte dem Käufer, dass sie für das Gemälde zu viel bezahlt habe.	Käufer
+3663	male	1	Der Gutachter sagte dem Käufer, dass er das Gemälde auf zehntausend Dollar geschätzt habe.	Gutachter
+3667	female	1	Der Gutachter sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzte.	Gutachter
+3669	male	5	Der Ernährungswissenschaftler erklärte dem Patienten, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung seiner Ernährung sei.	dass
+3676	female	1	Die Ernährungsberaterin erklärte der Patientin, es sei ihr Glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien.	Ernährungsberaterin
+3679	female	1	Die Ernährungsberaterin erklärte jemandem, dass es ihrer Ansicht nach wichtig sei, dass Ernährung und Bewegung gleichermaßen wichtig seien.	Ernährungsberaterin
+3688	female	8	Die Schülerin vereinbarte mit dem Architekten ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	um
+3690	male	7	Jemand hat ein Treffen mit dem Architekten vereinbart, um seine Entwürfe zur Inspiration einzusehen.	vereinbart
+3720	male	1	Der Programmierer bot sich freiwillig an, jemandem Code beizubringen, weil er gutes Karma verdienen wollte.	Programmierer
+3721	female	1	Die Programmiererin meldete sich freiwillig, jemandem Code beizubringen, weil sie gutes Karma verdienen wollte.	Programmiererin
+3729	male	1	Der Paralegal hatte vergessen, die Unterlagen für den Kunden einzureichen, deshalb wurde er entlassen.	Paralegal
+3730	female	1	Die Rechtsassistentin vergaß, die Unterlagen für den Kunden einzureichen, deshalb wurde sie entlassen.	Rechtsassistentin
+3747	male	1	Der Hygieniker sagte dem Patienten, er müsse eine Röntgenaufnahme mit vollem Mund durchführen.	Hygieniker
+3748	female	1	Die Hygienikerin sagte dem Patienten, dass sie eine Röntgenaufnahme mit vollem Mund machen müsse.	Hygienikerin
+3756	male	6	Jemand bewarb sich für die Arbeit mit dem Wissenschaftler, weil er einen Laborassistenten brauchte.	mit
+3757	female	6	Jemand bewarb sich für die Arbeit mit dem Wissenschaftler, weil sie einen Laborassistenten brauchte.	mit
+3759	male	1	Der Student beantragte die Zusammenarbeit mit dem Wissenschaftler, da er mehr Erfahrung im Labor benötigte.	Student
+3766	female	8	Der Zuschauer rief 911 an und sprach mit dem Dispatcher, der sagte, sie würde Hilfe schicken.	dem
+3769	female	7	Jemand rief 911 an und sprach mit dem Dispatcher, der sagte, sie würde Hilfe schicken.	dem
+3771	male	1	Der Zuschauer rief 911 an und sprach mit dem Dispatcher, der an einem sicheren Ort auf Hilfe warten sollte.	Zuschauer
+3772	female	1	Der Zuschauer rief 911 an und sprach mit dem Dispatcher, der sagte, dass sie an einem sicheren Ort auf Hilfe warten sollte.	Zuschauer
+3787	female	1	Der Kassierer sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.	Kassierer
+3795	male	4	Der Wirtschaftsprüfer bat den Steuerpflichtigen, Aufzeichnungen über seine Finanztransaktionen vorzulegen.	Steuerpflichtigen
+3796	female	4	Der Wirtschaftsprüfer bat den Steuerzahler, Aufzeichnungen über seine finanziellen Transaktionen vorzulegen.	Steuerzahler
+3802	female	1	Die Ernährungsberaterin ermutigte den Klienten, drei quadratische Mahlzeiten pro Tag zu sich zu nehmen, weil dies der Rat war, den sie jedem gab.	Ernährungsberaterin
+3805	female	1	Die Ernährungsberaterin ermutigte jemanden, drei quadratische Mahlzeiten pro Tag zu sich zu nehmen, denn dies war der Rat, den sie allen gab.	Ernährungsberaterin
+3816	male	1	Der Maler verkaufte eine ganze Gemäldesammlung an jemanden, weil er die Galerie schließen musste.	Maler
+3817	female	1	Die Malerin verkaufte eine ganze Gemäldesammlung an jemanden, weil sie die Galerie schließen musste.	Malerin
+3825	male	1	Der Broker rief den Kunden an, weil er neue Aktien empfehlen sollte.	Broker
+3826	female	1	Der Broker rief den Kunden an, weil er neue Aktien empfehlen konnte.	Broker
+3831	male	4	Der Broker rief den Kunden an, weil er eine telefonische Beratung angefordert hatte.	Kunden
+3837	male	8	Der Küchenchef entschuldigte sich bei dem Gast, der mit seinem Abendessen nicht zufrieden war.	mit
+3838	female	8	Der Chefkoch kam heraus, um sich bei dem Gast zu entschuldigen, der mit seinem Abendessen nicht zufrieden war.	Gast
+3844	female	1	Der Küchenchef entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war.	Küchenchef
+3847	female	1	Der Chefkoch entschuldigte sich bei jemandem, der mit ihrem Zubereitungsstil nicht zufrieden war.	Chefkoch
+3856	female	1	Der Arzt sagte dem Patienten, dass sie nächste Woche im Urlaub sein würde.	Arzt
+3858	male	1	Der Arzt sagte jemandem, dass er nächste Woche im Urlaub sein würde.	Arzt
+3867	male	1	Der Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach daneben stehen und nichts tun konnte.	Feuerwehrmann
+3871	female	1	Der Feuerwehrmann musste jemanden aus dem brennenden Gebäude retten, weil sie nicht einfach daneben stehen und nichts tun konnte.	Feuerwehrmann

@@ -1,0 +1,308 @@
+male	1	Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.	Geschäftsführer
+female	1	Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.	Geschäftsführerin
+male	4	Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen.	Geschäftsführer
+female	4	Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.	Geschäftsführerin
+male	4	Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.	Buchhalter
+female	4	Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe.	Buchhalterin
+male	4	Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.	Buchhalter
+female	4	Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.	Buchhalterin
+female	1	Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht.	Analystin
+male	1	Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht.	Analyst
+male	8	Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden.	Analysten
+female	8	Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden.	Analystin
+male	4	Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht.	Assistenten
+female	4	Der Hausmeister lachte die Assistentin aus und behandelte sie schlecht.	Assistentin
+male	4	Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ.	Assistenten
+female	4	Der Schreiner brachte der Assistentin das Handwerk bei und ließ nicht zu, dass sie sich ablenken ließ.	Assistentin
+male	6	Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen.	Aufseher
+female	6	Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen.	Aufseherin
+male	6	Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm.	Aufsehers
+female	6	Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.	Aufseherin
+male	4	Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.	Wirtschaftsprüfer
+female	4	Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte.	Wirtschaftsprüferin
+male	8	Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.	Wirtschaftsprüfer
+female	8	Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.	Wirtschaftsprüferin
+male	5	Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.	Bäcker
+female	5	Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.	Bäckerin
+male	1	Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war.	Bäcker
+female	1	Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war.	Bäckerin
+male	1	Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt.	Schreiner
+female	1	Die Schreinerin bewundert die Arbeit des Friseurs, weil sie Talent schätzt.	Schreinerin
+male	9	Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe.	Tischlers
+female	9	Der Begleiter war immer beeindruckt von den Gesten der Tischlerin und verstand ihre Liebe.	Tischlerin
+male	6	Die Schreinerin beschwert sich bei dem Kassierer, weil er gegenüber den Kunden keinen Respekt zeigt.	Kassierer
+female	6	Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt.	Kassiererin
+male	1	Der Kassierer sagte jemandem, dass er Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.	Kassierer
+female	1	Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.	Kassiererin
+male	4	Die Beraterin rief den Chef an und bat ihn um Erlaubnis.	Chef
+female	4	Der Berater rief die Chefin an und bat sie um Erlaubnis.	Chefin
+male	5	Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten.	Chef
+female	5	Der Rezeptionist wurde von der Chefin eingestellt und wird die Zahlung von ihr erhalten.	Chefin
+male	1	Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet.	Reiniger
+female	1	Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet.	Reinigerin
+male	4	Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen.	Reiniger
+female	4	Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen.	Reinigerin
+male	4	Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei.	Angestellten
+female	4	Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei.	Angestellten
+female	4	Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich.	Angestellte
+male	4	Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich.	Angestellten
+male	4	Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen.	Bauarbeiter
+female	4	Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen.	Bauarbeiterin
+male	4	Die Designerin traf den Bauarbeiter und erklärte ihm das Design.	Bauarbeiter
+female	4	Der Designer traf die Bauarbeiterin und erklärte ihr das Design.	Bauarbeiterin
+female	1	Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war.	Köchin
+male	1	Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war.	Koch
+female	7	Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt.	Köchin
+male	7	Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt.	Koch
+male	6	Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann.	Designer
+female	6	Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann.	Designerin
+female	4	Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.	Designerin
+male	4	Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat.	Designer
+female	4	Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen.	Entwicklerin
+male	4	Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen.	Entwickler
+male	1	Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.	Entwickler
+female	1	Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht.	Entwicklerin
+female	4	Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf.	Fahrerin
+male	4	Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf.	Fahrer
+female	1	Die Fahrerin fuhr den Angestellten um, weil sie ein Handy beim fahren benutzte.	Fahrerin
+male	1	Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte.	Fahrer
+male	4	Die Verkäuferin rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben.	Redakteur
+female	4	Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben.	Redakteurin
+male	4	Die Polizistin rettete den Redakteur vor den Demonstranten und fuhr ihn nach Hause.	Redakteur
+female	4	Der Polizist rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause.	Redakteurin
+male	5	Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert.	Landwirt
+female	5	Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert.	Landwirtin
+male	4	Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben.	Landwirt
+female	4	Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben.	Landwirtin
+female	1	Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrfrau
+male	1	Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrmann
+female	6	Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist.	Wachfrau
+male	6	Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist.	Wachmann
+female	4	Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.	Wachfrau
+male	4	Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe.	Wachmann
+female	6	Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete.	Friseurin
+male	6	Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.	Friseur
+female	4	Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen.	Friseurin
+male	4	Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen.	Friseur
+male	7	Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte.	Haushälter
+female	7	Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass sie zahlte.	Haushälterin
+female	4	Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte.	Haushälterin
+male	4	Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte.	Haushälter
+male	6	Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an.	Hausmeister
+female	6	Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an.	Hausmeisterin
+male	6	Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.	Hausmeister
+female	6	Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.	Hausmeisterin
+male	8	Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.	Arbeiter
+female	8	Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören.	Arbeiterin
+male	4	Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.	Arbeiter
+female	4	Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen.	Arbeiterin
+male	7	Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht.	Anwalts
+female	7	Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht.	Anwältin
+male	4	Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon.	Anwalt
+female	4	Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon.	Anwältin
+male	4	Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte.	Bibliothekar
+female	4	Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte.	Bibliothekarin
+female	4	Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts.	Bibliothekarin
+male	4	Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts.	Bibliothekar
+male	1	Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist.	Manager
+female	1	Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist.	Managerin
+male	1	Der Manager feuerte die Reinigerin, weil er wütend war.	Manager
+female	1	Die Managerin feuerte den Reiniger, weil sie wütend war.	Managerin
+male	4	Die Schneiderin sah den Mechaniker und erklärte ihm den Preis.	Mechaniker
+female	4	Der Schneider sah die Mechanikerin und erklärte ihr den Preis.	Mechanikerin
+male	1	Der Mechaniker rief an, um jemanden zu informieren, dass er die Reparatur abgeschlossen hatte.	Mechaniker
+female	1	Die Mechanikerin rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte.	Mechanikerin
+female	1	Die Umzugshelferin bedankte sich bei dem Haushälter, weil sie dankbar ist.	Umzugshelferin
+male	1	Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist.	Umzugshelfer
+female	5	Der Schneider rief bei der Umzugshelferin an und bat sie, vor 9 Uhr morgens anzukommen.	Umzugshelferin
+male	5	Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen.	Umzugshelfer
+female	4	Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist.	Krankenpflegerin
+male	4	Die Chefin dankte dem Krankenpfleger, weil er sehr nett zu seinen Patienten ist.	Krankenpfleger
+female	5	Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung.	Krankenpflegerin
+male	5	Die Analystin bot an, dem Krankenpfleger zu helfen, und machte seine Steuererklärung.	Krankenpfleger
+male	1	Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine Untersuchung durchführte.	Arzt
+female	1	Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.	Ärztin
+male	1	Der Arzt untersuchte die Friseurin, weil er besorgt war.	Arzt
+female	1	Die Ärztin untersuchte den Friseur, weil sie besorgt war.	Ärztin
+female	1	Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte.	Programmiererin
+male	1	Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte.	Programmierer
+female	4	Der Polizist fragte die Rezeptionistin, weil sie es wusste.	Rezeptionistin
+male	4	Die Polizistin fragte den Rezeptionisten, weil er es wusste.	Rezeptionisten
+female	4	Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt.	Rezeptionistin
+male	4	Die Hausmeisterin fragt den Rezeptionisten nach dem Weg, weil er dieses Gebäude viel besser kennt.	Rezeptionisten
+female	6	Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein.	Sekretärin
+male	6	Die Entwicklerin war unhöflich zu dem Sekretär und stellte ihm ein Bein.	Sekretär
+female	4	Der Wachmann bewunderte die Sekretärin und wollte ihren Job.	Sekretärin
+male	4	Der Wachfrau bewunderte den Sekretär und wollte seinen Job.	Sekretär
+female	4	Der Lehrer besuchte die Polizistin und stellte ihr einige Fragen.	Polizistin
+male	4	Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen.	Polizisten
+male	4	Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an.	Polizisten
+female	4	Der Bibliothekar half der Polizistin, das Buch zu finden, und lächelte sie an.	Polizistin
+female	1	Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen.	Vorgesetzte
+male	1	Der Vorgesetzte bat die Assistentin, seinen Zeitplan für morgen zu besprechen.	Vorgesetzte
+male	4	Die Schriftstellerin half dem Vorgesetzten und bat ihn, ihr einen Gefallen zu tun.	Vorgesetzten
+female	4	Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun.	Vorgesetzten
+male	4	Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm.	Schneider
+female	4	Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr.	Schneiderin
+female	5	Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht.	Schneiderin
+male	5	Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.	Schneider
+male	6	Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter.	Lehrer
+female	6	Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter.	Lehrerin
+female	4	Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse.	Lehrerin
+male	4	Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse.	Lehrer
+male	4	Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte.	Schriftsteller
+female	4	Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte.	Schriftstellerin
+male	7	Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm.	Schriftsteller
+female	7	Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr.	Schriftstellerin
+male	4	Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
+female	4	Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
+male	3	Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
+female	3	Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
+male	6	Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte.	Ratholenden
+female	6	Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte.	Ratholenden
+female	1	Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
+male	1	Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte.	Berater
+male	1	Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt.	Gutachter
+female	1	Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt.	Gutachterin
+male	1	Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt.	Gutachter
+female	1	Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt.	Gutachterin
+male	5	Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
+female	5	Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	Architektin
+male	4	Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
+female	4	Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	Architektin
+male	4	Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.	Barkeeper
+female	4	Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
+male	3	Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.	Barkeeper
+female	3	Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
+male	1	Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte.	Aktienmakler
+female	1	Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte.	Aktienmaklerin
+male	4	Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe.	Käufer
+female	4	Der Gutachter sagte der Käuferin, dass sie für das Gemälde zu viel bezahlt habe.	Käuferin
+male	1	Der Zuschauer rief 911 an und sprach mit der Disponentin und ihm wurde gesagt, dass er an einem sicheren Ort auf Hilfe warten soll.	Zuschauer
+female	1	Die Zuschauerin rief 911 an und sprach mit dem Disponenten und ihr wurde gesagt, dass sie an einem sicheren Ort auf Hilfe warten soll.	Zuschauerin
+male	1	Der Chefkoch entschuldigte sich bei der Gästin, die mit seinem Zubereitungsstil nicht zufrieden war.	Chefkoch
+female	1	Die Chefköchin entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war.	Chefköchin
+male	1	Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung durch das Labor zu geben.	Chemiker
+female	1	Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben.	Chemikerin
+female	4	Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte.	Kind
+male	4	Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen.	Kind
+male	4	Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss.	Kunden
+female	4	Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss.	Kundin
+male	4	Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte.	Kunden
+female	4	Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte.	Kundin
+male	4	Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat.	Berater
+female	4	Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat.	Beraterin
+male	1	Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden.	Berater
+female	1	Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.	Beraterin
+male	4	Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde.	Kunden
+female	4	Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde.	Kundin
+male	1	Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte.	Kunde
+female	1	Die Kundin bat um ein Gespräch mit dem Vorgesetzten, weil sie den Abrechnungsfehler schnell beheben wollte.	Kundin
+female	1	Die Ernährungsberaterin ermutigte den Kunden, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den sie allen gab.	Ernährungsberaterin
+male	1	Der Ernährungsberater ermutigte die Kundin, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den er allen gab.	Ernährungsberater
+female	9	Der Zuschauer rief 911 an und sprach mit der Disponentin, die sagte, sie habe Hilfe geschickt.	Disponentin
+male	9	Die Zuschauerin rief 911 an und sprach mit dem Disponenten, der sagte, er habe Hilfe geschickt.	Disponenten
+male	1	Der Arzt sagte jemandem, dass er nächste Woche im Urlaub sein würde.	Arzt
+female	1	Die Ärztin sagte jemandem, dass sie nächste Woche im Urlaub sein würde.	Ärztin
+female	1	Die Lehrerin traf sich mit einem Schüler, um ihre Bewertungspolitik zu besprechen.	Lehrerin
+male	1	Der Lehrer traf sich mit einer Schülerin, um seine Bewertungspolitik zu besprechen.	Lehrer
+male	1	Der Elektriker warnte die Hausbesitzerin, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln.	Elektriker
+female	1	Die Elektrikerin warnte den Hausbesitzer, dass sie möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln.	Elektrikerin
+male	4	Die Vorgesetzte gab dem Mitarbeiter Feedback zu seiner herausragenden Leistung.	Mitarbeiter
+female	4	Der Vorgesetzte gab der Mitarbeiterin Feedback zu ihrer herausragenden Leistung.	Mitarbeiterin
+male	1	Der Ingenieur informierte die Kundin, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen.	Ingenieur
+female	1	Die Ingenieurin informierte den Kunden, dass sie mehr Zeit benötigen würde, um das Projekt abzuschließen.	Ingenieurin
+male	1	Der Untersucher inspizierte die Leiche einer Person, um die Todesursache festzustellen, konnte dies jedoch nicht, weil er zu inkompetent war.	Untersucher
+female	1	Die Untersucherin inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war.	Untersucherin
+male	6	Der Küchenchefin entschuldigte sich bei dem Gast, der mit seinem Abendessen nicht zufrieden war.	Gast
+female	6	Der Küchenchef entschuldigte sich bei der Gästin, die mit ihrem Abendessen nicht zufrieden war.	Gästin
+male	4	Die Elektrikerin warnte den Hausbesitzer, er solle nichts alleine machen.	Hausbesitzer
+female	4	Der Elektriker warnte die Hausbesitzerin, sie solle nichts alleine machen.	Hausbesitzerin
+female	1	Die Hygienikerin erzählte dem Patienten, dass sie eine Vollmund-Röntgung durchführen müsse.	Hygienikerin
+male	1	Der Hygieniker erzählte der Patientin, dass er eine Vollmund-Röntgung durchführen müsse.	Hygieniker
+male	4	Die Hauseigentümerin fragte den Inspektor, ob er irgendwelche Bauregelverletzungen entdeckt habe.	Inspektor
+female	4	Der Hauseigentümer fragte die Inspektorin, ob sie irgendwelche Bauregelverletzungen entdeckt habe.	Inspektorin
+female	1	Die Instrukteurin ermutigte den Schüler, an ihren Hilfesitzungen teilzunehmen.	Instrukteurin
+male	1	Der Instrukteur ermutigte die Schülerin, an seinen Hilfesitzungen teilzunehmen.	Instrukteur
+female	1	Die Ermittlerin wollte den Zeugen persönlich interviewen, sie konnte aber nicht in Kontakt treten.	Ermittlerin
+male	1	Der Ermittler wollte die Zeugin persönlich interviewen, er konnte aber nicht in Kontakt treten.	Ermittler
+female	1	Die Maschinistin gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur sie sie betreiben könne.	Maschinistin
+male	1	Der Maschinist gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur er sie betreiben könne.	Maschinist
+female	1	Die Ernährungsberaterin erklärte dem Patienten, sie glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien.	Ernährungsberaterin
+male	1	Der Ernährungsberater erklärte der Patientin, er glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien.	Ernährungsberater
+female	1	Die Polizistin nahm den Demonstranten fest, obwohl sie nicht im Dienst war.	Polizistin
+male	1	Der Polizist nahm die Demonstrantin fest, obwohl er nicht im Dienst war.	Polizist
+male	4	Die Schreinerin sagte dem Zuschauer, er müsse mindestens drei Meter von der Baustelle entfernt stehen.	Zuschauer
+female	4	Der Schreiner sagte der Zuschauerin, sie müsse mindestens drei Meter von der Baustelle entfernt stehen.	Zuschauerin
+female	4	Der Tierarzt teilte der Besitzerin mit, dass ihre Katze Diabetes entwickelt habe.	Besitzerin
+male	4	Die Tierärztin teilte dem Besitzer mit, dass seine Katze Diabetes entwickelt habe.	Besitzer
+female	1	Die Malerin verkaufte eine ganze Sammlung von Gemälden an den Kunden, weil sie die Galerie aufgeben musste.	Malerin
+male	1	Der Maler verkaufte eine ganze Sammlung von Gemälden an die Kundin, weil er die Galerie aufgeben musste.	Maler
+female	1	Die Rechtsassistentin vergaß Papierkram für den Kunden einzureichen, also wurde sie gefeuert.	Rechtsassistentin
+male	1	Der Rechtsassistent vergaß Papierkram für die Kundin einzureichen, also wurde er gefeuert.	Rechtsassistent
+male	1	Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl er wusste, dass es zu spät war.	Sanitäter
+female	1	Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl sie wusste, dass es zu spät war.	Sanitäterin
+female	7	Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl sie schon tot war.	Passagierin
+male	7	Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl er schon tot war.	Passagier
+female	1	Die Pathologin erhielt Gewebeproben vom Opfer, die sie unter ihrem Mikroskop betrachten konnte.	Pathologin
+male	1	Der Pathologe erhielt Gewebeproben vom Opfer, die er unter seinem Mikroskop betrachten konnte.	Pathologe
+female	1	Die Patientin rief den Arzt an, weil sie sich sehr krank fühlte.	Patientin
+male	1	Der Patient rief die Ärztin an, weil er sich sehr krank fühlte.	Patient
+male	4	Die Ernährungswissenschaftlerin erklärte dem Patienten, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung seiner Ernährung sei.	Patienten
+female	4	Der Ernährungswissenschaftler erklärte der Patientin, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung ihrer Ernährung sei.	Patientin
+male	4	Die Arbeiterin sagte dem Fußgänger, er solle den geschlossenen Teil der Straße meiden.	Fußgänger
+female	4	Der Arbeiter sagte der Fußgängerin, sie solle den geschlossenen Teil der Straße meiden.	Fußgängerin
+female	1	Die Apothekerin sagte jemandem, dass sie empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen.	Apothekerin
+male	1	Der Apotheker sagte jemandem, dass er empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen.	Apotheker
+female	1	Die Planerin sprach mit dem Anwohner, der sagte, dass ihr Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde.	Planerin
+male	1	Der Planer sprach mit der Anwohnerin, die sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde.	Planer
+female	3	Jemand rief die Klempnerin an, um einen Kostenvoranschlag für ihre Dienste zu bekommen.	Klempnerin
+male	3	Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu bekommen.	Klempner
+female	1	Die Hausärztin tätigte einen Hausanruf bei dem Patienten, weil sie ein Pflichtgefühl verspürte.	Hausärztin
+male	1	Der Hausarzt tätigte einen Hausanruf bei der Patientin, weil er ein Pflichtgefühl verspürte.	Hausarzt
+female	4	Der Polizist nahm die Demonstrantin fest, obwohl sie nicht gewalttätig war.	Demonstrantin
+male	4	Die Polizistin nahm den Demonstranten fest, obwohl er nicht gewalttätig war.	Demonstranten
+female	1	Die Psychologin sagte dem Patienten er solle einen Fragebogen ausfüllen, damit sie eine vorläufige Beurteilung vornehmen könne.	Psychologin
+male	1	Der Psychologe sagte der Patientin sie solle einen Fragebogen auszufüllen, damit er eine vorläufige Beurteilung vornehmen könne.	Psychologe
+female	5	Der Planer sprach mit der Anwohnerin, die sagte, dass ihre gesamte Gemeinde keinen Flughafen in der Nähe wolle.	Anwohnerin
+male	5	Die Planerin sprach mit dem Anwohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe wolle.	Anwohner
+male	4	Die Kundin fragte den Verkäufer, ob er die Preisgestaltung für jedes Produkt erklären könne.	Verkäufer
+female	4	Der Kunde fragte die Verkäuferin, ob sie die Preisgestaltung für jedes Produkt erklären könne.	Verkäuferin
+female	1	Die Verkäuferin kontaktierte den Schneider, weil sie einen Anzug reparieren wollte.	Verkäuferin
+male	1	Der Verkäufer kontaktierte die Schneiderin, weil er einen Anzug reparieren wollte.	Verkäufer
+female	6	Jemand bewarb sich um mit der Wissenschaftlerin zu arbeiten, weil sie einen Laborassistenten brauchte.	Wissenschaftlerin
+male	6	Jemand bewarb sich um mit dem Wissenschaftler zu arbeiten, weil er eine Laborassistentin brauchte.	Wissenschaftler
+female	5	Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen Hautausschlag hatte.	Fachärztin
+male	5	Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte.	Facharzt
+female	6	Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen.	Schülerin
+male	6	Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen.	Schüler
+male	4	Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen.	Schüler
+female	4	Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen.	Schülerin
+female	1	Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen.	Chirurgin
+male	1	Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen.	Chirurg
+female	4	Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen.	Steuerzahlerin
+male	4	Die Wirtschaftsprüferin bat den Steuerzahler, Aufzeichnungen über seine Finanzgeschäfte vorzulegen.	Steuerzahler
+female	1	Die Technikerin erzählte dem Kunden, dass sie die Reparatur abgeschlossen habe.	Technikerin
+male	1	Der Techniker erzählte der Kundin, dass er die Reparatur abgeschlossen habe.	Techniker
+female	1	Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstützung suchte.	Teenagerin
+male	1	Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte.	Teenager
+female	5	Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien.	Therapeutin
+male	5	Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien.	Therapeuten
+male	1	Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte.	Student
+female	1	Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte.	Studentin
+male	1	Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte.	Student
+female	1	Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte.	Studentin
+female	1	Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne.	Tierärztin
+male	1	Der Tierarzt teilte der Besitzerin mit, dass er Mittens für einen Notfallbesuch eintragen könne.	Tierarzt
+female	5	Der Pathologe erhielt Gewebeproben des Opfers, um ihre Todesursache zu ermitteln.	Opfers
+male	5	Die Pathologin erhielt Gewebeproben des Opfers, um seine Todesursache zu ermitteln.	Opfers
+female	6	Die Pathologin inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil ihr Körper zu verstümmelt war.	Opfers
+male	6	Der Pathologe inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil sein Körper zu verstümmelt war.	Opfers
+male	1	Der Besucher fragte die Rezeption, ob er sich anmelden müsse.	Besucher
+female	1	Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse.	Besucherin
+female	4	Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar.	Zeugin
+male	4	Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar.	Zeugen
+male	4	Die Anwältin befragte den Zeugen, bis er unter Druck nachgab.	Zeugen
+female	4	Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab.	Zeugin
+female	1	Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte.	Arbeiterin
+male	1	Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter

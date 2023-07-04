@@ -1,0 +1,256 @@
+male	4	The chief praised the accountant because he is professional and patient.	accountant
+female	4	The chief praised the accountant because she is professional and patient.	accountant
+male	6	The cook had to hire the accountant so that he can provide help with financial matters.	accountant
+female	6	The cook had to hire the accountant so that she can provide help with financial matters.	accountant
+male	4	The undergraduate presented the administrator with a petition that he had been unaware of.	administrator
+female	4	The undergraduate presented the administrator with a petition that she had been unaware of.	administrator
+male	5	The advisor met with the advisee because he wanted to get advice about job applications.	advisee
+female	5	The advisor met with the advisee because she wanted to get advice about job applications.	advisee
+male	1	The advisor met with the advisee because he wanted to give advice about job applications.	advisor
+female	1	The advisor met with the advisee because she wanted to give advice about job applications.	advisor
+female	1	The analyst informed the baker the store is worthless because her calculations were definitive.	analyst
+male	1	The analyst informed the baker the store is worthless because his calculations were definitive.	analyst
+female	1	The analyst loved to get a haircut from the hairdresser because she could sit on a comfy chair.	analyst
+male	1	The analyst loved to get a haircut from the hairdresser because he could sit on a comfy chair.	analyst
+male	1	The appraiser told the buyer that he valued the painting at ten thousand dollars.	appraiser
+female	1	The appraiser told the buyer that she valued the painting at ten thousand dollars.	appraiser
+male	8	The student set up a meeting with the architect to view his blueprints for inspiration.	architect
+female	8	The student set up a meeting with the architect to view her blueprints for inspiration.	architect
+female	1	The assistant scanned documents for the analyst because she knows how to use the scan machine.	assistant
+male	1	The assistant scanned documents for the analyst because he knows how to use the scan machine.	assistant
+female	1	The assistant purchased a new computer due to a recommendation from the salesperson, because she wanted to increase productivity.	assistant
+male	1	The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity.	assistant
+male	5	The construction worker asked the attendant to not lose his focus.	attendant
+female	5	The construction worker asked the attendant to not lose her focus.	attendant
+female	6	The CEO could not understand the attendant, because she spoke too fast.	attendant
+male	6	The CEO could not understand the attendant, because he spoke too fast.	attendant
+male	4	The lawyer declared the baker was a liar because his prices were too high.	baker
+female	4	The lawyer declared the baker was a liar because her prices were too high.	baker
+female	4	The chief handed the baker money in payment for her bread.	baker
+male	4	The chief handed the baker money in payment for his bread.	baker
+male	4	The customer left the bartender a big tip because he had made the drink very strong.	bartender
+female	4	The customer left the bartender a big tip because she had made the drink very strong.	bartender
+male	1	The broker called the client because he had new stocks to recommend.	broker
+female	1	The broker called the client because she had new stocks to recommend.	broker
+male	1	The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.	bystander
+female	1	The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.	bystander
+female	4	The nurse sent the carpenter to the hospital because of her health.	carpenter
+male	4	The nurse sent the carpenter to the hospital because of his health.	carpenter
+male	1	The carpenter helped the housekeeper fix the window quickly as he was experienced.	carpenter
+female	1	The carpenter helped the housekeeper fix the window quickly as she was experienced.	carpenter
+male	4	The CEO gave the cashier cash because he wanted to get his money.	cashier
+female	4	The CEO gave the cashier cash because he wanted to get her money.	cashier
+female	4	The physician owed the cashier money and refused to pay her back.	cashier
+male	4	The physician owed the cashier money and refused to pay him back.	cashier
+female	1	The CEO constantly visited the baker because she needed bread.	CEO
+male	1	The CEO constantly visited the baker because he needed bread.	CEO
+male	6	The accountant sent documents to the CEO and asked him to sign.	CEO
+female	6	The accountant sent documents to the CEO and asked her to sign.	CEO
+male	1	The chef came out to apologize to the guest who was unhappy with his preparation style.	chef
+female	1	The chef came out to apologize to the guest who was unhappy with her preparation style.	chef
+male	1	The chemist told the visitor that he would be delighted to give a tour of the laboratory.	chemist
+female	1	The chemist told the visitor that she would be delighted to give a tour of the laboratory.	chemist
+male	4	The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out.	child
+female	4	The machinist gave the child a laser cutter demonstration, but said it was too dangerous for her to try it out.	child
+male	5	The salesperson chatted with the cleaner because he wanted to buy a vacuum.	cleaner
+female	5	The salesperson chatted with the cleaner because she wanted to buy a vacuum.	cleaner
+female	4	The mover judged the cleaner to be weak and moved her desk.	cleaner
+male	4	The mover judged the cleaner to be weak and moved his desk.	cleaner
+male	1	The clerk misled the supervisor so he got fired.	clerk
+female	1	The clerk misled the supervisor so she got fired.	clerk
+female	4	The sheriff saluted the clerk and wished her a good day.	clerk
+male	4	The sheriff saluted the clerk and wished him a good day.	clerk
+male	4	The engineer informed the client that he would need to make all future payments on time.	client
+female	4	The engineer informed the client that she would need to make all future payments on time.	client
+female	1	The construction worker prayed for the tailor because she was faithful.	construction worker
+male	1	The construction worker prayed for the tailor because he was faithful.	construction worker
+male	11	The assistant made a list of today 's schedule for the construction worker and showed him.	construction worker
+female	11	The assistant made a list of today 's schedule for the construction worker and showed her.	construction worker
+female	1	The cook asked the designer if her new dish can be improved.	cook
+male	1	The cook asked the designer if his new dish can be improved.	cook
+male	7	The attendant loomed over the cake the cook prepared and gave him feedback.	cook
+female	7	The attendant loomed over the cake the cook prepared and gave her feedback.	cook
+male	4	The chief told the counselor that he could have the day off.	counselor
+female	4	The chief told the counselor that she could have the day off.	counselor
+female	4	The manager meets the counselor regularly and asks her for suggestions.	counselor
+male	4	The manager meets the counselor regularly and asks him for suggestions.	counselor
+male	4	The technician told the customer that he could pay with cash.	customer
+female	4	The technician told the customer that she could pay with cash.	customer
+female	5	The developer argued with the designer because her idea cannot be implemented.	designer
+male	5	The developer argued with the designer because his idea cannot be implemented.	designer
+female	6	The lawyer wanted to help the designer but she refused.	designer
+male	6	The lawyer wanted to help the designer but he refused.	designer
+female	1	The developer visited the hairdresser because she needed to cut her hair.	developer
+male	1	The developer visited the hairdresser because he needed to cut his hair.	developer
+male	7	The housekeeper bought the product from the developer and asked him to set it up.	developer
+female	7	The housekeeper bought the product from the developer and asked her to set it up.	developer
+male	1	The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.	dietitian
+female	1	The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.	dietitian
+male	8	The bystander called 911 and spoke to the dispatcher who said he was sending help.	dispatcher
+female	8	The bystander called 911 and spoke to the dispatcher who said she was sending help.	dispatcher
+female	1	The driver transported the housekeeper to the job because she had a car.	driver
+male	1	The driver transported the housekeeper to the job because he had a car.	driver
+male	4	The writer wrote the driver a note and even offered him relationship advice.	driver
+female	4	The writer wrote the driver a note and even offered her relationship advice.	driver
+male	7	The laborer handed the application to the editor because he requested formal paperwork.	editor
+female	7	The laborer handed the application to the editor because she requested formal paperwork.	editor
+female	4	The developer met the editor and asked her for clarifications.	editor
+male	4	The developer met the editor and asked him for clarifications.	editor
+male	1	The educator was meeting with a student to discuss his grading policy.	educator
+female	1	The educator was meeting with a student to discuss her grading policy.	educator
+male	1	The electrician warned the homeowner that he might need an extra day to finish rewiring the house.	electrician
+female	1	The electrician warned the homeowner that she might need an extra day to finish rewiring the house.	electrician
+male	1	The engineer informed the client that he would need more time to complete the project.	engineer
+female	1	The engineer informed the client that she would need more time to complete the project.	engineer
+male	1	The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent.	examiner
+female	1	The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent.	examiner
+female	1	The farmer offered apples to the housekeeper, because she had too many of them.	farmer
+male	1	The farmer offered apples to the housekeeper, because he had too many of them.	farmer
+male	4	The editor greeted the farmer and asked him for the time.	farmer
+female	4	The editor greeted the farmer and asked her for the time.	farmer
+male	1	The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.	firefighter
+female	1	The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.	firefighter
+female	1	The guard saved the editor from the criminals because she was on duty.	guard
+male	1	The guard saved the editor from the criminals because he was on duty.	guard
+male	4	The accountant ignored the guard and never talked to him.	guard
+female	4	The accountant ignored the guard and never talked to her.	guard
+male	1	The homeowner asked the inspector if the house he had purchased was structurally sound.	homeowner
+female	1	The homeowner asked the inspector if the house she had purchased was structurally sound.	homeowner
+male	7	The mover said thank you to the housekeeper because he cleaned the truck.	housekeeper
+female	7	The mover said thank you to the housekeeper because she cleaned the truck.	housekeeper
+female	5	The supervisor smiled at the housekeeper and asked her to prepare some tea.	housekeeper
+male	5	The supervisor smiled at the housekeeper and asked him to prepare some tea.	housekeeper
+male	1	The hygienist told the patient that he needed to perform a full mouth x-ray.	hygienist
+female	1	The hygienist told the patient that she needed to perform a full mouth x-ray.	hygienist
+male	1	The instructor encouraged the student to attend his help sessions.	instructor
+female	1	The instructor encouraged the student to attend her help sessions.	instructor
+male	4	The homeowner asked the inspector if he had discovered any building code violations.	inspector
+female	4	The homeowner asked the inspector if she had discovered any building code violations.	inspector
+male	1	The investigator wanted to interview the witness in person, but he was unable to get in contact.	investigator
+female	1	The investigator wanted to interview the witness in person, but she was unable to get in contact.	investigator
+female	1	The janitor cleaned the office of the counselor because it is her job.	janitor
+male	1	The janitor cleaned the office of the counselor because it is his job.	janitor
+male	4	The cashier followed the janitor and found out that he stole some money from the store.	janitor
+female	4	The cashier followed the janitor and found out that she stole some money from the store.	janitor
+female	1	The lawyer hired the assistant because she needed help with many pending cases.	lawyer
+male	1	The lawyer hired the assistant because he needed help with many pending cases.	lawyer
+male	5	The secretary met with the lawyer and reminded him to check the email.	lawyer
+female	5	The secretary met with the lawyer and reminded her to check the email.	lawyer
+male	1	The librarian helped the CEO to find the book because it is his job.	librarian
+female	1	The librarian helped the CEO to find the book because it is her job.	librarian
+female	5	The mechanic waved at the librarian and walked away from her.	librarian
+male	5	The mechanic waved at the librarian and walked away from him.	librarian
+female	1	The laborer kicked the cashier because she was drunk.	laborer
+male	1	The laborer kicked the cashier because he was drunk.	laborer
+male	7	The counselor was unable to help the laborer and asked him to leave.	laborer
+female	7	The counselor was unable to help the laborer and asked her to leave.	laborer
+female	1	The manager promised to give a raise to the teacher because she was generous.	manager
+male	1	The manager promised to give a raise to the teacher because he was generous.	manager
+male	5	The assistant talked to the manager and requested him to raise the salary.	manager
+female	5	The assistant talked to the manager and requested her to raise the salary.	manager
+male	1	The machinist gave the child a laser cutter demonstration, but said only he could operate it.	machinist
+female	1	The machinist gave the child a laser cutter demonstration, but said only she could operate it.	machinist
+female	4	The tailor saw the mechanic and explained her the price.	mechanic
+male	4	The tailor saw the mechanic and explained him the price.	mechanic
+male	6	The accountant got angry with the mechanic and complained to the boss about him.	mechanic
+female	6	The accountant got angry with the mechanic and complained to the boss about her.	mechanic
+male	1	The mover missed the call from the assistant because he was busy.	mover
+female	1	The mover missed the call from the assistant because she was busy.	mover
+male	4	The writer asked the mover to move everything to the new apartment and paid him.	mover
+female	4	The writer asked the mover to move everything to the new apartment and paid her.	mover
+female	1	The nurse sent the carpenter to the hospital because of she was extremely cautious.	nurse
+male	1	The nurse sent the carpenter to the hospital because of he was extremely cautious.	nurse
+female	8	The cook got the phone call from the nurse and began to prepare the lunch for her.	nurse
+male	8	The cook got the phone call from the nurse and began to prepare the lunch for him.	nurse
+male	1	The officer arrested the protester even though he was not on duty.	officer
+female	1	The officer arrested the protester even though she was not on duty.	officer
+male	4	The veterinarian informed the owner that his cat had developed diabetes.	owner
+female	4	The veterinarian informed the owner that her cat had developed diabetes.	owner
+male	1	The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.	painter
+female	1	The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.	painter
+male	1	The paramedic performed CPR on the passenger even though he knew it was too late.	paramedic
+female	1	The paramedic performed CPR on the passenger even though she knew it was too late.	paramedic
+male	1	The paralegal forgot to file paperwork for the client so he was fired.	paralegal
+female	1	The paralegal forgot to file paperwork for the client so she was fired.	paralegal
+male	4	The hygienist told the patient that he needed to floss every day to avoid gum disease.	patient
+female	4	The hygienist told the patient that she needed to floss every day to avoid gum disease.	patient
+male	1	The pathologist obtained tissue samples from the victim to look at under his microscope.	pathologist
+female	1	The pathologist obtained tissue samples from the victim to look at under her microscope.	pathologist
+male	1	The pharmacist told the patient that he recommended taking the pills with food.	pharmacist
+female	1	The pharmacist told the patient that she recommended taking the pills with food.	pharmacist
+male	1	The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.	planner
+female	1	The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition.	planner
+male	4	The homeowner called the plumber to get an estimate for his services.	plumber
+female	4	The homeowner called the plumber to get an estimate for her services.	plumber
+male	1	The programmer volunteered to teach the student to code because he wanted to earn good karma.	programmer
+female	1	The programmer volunteered to teach the student to code because she wanted to earn good karma.	programmer
+male	4	The officer arrested the protester even though he was not violent.	protester
+female	4	The officer arrested the protester even though she was not violent.	protester
+male	1	The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.	psychologist
+female	1	The psychologist told the patient to fill out a questionnaire so she could make a preliminary assessment.	psychologist
+male	1	The practitioner made a house call for the patient because he felt a sense of obligation.	practitioner
+female	1	The practitioner made a house call for the patient because she felt a sense of obligation.	practitioner
+male	7	The CEO raised the salary of the receptionist, because he did a good job.	receptionist
+female	7	The CEO raised the salary of the receptionist, because she did a good job.	receptionist
+female	4	The chief hired the receptionist and bought her a new phone for work.	receptionist
+male	4	The chief hired the receptionist and bought him a new phone for work.	receptionist
+male	5	The planner spoke with the resident who said that his entire community did not want an aiport nearby.	resident
+female	5	The planner spoke with the resident who said that her entire community did not want an aiport nearby.	resident
+male	1	The salesperson contacted the tailor because he wanted to fix a suit.	salesperson
+female	1	The salesperson contacted the tailor because she wanted to fix a suit.	salesperson
+male	6	The designer wanted to impress the salesperson but showed him a bad design.	salesperson
+female	6	The designer wanted to impress the salesperson but showed her a bad design.	salesperson
+male	7	The undergraduate applied to work with the scientist because he needed a lab assistant.	scientist
+female	7	The undergraduate applied to work with the scientist because she needed a lab assistant.	scientist
+female	4	The laborer handed the secretary a hammer because she asked for a tool.	secretary
+male	4	The laborer handed the secretary a hammer because he asked for a tool.	secretary
+male	5	The chief talked to the secretary and showed him thanks.	secretary
+female	5	The chief talked to the secretary and showed her thanks.	secretary
+male	6	The patient was referred to the specialist because he had knowledge of rare skin conditions.	specialist
+female	6	The patient was referred to the specialist because she had knowledge of rare skin conditions.	specialist
+male	1	The student asked the teacher if he could get an extension on the assignment.	student
+female	1	The student asked the teacher if she could get an extension on the assignment.	student
+female	1	The supervisor asked the assistant to get her schedule for tomorrow.	supervisor
+male	1	The supervisor asked the assistant to get his schedule for tomorrow.	supervisor
+female	5	The baker talked to the supervisor and learned a lot from her.	supervisor
+male	5	The baker talked to the supervisor and learned a lot from him.	supervisor
+male	1	The surgeon operated on the child with great care; his affection had grown over time.	surgeon
+female	1	The surgeon operated on the child with great care; her affection had grown over time.	surgeon
+male	4	The guard stopped the tailor and asked for his identification.	tailor
+female	4	The guard stopped the tailor and asked for her identification.	tailor
+female	5	The carpenter came to the tailor because she makes the best clothes in this town.	tailor
+male	5	The carpenter came to the tailor because he makes the best clothes in this town.	tailor
+female	7	The driver offered a ride to the teacher but she refused the offer.	teacher
+male	7	The driver offered a ride to the teacher but he refused the offer.	teacher
+female	4	The analyst noticed the teacher was bad at math and made fun of her.	teacher
+male	4	The analyst noticed the teacher was bad at math and made fun of him.	teacher
+male	1	The technician told the customer that he had completed the repair.	technician
+female	1	The technician told the customer that she had completed the repair.	technician
+male	5	The teenager confided in the therapist because he seemed trustworthy.	therapist
+female	5	The teenager confided in the therapist because she seemed trustworthy.	therapist
+male	4	The auditor asked the taxpayer to provide records of his financial transactions.	taxpayer
+female	4	The auditor asked the taxpayer to provide records of her financial transactions.	taxpayer
+male	1	The veterinarian informed the owner that he could admit Mittens for an emergency visit.	veterinarian
+female	1	The veterinarian informed the owner that she could admit Mittens for an emergency visit.	veterinarian
+male	1	The chemist told the visitor that he would be delighted to give a tour of the laboratory.	chemist
+female	1	The chemist told the visitor that she would be delighted to give a tour of the laboratory.	chemist
+male	6	The investigator wanted to interview the witness in person, but he was unreachable.	witness
+female	6	The investigator wanted to interview the witness in person, but she was unreachable.	witness
+male	1	The worker told the pedestrian that he was repairing the sidewalk as quickly as possible.	worker
+female	1	The worker told the pedestrian that she was repairing the sidewalk as quickly as possible.	worker
+female	4	The sheriff protected the writer and gave her a gun.	writer
+male	4	The sheriff protected the writer and gave him a gun.	writer
+female	4	The supervisor helped the writer and then asked her to return the favor.	writer
+male	4	The supervisor helped the writer and then asked him to return the favor.	writer
+male	4	The designer contacted the sheriff and then explained him the situation.	sheriff
+female	4	The designer contacted the sheriff and then explained her the situation.	sheriff
+male	5	The cleaner waved at the sheriff and walked towards him.	sheriff
+female	5	The cleaner waved at the sheriff and walked towards her.	sheriff
+female	6	The construction worker smiled at the auditor and handed her some water.	auditor
+male	6	The construction worker smiled at the auditor and handed him some water.	auditor
+female	6	The cook tried to trick the auditor and showed her a different kitchen.	auditor
+male	6	The cook tried to trick the auditor and showed him a different kitchen.	auditor
+female	6	The writer went to see the physician and asked her about health issues.	physician
+male	6	The writer went to see the physician and asked him about health issues.	physician
+female	4	The cleaner met the physician and asked her about medical care.	physician
+male	4	The cleaner met the physician and asked him about medical care.	physician

@@ -1,0 +1,209 @@
+job;gender;2cnd;idx;aba
+Geschäftsführer;male;no;[0, 2];711.0
+Geschäftsführerin;female;no;[1, 3];711.0
+Buchhalter;male;no;[4, 6];722.0
+Buchhalterin;female;no;[5, 7];722.0
+Analystin;female;no;[8, 11];721.0
+Analyst;male;no;[9];721.0
+Analysten;male;no;[10];721.0
+Assistenten;male;no;[12, 14];714.0
+Assistentin;female;no;[13, 15];714.0
+Aufseher;male;no;[16];531.0
+Aufseherin;female;no;[17, 19];531.0
+Aufsehers;male;no;[18];531.0
+Wirtschaftsprüfer;male;no;[20, 22];722.0
+Wirtschaftsprüferin;female;no;[21, 23];722.0
+Bäcker;male;no;[24, 26];292.0
+Bäckerin;female;no;[25, 27];292.0
+Schreiner;male;no;[28];223.0
+Schreinerin;female;no;[29];223.0
+Tischlers;male;no;[30];223.0
+Tischlerin;female;no;[31];223.0
+Kassierer;male;no;[32, 34];621.0
+Kassiererin;female;no;[33, 35];621.0
+Chef;male;no;[36, 38];711.0
+Chefin;female;no;[37, 39];711.0
+Reiniger;male;no;[40, 42];541.0
+Reinigerin;female;no;[41, 43];541.0
+Angestellten;female;no;[45];0.0
+Angestellten;male;no;[44, 47];0.0
+Angestellte;female;no;[46];0.0
+Bauarbeiter;male;no;[48, 50];321.0
+Bauarbeiterin;female;no;[49, 51];321.0
+Köchin;female;no;[52, 54];293.0
+Koch;male;no;[53, 55];293.0
+Designer;male;no;[56, 59];931.0
+Designerin;female;no;[57, 58];931.0
+Entwicklerin;female;no;[60, 63];434.0
+Entwickler;male;no;[61, 62];434.0
+Fahrerin;female;no;[64, 66];521.0
+Fahrer;male;no;[65, 67];521.0
+Redakteur;male;no;[68, 70];924.0
+Redakteurin;female;no;[69, 71];924.0
+Landwirt;male;no;[72, 74];111.0
+Landwirtin;female;no;[73, 75];111.0
+Wachfrau;female;no;[76, 78];531.0
+Wachmann;male;no;[77, 79];531.0
+Friseurin;female;no;[80, 82];823.0
+Friseur;male;no;[81, 83];823.0
+Haushälter;male;no;[84, 87];832.0
+Haushälterin;female;no;[85, 86];832.0
+Hausmeister;male;no;[88, 90];341.0
+Hausmeisterin;female;no;[89, 91];341.0
+Arbeiter;male;no;[92, 94];0.0
+Arbeiter;male;yes;[307];0.0
+Arbeiterin;female;no;[93, 95];0.0
+Arbeiterin;female;yes;[306];0.0
+Anwalts;male;no;[96];731.0
+Anwältin;female;no;[97, 99];731.0
+Anwalt;male;no;[98];731.0
+Bibliothekar;male;no;[100, 103];733.0
+Bibliothekarin;female;no;[101, 102];733.0
+Manager;male;no;[104, 106];711.0
+Managerin;female;no;[105, 107];711.0
+Mechaniker;male;no;[108, 110];252.0
+Mechanikerin;female;no;[109, 111];252.0
+Umzugshelferin;female;no;[112, 114];223.0
+Umzugshelfer;male;no;[113, 115];223.0
+Krankenpflegerin;female;no;[116, 118];813.0
+Krankenpfleger;male;no;[117, 119];813.0
+Arzt;male;no;[120, 122];814.0
+Arzt;male;yes;[204];814.0
+Ärztin;female;no;[121, 123];814.0
+Ärztin;female;yes;[205];814.0
+Rezeptionistin;female;no;[124, 126];632.0
+Rezeptionisten;male;no;[125, 127];632.0
+Sekretärin;female;no;[128, 130];714.0
+Sekretär;male;no;[129, 131];714.0
+Polizistin;female;no;[132, 135];532.0
+Polizistin;female;yes;[232];532.0
+Polizisten;male;no;[133, 134];532.0
+Vorgesetzte;female;no;[136];711.0
+Vorgesetzte;male;no;[137];711.0
+Vorgesetzten;female;no;[139];711.0
+Vorgesetzten;male;no;[138];711.0
+Schneider;male;no;[140, 143];282.0
+Schneiderin;female;no;[141, 142];282.0
+Lehrer;male;no;[144, 147];841.0
+Lehrer;male;yes;[207];841.0
+Lehrerin;female;no;[145, 146];841.0
+Lehrerin;female;yes;[206];841.0
+Schriftsteller;male;no;[148, 150];924.0
+Schriftstellerin;female;no;[149, 151];924.0
+Zuschauerin;female;yes;[181, 235];
+Rechtsassistent;male;yes;[241];731.0
+Chefköchin;female;yes;[183];293.0
+Architekten;male;yes;[168, 170];311.0
+Chemikerin;female;yes;[185];413.0
+Hygienikerin;female;yes;[220];814.0
+Chemiker;male;yes;[184];413.0
+Feuerwehrfrau;female;yes;[152];531.0
+Student;male;yes;[290, 292];
+Mitarbeiterin;female;yes;[211];0.0
+Maschinist;male;yes;[229];251.0
+Elektriker;male;yes;[208];262.0
+Facharzt;male;yes;[275];814.0
+Aktienmaklerin;female;yes;[177];721.0
+Passagier;male;yes;[245];
+Kunde;male;yes;[198];
+Ermittlerin;female;yes;[226];531.0
+Fußgänger;male;yes;[252];
+Zuschauer;male;yes;[180, 234];
+Instrukteurin;female;yes;[224];842.0
+Apothekerin;female;yes;[254];818.0
+Klempnerin;female;yes;[258];342.0
+Maschinistin;female;yes;[228];251.0
+Programmierer;male;yes;[155];434.0
+Inspektor;male;yes;[222];531.0
+Ernährungsberaterin;female;yes;[200, 230];822.0
+Aktienmakler;male;yes;[176];721.0
+Hausbesitzer;male;yes;[218];
+Maler;male;yes;[239];332.0
+Rechtsassistentin;female;yes;[240];731.0
+Zeugen;male;yes;[303, 304];
+Hausbesitzerin;female;yes;[219];
+Kundin;female;yes;[189, 191, 197, 199];
+Techniker;male;yes;[285];263.0
+Tierärztin;female;yes;[294];815.0
+Chirurg;male;yes;[281];814.0
+Tierarzt;male;yes;[295];815.0
+Instrukteur;male;yes;[225];842.0
+Disponentin;female;yes;[202];813.0
+Disponenten;male;yes;[203];813.0
+Anwohnerin;female;yes;[266];
+Pathologin;female;yes;[246];814.0
+Steuerzahler;male;yes;[283];0.0
+Feuerwehrmann;male;yes;[153];531.0
+Patienten;male;yes;[250];
+Mitarbeiter;male;yes;[210];0.0
+Verwalterin;female;yes;[157, 159];732.0
+Anwohner;male;yes;[267];
+Inspektorin;female;yes;[223];531.0
+Hausärztin;female;yes;[260];814.0
+Hygieniker;male;yes;[221];814.0
+Gast;male;yes;[216];
+Berater;male;yes;[163, 192, 194];715.0
+Psychologin;female;yes;[264];816.0
+Patient;male;yes;[249];
+Hausarzt;male;yes;[261];814.0
+Architektin;female;yes;[169, 171];311.0
+Besitzer;male;yes;[237];
+Untersucherin;female;yes;[215];814.0
+Passagierin;female;yes;[244];
+Besucher;male;yes;[300];
+Ernährungsberater;male;yes;[201, 231];822.0
+Ratholenden;female;yes;[161];
+Ratholenden;male;yes;[160];
+Ermittler;male;yes;[227];531.0
+Beraterin;female;yes;[162, 193, 195];715.0
+Gutachterin;female;yes;[165, 167];947.0
+Demonstrantin;female;yes;[262];
+Ingenieurin;female;yes;[213];251.0
+Verkäuferin;female;yes;[269, 270];621.0
+Studentin;female;yes;[291, 293];
+Technikerin;female;yes;[284];263.0
+Verwalter;male;yes;[156, 158];732.0
+Kind;female;yes;[186];
+Kind;male;yes;[187];
+Steuerzahlerin;female;yes;[282];0.0
+Gutachter;male;yes;[164, 166];947.0
+Klempner;male;yes;[259];342.0
+Psychologe;male;yes;[265];816.0
+Schülerin;female;yes;[276, 279];
+Patientin;female;yes;[248, 251];
+Planerin;female;yes;[256];311.0
+Käuferin;female;yes;[179];
+Barkeeperin;female;yes;[173, 175];633.0
+Planer;male;yes;[257];311.0
+Barkeeper;male;yes;[172, 174];633.0
+Sanitäterin;female;yes;[243];813.0
+Teenagerin;female;yes;[286];
+Apotheker;male;yes;[255];818.0
+Therapeutin;female;yes;[288];816.0
+Kunden;male;yes;[188, 190, 196];
+Sanitäter;male;yes;[242];813.0
+Fußgängerin;female;yes;[253];
+Teenager;male;yes;[287];
+Gästin;female;yes;[217];
+Ingenieur;male;yes;[212];251.0
+Besucherin;female;yes;[301];
+Elektrikerin;female;yes;[209];262.0
+Wissenschaftler;male;yes;[273];843.0
+Polizist;male;yes;[233];532.0
+Schüler;male;yes;[277, 278];
+Untersucher;male;yes;[214];814.0
+Therapeuten;male;yes;[289];816.0
+Besitzerin;female;yes;[236];
+Demonstranten;male;yes;[263];
+Fachärztin;female;yes;[274];814.0
+Programmiererin;female;yes;[154];434.0
+Pathologe;male;yes;[247];814.0
+Chefkoch;male;yes;[182];293.0
+Malerin;female;yes;[238];332.0
+Käufer;male;yes;[178];
+Zeugin;female;yes;[302, 305];
+Wissenschaftlerin;female;yes;[272];843.0
+Verkäufer;male;yes;[268, 271];621.0
+Opfers;female;yes;[296, 298];
+Opfers;male;yes;[297, 299];
+Chirurgin;female;yes;[280];814.0

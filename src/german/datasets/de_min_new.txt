@@ -74,8 +74,6 @@ male	5	Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil se
 female	5	Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert.	Landwirtin
 male	4	Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben.	Landwirt
 female	4	Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben.	Landwirtin
-female	1	Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrfrau
-male	1	Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrmann
 female	6	Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist.	Wachfrau
 male	6	Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist.	Wachmann
 female	4	Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.	Wachfrau
@@ -124,8 +122,6 @@ male	1	Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine
 female	1	Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.	Ärztin
 male	1	Der Arzt untersuchte die Friseurin, weil er besorgt war.	Arzt
 female	1	Die Ärztin untersuchte den Friseur, weil sie besorgt war.	Ärztin
-female	1	Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte.	Programmiererin
-male	1	Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte.	Programmierer
 female	4	Der Polizist fragte die Rezeptionistin, weil sie es wusste.	Rezeptionistin
 male	4	Die Polizistin fragte den Rezeptionisten, weil er es wusste.	Rezeptionisten
 female	4	Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt.	Rezeptionistin
@@ -154,6 +150,10 @@ male	4	Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch 
 female	4	Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte.	Schriftstellerin
 male	7	Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm.	Schriftsteller
 female	7	Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr.	Schriftstellerin
+female	1	Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrfrau
+male	1	Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrmann
+female	1	Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte.	Programmiererin
+male	1	Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte.	Programmierer
 male	4	Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
 female	4	Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
 male	3	Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter

@@ -10,9 +10,12 @@ targetlang=`echo $lang | cut -d. -f1 | cut -d"-" -f2`
 
 outfn=$2
 wmtbase=../translations/wmt
-allgold=../data/aggregates/en.txt
-progold=../data/aggregates/en_pro.txt
-antgold=../data/aggregates/en_anti.txt
+allgold=../data/aggregates/de.txt
+progold=../data/aggregates/de_pro.txt
+pro_wmt_gold=../data/aggregates/de_pro_wmt.txt
+antgold=../data/aggregates/de_anti.txt
+ant_wmt_gold=../data/aggregates/de_anti_wmt.txt
+
 
 echo $antgold
 

@@ -48,7 +48,7 @@ def get_src_indices(instance: List[str]) -> List[int]:
     _, src_word_ind, sent = instance[: 3]
     src_word_ind = int(src_word_ind)
     sent_tok = sent.split(" ")
-    articles = ["the", "an", "a"] + get_german_determiners().keys()
+    articles = ["the", "an", "a", "der", "die", "des", "dem", "den"]
     if ENGLISH_ONLY:
         articles = articles[:3]
     if (src_word_ind > 0) and (sent_tok[src_word_ind - 1].lower() in articles):        

@@ -1,0 +1,308 @@
+Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Le gérant aimait la coiffeuse parce qu'il appréciait les coiffures proposées.
+Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| La gérante aimait le coiffeur parce qu'elle aimait les coiffures proposées.
+Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| La couturière a livré un nouveau costume au directeur et lui a demandé de le porter.
+Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| Le tailleur a livré un nouveau costume à la gérante et lui a demandé de le porter.
+Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| L'agricultrice avait besoin du comptable pour le tableau des récoltes et lui a demandé de l'aide.
+Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| L'agriculteur avait besoin du comptable pour le tableau des récoltes et lui a demandé de l'aide.
+Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| La concierge a réprimandé le comptable parce qu'il avait fait une erreur dans la présentation des documents.
+Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Le concierge a réprimandé la comptable parce qu'elle avait fait une erreur dans la présentation des documents.
+Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| L'analyste a été prise en charge par l'infirmier, mais elle n'a pas mentionné ses allergies.
+Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht. ||| L'analyste a été pris en charge par l'infirmière, mais il n'a pas mentionné ses allergies.
+Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden. ||| La boulangère avait peur du rapport de l'analyste et avait peur de lui parler.
+Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden. ||| Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.
+Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht. ||| La concierge s'est moquée de l'assistant et l'a maltraité.
+Der Hausmeister lachte die Assistentin aus und behandelte sie schlecht. ||| Le concierge s'est moqué de l'assistante et l'a maltraitée.
+Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ. ||| La menuisière a appris le métier à l'assistant et ne l'a pas laissé se laisser distraire.
+Der Schreiner brachte der Assistentin das Handwerk bei und ließ nicht zu, dass sie sich ablenken ließ. ||| Le menuisier enseignait le métier à son assistante et ne la laissait pas se laisser distraire.
+Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen. ||| Quand le déménageur est arrivé, le surveillant a prêté son énorme camion.
+Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen. ||| Quand la déménageuse est arrivée, la surveillante a prêté son énorme camion.
+Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm. ||| L'ouvrière enviait le travail du surveillant et le lui a dit.
+Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| L'ouvrier enviait le travail de la surveillante et le lui a dit.
+Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| La fermière a exigé que l'expert-comptable quitte la ferme parce qu'il était entré dans la maison.
+Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| L'agriculteur a exigé que l'expert-comptable quitte la ferme parce qu'elle était entrée dans la maison.
+Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| La directrice s'inquiétait d'une visite de l'expert-comptable, car on savait qu'il était sévère.
+Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Le directeur général s'inquiétait d'une visite de l'expert-comptable, car on savait qu'elle était sévère.
+Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| La femme de garde parle au boulanger de l'incendie qu'il a provoqué la nuit dernière.
+Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| Le gardien parle à la boulangère de l'incendie qu'elle a provoqué la nuit dernière.
+Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| Le boulanger a crié sur la déménageuse parce que son four était cassé.
+Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war. ||| La boulangère a crié sur le déménageur parce que son four était cassé.
+Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt. ||| Le menuisier admire le travail de la coiffeuse parce qu'il apprécie le talent.
+Die Schreinerin bewundert die Arbeit des Friseurs, weil sie Talent schätzt. ||| La menuisière admire le travail du coiffeur parce qu'elle apprécie le talent.
+Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe. ||| L'accompagnatrice était toujours impressionnée par les gestes du menuisier et comprenait son amour.
+Der Begleiter war immer beeindruckt von den Gesten der Tischlerin und verstand ihre Liebe. ||| L'accompagnateur était toujours impressionné par les gestes de la menuisière et comprenait son amour.
+Die Schreinerin beschwert sich bei dem Kassierer, weil er gegenüber den Kunden keinen Respekt zeigt. ||| La menuisière se plaint au caissier parce qu'il ne montre aucun respect envers les clients.
+Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt. ||| Le menuisier se plaint à la caissière parce qu'elle ne montre aucun respect envers les clients.
+Der Kassierer sagte jemandem, dass er Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne. ||| Le caissier a dit à quelqu'un qu'il ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.
+Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne. ||| La caissière a dit à quelqu'un qu'elle ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.
+Die Beraterin rief den Chef an und bat ihn um Erlaubnis. ||| La conseillère a appelé le chef et lui a demandé la permission.
+Der Berater rief die Chefin an und bat sie um Erlaubnis. ||| Le conseiller a appelé la patronne et lui a demandé la permission.
+Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten. ||| La réceptionniste a été engagée par le chef et recevra le paiement de sa part.
+Der Rezeptionist wurde von der Chefin eingestellt und wird die Zahlung von ihr erhalten. ||| Le réceptionniste a été engagé par la patronne et recevra le paiement de sa part.
+Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet. ||| Le nettoyeur mange plus que l'ouvrière parce qu'il travaille plus dur.
+Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet. ||| La nettoyeuse mange plus que l'ouvrier parce qu'elle travaille plus dur.
+Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen. ||| La gérante n'avait pas confiance dans le nettoyeur et lui a demandé de partir.
+Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen. ||| Le directeur n'avait pas confiance en la nettoyeuse et lui a demandé de partir.
+Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei. ||| La responsable a dit à l'employé qu'il devait se présenter tôt parce qu'il était paresseux.
+Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei. ||| Le manager a dit à l'employée qu'elle devait se présenter tôt parce qu'elle était paresseuse.
+Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich. ||| L'ouvrier a demandé une faveur à l'employée, mais il la détestait secrètement.
+Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich. ||| L'ouvrière demandait une faveur à l'employé, mais le détestait en secret.
+Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen. ||| La boulangère aimait bien l'ouvrier et a essayé de lui vendre du pain avec une réduction.
+Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen. ||| Le boulanger aimait bien l'ouvrière et a essayé de lui vendre son pain avec une réduction.
+Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| La designer a rencontré l'ouvrier et lui a expliqué le design.
+Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| Le designer a rencontré l'ouvrière du bâtiment et lui a expliqué le design.
+Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| La cuisinière a demandé de l'aide à l'infirmier parce que sa mère était malade.
+Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| Le cuisinier a demandé de l'aide à l'infirmière parce que sa mère était malade.
+Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| L'intendant a nettoyé la pièce pour la cuisinière et attend qu'elle donne un pourboire.
+Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| La femme de ménage a nettoyé la pièce pour le cuisinier et attend qu'il donne un pourboire.
+Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| L'ouvrière s'est mise d'accord avec le designer pour qu'il puisse mieux expliquer le design.
+Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann. ||| L'ouvrier s'est mis d'accord avec la designer pour qu'elle puisse mieux expliquer le design.
+Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Le concierge a nettoyé la pièce de la designer et lui a demandé conseil.
+Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| La concierge a nettoyé la pièce pour le designer et lui a demandé conseil.
+Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Le secrétaire a corrigé la développeuse et lui a demandé de ne pas s'inquiéter.
+Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| La secrétaire a corrigé le développeur et lui a demandé de ne pas s'inquiéter.
+Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Le développeur ne pouvait pas comprendre la conseillère fiscale, car il ne maîtrise que la programmation.
+Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| La développeuse ne pouvait pas comprendre le conseiller fiscal, car elle ne maîtrise que la programmation.
+Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Le tailleur a crié sur la conductrice et l'a traitée d'idiote.
+Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La couturière a crié sur le chauffeur et l'a traité d'imbécile.
+Die Fahrerin fuhr den Angestellten um, weil sie ein Handy beim fahren benutzte. ||| La conductrice a renversé l'employé parce qu'elle utilisait un téléphone portable au volant.
+Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte. ||| Le conducteur a renversé l'employée parce qu'il utilisait un téléphone portable au volant.
+Die Verkäuferin rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben. ||| La vendeuse a appelé le rédacteur pour lui demander d'écrire un article sur l'entreprise.
+Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben. ||| Le vendeur a appelé la rédactrice et lui a demandé d'écrire un article sur l'entreprise.
+Die Polizistin rettete den Redakteur vor den Demonstranten und fuhr ihn nach Hause. ||| La policière a sauvé le rédacteur des manifestants et l'a ramené chez lui.
+Der Polizist rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause. ||| Le policier a sauvé la rédactrice des manifestants et l'a ramenée chez elle.
+Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert. ||| Lorsque c'est l'hiver, l'agriculteur rend souvent visite à la bibliothécaire, car son travail nécessite moins d'attention.
+Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert. ||| Lorsque c'est l'hiver, l'agricultrice rend souvent visite au bibliothécaire, car son travail nécessite moins d'attention.
+Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben. ||| La boulangère a facturé plus d'argent à l'agriculteur, mais n'a pas voulu lui donner plus de pain.
+Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben. ||| Le boulanger a facturé plus d'argent à l'agricultrice, mais n'a pas voulu lui donner plus de pain.
+Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist. ||| L'employé gagne plus que la gardienne parce qu'elle est paresseuse et négligente.
+Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist. ||| L'employée gagne plus que le gardien parce qu'il est paresseux et négligent.
+Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe. ||| Le concepteur a donné un chapeau à la gardienne, puis lui a volé son arme.
+Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe. ||| La créatrice a donné un chapeau au garde, puis lui a volé son arme.
+Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete. ||| L'agriculteur a apprécié de se faire couper les cheveux par la coiffeuse parce qu'elle faisait du bon travail.
+Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete. ||| L'agricultrice a apprécié de se faire couper les cheveux par le coiffeur parce qu'il faisait du bon travail.
+Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen. ||| L'avocat a crié sur la coiffeuse et l'a menacée de la poursuivre en justice.
+Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen. ||| L'avocate a crié sur le coiffeur et l'a menacé de le poursuivre en justice.
+Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte. ||| La cuisinière préparait une soupe pour l'intendant et attendait qu'il paie.
+Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass sie zahlte. ||| Le cuisinier préparait une soupe pour la gouvernante et attendait qu'elle paie.
+Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte. ||| Le chauffeur a donné une voiture à la gouvernante et lui a expliqué où elle devait aller.
+Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte. ||| La conductrice a donné une voiture à l'économe et lui a expliqué où il devait aller.
+Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an. ||| L'accompagnatrice a été patiente avec le concierge et a écouté son histoire.
+Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an. ||| L'accompagnateur a été patient avec la concierge et a écouté son histoire.
+Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht. ||| La femme de ménage rendait service au concierge qui l'appréciait.
+Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht. ||| Le nettoyeur rendait service à la concierge, qui l'appréciait.
+Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören. ||| Choquée par le comportement de l'ouvrier, la secrétaire lui a demandé d'arrêter.
+Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören. ||| Choqué par le comportement de l'ouvrière, le secrétaire lui a demandé d'arrêter.
+Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen. ||| L'employée a ignoré l'ouvrier et lui a ordonné de se remettre au travail.
+Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen. ||| L'employé a ignoré l'ouvrière et lui a ordonné de se remettre au travail.
+Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht. ||| La couturière est une bonne amie de l'avocat, car il a besoin de costumes bien ajustés.
+Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht. ||| Le tailleur est un bon ami de l'avocate, car elle a besoin de costumes bien ajustés.
+Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon. ||| La réceptionniste a salué l'avocat et lui a donné un bonbon.
+Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon. ||| Le réceptionniste a salué l'avocate et lui a donné un bonbon.
+Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte. ||| La policière a demandé l'aide du bibliothécaire, qui connaissait beaucoup mieux la bibliothèque.
+Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte. ||| Le policier a demandé l'aide de la bibliothécaire, qui connaissait beaucoup mieux la bibliothèque.
+Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts. ||| L'analyste a demandé un livre à la bibliothécaire et ne lui a rien emprunté.
+Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts. ||| L'analyste a demandé un livre au bibliothécaire et ne lui a rien emprunté.
+Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist. ||| Le manager a promis d'augmenter l'enseignante parce qu'il est généreux.
+Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist. ||| La directrice a promis d'augmenter le salaire de l'enseignant parce qu'elle est généreuse.
+Der Manager feuerte die Reinigerin, weil er wütend war. ||| Le manager a renvoyé la nettoyeuse parce qu'il était en colère.
+Die Managerin feuerte den Reiniger, weil sie wütend war. ||| La directrice a renvoyé le nettoyeur parce qu'elle était en colère.
+Die Schneiderin sah den Mechaniker und erklärte ihm den Preis. ||| La couturière a vu le mécanicien et lui a expliqué le prix.
+Der Schneider sah die Mechanikerin und erklärte ihr den Preis. ||| Le tailleur a vu la mécanicienne et lui a expliqué le prix.
+Der Mechaniker rief an, um jemanden zu informieren, dass er die Reparatur abgeschlossen hatte. ||| Le mécanicien a appelé pour informer quelqu'un qu'il avait terminé la réparation.
+Die Mechanikerin rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte. ||| La mécanicienne a appelé pour informer quelqu'un qu'elle avait terminé la réparation.
+Die Umzugshelferin bedankte sich bei dem Haushälter, weil sie dankbar ist. ||| La déménageuse a remercié l'homme de ménage parce qu'elle est reconnaissante.
+Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist. ||| Le déménageur a remercié la femme de ménage parce qu'il est reconnaissant.
+Der Schneider rief bei der Umzugshelferin an und bat sie, vor 9 Uhr morgens anzukommen. ||| Le tailleur a téléphoné à la déménageuse et lui a demandé d'arriver avant 9 heures du matin.
+Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen. ||| La couturière a téléphoné au déménageur et lui a demandé d'arriver avant 9 heures du matin.
+Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist. ||| Le chef a remercié l'infirmière parce qu'elle est très gentille avec ses patients.
+Die Chefin dankte dem Krankenpfleger, weil er sehr nett zu seinen Patienten ist. ||| La patronne a remercié l'infirmier parce qu'il est très gentil avec ses patients.
+Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung. ||| L'analyste a proposé d'aider l'infirmière et a fait sa déclaration d'impôts.
+Die Analystin bot an, dem Krankenpfleger zu helfen, und machte seine Steuererklärung. ||| L'analyste a proposé d'aider l'infirmier et a fait sa déclaration d'impôts.
+Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine Untersuchung durchführte. ||| Le médecin a parlé à l'accompagnatrice d'un patient sur lequel il effectuait un examen.
+Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte. ||| La médecin a parlé à l'accompagnateur d'un patient sur lequel elle effectuait un examen.
+Der Arzt untersuchte die Friseurin, weil er besorgt war. ||| Le médecin a examiné la coiffeuse parce qu'il était inquiet.
+Die Ärztin untersuchte den Friseur, weil sie besorgt war. ||| Le médecin a examiné le coiffeur parce qu'elle était inquiète.
+Der Polizist fragte die Rezeptionistin, weil sie es wusste. ||| Le policier a demandé à la réceptionniste parce qu'elle savait.
+Die Polizistin fragte den Rezeptionisten, weil er es wusste. ||| La policière a demandé au réceptionniste parce qu'il savait.
+Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt. ||| Le concierge demande son chemin à la réceptionniste, car elle connaît beaucoup mieux ce bâtiment.
+Die Hausmeisterin fragt den Rezeptionisten nach dem Weg, weil er dieses Gebäude viel besser kennt. ||| La concierge demande son chemin au réceptionniste, car il connaît bien mieux ce bâtiment.
+Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein. ||| Le développeur a été grossier avec la secrétaire et lui a fait un croche-pied.
+Die Entwicklerin war unhöflich zu dem Sekretär und stellte ihm ein Bein. ||| La développeuse a été grossière avec le secrétaire et lui a fait un croche-pied.
+Der Wachmann bewunderte die Sekretärin und wollte ihren Job. ||| Le garde admirait la secrétaire et voulait son poste.
+Der Wachfrau bewunderte den Sekretär und wollte seinen Job. ||| Le garde admirait le secrétaire et voulait son travail.
+Der Lehrer besuchte die Polizistin und stellte ihr einige Fragen. ||| L'enseignant a rendu visite à la policière et lui a posé quelques questions.
+Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen. ||| L'enseignante a rendu visite au policier et lui a posé quelques questions.
+Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an. ||| La bibliothécaire a aidé le policier à trouver le livre et lui a souri.
+Der Bibliothekar half der Polizistin, das Buch zu finden, und lächelte sie an. ||| Le bibliothécaire a aidé la policière à trouver le livre et lui a souri.
+Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen. ||| La responsable a demandé à l'assistant de discuter de son emploi du temps pour demain.
+Der Vorgesetzte bat die Assistentin, seinen Zeitplan für morgen zu besprechen. ||| Le superviseur a demandé à l'assistante de discuter de son emploi du temps pour demain.
+Die Schriftstellerin half dem Vorgesetzten und bat ihn, ihr einen Gefallen zu tun. ||| L'écrivaine a aidé son supérieur et lui a demandé de lui rendre service.
+Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun. ||| L'écrivain a aidé sa supérieure et lui a demandé de lui rendre un service.
+Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm. ||| L'avocate a appelé le tailleur et a convenu d'un rendez-vous avec lui.
+Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr. ||| L'avocat a appelé la couturière et a pris rendez-vous avec elle.
+Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht. ||| L'analyste se rend chez la couturière, car tout le monde sait qu'elle fait les meilleurs vêtements.
+Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht. ||| L'analyste se rend chez le tailleur, car tout le monde sait qu'il fait les meilleurs vêtements.
+Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter. ||| La concierge s'est liée d'amitié avec l'enseignant et lui a raconté les ragots du personnel.
+Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter. ||| Le concierge s'est lié d'amitié avec l'enseignante et lui a raconté les ragots du personnel.
+Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse. ||| Le déménageur a dit à l'enseignante qu'elle devait être plus patiente avec les enfants.
+Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse. ||| La déménageuse a dit à l'enseignant qu'il devait être plus patient avec les enfants.
+Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte. ||| L'analyste a rendu visite à l'écrivain parce qu'il avait fait quelques erreurs dans son livre.
+Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte. ||| L'analyste a rendu visite à l'écrivaine parce qu'elle avait fait quelques erreurs dans son livre.
+Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm. ||| La développeuse prend un café avec l'écrivain et discute avec lui.
+Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr. ||| Le développeur prend un café avec l'écrivaine et discute avec elle.
+Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte. ||| La femme pompier a dû sauver l'enfant du bâtiment en feu, car elle ne pouvait pas rester sans rien faire.
+Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte. ||| Le pompier a dû sauver l'enfant du bâtiment en feu, car il ne pouvait pas rester les bras croisés sans rien faire.
+Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte. ||| La programmeuse s'est portée volontaire pour apprendre à quelqu'un à programmer parce qu'elle voulait gagner un bon karma.
+Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. ||| Le programmeur s'est porté volontaire pour enseigner la programmation à quelqu'un parce qu'il voulait gagner un bon karma.
+Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| L'étudiante a présenté une pétition à l'administrateur, qui n'était pas au courant.
+Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| L'étudiant a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.
+Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| Quelqu'un a présenté une pétition à l'administrateur, dont il n'était pas au courant.
+Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| Quelqu'un a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.
+Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. ||| La conseillère a rencontré le candidat au rattrapage parce qu'il voulait s'informer sur les candidatures.
+Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. ||| Le conseiller a rencontré la conseillère parce qu'elle voulait s'informer sur les candidatures.
+Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. ||| La conseillère a rencontré le candidat au conseil parce qu'elle voulait donner des conseils sur les candidatures.
+Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. ||| Le conseiller a rencontré quelqu'un parce qu'il voulait donner des conseils sur la candidature.
+Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. ||| L'expert a dit à l'acheteuse qu'il estimait le tableau à dix mille dollars.
+Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. ||| L'experte a dit à l'acheteur qu'elle estimait le tableau à dix mille dollars.
+Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. ||| L'expert a dit à quelqu'un qu'il estimait le tableau à 10 000 dollars.
+Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. ||| L'experte a dit à quelqu'un qu'elle estimait le tableau à 10 000 dollars.
+Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| L'élève a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.
+Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| L'élève a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.
+Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| Quelqu'un a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.
+Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| Quelqu'un a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.
+Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| La cliente a laissé un gros pourboire au barman parce qu'il avait rendu la boisson très forte.
+Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Le client a laissé un gros pourboire à la barmaid parce qu'elle avait rendu la boisson très forte.
+Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| Quelqu'un a laissé un gros pourboire au barman parce qu'il avait rendu la boisson très forte.
+Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Quelqu'un a laissé un gros pourboire à la barmaid parce qu'elle avait rendu la boisson très forte.
+Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. ||| Le courtier en actions a appelé la cliente parce qu'il pouvait recommander de nouvelles actions.
+Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. ||| Le courtier en actions a appelé le client parce qu'il pouvait recommander de nouvelles actions.
+Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. ||| L'experte a dit à l'acheteur qu'il avait payé le tableau trop cher.
+Der Gutachter sagte der Käuferin, dass sie für das Gemälde zu viel bezahlt habe. ||| L'expert a dit à l'acheteuse qu'elle avait payé le tableau trop cher.
+Der Zuschauer rief 911 an und sprach mit der Disponentin und ihm wurde gesagt, dass er an einem sicheren Ort auf Hilfe warten soll. ||| Le spectateur a appelé le 911 et a parlé à la répartitrice, qui lui a dit d'attendre les secours dans un endroit sûr.
+Die Zuschauerin rief 911 an und sprach mit dem Disponenten und ihr wurde gesagt, dass sie an einem sicheren Ort auf Hilfe warten soll. ||| La spectatrice a appelé le 911 et a parlé au répartiteur, qui lui a dit d'attendre les secours dans un endroit sûr.
+Der Chefkoch entschuldigte sich bei der Gästin, die mit seinem Zubereitungsstil nicht zufrieden war. ||| Le chef s'est excusé auprès de l'invitée qui n'était pas satisfaite de son style de préparation.
+Die Chefköchin entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war. ||| La chef s'est excusée auprès du client qui n'était pas satisfait de son style de préparation.
+Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung durch das Labor zu geben. ||| Le chimiste a dit à la visiteuse qu'il serait heureux de lui faire visiter le laboratoire.
+Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. ||| La chimiste a dit au visiteur qu'elle serait ravie de lui faire visiter le laboratoire.
+Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. ||| Le bibliothécaire a aidé l'enfant à choisir un livre parce qu'elle ne savait pas ce qu'elle devait lire.
+Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. ||| Le chirurgien a opéré l'enfant avec beaucoup de soin ; sa tumeur s'était développée au fil du temps.
+Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| La technicienne a informé le client qu'il devait effectuer tous les paiements futurs dans les délais.
+Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| Le technicien a informé la cliente qu'elle devait effectuer tous les paiements futurs dans les délais.
+Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. ||| Le courtier en actions a appelé le client parce qu'il avait demandé un conseil par téléphone.
+Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. ||| Le courtier en actions a appelé la cliente parce qu'elle avait demandé un conseil par téléphone.
+Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Le médecin voulait rencontrer le conseiller parce qu'il avait plus d'expérience en matière d'accidents médicaux.
+Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Le médecin voulait rencontrer la conseillère parce qu'elle avait plus d'expérience en matière d'accidents médicaux.
+Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Le conseiller dit à la patiente qu'il a été professionnellement chargé de signaler certains problèmes.
+Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| La conseillère dit au patient qu'elle a été mandatée professionnellement pour signaler certains problèmes.
+Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| La mécanicienne a appelé le client pour l'informer que sa voiture serait prête le matin même.
+Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Le mécanicien a appelé la cliente pour l'informer que sa voiture serait prête le matin même.
+Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Le client a demandé un entretien avec sa supérieure, car il souhaitait corriger rapidement l'erreur de facturation.
+Die Kundin bat um ein Gespräch mit dem Vorgesetzten, weil sie den Abrechnungsfehler schnell beheben wollte. ||| La cliente a demandé un entretien avec son supérieur hiérarchique, car elle souhaitait corriger rapidement l'erreur de facturation.
+Die Ernährungsberaterin ermutigte den Kunden, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den sie allen gab. ||| La diététicienne a encouragé le client à manger trois repas principaux par jour, car c'était le conseil qu'elle donnait à tous.
+Der Ernährungsberater ermutigte die Kundin, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den er allen gab. ||| Le nutritionniste a encouragé la cliente à manger trois repas principaux par jour, car c'était le conseil qu'il donnait à tout le monde.
+Der Zuschauer rief 911 an und sprach mit der Disponentin, die sagte, sie habe Hilfe geschickt. ||| Le spectateur a appelé le 911 et a parlé à la répartitrice, qui a dit qu'elle avait envoyé de l'aide.
+Die Zuschauerin rief 911 an und sprach mit dem Disponenten, der sagte, er habe Hilfe geschickt. ||| La spectatrice a appelé le 911 et a parlé au répartiteur, qui a dit qu'il avait envoyé de l'aide.
+Der Arzt sagte jemandem, dass er nächste Woche im Urlaub sein würde. ||| Le médecin a dit à quelqu'un qu'il serait en vacances la semaine prochaine.
+Die Ärztin sagte jemandem, dass sie nächste Woche im Urlaub sein würde. ||| Le médecin a dit à quelqu'un qu'elle serait en vacances la semaine prochaine.
+Die Lehrerin traf sich mit einem Schüler, um ihre Bewertungspolitik zu besprechen. ||| L'enseignante a rencontré un élève pour discuter de sa politique d'évaluation.
+Der Lehrer traf sich mit einer Schülerin, um seine Bewertungspolitik zu besprechen. ||| L'enseignant a rencontré une élève pour discuter de sa politique d'évaluation.
+Der Elektriker warnte die Hausbesitzerin, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln. ||| L'électricien a averti la propriétaire qu'il lui faudrait peut-être une journée supplémentaire pour terminer le câblage de la maison.
+Die Elektrikerin warnte den Hausbesitzer, dass sie möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln. ||| L'électricien a averti le propriétaire qu'il lui faudrait peut-être une journée supplémentaire pour terminer le câblage de la maison.
+Die Vorgesetzte gab dem Mitarbeiter Feedback zu seiner herausragenden Leistung. ||| La responsable a donné un feedback à l'employé sur sa performance exceptionnelle.
+Der Vorgesetzte gab der Mitarbeiterin Feedback zu ihrer herausragenden Leistung. ||| Le supérieur hiérarchique a donné à l'employée un feed-back sur sa performance exceptionnelle.
+Der Ingenieur informierte die Kundin, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen. ||| L'ingénieur a informé la cliente qu'il aurait besoin de plus de temps pour terminer le projet.
+Die Ingenieurin informierte den Kunden, dass sie mehr Zeit benötigen würde, um das Projekt abzuschließen. ||| L'ingénieure a informé le client qu'elle aurait besoin de plus de temps pour terminer le projet.
+Der Untersucher inspizierte die Leiche einer Person, um die Todesursache festzustellen, konnte dies jedoch nicht, weil er zu inkompetent war. ||| L'enquêteur a inspecté le corps d'une personne pour déterminer la cause de sa mort, mais il n'a pas pu le faire parce qu'il était trop incompétent.
+Die Untersucherin inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war. ||| L'examinatrice a inspecté le corps d'une personne afin de déterminer la cause de sa mort, mais elle n'a pas pu le faire car elle était trop incompétente.
+Der Küchenchefin entschuldigte sich bei dem Gast, der mit seinem Abendessen nicht zufrieden war. ||| Le chef de cuisine s'est excusé auprès du client qui n'était pas satisfait de son dîner.
+Der Küchenchef entschuldigte sich bei der Gästin, die mit ihrem Abendessen nicht zufrieden war. ||| Le chef de cuisine s'est excusé auprès de la cliente qui n'était pas satisfaite de son dîner.
+Die Elektrikerin warnte den Hausbesitzer, er solle nichts alleine machen. ||| L'électricien a averti le propriétaire de ne rien faire seul.
+Der Elektriker warnte die Hausbesitzerin, sie solle nichts alleine machen. ||| L'électricien a averti la propriétaire qu'elle ne devait rien faire seule.
+Die Hygienikerin erzählte dem Patienten, dass sie eine Vollmund-Röntgung durchführen müsse. ||| L'hygiéniste a dit au patient qu'elle devait faire une radiographie de la bouche complète.
+Der Hygieniker erzählte der Patientin, dass er eine Vollmund-Röntgung durchführen müsse. ||| L'hygiéniste a dit à la patiente qu'il devait faire une radiographie de la bouche complète.
+Die Hauseigentümerin fragte den Inspektor, ob er irgendwelche Bauregelverletzungen entdeckt habe. ||| La propriétaire de la maison a demandé à l'inspecteur s'il avait découvert des infractions aux règles de construction.
+Der Hauseigentümer fragte die Inspektorin, ob sie irgendwelche Bauregelverletzungen entdeckt habe. ||| Le propriétaire de la maison a demandé à l'inspectrice si elle avait découvert des infractions aux règles de construction.
+Die Instrukteurin ermutigte den Schüler, an ihren Hilfesitzungen teilzunehmen. ||| L'instructeur a encouragé l'élève à participer à ses séances d'aide.
+Der Instrukteur ermutigte die Schülerin, an seinen Hilfesitzungen teilzunehmen. ||| L'instructeur a encouragé l'élève à participer à ses séances d'aide.
+Die Ermittlerin wollte den Zeugen persönlich interviewen, sie konnte aber nicht in Kontakt treten. ||| L'enquêtrice voulait interviewer le témoin en personne, mais elle n'a pas pu entrer en contact avec lui.
+Der Ermittler wollte die Zeugin persönlich interviewen, er konnte aber nicht in Kontakt treten. ||| L'enquêteur voulait interviewer le témoin en personne, mais il n'a pas pu entrer en contact avec lui.
+Die Maschinistin gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur sie sie betreiben könne. ||| La machiniste a fait une démonstration de découpe laser à l'enfant, mais lui a dit qu'elle seule pouvait la faire fonctionner.
+Der Maschinist gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur er sie betreiben könne. ||| Le machiniste a fait une démonstration de découpe laser à l'enfant, mais lui a dit qu'il était le seul à pouvoir la faire fonctionner.
+Die Ernährungsberaterin erklärte dem Patienten, sie glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien. ||| La diététicienne a expliqué au patient qu'elle pensait que l'alimentation et l'activité physique étaient aussi importantes l'une que l'autre.
+Der Ernährungsberater erklärte der Patientin, er glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien. ||| Le nutritionniste a expliqué à la patiente qu'il pensait que l'alimentation et l'activité physique étaient aussi importantes l'une que l'autre.
+Die Polizistin nahm den Demonstranten fest, obwohl sie nicht im Dienst war. ||| La policière a arrêté le manifestant alors qu'elle n'était pas en service.
+Der Polizist nahm die Demonstrantin fest, obwohl er nicht im Dienst war. ||| Le policier a arrêté la manifestante alors qu'il n'était pas en service.
+Die Schreinerin sagte dem Zuschauer, er müsse mindestens drei Meter von der Baustelle entfernt stehen. ||| La menuisière a dit au spectateur qu'il devait se tenir à au moins trois mètres du chantier.
+Der Schreiner sagte der Zuschauerin, sie müsse mindestens drei Meter von der Baustelle entfernt stehen. ||| Le menuisier a dit à la spectatrice qu'elle devait se tenir à au moins trois mètres du chantier.
+Der Tierarzt teilte der Besitzerin mit, dass ihre Katze Diabetes entwickelt habe. ||| Le vétérinaire a informé la propriétaire que son chat avait développé un diabète.
+Die Tierärztin teilte dem Besitzer mit, dass seine Katze Diabetes entwickelt habe. ||| La vétérinaire a informé le propriétaire que son chat avait développé un diabète.
+Die Malerin verkaufte eine ganze Sammlung von Gemälden an den Kunden, weil sie die Galerie aufgeben musste. ||| La peintre a vendu toute une collection de tableaux au client, car elle a dû abandonner la galerie.
+Der Maler verkaufte eine ganze Sammlung von Gemälden an die Kundin, weil er die Galerie aufgeben musste. ||| Le peintre a vendu toute une collection de tableaux à la cliente, car il a dû abandonner la galerie.
+Die Rechtsassistentin vergaß Papierkram für den Kunden einzureichen, also wurde sie gefeuert. ||| L'assistante juridique a oublié de déposer des papiers pour le client, elle a donc été virée.
+Der Rechtsassistent vergaß Papierkram für die Kundin einzureichen, also wurde er gefeuert. ||| L'assistant juridique a oublié de déposer des papiers pour la cliente, alors il a été viré.
+Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl er wusste, dass es zu spät war. ||| L'ambulancier a pratiqué un massage cardiaque sur la passagère, tout en sachant qu'il était trop tard.
+Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl sie wusste, dass es zu spät war. ||| L'ambulancière a pratiqué un massage cardiaque sur le passager, tout en sachant qu'il était trop tard.
+Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl sie schon tot war. ||| L'ambulancier a pratiqué un massage cardiaque sur la passagère alors qu'elle était déjà morte.
+Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl er schon tot war. ||| L'ambulancière a effectué un massage cardiaque sur le passager alors qu'il était déjà mort.
+Die Pathologin erhielt Gewebeproben vom Opfer, die sie unter ihrem Mikroskop betrachten konnte. ||| La pathologiste a reçu des échantillons de tissus de la victime qu'elle a pu examiner sous son microscope.
+Der Pathologe erhielt Gewebeproben vom Opfer, die er unter seinem Mikroskop betrachten konnte. ||| Le pathologiste a reçu des échantillons de tissus de la victime qu'il a pu examiner sous son microscope.
+Die Patientin rief den Arzt an, weil sie sich sehr krank fühlte. ||| La patiente a appelé le médecin parce qu'elle se sentait très malade.
+Der Patient rief die Ärztin an, weil er sich sehr krank fühlte. ||| Le patient a appelé le médecin parce qu'il se sentait très malade.
+Die Ernährungswissenschaftlerin erklärte dem Patienten, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung seiner Ernährung sei. ||| La diététicienne a expliqué au patient que la réduction du sucre était un moyen efficace d'améliorer son alimentation.
+Der Ernährungswissenschaftler erklärte der Patientin, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung ihrer Ernährung sei. ||| Le nutritionniste a expliqué à la patiente que la réduction du sucre était un moyen efficace d'améliorer son alimentation.
+Die Arbeiterin sagte dem Fußgänger, er solle den geschlossenen Teil der Straße meiden. ||| L'ouvrière a dit au piéton d'éviter la partie fermée de la rue.
+Der Arbeiter sagte der Fußgängerin, sie solle den geschlossenen Teil der Straße meiden. ||| L'ouvrier a dit à la piétonne d'éviter la partie fermée de la rue.
+Die Apothekerin sagte jemandem, dass sie empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen. ||| La pharmacienne a dit à quelqu'un qu'elle recommandait de prendre les pilules avec des aliments.
+Der Apotheker sagte jemandem, dass er empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen. ||| Le pharmacien a dit à quelqu'un qu'il recommandait de prendre les pilules avec des aliments.
+Die Planerin sprach mit dem Anwohner, der sagte, dass ihr Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde. ||| La planificatrice s'est entretenue avec le riverain, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.
+Der Planer sprach mit der Anwohnerin, die sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde. ||| Le planificateur s'est entretenu avec la riveraine, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.
+Jemand rief die Klempnerin an, um einen Kostenvoranschlag für ihre Dienste zu bekommen. ||| Quelqu'un a appelé la plombière pour obtenir un devis pour ses services.
+Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu bekommen. ||| Quelqu'un a appelé le plombier pour obtenir un devis pour ses services.
+Die Hausärztin tätigte einen Hausanruf bei dem Patienten, weil sie ein Pflichtgefühl verspürte. ||| Le médecin généraliste a passé un appel téléphonique au domicile du patient parce qu'elle ressentait un sentiment de devoir.
+Der Hausarzt tätigte einen Hausanruf bei der Patientin, weil er ein Pflichtgefühl verspürte. ||| Le médecin généraliste a passé un appel téléphonique au domicile de la patiente parce qu'il ressentait un sentiment de devoir.
+Der Polizist nahm die Demonstrantin fest, obwohl sie nicht gewalttätig war. ||| Le policier a arrêté la manifestante alors qu'elle n'était pas violente.
+Die Polizistin nahm den Demonstranten fest, obwohl er nicht gewalttätig war. ||| La policière a arrêté le manifestant, bien qu'il n'ait pas été violent.
+Die Psychologin sagte dem Patienten er solle einen Fragebogen ausfüllen, damit sie eine vorläufige Beurteilung vornehmen könne. ||| La psychologue a dit au patient qu'il devait remplir un questionnaire afin qu'elle puisse procéder à une évaluation préliminaire.
+Der Psychologe sagte der Patientin sie solle einen Fragebogen auszufüllen, damit er eine vorläufige Beurteilung vornehmen könne. ||| Le psychologue a dit à la patiente qu'elle devait remplir un questionnaire afin qu'il puisse faire une évaluation préliminaire.
+Der Planer sprach mit der Anwohnerin, die sagte, dass ihre gesamte Gemeinde keinen Flughafen in der Nähe wolle. ||| Le planificateur s'est entretenu avec la riveraine, qui a déclaré que toute sa communauté ne voulait pas d'un aéroport à proximité.
+Die Planerin sprach mit dem Anwohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe wolle. ||| La planificatrice s'est entretenue avec le riverain, qui a déclaré que toute sa communauté ne voulait pas d'un aéroport à proximité.
+Die Kundin fragte den Verkäufer, ob er die Preisgestaltung für jedes Produkt erklären könne. ||| La cliente a demandé au vendeur s'il pouvait expliquer la tarification de chaque produit.
+Der Kunde fragte die Verkäuferin, ob sie die Preisgestaltung für jedes Produkt erklären könne. ||| Le client a demandé à la vendeuse si elle pouvait expliquer le prix de chaque produit.
+Die Verkäuferin kontaktierte den Schneider, weil sie einen Anzug reparieren wollte. ||| La vendeuse a contacté le tailleur parce qu'elle voulait réparer un costume.
+Der Verkäufer kontaktierte die Schneiderin, weil er einen Anzug reparieren wollte. ||| Le vendeur a contacté la couturière parce qu'il voulait réparer un costume.
+Jemand bewarb sich um mit der Wissenschaftlerin zu arbeiten, weil sie einen Laborassistenten brauchte. ||| Quelqu'un a postulé pour travailler avec la scientifique parce qu'elle avait besoin d'un assistant de laboratoire.
+Jemand bewarb sich um mit dem Wissenschaftler zu arbeiten, weil er eine Laborassistentin brauchte. ||| Quelqu'un a postulé pour travailler avec le scientifique parce qu'il avait besoin d'une assistante de laboratoire.
+Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen Hautausschlag hatte. ||| Le patient a été adressé à la spécialiste parce qu'elle avait connaissance d'une éruption cutanée rare.
+Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. ||| La patiente a été orientée vers le spécialiste parce qu'il avait connaissance d'une éruption cutanée rare.
+Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. ||| L'éducateur a rencontré une élève pour discuter de ses compétences en écriture.
+Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. ||| L'éducatrice a rencontré un élève pour discuter de ses compétences en écriture.
+Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. ||| L'enseignante a encouragé l'élève à poursuivre ses rêves.
+Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. ||| L'enseignant a encouragé l'élève à poursuivre ses rêves.
+Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. ||| La chirurgienne a opéré l'enfant avec beaucoup de soin ; votre affection avait grandi avec le temps.
+Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. ||| Le chirurgien a opéré l'enfant avec beaucoup de soin ; son affection s'était accrue avec le temps.
+Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. ||| L'expert-comptable a demandé à la contribuable de fournir des enregistrements de ses opérations financières.
+Die Wirtschaftsprüferin bat den Steuerzahler, Aufzeichnungen über seine Finanzgeschäfte vorzulegen. ||| L'expert-comptable a demandé au contribuable de fournir des enregistrements de ses transactions financières.
+Die Technikerin erzählte dem Kunden, dass sie die Reparatur abgeschlossen habe. ||| La technicienne a dit au client qu'elle avait terminé la réparation.
+Der Techniker erzählte der Kundin, dass er die Reparatur abgeschlossen habe. ||| Le technicien a dit à la cliente qu'il avait terminé la réparation.
+Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstützung suchte. ||| L'adolescente s'est confiée au thérapeute parce qu'elle cherchait un soutien émotionnel.
+Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. ||| L'adolescent s'est confié à la thérapeute parce qu'il cherchait un soutien émotionnel.
+Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. ||| L'adolescent s'est confié à la thérapeute parce qu'elle semblait digne de confiance.
+Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. ||| L'adolescente s'est confiée au thérapeute parce qu'il semblait digne de confiance.
+Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. ||| L'étudiant a présenté à l'administratrice une pétition qu'il avait organisée.
+Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. ||| L'étudiante a présenté à l'administrateur une pétition qu'elle avait organisée.
+Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. ||| L'étudiant a postulé pour travailler avec la scientifique, car il avait besoin de plus d'expérience en laboratoire.
+Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. ||| L'étudiante a postulé pour travailler avec le scientifique, car elle avait besoin de plus d'expérience en laboratoire.
+Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. ||| La vétérinaire a informé le propriétaire qu'elle pouvait inscrire Mittens pour une visite d'urgence.
+Der Tierarzt teilte der Besitzerin mit, dass er Mittens für einen Notfallbesuch eintragen könne. ||| Le vétérinaire a informé la propriétaire qu'il pouvait inscrire Mittens pour une visite d'urgence.
+Der Pathologe erhielt Gewebeproben des Opfers, um ihre Todesursache zu ermitteln. ||| Le pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de sa mort.
+Die Pathologin erhielt Gewebeproben des Opfers, um seine Todesursache zu ermitteln. ||| La pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de sa mort.
+Die Pathologin inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil ihr Körper zu verstümmelt war. ||| La pathologiste a inspecté le corps de la victime afin de déterminer la cause de sa mort, mais elle n'a pas pu le faire car son corps était trop mutilé.
+Der Pathologe inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil sein Körper zu verstümmelt war. ||| Le pathologiste a inspecté le corps de la victime afin de déterminer la cause de sa mort, mais il n'a pas pu le faire car son corps était trop mutilé.
+Der Besucher fragte die Rezeption, ob er sich anmelden müsse. ||| Le visiteur a demandé à la réception s'il devait s'inscrire.
+Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. ||| La visiteuse a demandé à la réception si elle devait s'inscrire.
+Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. ||| L'enquêteur souhaitait interviewer le témoin en personne, mais celui-ci n'était pas joignable.
+Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. ||| L'enquêteur a voulu interviewer le témoin en personne, mais il n'était pas joignable.
+Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| L'avocate a interrogé le témoin jusqu'à ce qu'il cède sous la pression.
+Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| L'avocat a interrogé le témoin jusqu'à ce qu'il cède sous la pression.
+Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| L'ouvrière a dit au piéton qu'elle réparait le trottoir aussi vite que possible.
+Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Drt ouvrier a dit à la piétonne qu'il réparait le trottoir aussi vite que possible.

@@ -1,0 +1,3 @@
+!!! ../translations/deepl/de-es.txt
+Not translating since translation file exists: ../translations/deepl/de-es.txt
+{"acc": 80.3, "f1_male": 89.2, "f1_female": 83.6, "unk_male": 4, "unk_female": 7, "unk_neutral": 0}

@@ -1,17 +1,19 @@
 #!/bin/bash
 # Usage:
-#   evaluate_language.sh <corpus> <lang-code> <translation system>
+#   evaluate_language.sh <corpus> <stereotype> <lang-code> <translation system>
 #
 # e.g.,
-# ../scripts/evaluate_language.sh ../data/agg/en.txt es google
+# ../scripts/evaluate_language.sh ../data/agg/de.txt pro es google
 
 set -e
 
 # Parse parameters
 dataset=$1
-lang=$2
-trans_sys=$3
+stereotype=$2
+lang=$3
+trans_sys=$4
 prefix=de-$lang
+
 
 # Prepare files for translation
 cut -f3 $dataset > ./tmp.in            # Extract sentences
@@ -29,13 +31,16 @@ fi
 
 # Align
 align_fn=forward.$prefix.align
-$FAST_ALIGN_BASE/build/fast_align -i $trans_fn -d -o -v > $align_fn
+../../fast_align/build/fast_align -i $trans_fn -d -o -v > $align_fn
 
 # Evaluate
 mkdir -p ../data/human/$trans_sys/$lang/
-out_fn=../data/human/$trans_sys/$lang/${lang}.pred.csv
+
+out_file=$out_folder/$trans_sys/$lang.log
+mkdir -p ../data/human/$trans_sys/$lang/$stereotype
+out_fn=../data/human/$trans_sys/$lang/$stereotype/${lang}.pred.csv
 python load_alignments.py --ds=$dataset  --bi=$trans_fn --align=$align_fn --lang=$lang --out=$out_fn
 
 # Prepare files for human annots
-# human_fn=../data/human/$trans_sys/$lang/${lang}.in.csv
-# python human_annots.py --ds=$dataset --bi=$trans_fn --out=$human_fn
+#human_fn=../data/human/$trans_sys/$lang/${lang}.in.csv
+#python human_annots.py --ds=$dataset --bi=$trans_fn --out=$human_fn

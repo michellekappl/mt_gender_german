@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-he.txt
+Not translating since translation file exists: ../translations/systran/de-he.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 50.0 (38), female: 28.95 (22)
+
+Unknown words ['assistentin', 'friseurin', 'schneiderin']
+Unkown: 16% (21.05) male: 6, female: 10
+
+Accuracy: 50.0 male: 63.16, female: 36.84 
+
+F1: male: 63.2, female: 46.6 
+

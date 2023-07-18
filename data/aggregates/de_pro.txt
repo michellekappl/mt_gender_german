@@ -46,7 +46,7 @@ male	6	Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschic
 male	6	Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.	Hausmeister
 male	8	Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.	Arbeiter
 male	4	Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.	Arbeiter
-male	1   Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter
+male	1	Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter
 female	7	Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht.	Anwältin
 female	4	Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon.	Anwältin
 female	4	Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte.	Bibliothekarin

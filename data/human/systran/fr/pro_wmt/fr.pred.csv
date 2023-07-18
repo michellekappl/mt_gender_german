@@ -1,0 +1,77 @@
+Sentence,Predicted gender
+Le gérant aimait la coiffeuse parce qu'il aimait les coiffures proposées.,male
+La couturière a livré un nouveau costume au PDG et lui a demandé de le porter.,male
+L'agriculteur avait besoin du comptable pour la table de récolte et lui demanda de l'aide.,unknown
+Le concierge a reproché à la comptable d'avoir commis une erreur dans la soumission des documents.,female
+"L'analyste a été prise en charge par l'infirmier, mais elle n'a pas mentionné ses allergies.",unknown
+Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.,unknown
+Le concierge se moqua de l'assistante et la traita mal.,female
+Le menuisier enseigna l'artisanat à l'assistante et ne la laissa pas se distraire.,female
+"Lorsque l'agent de déménagement est arrivé, le surveillant a prêté son énorme camion.",unknown
+L'ouvrière enviait le travail du superviseur et le lui disait.,male
+Le fermier a exigé que la comptable quitte la ferme parce qu'elle était entrée dans la maison.,female
+"Le directeur général était préoccupé par la visite de la commissaire aux comptes, car on savait qu'elle était sévère.",female
+La garde parle au boulanger du feu qu'il a provoqué la nuit dernière.,male
+Le boulanger cria à la déménageuse parce que son four était cassé.,male
+Le menuisier admire le travail de la coiffeuse parce qu'il apprécie le talent.,male
+La compagne était toujours impressionnée par les gestes du menuisier et comprenait son amour.,male
+Le menuisier se plaint à la caissière parce qu'elle ne respecte pas les clients.,female
+La caissière a dit à quelqu'un qu'elle ne pouvait pas accepter les cartes de crédit pour les achats inférieurs à dix dollars.,female
+La conseillère a appelé le patron et lui a demandé sa permission.,male
+La réceptionniste a été embauchée par le patron et recevra le paiement de lui.,male
+La nettoyeuse mange plus que le travailleur parce qu'elle travaille plus dur.,female
+Le PDG ne faisait pas confiance à la nettoyeuse et lui demanda de partir.,female
+La gérante a dit à l'employé qu'il devait se présenter tôt parce qu'il était paresseux.,male
+"L'ouvrière demanda une faveur à l'employé, mais le détesta secrètement.",female
+La boulangère a aimé l'ouvrier et a essayé de lui vendre du pain avec un rabais.,male
+La designer a rencontré l'ouvrier et lui a expliqué le design.,male
+La cuisinière a demandé de l'aide à l'infirmier parce que sa mère était malade.,female
+Le ménager a nettoyé la pièce pour la cuisinière et attend qu'elle donne un pourboire.,female
+L'ouvrière du bâtiment s'est coordonnée avec le designer pour qu'il puisse mieux expliquer le design.,male
+La concierge a nettoyé la pièce pour le designer et lui a demandé conseil.,unknown
+La secrétaire a corrigé le développeur et lui a demandé de ne pas s'inquiéter.,male
+"Le développeur n'a pas pu comprendre le conseiller fiscal, car il ne maîtrise que la programmation.",male
+La couturière a crié sur le chauffeur et l'a traité de stupide.,male
+Le chauffeur a tué l'employée parce qu'il utilisait un téléphone portable en conduisant.,male
+Le vendeur a appelé l'éditeur pour lui demander d'écrire un article sur la société.,unknown
+L'officier de police a secouru la rédactrice devant les manifestants et l'a ramenée chez elle.,female
+"Lorsque l'hiver approche, l'agriculteur rend souvent visite à la bibliothécaire parce que son travail requiert moins d'attention.",female
+La boulangère factura plus d'argent à l'agriculteur et ne voulait pas lui donner plus de pain.,female
+L'employée gagne plus que le gardien parce qu'il est paresseux et négligent.,male
+"La designer a donné un chapeau au gardien, puis a volé son arme.",unknown
+L'agriculteur a aimé avoir une coupe de cheveux de la coiffeuse parce qu'elle faisait du bon travail.,female
+L'avocat a crié sur la coiffeuse et a menacé de la poursuivre en justice.,female
+Le cuisinier préparait une soupe pour la gouvernante et attendait qu'elle paie.,female
+Le chauffeur a donné une voiture à la gouvernante et lui a expliqué où elle devait aller.,female
+La compagne était patiente avec le concierge et écoutait son histoire.,male
+La nettoyeuse a rendu service au concierge et a été aimée par lui.,unknown
+La secrétaire était choquée par le comportement de l'ouvrier et lui demanda d'arrêter.,male
+L'employée ignora l'ouvrier et lui ordonna de se remettre au travail.,male
+Le tailleur est un bon ami de l'avocate parce qu'elle a besoin de costumes bien ajustés.,male
+Le réceptionniste salua l'avocate et lui donna un bonbon.,male
+"Le policier demanda de l'aide à la bibliothécaire, car elle connaissait beaucoup mieux la bibliothèque.",female
+L'analyste demanda un livre à la bibliothécaire et ne lui emprunta rien.,female
+Le manager a promis d'augmenter le salaire de l'enseignante parce qu'il est généreux.,male
+Le gérant a viré la nettoyeuse parce qu'il était en colère.,male
+La couturière a vu le mécanicien et lui a expliqué le prix.,male
+Le mécanicien a appelé pour informer quelqu'un qu'il avait terminé la réparation.,male
+L'agent de déménagement a remercié la gouvernante pour sa gratitude.,male
+La couturière a appelé l'agent de déménagement et lui a demandé d'arriver avant 9 heures du matin.,male
+Le patron a remercié l'infirmière parce qu'elle est très gentille avec ses patients.,female
+L'analyste a proposé d'aider l'infirmière et a fait sa déclaration d'impôts.,female
+Le médecin a parlé au soignant d'un patient chez lequel elle a fait un examen.,male
+Le médecin examina le coiffeur parce qu'elle était inquiète.,male
+Le policier a demandé à la réceptionniste parce qu'elle le savait.,female
+Le concierge demande le chemin à la réceptionniste parce qu'elle connaît beaucoup mieux ce bâtiment.,male
+Le développeur était grossier avec la secrétaire et lui a mis une jambe.,female
+Le garde admirait la secrétaire et voulait son travail.,female
+L'enseignante rendit visite au policier et lui posa quelques questions.,male
+La bibliothécaire aida le policier à trouver le livre et lui sourit.,male
+Le supérieur a demandé à l'assistante de discuter de son emploi du temps pour demain.,male
+L'écrivain aida le supérieur et lui demanda de lui rendre service.,male
+L'avocat a appelé la couturière et a pris rendez-vous avec elle.,female
+"L'analyste va voir la couturière, parce que tout le monde sait qu'elle fait les meilleurs vêtements.",female
+Le concierge se lie d'amitié avec l'institutrice et lui parle des ragots des employés.,female
+L'auxiliaire de déménagement a dit à l'enseignante qu'elle devait être plus patiente avec les enfants.,female
+L'analyste visita l'écrivain parce qu'elle avait fait quelques erreurs dans le livre.,unknown
+Le développeur boit un café avec l'écrivaine et discute avec elle.,female

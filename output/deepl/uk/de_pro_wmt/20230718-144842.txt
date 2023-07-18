@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-uk.txt
+Not translating since translation file exists: ../translations/deepl/de-uk.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 34.21 (26), female: 28.95 (22)
+
+Unknown words ['wirtschaftsprüferin', 'umzugshelfer']
+Unkown: 20% (26.32) male: 10, female: 10
+
+Accuracy: 56.6 male: 60.53, female: 52.63 
+
+F1: male: 71.9, female: 66.6 
+

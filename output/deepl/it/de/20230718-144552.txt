@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-it.txt
+Not translating since translation file exists: ../translations/deepl/de-it.txt
+
+Gold distribution: male: 50.0 (154), female: 50.0 (154) 
+
+Predictions: male: 48.38 (149), female: 25.97 (80)
+
+Unknown words ['assistenten', 'assistentin', 'wirtschaftsprüfer', 'tischlers', 'tischlerin', 'angestellte', 'fahrerin', 'fahrer', 'landwirt', 'anwältin', 'anwalt', 'bibliothekar', 'bibliothekarin', 'rezeptionistin', 'lehrer', 'lehrerin', 'architekten', 'architektin', 'barkeeper', 'barkeeperin', 'käufer', 'käuferin', 'mitarbeiter', 'mitarbeiterin', 'gast', 'gästin', 'hygienikerin', 'hygieniker', 'instrukteurin', 'rechtsassistentin', 'rechtsassistent', 'patienten', 'planerin', 'planer', 'steuerzahlerin', 'steuerzahler', 'teenagerin', 'teenager', 'therapeuten']
+Unkown: 79% (25.65) male: 38, female: 41
+
+Accuracy: 58.4 male: 70.13, female: 46.75 
+
+F1: male: 71.3, female: 61.6 
+

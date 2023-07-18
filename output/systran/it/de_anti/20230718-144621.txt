@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-it.txt
+Not translating since translation file exists: ../translations/systran/de-it.txt
+
+Gold distribution: male: 54.76 (69), female: 45.24 (57) 
+
+Predictions: male: 50.0 (63), female: 26.98 (34)
+
+Unknown words ['assistenten', 'angestellten', 'angestellte', 'fahrerin', 'anwalt', 'bibliothekar', 'umzugshelferin', 'vorgesetzten', 'lehrer', 'rechtsassistent', 'mitarbeiterin', 'inspektorin', 'hygieniker', 'steuerzahlerin', 'planerin']
+Unkown: 29% (23.02) male: 15, female: 14
+
+Accuracy: 66.7 male: 75.36, female: 56.14 
+
+F1: male: 78.8, female: 70.3 
+

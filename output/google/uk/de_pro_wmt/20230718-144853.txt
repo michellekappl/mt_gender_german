@@ -1,0 +1,14 @@
+!!! ../translations/google/de-uk.txt
+Not translating since translation file exists: ../translations/google/de-uk.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 34.21 (26), female: 27.63 (21)
+
+Unknown words ['analystin', 'wirtschaftsprüferin', 'tischlers', 'landwirt']
+Unkown: 26% (34.21) male: 14, female: 12
+
+Accuracy: 50.0 male: 52.63, female: 47.37 
+
+F1: male: 62.5, female: 61.0 
+

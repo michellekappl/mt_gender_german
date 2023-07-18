@@ -104,11 +104,9 @@ venv.bak/
 .mypy_cache/
 
 # project-specific
-data/human
 #translations/
 \#*
 \.*
 *.align
 api_key.txt
 *tmp*
-output/

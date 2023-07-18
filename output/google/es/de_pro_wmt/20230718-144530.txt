@@ -1,0 +1,14 @@
+!!! ../translations/google/de-es.txt
+Not translating since translation file exists: ../translations/google/de-es.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 46.05 (35), female: 36.84 (28)
+
+Unknown words ['geschäftsführer']
+Unkown: 13% (17.11) male: 7, female: 6
+
+Accuracy: 69.7 male: 73.68, female: 65.79 
+
+F1: male: 76.7, female: 75.8 
+

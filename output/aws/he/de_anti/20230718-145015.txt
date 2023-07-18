@@ -1,0 +1,14 @@
+!!! ../translations/aws/de-he.txt
+Not translating since translation file exists: ../translations/aws/de-he.txt
+
+Gold distribution: male: 54.76 (69), female: 45.24 (57) 
+
+Predictions: male: 57.94 (73), female: 31.75 (40)
+
+Unknown words ['tischlerin', 'friseur', 'facharzt']
+Unkown: 13% (10.32) male: 7, female: 6
+
+Accuracy: 55.6 male: 66.67, female: 42.11 
+
+F1: male: 64.8, female: 49.5 
+

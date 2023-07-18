@@ -1,0 +1,14 @@
+!!! ../translations/google/de-ru.txt
+Not translating since translation file exists: ../translations/google/de-ru.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 36.84 (28), female: 21.05 (16)
+
+Unknown words ['geschäftsführer', 'analystin', 'aufsehers', 'tischlers', 'designer', 'wachmann', 'sekretärin']
+Unkown: 27% (35.53) male: 15, female: 12
+
+Accuracy: 43.4 male: 52.63, female: 34.21 
+
+F1: male: 60.6, female: 48.1 
+

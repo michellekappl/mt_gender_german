@@ -1,0 +1,14 @@
+!!! ../translations/aws/de-ru.txt
+Not translating since translation file exists: ../translations/aws/de-ru.txt
+
+Gold distribution: male: 50.0 (154), female: 50.0 (154) 
+
+Predictions: male: 51.3 (158), female: 20.78 (64)
+
+Unknown words ['analysten', 'designer', 'designerin', 'landwirt', 'landwirtin', 'wachmann', 'anwalts', 'anwältin', 'anwalt', 'sekretärin', 'sekretär', 'hausbesitzer', 'hausbesitzerin', 'passagierin', 'teenagerin']
+Unkown: 53% (17.21) male: 24, female: 29
+
+Accuracy: 48.4 male: 63.64, female: 33.12 
+
+F1: male: 62.8, female: 46.8 
+

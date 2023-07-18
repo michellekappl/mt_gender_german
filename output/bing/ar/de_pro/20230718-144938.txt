@@ -1,0 +1,14 @@
+!!! ../translations/bing/de-ar.txt
+Not translating since translation file exists: ../translations/bing/de-ar.txt
+
+Gold distribution: male: 45.24 (57), female: 54.76 (69) 
+
+Predictions: male: 67.46 (85), female: 17.46 (22)
+
+Unknown words ['manager', 'chefköchin', 'inspektor', 'disponentin', 'klempner']
+Unkown: 19% (15.08) male: 10, female: 9
+
+Accuracy: 53.2 male: 80.7, female: 30.43 
+
+F1: male: 64.8, female: 46.1 
+

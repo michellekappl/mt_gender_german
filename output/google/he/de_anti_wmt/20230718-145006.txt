@@ -1,0 +1,14 @@
+!!! ../translations/google/de-he.txt
+Not translating since translation file exists: ../translations/google/de-he.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 42.11 (32), female: 40.79 (31)
+
+Unknown words ['chefin', 'angestellte', 'friseur']
+Unkown: 13% (17.11) male: 6, female: 7
+
+Accuracy: 51.3 male: 52.63, female: 50.0 
+
+F1: male: 57.1, female: 55.1 
+

@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-fr.txt
+Not translating since translation file exists: ../translations/deepl/de-fr.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 48.68 (37), female: 39.47 (30)
+
+Unknown words ['analystin', 'landwirt']
+Unkown: 9% (11.84) male: 5, female: 4
+
+Accuracy: 77.6 male: 81.58, female: 73.68 
+
+F1: male: 82.7, female: 82.3 
+

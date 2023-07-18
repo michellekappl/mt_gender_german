@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-fr.txt
+Not translating since translation file exists: ../translations/systran/de-fr.txt
+
+Gold distribution: male: 50.0 (154), female: 50.0 (154) 
+
+Predictions: male: 46.1 (142), female: 40.58 (125)
+
+Unknown words ['buchhalter', 'analystin', 'analyst', 'analysten', 'aufseher', 'bibliothekar', 'feuerwehrmann', 'verwalter', 'barkeeper', 'kind', 'disponenten', 'rechtsassistent', 'fußgänger', 'schülerin', 'schüler', 'steuerzahler']
+Unkown: 41% (13.31) male: 29, female: 12
+
+Accuracy: 74.0 male: 74.03, female: 74.03 
+
+F1: male: 77.0, female: 81.7 
+

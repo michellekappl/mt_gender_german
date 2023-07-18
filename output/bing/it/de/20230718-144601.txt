@@ -1,0 +1,14 @@
+!!! ../translations/bing/de-it.txt
+Not translating since translation file exists: ../translations/bing/de-it.txt
+
+Gold distribution: male: 50.0 (154), female: 50.0 (154) 
+
+Predictions: male: 61.04 (188), female: 15.58 (48)
+
+Unknown words ['geschäftsführerin', 'analysten', 'aufseher', 'wirtschaftsprüfer', 'tischlers', 'tischlerin', 'angestellte', 'fahrerin', 'fahrer', 'haushälter', 'bibliothekar', 'rezeptionistin', 'lehrer', 'lehrerin', 'architekten', 'architektin', 'barkeeper', 'barkeeperin', 'käufer', 'käuferin', 'disponentin', 'elektrikerin', 'mitarbeiter', 'mitarbeiterin', 'gast', 'gästin', 'hygienikerin', 'hygieniker', 'patienten', 'anwohnerin', 'steuerzahlerin', 'steuerzahler', 'teenagerin']
+Unkown: 72% (23.38) male: 34, female: 38
+
+Accuracy: 48.7 male: 72.08, female: 25.32 
+
+F1: male: 64.9, female: 38.6 
+

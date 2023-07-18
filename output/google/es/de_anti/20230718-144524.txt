@@ -1,0 +1,14 @@
+!!! ../translations/google/de-es.txt
+Not translating since translation file exists: ../translations/google/de-es.txt
+
+Gold distribution: male: 54.76 (69), female: 45.24 (57) 
+
+Predictions: male: 65.08 (82), female: 19.05 (24)
+
+Unknown words ['geschäftsführerin', 'assistenten', 'angestellten', 'angestellte', 'landwirtin', 'barkeeper']
+Unkown: 20% (15.87) male: 10, female: 10
+
+Accuracy: 62.7 male: 82.61, female: 38.6 
+
+F1: male: 75.5, female: 54.3 
+

@@ -1,0 +1,14 @@
+!!! ../translations/bing/de-uk.txt
+Not translating since translation file exists: ../translations/bing/de-uk.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 46.05 (35), female: 22.37 (17)
+
+Unknown words ['analyst', 'analysten', 'wirtschaftsprüfer', 'designerin', 'sekretär']
+Unkown: 21% (27.63) male: 8, female: 13
+
+Accuracy: 47.4 male: 60.53, female: 34.21 
+
+F1: male: 63.0, female: 47.3 
+

@@ -1,0 +1,14 @@
+!!! ../translations/google/de-ar.txt
+Not translating since translation file exists: ../translations/google/de-ar.txt
+
+Gold distribution: male: 54.76 (69), female: 45.24 (57) 
+
+Predictions: male: 66.67 (84), female: 14.29 (18)
+
+Unknown words ['analysten', 'friseur', 'schneider', 'klempnerin', 'disponenten', 'inspektorin', 'barkeeper', 'chefkoch']
+Unkown: 24% (19.05) male: 13, female: 11
+
+Accuracy: 50.8 male: 73.91, female: 22.81 
+
+F1: male: 66.7, female: 34.7 
+

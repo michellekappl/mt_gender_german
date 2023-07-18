@@ -1,0 +1,14 @@
+!!! ../translations/google/de-he.txt
+Not translating since translation file exists: ../translations/google/de-he.txt
+
+Gold distribution: male: 45.24 (57), female: 54.76 (69) 
+
+Predictions: male: 46.83 (59), female: 42.06 (53)
+
+Unknown words ['friseurin', 'klempner']
+Unkown: 14% (11.11) male: 7, female: 7
+
+Accuracy: 70.6 male: 75.44, female: 66.67 
+
+F1: male: 74.1, female: 75.4 
+

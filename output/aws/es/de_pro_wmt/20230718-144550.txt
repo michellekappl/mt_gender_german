@@ -1,0 +1,14 @@
+!!! ../translations/aws/de-es.txt
+Not translating since translation file exists: ../translations/aws/de-es.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 46.05 (35), female: 39.47 (30)
+
+Unknown words ['landwirt']
+Unkown: 11% (14.47) male: 6, female: 5
+
+Accuracy: 73.7 male: 76.32, female: 71.05 
+
+F1: male: 79.5, female: 79.4 
+

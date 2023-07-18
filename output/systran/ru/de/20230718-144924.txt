@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-ru.txt
+Not translating since translation file exists: ../translations/systran/de-ru.txt
+
+Gold distribution: male: 50.0 (154), female: 50.0 (154) 
+
+Predictions: male: 50.32 (155), female: 12.66 (39)
+
+Unknown words ['analysten', 'wirtschaftsprüferin', 'designer', 'wachmann', 'friseurin', 'friseur', 'anwalts', 'anwältin', 'anwalt', 'umzugshelferin', 'umzugshelfer', 'sekretärin', 'gast', 'hausbesitzer', 'besitzerin', 'besitzer', 'patienten', 'wissenschaftler']
+Unkown: 75% (24.35) male: 40, female: 35
+
+Accuracy: 36.0 male: 53.9, female: 18.18 
+
+F1: male: 53.7, female: 29.0 
+

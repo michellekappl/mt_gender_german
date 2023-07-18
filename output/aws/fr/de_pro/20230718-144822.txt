@@ -1,0 +1,14 @@
+!!! ../translations/aws/de-fr.txt
+Not translating since translation file exists: ../translations/aws/de-fr.txt
+
+Gold distribution: male: 45.24 (57), female: 54.76 (69) 
+
+Predictions: male: 56.35 (71), female: 34.13 (43)
+
+Unknown words ['analystin', 'disponentin', 'steuerzahler', 'wissenschaftler']
+Unkown: 12% (9.52) male: 6, female: 6
+
+Accuracy: 68.3 male: 82.46, female: 56.52 
+
+F1: male: 73.5, female: 69.6 
+

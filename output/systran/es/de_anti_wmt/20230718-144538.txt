@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-es.txt
+Not translating since translation file exists: ../translations/systran/de-es.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 50.0 (38), female: 42.11 (32)
+
+Unknown words ['angestellte']
+Unkown: 6% (7.89) male: 2, female: 4
+
+Accuracy: 89.5 male: 94.74, female: 84.21 
+
+F1: male: 94.7, female: 91.4 
+

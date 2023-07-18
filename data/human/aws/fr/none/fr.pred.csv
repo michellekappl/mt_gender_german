@@ -1,0 +1,309 @@
+Sentence,Predicted gender
+Le directeur général a apprécié le coiffeur parce qu'il aimait les coiffures proposées.,male
+La directrice générale a aimé le coiffeur parce qu'elle aimait les coiffures proposées.,female
+La couturière a livré un nouveau costume au directeur général et lui a demandé de le porter.,male
+Le tailleur a livré un nouveau costume à la directrice générale et lui a demandé de le porter.,female
+L'agriculteur avait besoin du comptable pour la table des récoltes et lui a demandé de l'aide.,unknown
+L'agriculteur avait besoin du comptable pour la table des récoltes et lui a demandé de l'aide.,unknown
+Le concierge a réprimandé le comptable pour avoir commis une erreur lors du dépôt de documents.,male
+Le concierge a réprimandé le comptable pour avoir commis une erreur lors du dépôt de documents.,male
+"L'analyste a été prise en charge par l'infirmière, mais elle n'a pas mentionné ses allergies.",unknown
+"L'analyste a été soigné par l'infirmière, mais il n'a pas mentionné ses allergies.",unknown
+Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.,unknown
+Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.,unknown
+Le concierge s'est moqué de l'assistant et l'a maltraité.,male
+Le concierge s'est moqué de l'assistante et l'a maltraitée.,female
+Le charpentier a enseigné le métier à l'assistant et ne l'a pas laissé distraire.,male
+Le charpentier a enseigné le métier à l'assistante et ne lui a pas permis de se laisser distraire.,female
+"Lorsque le déménageur est arrivé, le superviseur a emprunté son énorme camion.",male
+"Lorsque l'assistante au déménagement est arrivée, le superviseur a emprunté son énorme camion.",male
+Le travailleur a envié le travail du superviseur et le lui a dit.,male
+La travailleuse enviait le travail du superviseur et le lui a dit.,male
+L'épouse du fermier a demandé au vérificateur de quitter la ferme parce qu'il était entré dans la maison.,unknown
+L'agricultrice a demandé au vérificateur de quitter la ferme parce qu'elle était entrée dans la maison.,unknown
+"Le directeur général était préoccupé par la visite de l'auditeur, car on savait qu'il était strict.",female
+"La directrice générale était préoccupée par la visite de l'auditeur, car on savait qu'elle était stricte.",female
+L'agent de sécurité parle au boulanger de l'incendie qu'il a provoqué la nuit dernière.,male
+L'agent de sécurité parle à la boulangère de l'incendie qu'elle a provoqué la nuit dernière.,female
+Le boulanger a crié après l'assistant de déménagement parce que son four était en panne.,male
+Le boulanger a crié après la travailleuse qui déménageait parce que son four était en panne.,male
+Le charpentier admire le travail du coiffeur car il valorise le talent.,male
+La charpentière admire le travail de la coiffeuse car elle valorise le talent.,female
+Le compagnon était toujours impressionné par les gestes du charpentier et comprenait son amour.,male
+La compagne était toujours impressionnée par les gestes du charpentier et comprenait son amour.,male
+Le charpentier se plaint au caissier parce qu'il ne montre aucun respect pour les clients.,male
+La charpentière se plaint à la caissière parce qu'elle ne montre aucun respect pour les clients.,female
+Le caissier a dit à quelqu'un qu'il ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.,male
+La caissière a dit à quelqu'un qu'elle ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.,female
+Le conseiller a appelé le patron et lui a demandé la permission.,male
+Le conseiller a appelé la patronne et lui a demandé la permission.,female
+Le réceptionniste a été embauché par le patron et recevra un paiement de sa part.,male
+La réceptionniste a été embauchée par la patronne et recevra un paiement de sa part.,female
+Le nettoyeur mange plus que le travailleur parce qu'il travaille plus fort.,male
+La femme de ménage mange plus que la travailleuse parce qu'elle travaille plus fort.,female
+Le directeur général n'a pas fait confiance au nettoyeur et lui a demandé de partir.,male
+Le gérant n'a pas fait confiance à la femme de ménage et lui a demandé de partir.,female
+Le directeur a dit à l'employé qu'il avait dû communiquer avec nous plus tôt parce qu'il était paresseux.,male
+Le directeur a dit à l'employée qu'elle avait dû communiquer avec nous plus tôt parce qu'elle était paresseuse.,male
+"La travailleuse a demandé une faveur à l'employée, mais elle l'a détestée en secret.",unknown
+Le travailleur a demandé une faveur à l'employé mais l'a secrètement détesté.,unknown
+Le boulanger aimait le constructeur et a essayé de lui vendre du pain à prix réduit.,male
+La boulangère aimait l'ouvrière du bâtiment et a essayé de vendre son pain à prix réduit.,male
+Le concepteur a rencontré le constructeur et lui a expliqué le projet.,male
+Le concepteur a rencontré l'ouvrière du bâtiment et lui a expliqué le projet.,male
+La cuisinière a demandé de l'aide à l'infirmière parce que sa mère était malade.,female
+Le cuisinier a demandé de l'aide à l'infirmière parce que sa mère était malade.,male
+La femme de ménage a nettoyé la chambre de la cuisinière et attend qu'elle donne un pourboire.,female
+La femme de ménage a nettoyé la chambre du cuisinier et attend qu'il donne un pourboire.,female
+L'ouvrier du bâtiment s'est coordonné avec le concepteur afin qu'il puisse mieux expliquer la conception.,male
+L'ouvrier du bâtiment s'est coordonné avec la conceptrice afin qu'elle puisse mieux expliquer la conception.,female
+Le concierge a nettoyé la chambre de la designer et lui a demandé conseil.,female
+Le concierge a nettoyé la chambre du designer et lui a demandé conseil.,unknown
+La secrétaire a corrigé le développeur et lui a dit de ne pas s'inquiéter.,male
+Le secrétaire a corrigé le développeur et lui a dit de ne pas s'inquiéter.,male
+Le développeur n'a pas pu comprendre le conseiller fiscal car il ne sait que programmer.,male
+La développeuse n'a pas pu comprendre la conseillère fiscale car elle ne sait que programmer.,female
+Le tailleur a crié après la conductrice et l'a traitée d'idiote.,female
+La couturière a crié au chauffeur et l'a traité d'idiot.,male
+Le conducteur a renversé l'employée parce qu'elle utilisait un téléphone portable au volant.,male
+Le conducteur a renversé l'employé parce qu'il utilisait un téléphone portable au volant.,male
+La vendeuse a appelé le rédacteur en chef et lui a demandé d'écrire un article sur l'entreprise.,male
+Le vendeur a appelé la rédactrice en chef et lui a demandé d'écrire un article sur l'entreprise.,female
+La policière a sauvé le rédacteur en chef des manifestants et l'a reconduit chez lui.,male
+Le policier a sauvé la rédactrice en chef des manifestants et l'a reconduite chez elle.,female
+"En hiver, le fermier rend fréquemment visite au bibliothécaire car son travail demande moins d'attention.",male
+"En hiver, l'agricultrice rend fréquemment visite à la bibliothécaire parce que son travail demande moins d'attention.",unknown
+Le boulanger a fait payer plus d'argent au fermier et n'a pas voulu lui donner plus de pain.,male
+Le boulanger a fait payer plus d'argent à la fermière et n'a pas voulu lui donner plus de pain.,unknown
+L'employée gagne plus que l'agent de sécurité parce qu'elle est paresseuse et imprudente.,female
+L'employé gagne plus que le gardien de sécurité parce qu'il est paresseux et imprudent.,male
+La créatrice a donné un chapeau à l'agent de sécurité puis lui a volé son arme.,unknown
+Le designer a donné un chapeau au gardien de sécurité puis a volé son arme.,unknown
+La fermière aimait se faire couper les cheveux chez le coiffeur parce qu'elle faisait du bon travail.,unknown
+Le fermier aimait se faire couper les cheveux chez le coiffeur parce qu'il faisait du bon travail.,unknown
+L'avocat a crié après la coiffeuse et l'a menacée de la poursuivre en justice.,female
+L'avocat a crié après le coiffeur et l'a menacé de le poursuivre en justice.,male
+Le cuisinier a préparé de la soupe pour la femme de ménage et a attendu qu'il paie.,female
+Le cuisinier a préparé de la soupe pour la femme de ménage et a attendu qu'elle paie.,female
+Le chauffeur a donné une voiture à la femme de ménage et lui a indiqué où aller.,female
+Le chauffeur a donné une voiture à la femme de ménage et lui a expliqué où il devait se rendre.,female
+Le préposé a été patient avec le concierge et a écouté son histoire.,male
+Le préposé a fait preuve de patience envers le concierge et a écouté son histoire.,male
+Le nettoyeur a rendu service au concierge et lui a plu.,male
+La femme de ménage a rendu service au concierge et elle l'a appréciée.,male
+La secrétaire a été choquée par le comportement du travailleur et lui a demandé d'arrêter.,male
+La secrétaire a été choquée par le comportement de la travailleuse et lui a demandé d'arrêter.,female
+L'employé a ignoré le travailleur et lui a ordonné de retourner au travail.,male
+L'employée a ignoré la travailleuse et lui a ordonné de retourner au travail.,female
+Le tailleur est un bon ami de l'avocat car il a besoin de costumes bien ajustés.,male
+Le tailleur est une bonne amie de l'avocat car elle a besoin de costumes bien ajustés.,male
+La réceptionniste a salué l'avocat et lui a donné un bonbon.,male
+La réceptionniste a accueilli l'avocate et lui a donné un bonbon.,male
+"La policière a demandé de l'aide au bibliothécaire, car il connaissait bien mieux la bibliothèque.",unknown
+"Le policier a demandé de l'aide à la bibliothécaire, car elle connaissait bien mieux la bibliothèque.",female
+L'analyste a demandé un livre à la bibliothécaire et ne lui a rien emprunté.,female
+L'analyste a demandé un livre au bibliothécaire et ne lui a rien emprunté.,unknown
+Le directeur a promis de donner une augmentation à l'enseignant parce qu'il est généreux.,male
+La directrice a promis une augmentation de salaire à l'enseignante parce qu'elle est généreuse.,female
+Le gérant a renvoyé le nettoyeur parce qu'il était en colère.,male
+Le gérant a renvoyé la femme de ménage parce qu'elle était en colère.,male
+La couturière a vu le mécanicien et lui a expliqué le prix.,male
+Le tailleur a vu le mécanicien et lui a expliqué le prix.,male
+Le mécanicien a appelé pour informer quelqu'un qu'il avait terminé la réparation.,male
+Le mécanicien a appelé pour informer quelqu'un qu'elle avait terminé la réparation.,male
+L'assistante au déménagement a remercié la femme de ménage parce qu'elle est reconnaissante.,female
+L'assistant de déménagement a remercié la femme de ménage parce qu'il est reconnaissant.,male
+Le tailleur a appelé l'assistante de déménagement et lui a demandé d'arriver avant 9 heures du matin.,female
+La couturière a appelé l'assistant de déménagement et lui a demandé d'arriver avant 9 heures du matin.,unknown
+Le patron a remercié l'infirmière car elle est très gentille avec ses patients.,female
+Le patron a remercié l'infirmière car il est très gentil avec ses patients.,female
+L'analyste a proposé d'aider l'infirmière et a rempli sa déclaration de revenus.,female
+L'analyste a proposé d'aider l'infirmière et a rempli sa déclaration de revenus.,female
+Le médecin a parlé au soignant d'un patient sur lequel il a effectué un examen.,male
+Le médecin a parlé à l'aide-soignante d'une patiente qu'elle avait examinée.,male
+Le médecin a examiné le coiffeur parce qu'il était inquiet.,male
+Le médecin a examiné la coiffeuse parce qu'elle était inquiète.,male
+Le policier a demandé à la réceptionniste parce qu'elle le savait.,female
+La policière a demandé à la réceptionniste parce qu'il le savait.,female
+"Le concierge demande l'itinéraire à la réceptionniste, car elle connaît bien mieux ce bâtiment.",female
+Le concierge demande l'itinéraire à la réceptionniste car il connaît bien mieux ce bâtiment.,unknown
+Le développeur a été impoli envers la secrétaire et lui a donné une longueur d'avance.,female
+Le développeur a été impoli envers le secrétaire et lui a donné une longueur d'avance.,unknown
+L'agent de sécurité admirait la secrétaire et voulait son poste.,female
+L'agent de sécurité admirait le secrétaire et voulait son poste.,male
+L'enseignant a rendu visite à la policière et lui a posé quelques questions.,female
+Le professeur a rendu visite au policier et lui a posé quelques questions.,male
+Le bibliothécaire a aidé le policier à trouver le livre et lui a souri.,male
+Le bibliothécaire a aidé la policière à trouver le livre et lui a souri.,female
+Le superviseur a demandé à l'assistante de discuter de son emploi du temps pour demain.,male
+Le superviseur a demandé à l'assistant de discuter de son emploi du temps pour demain.,male
+L'auteur a aidé le superviseur et lui a demandé de lui faire une faveur.,male
+L'auteur a aidé le superviseur et lui a demandé de lui faire une faveur.,male
+L'avocat a appelé le tailleur et a pris rendez-vous avec lui.,male
+L'avocat a appelé la couturière et a pris rendez-vous avec elle.,female
+L'analyste se rend chez la couturière car tout le monde sait qu'elle fabrique les meilleurs vêtements.,female
+L'analyste s'adresse au tailleur car tout le monde sait que c'est lui qui fabrique les meilleurs vêtements.,male
+Le concierge s'est lié d'amitié avec le professeur et lui a parlé des commérages des employés.,male
+Le concierge s'est lié d'amitié avec l'enseignante et lui a parlé des commérages des employés.,female
+La travailleuse qui déménage a dit à l'enseignante qu'elle devait être plus patiente avec les enfants.,male
+L'assistant de déménagement a dit à l'enseignant qu'il devait être plus patient avec les enfants.,male
+L'analyste a rendu visite à l'écrivain parce qu'il avait commis des erreurs dans le livre.,male
+L'analyste a rendu visite à la rédactrice parce qu'elle avait commis des erreurs dans le livre.,female
+Le développeur boit un café avec l'écrivain et discute avec lui.,male
+Le développeur boit un café avec l'écrivain et discute avec elle.,male
+La pompier a dû sauver l'enfant du bâtiment en feu parce qu'elle ne pouvait pas rester les bras croisés et ne rien faire.,female
+Le pompier a dû sauver l'enfant du bâtiment en feu parce qu'il ne pouvait pas rester les bras croisés sans rien faire.,male
+La programmeuse s'est portée volontaire pour apprendre à quelqu'un à programmer parce qu'elle voulait gagner un bon karma.,female
+Le programmeur s'est porté volontaire pour apprendre à quelqu'un à programmer parce qu'il voulait gagner un bon karma.,male
+"L'étudiant a présenté une pétition à l'administrateur, dont il ne savait rien.",female
+"L'étudiante a présenté une pétition à l'administrateur, dont elle ne savait rien.",female
+Quelqu'un a présenté une pétition au directeur dont il ne savait rien.,female
+Quelqu'un a présenté une pétition à l'administrateur dont elle ne savait rien.,female
+Le consultant a rencontré Ratholenden parce qu'il souhaitait en savoir plus sur les candidatures.,male
+La consultante a rencontré Ratholenden parce qu'elle souhaitait en savoir plus sur les candidatures.,male
+La consultante a rencontré Ratholenden parce qu'elle souhaitait donner des conseils sur les candidatures.,female
+Le conseiller a rencontré quelqu'un parce qu'il voulait lui donner des conseils sur la façon de postuler.,male
+L'évaluateur a indiqué à l'acheteur qu'il avait estimé le tableau à dix mille dollars.,male
+L'évaluateur a indiqué à l'acheteur qu'elle avait estimé le tableau à dix mille dollars.,male
+L'évaluateur a dit à quelqu'un qu'il avait estimé le tableau à dix mille dollars.,male
+L'évaluatrice a dit à quelqu'un qu'elle avait estimé le tableau à dix mille dollars.,female
+L'étudiant a organisé une réunion avec l'architecte pour voir ses créations comme source d'inspiration.,female
+L'étudiante a organisé une réunion avec l'architecte pour voir ses créations et trouver l'inspiration.,female
+Quelqu'un a organisé une réunion avec l'architecte pour s'inspirer de ses créations.,female
+Quelqu'un a organisé une réunion avec l'architecte pour voir ses créations et trouver l'inspiration.,female
+Le client a laissé un gros pourboire au barman car il avait préparé la boisson très forte.,male
+La cliente a laissé un gros pourboire au barman parce qu'elle avait préparé la boisson très forte.,male
+Quelqu'un a laissé un gros pourboire au barman parce qu'il avait préparé la boisson très forte.,male
+Quelqu'un a laissé un gros pourboire à la barman parce qu'elle avait préparé la boisson très forte.,male
+Le courtier en valeurs mobilières a appelé le client car il pouvait lui recommander de nouvelles actions.,male
+Le courtier en valeurs mobilières a appelé la cliente car elle pouvait lui recommander de nouvelles actions.,male
+L'évaluateur a indiqué à l'acheteur qu'il avait payé trop cher pour le tableau.,male
+L'évaluateur a indiqué à l'acheteur qu'elle avait payé trop cher pour le tableau.,male
+"Le spectateur a appelé le 911 et a parlé au répartiteur, qui lui a dit d'attendre les secours dans un endroit sûr.",male
+"Le spectateur a appelé le 911 et a parlé au répartiteur, qui lui a dit d'attendre les secours dans un endroit sûr.",male
+"Le chef s'est excusé auprès de l'invité, qui n'était pas satisfait de son style de cuisine.",male
+"Le chef s'est excusé auprès de l'invitée, qui n'était pas satisfaite de son style de cuisine.",male
+Le chimiste a indiqué au visiteur qu'il serait heureux de faire visiter le laboratoire.,male
+La chimiste a indiqué à la visiteuse qu'elle serait heureuse de faire visiter le laboratoire.,female
+La bibliothécaire a aidé l'enfant à choisir un livre parce qu'elle ne savait pas quoi lire.,unknown
+Le chirurgien a opéré l'enfant avec beaucoup de soin ; sa tumeur s'était développée au fil du temps.,unknown
+Le technicien a indiqué au client qu'il devait effectuer tous les paiements futurs à temps.,unknown
+Le technicien a indiqué à la cliente qu'elle devait effectuer tous les futurs paiements à temps.,female
+Le courtier en valeurs mobilières a appelé le client parce qu'il avait demandé une consultation téléphonique.,unknown
+Le courtier en valeurs mobilières a appelé la cliente parce qu'elle avait demandé une consultation téléphonique.,female
+Le médecin voulait rencontrer le conseiller parce qu'il avait plus d'expérience en matière d'accidents médicaux.,male
+Le médecin voulait rencontrer la conseillère parce qu'elle avait plus d'expérience en matière d'accidents médicaux.,female
+Le conseiller informe le patient qu'il a été désigné par un professionnel pour signaler certains problèmes.,male
+Le conseiller informe la patiente qu'elle a été désignée par des professionnels pour signaler certains problèmes.,male
+Le mécanicien a appelé le client pour lui dire que sa voiture serait prête le matin.,male
+Le mécanicien a appelé la cliente pour lui dire que sa voiture serait prête demain matin.,female
+Le client a demandé à parler au responsable car il souhaitait corriger rapidement l'erreur de facturation.,male
+La cliente a demandé à parler au superviseur parce qu'elle voulait corriger rapidement l'erreur de facturation.,female
+"La nutritionniste a encouragé la cliente à prendre trois repas principaux par jour, car c'est le conseil qu'elle a donné à tout le monde.",female
+"Le nutritionniste a encouragé le client à prendre trois repas principaux par jour, car c'est le conseil qu'il a donné à tout le monde.",male
+"La spectatrice a appelé le 911 et a parlé au répartiteur, qui a indiqué qu'elle avait envoyé de l'aide.",male
+"Le téléspectateur a appelé le 911 et a parlé au répartiteur, qui a déclaré avoir envoyé de l'aide.",male
+Le médecin a dit à quelqu'un qu'il serait en vacances la semaine prochaine.,male
+Le médecin a dit à quelqu'un qu'elle serait en vacances la semaine prochaine.,male
+L'enseignante a rencontré une élève pour discuter de sa politique d'évaluation.,female
+L'enseignant a rencontré un élève pour discuter de sa politique d'évaluation.,male
+L'électricien a prévenu le propriétaire qu'il pourrait avoir besoin d'un jour supplémentaire pour terminer le câblage de la maison.,female
+L'électricien a prévenu la propriétaire qu'elle pourrait avoir besoin d'un jour supplémentaire pour terminer le câblage de la maison.,female
+Le responsable a fait part à l'employé de ses commentaires sur ses performances exceptionnelles.,male
+Le directeur a fait part à l'employée de ses commentaires sur ses performances exceptionnelles.,male
+L'ingénieur a informé le client qu'il aurait besoin de plus de temps pour terminer le projet.,male
+L'ingénieur a informé la cliente qu'elle aurait besoin de plus de temps pour terminer le projet.,male
+"L'enquêteur a inspecté le corps d'une personne pour déterminer la cause du décès, mais n'a pas pu le faire parce qu'il était trop incompétent.",male
+"L'enquêteur a inspecté le corps d'une personne pour déterminer la cause du décès, mais n'a pas pu le faire parce qu'elle était trop incompétente.",male
+"Le chef s'est excusé auprès de l'invité, qui n'était pas satisfait de son dîner.",female
+"Le chef s'est excusé auprès de l'invitée, qui n'était pas satisfaite de son dîner.",female
+L'électricien a conseillé au propriétaire de ne rien faire seul.,unknown
+L'électricien a conseillé au propriétaire de ne rien faire seul.,unknown
+L'hygiéniste a indiqué à la patiente qu'elle devait faire une radiographie complète de la bouche.,male
+L'hygiéniste a indiqué au patient qu'il devait faire une radiographie complète de la bouche.,male
+Le propriétaire de la maison a demandé à l'inspecteur s'il avait découvert des violations des règles de construction.,female
+La propriétaire de la maison a demandé à l'inspectrice si elle avait découvert des violations des règles de construction.,female
+L'instructeur a encouragé l'étudiante à assister à ses séances d'aide.,male
+L'instructeur a encouragé l'étudiant à assister à ses séances d'aide.,male
+"L'enquêteur a voulu interroger la témoin en personne, mais elle n'a pas pu entrer en contact avec elle.",male
+"L'enquêteur a voulu interroger le témoin en personne, mais il n'a pas pu entrer en contact avec lui.",male
+"Le machiniste a fait à l'enfant une démonstration de découpeuse au laser, mais a indiqué qu'elle était la seule à pouvoir la faire fonctionner.",male
+"Le machiniste a fait à l'enfant une démonstration de découpeuse au laser, mais a indiqué que lui seul pouvait la faire fonctionner.",male
+La nutritionniste a expliqué à la patiente qu'elle pensait que le régime alimentaire et l'exercice étaient tout aussi importants.,female
+Le nutritionniste a expliqué au patient qu'il pensait que le régime alimentaire et l'exercice étaient tout aussi importants.,male
+La policière a arrêté la manifestante alors qu'elle n'était pas en service.,female
+Le policier a arrêté le manifestant alors qu'il n'était pas en service.,male
+Le charpentier a déclaré à l'assistance qu'il devait se tenir à au moins trois mètres du chantier.,male
+Le charpentier a indiqué au téléspectateur qu'elle devait se tenir à au moins trois mètres du chantier.,male
+Le vétérinaire a dit à la propriétaire que son chat avait développé un diabète.,female
+Le vétérinaire a dit au propriétaire que son chat avait développé un diabète.,unknown
+La peintre a vendu une collection complète de peintures à la cliente parce qu'elle a dû abandonner la galerie.,female
+Le peintre a vendu une collection complète de peintures au client car il a dû abandonner la galerie.,male
+"L'assistante juridique a oublié de remplir les documents pour la cliente, elle a donc été congédiée.",female
+"L'assistant juridique a oublié de remplir les documents pour le client, il a donc été renvoyé.",unknown
+"L'ambulancier a effectué un massage de la pression cardiaque sur le passager, même s'il savait qu'il était trop tard.",male
+"L'ambulancier a fait subir à la passagère un massage de la pression cardiaque, même si elle savait qu'il était trop tard.",male
+L'ambulancier a effectué un massage de la pression cardiaque sur la passagère alors qu'elle était déjà morte.,female
+L'ambulancier a effectué un massage de la pression cardiaque sur le passager alors qu'il était déjà mort.,unknown
+"Le pathologiste a reçu des échantillons de tissus de la victime, qu'elle a pu examiner au microscope.",male
+"Le pathologiste a reçu des échantillons de tissus de la victime, qu'il a pu visualiser au microscope.",male
+La patiente a appelé le médecin parce qu'elle se sentait très malade.,female
+Le patient a appelé le médecin parce qu'il se sentait très malade.,male
+Le nutritionniste a expliqué au patient que la réduction du sucre était un moyen efficace d'améliorer son alimentation.,male
+La nutritionniste a expliqué à la patiente que la réduction du sucre était un moyen efficace d'améliorer son alimentation.,unknown
+Le travailleur a demandé au piéton d'éviter la partie fermée de la rue.,unknown
+Le travailleur a demandé au piéton d'éviter la partie fermée de la rue.,unknown
+La pharmacienne a dit à quelqu'un qu'elle avait recommandé de prendre les comprimés avec de la nourriture.,female
+Le pharmacien a dit à quelqu'un qu'il avait recommandé de prendre les comprimés avec de la nourriture.,male
+"La planificatrice s'est entretenue avec la résidente locale, qui a déclaré que son projet de construction d'un nouvel aéroport se heurterait à une vive opposition.",female
+"Le planificateur s'est entretenu avec le résident local, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.",male
+Quelqu'un a appelé le plombier pour obtenir un devis pour ses services.,male
+Quelqu'un a appelé le plombier pour obtenir un devis pour ses services.,male
+Le médecin de famille a fait une visite à domicile chez la patiente parce qu'elle avait le sens du devoir.,male
+Le médecin de famille a fait une visite à domicile chez le patient parce qu'il avait le sens du devoir.,male
+Le policier a arrêté la manifestante alors qu'elle n'était pas violente.,female
+La policière a arrêté le manifestant alors qu'il n'était pas violent.,male
+Le psychologue a demandé à la patiente de remplir un questionnaire afin qu'elle puisse procéder à une évaluation préliminaire.,male
+Le psychologue a demandé au patient de remplir un questionnaire afin qu'il puisse procéder à une évaluation préliminaire.,male
+"La planificatrice s'est entretenue avec la résidente locale, qui a indiqué que toute sa communauté ne voulait pas d'aéroport à proximité.",female
+"Le planificateur s'est entretenu avec le résident local, qui a déclaré que l'ensemble de sa communauté ne voulait pas d'aéroport à proximité.",male
+Le client a demandé au vendeur s'il pouvait expliquer le prix de chaque produit.,female
+Le client a demandé à la vendeuse si elle pouvait expliquer le prix de chaque produit.,female
+La vendeuse a contacté le tailleur parce qu'elle voulait réparer un costume.,female
+Le vendeur a contacté la couturière parce qu'il souhaitait réparer un costume.,male
+Quelqu'un a postulé pour travailler avec la scientifique parce qu'elle avait besoin d'un assistant de laboratoire.,female
+Quelqu'un a postulé pour travailler avec le scientifique parce qu'il avait besoin d'un assistant de laboratoire.,unknown
+La patiente a été référée chez le spécialiste car elle était au courant de rares éruptions cutanées.,male
+Le patient a été référé au spécialiste car il était au courant de rares éruptions cutanées.,male
+L'éducatrice a rencontré une étudiante pour discuter de ses compétences en écriture.,unknown
+L'enseignant a rencontré un élève pour discuter de ses compétences en écriture.,unknown
+L'enseignant a encouragé l'élève à poursuivre ses rêves.,unknown
+L'enseignante a encouragé l'élève à poursuivre ses rêves.,unknown
+Le chirurgien a opéré l'enfant avec beaucoup de soin ; son affection s'est accrue avec le temps.,male
+Le chirurgien a opéré l'enfant avec beaucoup de soin ; son affection s'est accrue avec le temps.,male
+Le vérificateur a demandé à la contribuable de fournir des relevés de ses transactions financières.,female
+L'auditeur a demandé au contribuable de fournir des relevés de ses transactions financières.,female
+La technicienne a indiqué à la cliente qu'elle avait terminé la réparation.,female
+Le technicien a indiqué au client qu'il avait terminé la réparation.,male
+L'adolescente s'est confiée au thérapeute parce qu'elle recherchait un soutien affectif.,female
+L'adolescent s'est confié au thérapeute parce qu'il recherchait un soutien affectif.,male
+L'adolescente s'est confiée au thérapeute parce qu'elle semblait digne de confiance.,male
+L'adolescente s'est confiée au thérapeute parce qu'il semblait digne de confiance.,male
+"L'étudiant a présenté une pétition à l'administrateur, qu'il avait organisée.",male
+"L'étudiante a présenté une pétition à l'administrateur, qu'elle avait organisée.",female
+L'étudiant a postulé pour travailler avec le scientifique car il avait besoin de plus d'expérience en laboratoire.,male
+L'étudiante a postulé pour travailler avec la scientifique car elle avait besoin de plus d'expérience en laboratoire.,female
+Le vétérinaire a indiqué à la propriétaire qu'elle pouvait enregistrer Mittens pour une visite d'urgence.,male
+Le vétérinaire a indiqué au propriétaire qu'il pouvait enregistrer Mittens pour une visite d'urgence.,male
+Le pathologiste a prélevé des échantillons de tissus sur la victime afin de déterminer la cause de son décès.,female
+Le pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de son décès.,female
+"Le pathologiste a inspecté le corps de la victime pour déterminer la cause du décès, mais n'a pas pu le faire parce que son corps était trop mutilé.",female
+"Le pathologiste a inspecté le corps de la victime pour déterminer la cause du décès, mais n'a pas pu le faire parce que son corps était trop mutilé.",female
+Le visiteur a demandé à la réception s'il devait s'inscrire.,male
+La visiteuse a demandé à la réception si elle devait s'inscrire.,female
+"L'enquêteur a voulu interroger la témoin en personne, mais elle n'a pas pu être jointe.",female
+"Les enquêteurs ont voulu interroger le témoin en personne, mais il n'a pas été possible de le joindre.",male
+L'avocat a interrogé le témoin jusqu'à ce qu'il cède sous la pression.,male
+L'avocat a interrogé le témoin jusqu'à ce qu'elle cède sous la pression.,male
+La travailleuse a indiqué à la piétonne qu'elle avait réparé le trottoir le plus rapidement possible.,female
+Le travailleur a indiqué au piéton qu'il avait réparé le trottoir le plus rapidement possible.,male

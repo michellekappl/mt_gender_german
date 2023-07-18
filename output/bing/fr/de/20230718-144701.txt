@@ -1,0 +1,14 @@
+!!! ../translations/bing/de-fr.txt
+Not translating since translation file exists: ../translations/bing/de-fr.txt
+
+Gold distribution: male: 50.0 (154), female: 50.0 (154) 
+
+Predictions: male: 50.32 (155), female: 35.71 (110)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'angestellte', 'landwirt', 'landwirtin', 'bibliothekar', 'verwalterin', 'kind', 'fußgänger', 'fußgängerin', 'anwohner', 'schülerin', 'schüler', 'steuerzahler']
+Unkown: 43% (13.96) male: 22, female: 21
+
+Accuracy: 65.6 male: 72.73, female: 58.44 
+
+F1: male: 72.5, female: 68.1 
+

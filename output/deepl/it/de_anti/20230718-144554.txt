@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-it.txt
+Not translating since translation file exists: ../translations/deepl/de-it.txt
+
+Gold distribution: male: 54.76 (69), female: 45.24 (57) 
+
+Predictions: male: 54.76 (69), female: 19.05 (24)
+
+Unknown words ['assistenten', 'wirtschaftsprüfer', 'tischlerin', 'angestellte', 'fahrerin', 'anwalt', 'lehrer', 'rechtsassistent', 'mitarbeiterin', 'hygieniker', 'architektin', 'steuerzahlerin', 'planerin', 'barkeeper', 'therapeuten']
+Unkown: 33% (26.19) male: 17, female: 16
+
+Accuracy: 55.6 male: 71.01, female: 36.84 
+
+F1: male: 71.0, female: 51.8 
+

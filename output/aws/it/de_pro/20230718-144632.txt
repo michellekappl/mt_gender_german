@@ -1,0 +1,14 @@
+!!! ../translations/aws/de-it.txt
+Not translating since translation file exists: ../translations/aws/de-it.txt
+
+Gold distribution: male: 45.24 (57), female: 54.76 (69) 
+
+Predictions: male: 51.59 (65), female: 26.19 (33)
+
+Unknown words ['assistentin', 'tischlers', 'fahrer', 'friseurin', 'bibliothekarin', 'umzugshelfer', 'rezeptionistin', 'hygienikerin', 'instrukteurin', 'rechtsassistentin', 'steuerzahler', 'mitarbeiter', 'wissenschaftler']
+Unkown: 28% (22.22) male: 11, female: 17
+
+Accuracy: 59.5 male: 77.19, female: 44.93 
+
+F1: male: 72.1, female: 60.8 
+

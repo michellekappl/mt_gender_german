@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-ru.txt
+Not translating since translation file exists: ../translations/systran/de-ru.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 40.79 (31), female: 11.84 (9)
+
+Unknown words ['analysten', 'friseur', 'anwalts', 'anwalt', 'umzugshelferin']
+Unkown: 27% (35.53) male: 15, female: 12
+
+Accuracy: 27.6 male: 36.84, female: 18.42 
+
+F1: male: 40.6, female: 29.8 
+

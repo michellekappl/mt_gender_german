@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-ru.txt
+Not translating since translation file exists: ../translations/deepl/de-ru.txt
+
+Gold distribution: male: 50.0 (38), female: 50.0 (38) 
+
+Predictions: male: 35.53 (27), female: 22.37 (17)
+
+Unknown words ['geschäftsführerin', 'analysten', 'wirtschaftsprüfer', 'tischlerin', 'designerin', 'anwalts', 'sekretär']
+Unkown: 24% (31.58) male: 9, female: 15
+
+Accuracy: 39.5 male: 44.74, female: 34.21 
+
+F1: male: 52.3, female: 47.3 
+

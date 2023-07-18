@@ -1,0 +1,14 @@
+!!! ../translations/bing/de-ru.txt
+Not translating since translation file exists: ../translations/bing/de-ru.txt
+
+Gold distribution: male: 45.24 (57), female: 54.76 (69) 
+
+Predictions: male: 49.21 (62), female: 23.02 (29)
+
+Unknown words ['analystin', 'tischlers', 'wachmann', 'friseurin', 'sekretärin']
+Unkown: 25% (19.84) male: 12, female: 13
+
+Accuracy: 39.7 male: 54.39, female: 27.54 
+
+F1: male: 52.1, female: 38.7 
+

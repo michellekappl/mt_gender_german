@@ -98,9 +98,15 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
     print("Predictions: male: {} ({}), female: {} ({})\n".format(round((pred_cnt[GENDER.male] / all_total) * 100, 2), pred_cnt[GENDER.male],
                                                      round((pred_cnt[GENDER.female] / all_total) * 100, 2), pred_cnt[GENDER.female]))
     
-    print("unknown word {}".format(unknown))
-        
-    print(json.dumps(output_dict))
+    print("Unknown words {}".format(unknown))
+    print("Unkown: {}% ({}) male: {}, female: {}\n".format(count_unknowns[GENDER.female]+count_unknowns[GENDER.male], 
+                                                         round(((count_unknowns[GENDER.female]+count_unknowns[GENDER.male])/all_total)* 100, 2), 
+                                                         count_unknowns[GENDER.male],count_unknowns[GENDER.female]))
+    
+
+    print(f"Accuracy: {acc} male: {acc_male}, female: {acc_female} \n")
+
+    print(f"F1: male: {f1_male}, female: {f1_female} \n")
 
 
     male_prof = [prof for prof, vals in prof_dict.items()
@@ -120,7 +126,6 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
 
     amb_prof = [prof for prof, vals in prof_dict.items()
                 if len(set(map(itemgetter(0), vals))) != 1]
-
 
 def percentage(part, total):
     """

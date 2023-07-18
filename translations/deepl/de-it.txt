@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Il c
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Il custode ha pulito la stanza del designer e gli ha chiesto un consiglio.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| La segretaria ha corretto la sviluppatrice e le ha detto di non preoccuparsi.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| La segretaria ha corretto lo sviluppatore e gli ha detto di non preoccuparsi.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Lo sviluppatore non è riuscito a capire il consulente fiscale perché conosce solo la programmazione.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Lo sviluppatore non è riuscito a capire il consulente fiscale perché conosce solo la programmazione.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| Lo sviluppatore non è riuscito a capire il consulente fiscale perché conosce solo la programmazione.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Il sarto urlò contro l'autista e le diede della stupida.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La sarta urlò contro l'autista e gli diede dello stupido.
@@ -305,4 +305,4 @@ Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht er
 Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| L'avvocato ha interrogato il testimone finché non ha ceduto sotto pressione.
 Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| L'avvocato ha interrogato la testimone finché non ha ceduto sotto pressione.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| L'operatrice ha detto al pedone che avrebbe riparato il marciapiede il prima possibile.
-Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| L'operaio della Drt ha detto al pedone che avrebbe riparato il marciapiede il prima possibile.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| L'operaio ha detto al pedone che avrebbe riparato il marciapiede il prima possibile.

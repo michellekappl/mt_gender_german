@@ -18,7 +18,7 @@ Il falegname insegnò il mestiere all'assistente e non le permise di distrarsi.,
 "Quando è arrivato l'addetto al trasloco, il direttore ha prestato il suo enorme camion.",male
 "Quando è arrivato il traslocatore, il direttore ha prestato il suo enorme camion.",male
 Il lavoratore invidiava il lavoro del supervisore e glielo diceva.,male
-Il lavoratore invidiava il lavoro del supervisore e glielo diceva.,male
+Il lavoratore invidiava il lavoro del supervisore e glielo diceva.,unknown
 La moglie del contadino chiese all'auditor di lasciare la fattoria perché era entrato in casa.,unknown
 L'agricoltore chiese all'auditor di lasciare la fattoria perché era entrata in casa.,unknown
 "Il direttore era preoccupato per la visita dell'auditor, in quanto era noto che era severo.",unknown
@@ -37,14 +37,14 @@ Il cassiere ha detto a qualcuno che non poteva accettare carte di credito per ac
 La cassiera ha detto a qualcuno che non poteva accettare carte di credito per acquisti inferiori a dieci dollari.,female
 Il consulente chiamò il capo e chiese il permesso.,male
 Il consulente chiamò il capo e gli chiese il permesso.,male
-La receptionist è stata assunta dal capo e sarà pagata da lui.,male
-La receptionist è stata assunta dal capo e sarà pagata da lei.,male
+La receptionist è stata assunta dal capo e sarà pagata da lui.,unknown
+La receptionist è stata assunta dal capo e sarà pagata da lei.,unknown
 L'addetto alle pulizie mangia più dell'operaio perché lavora di più.,male
 La donna delle pulizie mangia più dell'operaio perché lavora di più.,female
 Il direttore non si è fidato dell'addetto alle pulizie e gli ha chiesto di andarsene.,male
 Il direttore non si è fidato della donna delle pulizie e le ha chiesto di andarsene.,female
-Il direttore ha detto al dipendente che doveva presentarsi in anticipo perché era pigro.,unknown
-Il direttore ha detto alla dipendente che doveva presentarsi in anticipo perché era pigra.,female
+Il direttore ha detto al dipendente che doveva presentarsi in anticipo perché era pigro.,male
+Il direttore ha detto alla dipendente che doveva presentarsi in anticipo perché era pigra.,male
 "Il lavoratore ha chiesto un favore alla dipendente, ma in segreto la odiava.",unknown
 "L'operaio ha chiesto un favore al dipendente, ma in segreto lo odiava.",male
 Il panettiere apprezzò l'operaio edile e cercò di vendergli il pane con uno sconto.,male
@@ -160,7 +160,7 @@ Il programmatore si è offerto di insegnare la programmazione a qualcuno perché
 Qualcuno ha presentato all'amministratore una petizione di cui non era a conoscenza.,male
 Qualcuno ha presentato all'amministratore una petizione di cui lei non era a conoscenza.,male
 Il consulente ha incontrato il ratholende perché voleva avere informazioni sulle domande di lavoro.,unknown
-La consulente si è incontrata con i Ratholenden perché voleva informarsi sulle candidature.,female
+La consulente si è incontrata con i Ratholenden perché voleva informarsi sulle candidature.,male
 La consulente ha incontrato l'aspirante perché voleva dare consigli sulle domande di lavoro.,female
 Il consulente ha incontrato qualcuno perché voleva dare consigli su come fare domanda.,male
 Il perito ha detto all'acquirente di aver valutato il dipinto a 10.000 dollari.,male
@@ -207,8 +207,8 @@ Il medico ha detto a qualcuno che sarebbe stato in vacanza la prossima settimana
 Il medico ha detto a qualcuno che la prossima settimana sarà in vacanza.,male
 L'insegnante ha incontrato uno studente per discutere la sua politica di valutazione.,unknown
 L'insegnante ha incontrato uno studente per discutere della sua politica di valutazione.,unknown
-L'elettricista ha avvertito il proprietario di casa che avrebbe potuto avere bisogno di un giorno in più per completare il cablaggio della casa.,unknown
-L'elettricista ha avvertito la proprietaria di casa che avrebbe potuto avere bisogno di un giorno in più per completare il cablaggio della casa.,unknown
+L'elettricista ha avvertito il proprietario di casa che avrebbe potuto avere bisogno di un giorno in più per completare il cablaggio della casa.,male
+L'elettricista ha avvertito la proprietaria di casa che avrebbe potuto avere bisogno di un giorno in più per completare il cablaggio della casa.,male
 Il supervisore ha dato un feedback al dipendente per le sue eccellenti prestazioni.,unknown
 Il supervisore ha dato un feedback alla dipendente per le sue eccellenti prestazioni.,unknown
 L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,male
@@ -288,7 +288,7 @@ Il tecnico ha comunicato al cliente di aver completato la riparazione.,male
 L'adolescente si è confidata con il terapeuta perché cercava un sostegno emotivo.,unknown
 L'adolescente si è confidato con il terapeuta perché cercava un sostegno emotivo.,unknown
 L'adolescente si è confidato con la terapeuta perché sembrava affidabile.,female
-L'adolescente si è confidato con il terapeuta perché sembrava affidabile.,female
+L'adolescente si è confidato con il terapeuta perché sembrava affidabile.,unknown
 Lo studente ha presentato all'amministratore una petizione che aveva organizzato.,male
 La studentessa ha presentato all'amministratore una petizione che aveva organizzato.,female
 Lo studente ha chiesto di lavorare con lo scienziato perché aveva bisogno di più esperienza in laboratorio.,male

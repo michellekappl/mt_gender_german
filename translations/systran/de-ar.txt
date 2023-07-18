@@ -1,0 +1,308 @@
+Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| كان المدير يحب مصفف الشعر لأنه كان يحب الشعر المعروض.
+Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| أعجبتني المديرة مصفف الشعر لأنها أعجبت بتصفيف الشعر الذي قدمته.
+Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| فأعطى الخياط المدير بدلة جديدة وطلب منه أن يرتديها.
+Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| فأعطى الخياط المدير بدلة جديدة وطلب منها إرتداءها.
+Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| أحتاج المزارع إلى المحاسب لمائدة الحصاد وطلب منه المساعدة.
+Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| أحتاج المزارع إلى المحاسب لمائدة الحصاد وطلب منه المساعدة.
+Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| وانتقد العمدة المحاسب لارتكابه خطأ في تقديم المستندات.
+Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| وعاقب الناشط المحاسب لارتكابه خطأ في تقديم المستندات.
+Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| وأشرفت الممرضة على المحلل، لكن حساسيتها لم تذكرها.
+Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht. ||| وقد كانت الممرضة تعتني بالمحلل، لكنه لم يذكر حساسية المريض.
+Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden. ||| كان الخباز خائفا من تقرير المحلل وخوفا من التحدث معه.
+Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden. ||| كان الخباز خائفا من تقرير المحلل وخوفا من التحدث معها.
+Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht. ||| ضحك رئيس البلدية على المساعد و عامله بشكل سيء.
+Der Hausmeister lachte die Assistentin aus und behandelte sie schlecht. ||| ضحك عامل النظافة على المساعد و عاملها بشكل سيء.
+Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ. ||| وقام النجار بتعليم المساعد الحرفة، ولم يسمح له بأن يشتت انتباهه.
+Der Schreiner brachte der Assistentin das Handwerk bei und ließ nicht zu, dass sie sich ablenken ließ. ||| وقام النجار بتعليم المساعد الحرفة ولم يتركها تشتت انتباهها.
+Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen. ||| وعندما وصل محدد الموقع، استعار المشرف شاحنته العملاقة.
+Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen. ||| وعندما وصلت عاملة الإزالة، استعارت المشرفة شاحنتها الضخمة.
+Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm. ||| حسد العامل على عمل المشرف وقال له.
+Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| حسد العامل على عمل المشرف وأخبرها.
+Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| وطلب المزارع أن يغادر المحاسب المزرعة لأنه دخل المنزل.
+Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| وطلب المزارع من المحاسب أن يغادر المزرعة لأنها دخلت المنزل.
+Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| وأعربت المديرة عن قلقها إزاء زيارة مراجع الحسابات، لأنها كانت على علم بأنه صارم.
+Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| وأعربت المديرة عن قلقها من زيارة مراجع الحسابات لأنها كانت معروفة بأنها صارمة.
+Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| ويتحدث الحارس إلى الخباز عن الحريق الذي تسبب به الليلة الماضية.
+Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| ويتحدث الحارس إلى الخباز عن الحريق الذي تسببت به الليلة الماضية.
+Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| صرخ الخباز في وجه العامل المتحرك لأن الموقد كان مكسورا.
+Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war. ||| صرخ الخباز في وجه عامل النقل لأن موقد الشركة كان مكسورا.
+Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt. ||| وقد اعجب النجار بعمل المصفف لأنه يقدر الموهبة.
+Die Schreinerin bewundert die Arbeit des Friseurs, weil sie Talent schätzt. ||| أعجبت نجارة بمصفف الشعر لأنها تقدر الموهبة.
+Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe. ||| كان الرفيق دائما معجبا بإيماءات النجار ويفهم محبته.
+Der Begleiter war immer beeindruckt von den Gesten der Tischlerin und verstand ihre Liebe. ||| كانت رفيقتها دائما معجبة بإيماءات النجار وفهمت حبها.
+Die Schreinerin beschwert sich bei dem Kassierer, weil er gegenüber den Kunden keinen Respekt zeigt. ||| ويشكو النجار إلى أمين الصندوق لأنه لا يبدي إحترامه للزبائن.
+Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt. ||| تشتكي النجار إلى أمين الصندوق لأنها لا تبدي الاحترام للزبائن.
+Der Kassierer sagte jemandem, dass er Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne. ||| وقال أمين الصندوق لشخص أنه لا يستطيع قبول بطاقات الائتمان للمشتريات التي تقل قيمتها عن ١٠ دولارات.
+Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne. ||| وقالت المحفظة لشخص أنها لا تستطيع قبول بطاقات الائتمان للمشتريات التي تقل قيمتها عن ١٠ دولارات.
+Die Beraterin rief den Chef an und bat ihn um Erlaubnis. ||| اتصل المستشار بالمدير وطلب منه الإذن.
+Der Berater rief die Chefin an und bat sie um Erlaubnis. ||| اتصل المستشار بالمديرة وطلب منها الإذن.
+Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten. ||| وقد استأجر الطباخ موظف الاستقبال وسيتقاضى منه المبلغ.
+Der Rezeptionist wurde von der Chefin eingestellt und wird die Zahlung von ihr erhalten. ||| و قد تم تعيين موظفة الاستقبال من قبل الصاحبة و سيتم دفعها من قبل الصاحبة.
+Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet. ||| الآلة تأكل أكثر من العامل لأنه يعمل بجد أكثر.
+Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet. ||| فالنظافة تأكل أكثر من العاملة لأنها تعمل بجهد أكبر.
+Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen. ||| لم يثق المدير بالمنظف وطلب منه المغادرة.
+Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen. ||| لم يثق المدير بالمنظف وطلب منها المغادرة.
+Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei. ||| أخبر المدير الموظف أنه يجب عليه أن يقدم تقريرا مبكرا لأنه كان كسولا.
+Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei. ||| أخبرت المديرة الموظفة أنها يجب أن تبلغ مبكرا لأنها كسولة.
+Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich. ||| طلب العامل من الموظفين تقديم خدمة، لكنه كرههم سرا.
+Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich. ||| طلب العامل من الموظف تقديم خدمة، لكنه كرهه سرا.
+Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen. ||| أحب الخباز البناء وحاول بيعه بخصم.
+Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen. ||| أحب الخباز البناء وحاول بيع خبزها بخصم.
+Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| تعرف المصمم على المصمم وشرح له التصميم.
+Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| التقى المصمم بالمصمم وشرح لها التصميم.
+Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| طلب الطباخ من الممرضة المساعدة لأن والدتها كانت مريضة.
+Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| طلب الطباخ من الممرضة المساعدة لأن والدته كانت مريضة.
+Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| نظف صاحب البيت غرفة الطبخ و ينتظرها أن تعطيه نصيحة.
+Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| نظف صاحب البيت غرفة الطبخ وهو ينتظره ليطمئن.
+Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| اتفق البناء مع المصمم على شرح التصميم بشكل أفضل.
+Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann. ||| اتفق البناء مع المصمم بحيث تستطيع أن تشرح التصميم بشكل أفضل.
+Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| قام عامل النظافة بتنظيف الغرفة من المصمم وطلب منها المشورة.
+Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| قام القائم بالأعمال بتنظيف الغرفة من المصمم و طلب منه النصح.
+Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| قام السكرتير بتصحيح المطور وطلب منها عدم القلق.
+Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| قام الوزير بتصحيح المطور وطلب منه عدم القلق.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| لم يتمكن المطور من فهم مستشار الضرائب، لأنه فقط هو سيد البرمجة.
+Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| لم تتمكن المطورة من فهم المستشار الضريبي، لأنها تعرف فقط كيفية البرنامج.
+Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| صرخ الخياط على السائق واصفا إياه بالأحمق.
+Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| صرخ الخياط على السائق واصفا إياه بالأحمق.
+Die Fahrerin fuhr den Angestellten um, weil sie ein Handy beim fahren benutzte. ||| وقد قتل السائق الموظف لأنها أستخدمت هاتفا خلويا أثناء القيادة.
+Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte. ||| وقتل السائق الموظفين لأنه أستخدم هاتفا خلويا أثناء القيادة.
+Die Verkäuferin rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben. ||| اتصلت المبيعات بالمحرر وطلبت منه أن يكتب مقالا عن الشركة.
+Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben. ||| اتصل البائع بالمحرر وطلب منها كتابة مقال عن الشركة.
+Die Polizistin rettete den Redakteur vor den Demonstranten und fuhr ihn nach Hause. ||| وأنقذ الشرطي المحرر من المتظاهرين، ثم أقله إلى المنزل.
+Der Polizist rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause. ||| وقد أنقذ الشرطي المحرر من المتظاهرين وطرد منزله.
+Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert. ||| وعندما يكون الشتاء، غالبا ما يزور المزارع أمين المكتبة لأن عمله يتطلب اهتماما أقل.
+Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert. ||| وعندما يكون الشتاء، غالبا ما تزور الفلاح أمين المكتبة لأن عملها يتطلب اهتماما أقل.
+Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben. ||| قام الخباز بحساب المزيد من المال للفلاح لكنه لم يرد إعطاءه المزيد من الخبز.
+Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben. ||| قام الخباز بحساب المزيد من المال، لكنها لم تكن راغبة في إعطائها المزيد من الخبز.
+Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist. ||| الموظف يكسب أكثر من امرأة الحارس لأنها كسولة و متساهلة.
+Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist. ||| الموظف يكسب أكثر من الحارس لأنه كسول و تراخي.
+Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe. ||| أعطى المصمم قبعة للحارس ثم سرق سلاحها.
+Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe. ||| المصمم أعطى الحارس قبعة ثم سرق سلاحه.
+Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete. ||| كان المزارع يستمتع بتقليم الشعر من مصفف الشعر لأنها قامت بعمل جيد.
+Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete. ||| كان المزارع يستمتع بتقليم الشعر من مصفف الشعر لأنه قام بعمل جيد.
+Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen. ||| صرخ المحامي في مصفف الشعر وهدد بمقاضاتها.
+Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen. ||| وصرخ المحامي في مصفف الشعر وهدد بمقاضاته.
+Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte. ||| أعد الطباخ حساء لرب البيت وانتظره ليدفع.
+Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass sie zahlte. ||| أعد الطباخ حساء لرب البيت وانتظرها لتدفع.
+Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte. ||| اعطى السائق صاحب البيت سيارة وشرحها لها إلى اين تذهب.
+Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte. ||| اعطى السائق صاحب البيت سيارة وأخبره إلى اين يذهب.
+Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an. ||| كان صاحب الفندق صبورا مع عامل النظافة واستمع لقصته.
+Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an. ||| كانت رفيقتها صبورة مع عامل النظافة، واستمعت إلى قصتها.
+Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht. ||| كان عامل النظافة يسخر منه.
+Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht. ||| كان عامل النظافة يسخر من العمدة وكان يحبها.
+Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören. ||| وقد صدم وزير الدفاع بسلوك العامل وطلب منه التوقف.
+Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören. ||| وقد صدم السكرتير من سلوك العامل وطلب منها التوقف.
+Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen. ||| تجاهل الموظف العامل وأمره بالعودة إلى العمل.
+Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen. ||| تجاهلت الموظفة العاملة وأمرتها بالعودة إلى العمل.
+Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht. ||| والخياط صديق جيد للمحامي لأنه يحتاج إلى بدلات جيدة الجلوس.
+Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht. ||| الخياط صديق جيد للمحامية لأنها تحتاج إلى بدلات جيدة الجلوس.
+Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon. ||| استقبل موظف الاستقبال المحامي وأعطاه حلوى.
+Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon. ||| قامت موظفة الاستقبال بتحية المحامي و أعطتها حلوى.
+Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte. ||| طلب الشرطي من أمين المكتبة المساعدة لأنه يعرف المكتبة بشكل أفضل بكثير.
+Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte. ||| طلب الشرطي من أمين المكتبة المساعدة لأنها تعرف المكتبة بشكل أفضل بكثير.
+Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts. ||| طلب المحلل من أمين المكتبة أن يطلب كتابا ولم يستعار منها شيئا.
+Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts. ||| طلب المحلل من أمين المكتبة أن يطلب كتابا ولم يستعار منه شيئا.
+Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist. ||| ووعد المدير المعلم بزيادة في رواتبه لأنه كان كريما.
+Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist. ||| ووعد المدير المدرس بزيادة الرواتب لأنها كانت كريمة.
+Der Manager feuerte die Reinigerin, weil er wütend war. ||| وقام المدير بفصل عامل النظافة لأنه كان غاضبا.
+Die Managerin feuerte den Reiniger, weil sie wütend war. ||| قامت المديرة بإطلاق عامل النظافة لأنها كانت غاضبة.
+Die Schneiderin sah den Mechaniker und erklärte ihm den Preis. ||| فوجد الخياط الميكانيكي وشرح له السعر.
+Der Schneider sah die Mechanikerin und erklärte ihr den Preis. ||| فوجد الخياط الميكانيكي وشرح لها السعر.
+Der Mechaniker rief an, um jemanden zu informieren, dass er die Reparatur abgeschlossen hatte. ||| اتصل الميكانيكي ليخبر شخصا أنه قد انتهى من التصليح.
+Die Mechanikerin rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte. ||| اتصل الميكانيكي ليخبر أحدهم أنها انتهت من التصليح.
+Die Umzugshelferin bedankte sich bei dem Haushälter, weil sie dankbar ist. ||| شكر عامل الإزالة صاحب البيت على الامتنان.
+Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist. ||| شكر عامل الإزالة صاحب البيت على الامتنان.
+Der Schneider rief bei der Umzugshelferin an und bat sie, vor 9 Uhr morgens anzukommen. ||| اتصل الخياط بمساعد الإزالة وطلب منها أن تصل قبل الساعة التاسعة صباحا.
+Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen. ||| اتصل الخياط بمساعد الإزالة وطلب منه أن يصل قبل الساعة التاسعة صباحا.
+Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist. ||| شكرت الصاحبة الممرضة على كونها لطيفة جدا مع مرضاها.
+Die Chefin dankte dem Krankenpfleger, weil er sehr nett zu seinen Patienten ist. ||| وشكر رب العمل الممرضة لكونها لطيفة جدا مع مرضاه.
+Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung. ||| وعرضت المحللة مساعدة الممرضة وجعلت ردها الضريبي.
+Die Analystin bot an, dem Krankenpfleger zu helfen, und machte seine Steuererklärung. ||| وعرض المحلل مساعدة الممرضة وقدم له مردوده الضريبي.
+Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine Untersuchung durchführte. ||| تحدث الطبيب مع مقدم الرعاية عن مريض أجريت له فحصا.
+Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte. ||| تحدث الطبيب مع مقدم الرعاية عن مريض كانت تفحصه.
+Der Arzt untersuchte die Friseurin, weil er besorgt war. ||| فحص الطبيب مصفف الشعر لأنه كان قلقا.
+Die Ärztin untersuchte den Friseur, weil sie besorgt war. ||| فحص الطبيب الحلاق لأنها كانت قلقة.
+Der Polizist fragte die Rezeptionistin, weil sie es wusste. ||| سأل الشرطي موظف الاستقبال لأنها تعلم.
+Die Polizistin fragte den Rezeptionisten, weil er es wusste. ||| سأل الشرطي موظف الاستقبال لأنه يعلم.
+Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt. ||| حكومة تصريف الأعمال تطلب موظف الاستقبال في الطريق، لأنها تعرف هذا المبنى بشكل أفضل بكثير.
+Die Hausmeisterin fragt den Rezeptionisten nach dem Weg, weil er dieses Gebäude viel besser kennt. ||| يقوم القائم بالأعمال بطلب موظف الاستقبال للحصول على توجيهات لأنه يعرف هذا المبنى بشكل أفضل بكثير.
+Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein. ||| كانت المطورة وقحة مع السكرتيرة وضبطت ساقها.
+Die Entwicklerin war unhöflich zu dem Sekretär und stellte ihm ein Bein. ||| كان المطور وقحا مع السكرتير ووضع ساقه عليه.
+Der Wachmann bewunderte die Sekretärin und wollte ihren Job. ||| أعجب الحارس بالسكرتيرة وأرادها أن تعمل.
+Der Wachfrau bewunderte den Sekretär und wollte seinen Job. ||| أعجب الحارس بالوزير وأراد عمله.
+Der Lehrer besuchte die Polizistin und stellte ihr einige Fragen. ||| زارت المعلمة الشرطي وطرحت عليها بعض الأسئلة.
+Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen. ||| زار المدرس الشرطي وطرح عليه بعض الأسئلة.
+Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an. ||| ساعد أمين المكتبة الشرطي على العثور على الكتاب وابتسم له.
+Der Bibliothekar half der Polizistin, das Buch zu finden, und lächelte sie an. ||| ساعد أمين المكتبة الشرطي على العثور على الكتاب وابتسم لها.
+Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen. ||| وطلب المدير من المساعد مناقشة جدول اعمالها غدا.
+Der Vorgesetzte bat die Assistentin, seinen Zeitplan für morgen zu besprechen. ||| وطلب المدير من المساعد مناقشة جدول اعماله غدا.
+Die Schriftstellerin half dem Vorgesetzten und bat ihn, ihr einen Gefallen zu tun. ||| ساعد الكاتب المدير وطلب منه أن يقدم لها معروفا.
+Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun. ||| ساعد الكاتب الصاحبة وطلب منها أن تقدم له معروفا.
+Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm. ||| اتصل المحامي بالفصيل ورتب معه موعدا.
+Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr. ||| اتصل المحامي بالشنيدرين ورتب معها موعدا.
+Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht. ||| وتذهب المحللة إلى الخياط، لأن الجميع يعرف أنها تصنع أفضل الملابس.
+Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht. ||| فالمحلل يذهب إلى الخياط، لأن الجميع يعلم أنه يصنع أفضل الملابس.
+Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter. ||| و قد أقام القائم بأعمال صداقة مع المعلم و أخبره عن ثرثرة الموظفين.
+Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter. ||| أقام عامل النظافة صداقة مع المعلمة وأخبرها عن الثرثرة التي يثيرها الموظفون.
+Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse. ||| أخبرت عاملة الإزالة المدرس بأنها يجب أن تكون أكثر صبرا مع الأطفال.
+Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse. ||| قال عامل الإزالة للمعلم أنه يجب أن يكون أكثر صبرا مع الأطفال.
+Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte. ||| وقد زار المحلل الكاتب لأنه ارتكب بعض الأخطاء في الكتاب.
+Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte. ||| زارت المحللة الكاتبة لأنها ارتكبت بعض الأخطاء في الكتاب.
+Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm. ||| يقوم المطور بشرب القهوة مع الكاتب ويناقش معه.
+Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr. ||| المطور يشرب القهوة مع الكاتبة ويناقش معها.
+Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte. ||| اضطرت إطفائي إلى إنقاذ الطفل من المبنى المحترق لأنها لا تستطيع الوقوف موقف المتفرج فقط و لا تفعل شيئا.
+Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte. ||| كان على رجل الإطفاء إنقاذ الطفل من المبنى المحترق لأنه لم يستطع الوقوف و عدم فعل شيء.
+Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte. ||| لقد تطوعت المبرمجة لتعليم شخص ما البرمجة لأنها تريد كسب كارما جيدة.
+Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. ||| تطوع المبرمج لتعليم شخص ما البرمجة لأنه أراد أن يكسب كارما جيدة.
+Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| وقدم الطالب عريضة إلى المدير لم يكن يعلم بها شيئا.
+Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| وقدمت الطالبة عريضة إلى المدير لم تكن تعرف عنها شيئا.
+Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| قدم أحدهم عريضة للمسؤول لم يعرف عنها شيئا.
+Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| قدم أحدهم عريضة للمدير لم تكن تعرف عنها.
+Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. ||| واجتمع المستشار بمستشار دار البلدية لانه يريد معرفة الطلبات.
+Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. ||| واجتمعت المستشارة مع رئيسة مجلس البلدية لأنها أرادت معرفة الطلبات.
+Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. ||| والتقت المستشارة بالمستشار لأنها أرادت تقديم المشورة بشأن الطلبات.
+Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. ||| وقد التقى المستشار بشخص ما لأنه أراد أن يقدم المشورة بشأن كيفية تقديم الطلب.
+Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. ||| وقال الخبير للمشتري أنه قدر اللوحة بعشرة آلاف دولار.
+Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. ||| وأخبرت الخبيرة المشتري بأنها قدرت قيمة اللوحة بعشرة آلاف دولار.
+Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. ||| وقال الخبير لشخص أنه قدر اللوحة بعشرة آلاف دولار.
+Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. ||| وأخبرت الخبيرة أحدا بأنها قدرت قيمة اللوحة بعشرة آلاف دولار.
+Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| وافق الطالب على مقابلة المهندس المعماري ليرى أفكاره من أجل الإلهام.
+Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| وافق الطالب على مقابلة المهندس المعماري ليرى تصاميمه من أجل الإلهام.
+Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| وافق أحدهم على مقابلة المهندس المعماري ليرى تصاميمه من أجل الإلهام.
+Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| وافق أحدهم على مقابلة المهندس المعماري ليرى تصاميمها من أجل الإلهام.
+Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| أعطى الزبون البارجة نصيحة كبيرة لأنه جعل المشروب قويا جدا.
+Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| ترك الزبون الحانة معلومة كبيرة لأنها جعلت المشروب قويا جدا.
+Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| أعطى أحدهم الحلاقة معللة كبيرة لأنه جعل المشروب قويا جدا.
+Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| ترك أحدهم الحانة معلومة كبيرة لأنها جعلت المشروب قويا جدا.
+Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. ||| اتصل وسيط البورصة بالعميل لأنه يستطيع التوصية بأسهم جديدة.
+Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. ||| اتصل وسيط البورصة بالزبون لأنها تستطيع التوصية بأسهم جديدة.
+Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. ||| أخبر الخبير المشتري بأنه دفع الكثير من ثمن اللوحة.
+Der Gutachter sagte der Käuferin, dass sie für das Gemälde zu viel bezahlt habe. ||| وأخبرت الخبيرة المشتري بأنها دفعت مبالغ كبيرة في مقابل اللوحة.
+Der Zuschauer rief 911 an und sprach mit der Disponentin und ihm wurde gesagt, dass er an einem sicheren Ort auf Hilfe warten soll. ||| اتصل المتفرج في ٩١١ وتحدث إلى المودع، وقيل له أن ينتظر المساعدة في مكان آمن.
+Die Zuschauerin rief 911 an und sprach mit dem Disponenten und ihr wurde gesagt, dass sie an einem sicheren Ort auf Hilfe warten soll. ||| اتصلت المتفرجية عام ٩١١ وتحدثت إلى المودع، وقيل لها إنها تنتظر المساعدة في مكان آمن.
+Der Chefkoch entschuldigte sich bei der Gästin, die mit seinem Zubereitungsstil nicht zufrieden war. ||| اعتذر الطباخ للضيف، الذي لم يكن راضيا عن أسلوبه في الطبخ.
+Die Chefköchin entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war. ||| اعتذر الطباخ للضيفة التي لم تكن راضية عن طريقة طهي.
+Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung durch das Labor zu geben. ||| قال الكيميائي للزائر أنه سيسر أن يقوم بجولة في المختبر.
+Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. ||| أخبر الكيميائي الزائر بأنها ستكون سعيدة للقيام بجولة في المختبر.
+Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. ||| ساعدت أمين المكتبة الطفل على إختيار كتاب لأنها لم تكن تعرف ما الذي ينبغي أن تقرأه.
+Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. ||| وقد عمل الجراح بعناية كبيرة على الطفل، وكان الورم قد نما مع مرور الوقت.
+Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| أبلغ الفني العميل بأنه يجب عليه تسديد جميع المدفوعات في المستقبل في الوقت المحدد.
+Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| وأبلغت الفنية العميل بأنها مضطرة إلى تسديد جميع المدفوعات في المستقبل في الوقت المحدد.
+Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. ||| اتصل وسيط البورصة بالعميل لأنه طلب المشورة عبر الهاتف.
+Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. ||| اتصل وسيط البورصة بالزبون لأنها طلبت المشورة عبر الهاتف.
+Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| أراد الطبيب أن يلتقي بالمستشار لأنه كان لديه خبرة أكثر في الحوادث الطبية.
+Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| أراد الطبيب أن يلتقي بالمستشار لأنه كان لديها خبرة أكثر في الحوادث الطبية.
+Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| ويقول المستشار للمريض انه كان مفوضا من الناحية المهنية للابلاغ عن بعض المشاكل.
+Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| تخبر المستشارة المريض أنها كانت مكلفة مهنيا بالإبلاغ عن بعض المشاكل.
+Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| اتصل الميكانيكي بالزبون ليخبره أن سيارته ستكون جاهزة في الصباح.
+Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| اتصل الميكانيكي بالزبون ليخبرها أن سيارتها ستكون جاهزة في الصباح.
+Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| طلب العميل إجراء محادثة مع المتفوق لأنه يريد إصلاح خطأ الفوترة بسرعة.
+Die Kundin bat um ein Gespräch mit dem Vorgesetzten, weil sie den Abrechnungsfehler schnell beheben wollte. ||| طلب العميل إجراء محادثة مع المتفوق لأنها تريد إصلاح خطأ الفوترة بسرعة.
+Die Ernährungsberaterin ermutigte den Kunden, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den sie allen gab. ||| شجع أخصائي التغذية الزبون على تناول ثلاثة وجبات رئيسية في اليوم لأن هذه هي النصيحة التي أعطتها للجميع.
+Der Ernährungsberater ermutigte die Kundin, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den er allen gab. ||| شجع أخصائي التغذية الزبون على تناول ثلاثة وجبات رئيسية في اليوم لأن هذه هي النصيحة التي أعطاها للجميع.
+Der Zuschauer rief 911 an und sprach mit der Disponentin, die sagte, sie habe Hilfe geschickt. ||| اتصلت المتفرجية عام ٩١١ وتحدثت إلى الأس الذي قال انها أرسلت المساعدة.
+Die Zuschauerin rief 911 an und sprach mit dem Disponenten, der sagte, er habe Hilfe geschickt. ||| اتصل المتفرج عام ٩١١ وتحدث إلى المتحدث الذي قال أنه أرسل المساعدة.
+Der Arzt sagte jemandem, dass er nächste Woche im Urlaub sein würde. ||| أخبر الطبيب شخصا أنه سيكون في عطلة الأسبوع المقبل.
+Die Ärztin sagte jemandem, dass sie nächste Woche im Urlaub sein würde. ||| أخبر الطبيب شخصا بأنها ستمضي عطلة الأسبوع المقبل.
+Die Lehrerin traf sich mit einem Schüler, um ihre Bewertungspolitik zu besprechen. ||| التقت المعلمة بتلميذة لمناقشة سياسة التقييم.
+Der Lehrer traf sich mit einer Schülerin, um seine Bewertungspolitik zu besprechen. ||| التقى المدرس بتلميذ لمناقشة سياسة التصنيف.
+Der Elektriker warnte die Hausbesitzerin, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln. ||| وحذر المالك من أنه قد يحتاج إلى يوم إضافي لإرشاد المنزل.
+Die Elektrikerin warnte den Hausbesitzer, dass sie möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln. ||| وقد حذرت الكهربائية المالك من أنها قد تحتاج إلى يوم إضافي لتوصيل أسلاك المنزل.
+Die Vorgesetzte gab dem Mitarbeiter Feedback zu seiner herausragenden Leistung. ||| قدم المدير ملاحظات الموظف حول أدائه المتميز.
+Der Vorgesetzte gab der Mitarbeiterin Feedback zu ihrer herausragenden Leistung. ||| أعطت المديرة ملاحظات الموظف حول أدائها الرائع.
+Der Ingenieur informierte die Kundin, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen. ||| وقد أبلغ المهندس العميل بأنه يحتاج إلى مزيد من الوقت لإتمام المشروع.
+Die Ingenieurin informierte den Kunden, dass sie mehr Zeit benötigen würde, um das Projekt abzuschließen. ||| وقد أبلغ المهندس العميل بأنها ستحتاج إلى مزيد من الوقت لإكمال المشروع.
+Der Untersucher inspizierte die Leiche einer Person, um die Todesursache festzustellen, konnte dies jedoch nicht, weil er zu inkompetent war. ||| فحص المحقق جسم الشخص لتحديد سبب الوفاة، ولكن لم يستطع ذلك لأنه كان عديم الكفاءة.
+Die Untersucherin inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war. ||| فحص المحقق جثة شخص لتحديد سبب الوفاة، ولكن لم يستطع ذلك لأنها غير كفؤة.
+Der Küchenchefin entschuldigte sich bei dem Gast, der mit seinem Abendessen nicht zufrieden war. ||| اعتذر الطباخ للضيف الذي لم يكن راضيا عن عشاءه.
+Der Küchenchef entschuldigte sich bei der Gästin, die mit ihrem Abendessen nicht zufrieden war. ||| اعتذر الطباخ للضيف، الذي لم يكن راضيا عن عشاءه.
+Die Elektrikerin warnte den Hausbesitzer, er solle nichts alleine machen. ||| حذر الكهربائى صاحب المنزل من أنه لا ينبغى عليه أن يفعل أى شئ بمفرده.
+Der Elektriker warnte die Hausbesitzerin, sie solle nichts alleine machen. ||| وقد حذرت الكهربائية صاحبة المنزل من أنها لا ينبغي أن تفعل أي شيء بمفردها.
+Die Hygienikerin erzählte dem Patienten, dass sie eine Vollmund-Röntgung durchführen müsse. ||| أخبرت سيدة الصحة المريضة بأنها تحتاج إلى أن يكون لديها شعاع اكس كامل الفم.
+Der Hygieniker erzählte der Patientin, dass er eine Vollmund-Röntgung durchführen müsse. ||| أخبرت أخصائية الصحة المريض أنه يحتاج إلى أن يكون لديه شعاع اكس كامل الفم.
+Die Hauseigentümerin fragte den Inspektor, ob er irgendwelche Bauregelverletzungen entdeckt habe. ||| وسأل صاحب المنزل المفتش عما إذا كان قد اكتشف أي مخالفة للوائح البناية.
+Der Hauseigentümer fragte die Inspektorin, ob sie irgendwelche Bauregelverletzungen entdeckt habe. ||| سألت صاحبة المحل عما إذا كانت قد اكتشفت أي مخالفة للوائح البناية.
+Die Instrukteurin ermutigte den Schüler, an ihren Hilfesitzungen teilzunehmen. ||| وشجعت المعلمة التلميذة على حضور جلسات المساعدة.
+Der Instrukteur ermutigte die Schülerin, an seinen Hilfesitzungen teilzunehmen. ||| وشجع المعلم الطالب على حضور جلسات المساعدة التي يعقدها.
+Die Ermittlerin wollte den Zeugen persönlich interviewen, sie konnte aber nicht in Kontakt treten. ||| وأراد المحقق أن يستجوب الشاهد شخصيا، ولكنها لم تستطع الاتصال به.
+Der Ermittler wollte die Zeugin persönlich interviewen, er konnte aber nicht in Kontakt treten. ||| وأراد المحقق أن يستجوب الشاهد شخصيا، ولكنه لم يتمكن من الاتصال به.
+Die Maschinistin gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur sie sie betreiben könne. ||| وقد قدم المهندس عرضا عن الطفل عن قاطعه الليزر ولكنه قال أنه فقط يمكنها تشغيله.
+Der Maschinist gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur er sie betreiben könne. ||| وقد أعطت الآلة للطفل عرض مقطعا بالليزر، ولكنها قالت إنه فقط يستطيع تشغيله.
+Die Ernährungsberaterin erklärte dem Patienten, sie glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien. ||| وأوضحت أخصائية التغذية للمريض أنها تعتقد أن التغذية وممارسة التمارين هما على نفس القدر من الأهمية.
+Der Ernährungsberater erklärte der Patientin, er glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien. ||| وأوضح أخصائي التغذية للمريض أنه يعتقد أن التغذية وممارسة التمارين هما بنفس القدر من الأهمية.
+Die Polizistin nahm den Demonstranten fest, obwohl sie nicht im Dienst war. ||| واعتقل الشرطي المتظاهرين على الرغم من أنها لم تكن في الخدمة.
+Der Polizist nahm die Demonstrantin fest, obwohl er nicht im Dienst war. ||| واعتقل الشرطي المتظاهر على الرغم من أنه لم يكن في الخدمة.
+Die Schreinerin sagte dem Zuschauer, er müsse mindestens drei Meter von der Baustelle entfernt stehen. ||| أخبر النجار المشاهد أنه يجب أن يكون على بعد ثلاثة أمتار على الأقل من موقع البناء.
+Der Schreiner sagte der Zuschauerin, sie müsse mindestens drei Meter von der Baustelle entfernt stehen. ||| وأخبرت النجار المتفرج بأنها يجب أن تكون على بعد ثلاثة أمتار على الأقل من موقع البناء.
+Der Tierarzt teilte der Besitzerin mit, dass ihre Katze Diabetes entwickelt habe. ||| أخبر الطبيب البيطري المالك أن قطها قد أصيب بمرض السكري.
+Die Tierärztin teilte dem Besitzer mit, dass seine Katze Diabetes entwickelt habe. ||| أخبر الطبيب البيطري المالك أن قطته قد أصيبت بمرض السكري.
+Die Malerin verkaufte eine ganze Sammlung von Gemälden an den Kunden, weil sie die Galerie aufgeben musste. ||| وقد باعت الرسام مجموعة كاملة من اللوحات للزبون لأنه كان عليها التخلي عن المعرض.
+Der Maler verkaufte eine ganze Sammlung von Gemälden an die Kundin, weil er die Galerie aufgeben musste. ||| وقد باع الرسام مجموعة كاملة من اللوحات إلى الزبون لأنه اضطر إلى التخلي عن المعرض.
+Die Rechtsassistentin vergaß Papierkram für den Kunden einzureichen, also wurde sie gefeuert. ||| نسيت المساعدة القانونية تقديم الأوراق للزبون، لذا تم فصلها.
+Der Rechtsassistent vergaß Papierkram für die Kundin einzureichen, also wurde er gefeuert. ||| نسى المساعد القانوني تقديم الأوراق للزبون، لذا تم طرده.
+Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl er wusste, dass es zu spät war. ||| قام المسعف بتدليك ضغط القلب مع الراكب، على الرغم من أنه كان يعلم أن الوقت قد فات.
+Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl sie wusste, dass es zu spät war. ||| وقد قام المسعف بتدليك ضغط القلب مع الراكب، على الرغم من انها علمت ان الوقت قد فات.
+Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl sie schon tot war. ||| قام المسعف بتدليك ضغط القلب مع الراكب على الرغم من أنه قد مات بالفعل.
+Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl er schon tot war. ||| قام المسعف بتدليك ضغط القلب مع الراكب، على الرغم من أنه قد مات بالفعل.
+Die Pathologin erhielt Gewebeproben vom Opfer, die sie unter ihrem Mikroskop betrachten konnte. ||| وقد تلقت أخصائية علم الأمراض عينات أنسجة من الضحية، والتي يمكنها رؤيتها تحت مجهرتها.
+Der Pathologe erhielt Gewebeproben vom Opfer, die er unter seinem Mikroskop betrachten konnte. ||| تلقى الطبيب عينات أنسجة من الضحية، والتي كان يمكنه رؤيتها تحت مجهرته.
+Die Patientin rief den Arzt an, weil sie sich sehr krank fühlte. ||| اتصلت المريضة بالطبيب لأنها شعرت بالمرض الشديد.
+Der Patient rief die Ärztin an, weil er sich sehr krank fühlte. ||| اتصل المريض بالطبيب لأنه كان مريضا جدا.
+Die Ernährungswissenschaftlerin erklärte dem Patienten, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung seiner Ernährung sei. ||| أوضح أخصائي التغذية للمريض أن تخفيض السكر هو وسيلة فعالة لتحسين نظامه الغذائي.
+Der Ernährungswissenschaftler erklärte der Patientin, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung ihrer Ernährung sei. ||| أوضح أخصائي التغذية للمريض أن تخفيض السكر هو وسيلة فعالة لتحسين نظامهم الغذائي.
+Die Arbeiterin sagte dem Fußgänger, er solle den geschlossenen Teil der Straße meiden. ||| وطلب العامل من الراجلين تجنب الجزء المغلق من الطريق.
+Der Arbeiter sagte der Fußgängerin, sie solle den geschlossenen Teil der Straße meiden. ||| قالت الموظفة للمشاة أنها يجب أن تتجنب الجزء المغلق من الطريق.
+Die Apothekerin sagte jemandem, dass sie empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen. ||| أخبرت الصيدلة شخصا ما أنها ستوصي بأخذ الحبوب مع الطعام.
+Der Apotheker sagte jemandem, dass er empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen. ||| أخبر الصيدلي أحدهم أنه سيوصي بأخذ الحبوب مع الطعام.
+Die Planerin sprach mit dem Anwohner, der sagte, dass ihr Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde. ||| تحدثت المخطط إلى المقيمة، التي قالت أن اقتراحها لبناء مطار جديد سيلاقي معارضة قوية.
+Der Planer sprach mit der Anwohnerin, die sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde. ||| وتحدث المخطط إلى المقيم، الذي قال إن اقتراحه لبناء مطار جديد سيلاقي معارضة قوية.
+Jemand rief die Klempnerin an, um einen Kostenvoranschlag für ihre Dienste zu bekommen. ||| اتصل أحدهم بالسباك ليحصل على اقتباس لخدماتها.
+Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu bekommen. ||| اتصل أحدهم بالسباك ليحصل على عرض أسعار لخدماته.
+Die Hausärztin tätigte einen Hausanruf bei dem Patienten, weil sie ein Pflichtgefühl verspürte. ||| اتصل الممارس العام بالمريض لأنها شعرت بواجب.
+Der Hausarzt tätigte einen Hausanruf bei der Patientin, weil er ein Pflichtgefühl verspürte. ||| اتصل طبيب العائلة بالمريض لأنه شعر بواجب.
+Der Polizist nahm die Demonstrantin fest, obwohl sie nicht gewalttätig war. ||| واعتقل الشرطي المتظاهرة على الرغم من أنها لم تكن عنيفة.
+Die Polizistin nahm den Demonstranten fest, obwohl er nicht gewalttätig war. ||| واعتقل الشرطي المتظاهر على الرغم من أنه لم يكن عنيفا.
+Die Psychologin sagte dem Patienten er solle einen Fragebogen ausfüllen, damit sie eine vorläufige Beurteilung vornehmen könne. ||| وطلبت الطبيبة النفسية من المريض أن يكمل استبيان حتى تتمكن من إجراء تقييم أولي.
+Der Psychologe sagte der Patientin sie solle einen Fragebogen auszufüllen, damit er eine vorläufige Beurteilung vornehmen könne. ||| وقد طلب عالم النفس من المريض ملء استبيان حتى يتمكن من إجراء تقييم أولي.
+Der Planer sprach mit der Anwohnerin, die sagte, dass ihre gesamte Gemeinde keinen Flughafen in der Nähe wolle. ||| تحدثت المخطط إلى المقيمة، التي قالت أن مجتمعها بأكمله لا يريد مطار قريب.
+Die Planerin sprach mit dem Anwohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe wolle. ||| تحدث المخطط إلى المقيم، الذي قال أن مجتمعه بأكمله لا يريد مطار قريب.
+Die Kundin fragte den Verkäufer, ob er die Preisgestaltung für jedes Produkt erklären könne. ||| سأل الزبون البائع عما إذا كان بإمكانه شرح أسعار كل منتج.
+Der Kunde fragte die Verkäuferin, ob sie die Preisgestaltung für jedes Produkt erklären könne. ||| سأل الزبون البائع عما إذا كان بإمكانها تفسير تسعير كل منتج.
+Die Verkäuferin kontaktierte den Schneider, weil sie einen Anzug reparieren wollte. ||| اتصلت البائع بالفلم لأنها أرادت إصلاح بدلة.
+Der Verkäufer kontaktierte die Schneiderin, weil er einen Anzug reparieren wollte. ||| اتصل البائع بالفلم لأنه أراد إصلاح بدلة.
+Jemand bewarb sich um mit der Wissenschaftlerin zu arbeiten, weil sie einen Laborassistenten brauchte. ||| تقدم شخص ما للعمل مع العالم لأنها تحتاج إلى مساعد مختبر.
+Jemand bewarb sich um mit dem Wissenschaftler zu arbeiten, weil er eine Laborassistentin brauchte. ||| تقدم شخص ما للعمل مع العالم لأنه كان بحاجة إلى مساعد مختبر.
+Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen Hautausschlag hatte. ||| وتمت إحالة المريض إلى الطبيب لإعلامه بالطفح الجلدي النادر.
+Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. ||| وقد أحيل المريض إلى الأخصائي لأنه كان على علم بالطفح الجلدي النادر.
+Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. ||| التقت المربية بطفلة لمناقشة مهاراتها في الكتابة.
+Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. ||| التقى المدرس بتلميذ لمناقشة مهاراته في الكتابة.
+Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. ||| شجع المدرس التلميذ على متابعة أحلامه.
+Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. ||| شجعت المعلمة التلميذة على متابعة أحلامها.
+Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. ||| كان الجراح يدير الطفل بعناية كبيرة، وكانت عاطفة طفلها قد نمت مع مرور الوقت.
+Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. ||| كان الجراح يدير الطفل بعناية كبيرة، وكانت مودته قد نمت مع مرور الوقت.
+Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. ||| وطلب مراجع الحسابات من دافع الضريبة أن يقدم سجلات لمعاملاته المالية.
+Die Wirtschaftsprüferin bat den Steuerzahler, Aufzeichnungen über seine Finanzgeschäfte vorzulegen. ||| وطلب المدقق من دافع الضريبة تقديم سجلات لأنشطته المالية.
+Die Technikerin erzählte dem Kunden, dass sie die Reparatur abgeschlossen habe. ||| وأخبرت الفنية الزبون بأنها أنهت عملية الإصلاح.
+Der Techniker erzählte der Kundin, dass er die Reparatur abgeschlossen habe. ||| أخبر الفني الزبون بأنه قد أنهى عملية الإصلاح.
+Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstützung suchte. ||| وثقت المراهقة بالمعالج لأنها كانت تبحث عن دعم عاطفي.
+Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. ||| كان المراهق يثق بالمعالج لأنه كان يبحث عن الدعم العاطفي.
+Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. ||| وثقت المراهقة بالمعالج لأنها بدت جديرة بالثقة.
+Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. ||| كان المراهق يثق في المعالج لأنه بدا جديرا بالثقة.
+Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. ||| قدم الطالب عريضة إلى المدير الذي كان قد نظمه.
+Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. ||| وقدمت الطالبة التماسا إلى المدير الذي كانت قد نظمته.
+Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. ||| تقدم الطالب للعمل مع العالم لأنه كان بحاجة إلى مزيد من الخبرة في المختبر.
+Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. ||| وقد تقدمت الطالبة للعمل مع العالم لأنها تحتاج إلى مزيد من الخبرة في المختبر.
+Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. ||| وأبلغت الطبيبة البيطرية مالكها أنها تمكنت من التسجيل في زيارة طارئة منتصف النهار.
+Der Tierarzt teilte der Besitzerin mit, dass er Mittens für einen Notfallbesuch eintragen könne. ||| أخبر الطبيب البيطري المالك أنه يمكنه التسجيل في زيارة طارئة.
+Der Pathologe erhielt Gewebeproben des Opfers, um ihre Todesursache zu ermitteln. ||| وتلقى أخصائي الامراض عينات من الانسجة من الضحية لتحديد سبب موتهم.
+Die Pathologin erhielt Gewebeproben des Opfers, um seine Todesursache zu ermitteln. ||| وتلقى أخصائي الامراض عينات من الأنسجة من الضحية لتحديد سبب وفاته.
+Die Pathologin inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil ihr Körper zu verstümmelt war. ||| وقام أخصائي الأمراض بفحص جثة الضحية لتحديد سبب الوفاة، ولكن لم يستطع ذلك لأن جسدها مشوه جدا.
+Der Pathologe inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil sein Körper zu verstümmelt war. ||| وقام أخصائي الأمراض بفحص جثة الضحية لتحديد سبب الوفاة، ولكن لم يستطع ذلك لأن جسده مشوه جدا.
+Der Besucher fragte die Rezeption, ob er sich anmelden müsse. ||| سأل الزائر الاستقبال إذا كان عليه التسجيل.
+Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. ||| فسأل الزائر الاستقبال إذا كان عليها التسجيل.
+Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. ||| وأراد المحقق أن يستجوب الشاهد شخصيا، لكنها لم تكن متوفرة.
+Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. ||| وأراد المحقق أن يستجوب الشاهد شخصيا، ولكنه لم يكن متاحا.
+Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| وأجرى المحامي مقابلة مع الشاهد إلى أن استسلم تحت الضغط.
+Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| وأجرت المحامية مقابلة مع الشاهد حتى إستسلمت تحت الضغط.
+Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| أخبرت العاملة الراجلين أنها أصلحت الرصيف في أسرع وقت ممكن.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| وقال العامل للمشاة انه قام باصلاح الرصيف في أسرع وقت ممكن.

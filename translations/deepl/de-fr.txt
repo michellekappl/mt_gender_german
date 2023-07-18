@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Le c
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| La concierge a nettoyé la pièce pour le designer et lui a demandé conseil.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Le secrétaire a corrigé la développeuse et lui a demandé de ne pas s'inquiéter.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| La secrétaire a corrigé le développeur et lui a demandé de ne pas s'inquiéter.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Le développeur ne pouvait pas comprendre la conseillère fiscale, car il ne maîtrise que la programmation.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Le développeur ne pouvait pas comprendre la conseillère fiscale, car il ne maîtrise que la programmation.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| La développeuse ne pouvait pas comprendre le conseiller fiscal, car elle ne maîtrise que la programmation.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Le tailleur a crié sur la conductrice et l'a traitée d'idiote.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La couturière a crié sur le chauffeur et l'a traité d'imbécile.
@@ -305,4 +305,4 @@ Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht er
 Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| L'avocate a interrogé le témoin jusqu'à ce qu'il cède sous la pression.
 Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| L'avocat a interrogé le témoin jusqu'à ce qu'il cède sous la pression.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| L'ouvrière a dit au piéton qu'elle réparait le trottoir aussi vite que possible.
-Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Drt ouvrier a dit à la piétonne qu'il réparait le trottoir aussi vite que possible.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| L'ouvrier a dit à la piétonne qu'il réparait le trottoir dès que possible.

@@ -91,7 +91,7 @@ L'accompagnatrice a été patiente avec le concierge et a écouté son histoire.
 L'accompagnateur a été patient avec la concierge et a écouté son histoire.,female
 La femme de ménage rendait service au concierge qui l'appréciait.,male
 "Le nettoyeur rendait service à la concierge, qui l'appréciait.",male
-"Choquée par le comportement de l'ouvrier, la secrétaire lui a demandé d'arrêter.",unknown
+"Choquée par le comportement de l'ouvrier, la secrétaire lui a demandé d'arrêter.",female
 "Choqué par le comportement de l'ouvrière, le secrétaire lui a demandé d'arrêter.",unknown
 L'employée a ignoré l'ouvrier et lui a ordonné de se remettre au travail.,male
 L'employé a ignoré l'ouvrière et lui a ordonné de se remettre au travail.,female
@@ -155,9 +155,9 @@ Le développeur prend un café avec l'écrivaine et discute avec elle.,female
 "Le pompier a dû sauver l'enfant du bâtiment en feu, car il ne pouvait pas rester les bras croisés sans rien faire.",male
 La programmeuse s'est portée volontaire pour apprendre à quelqu'un à programmer parce qu'elle voulait gagner un bon karma.,female
 Le programmeur s'est porté volontaire pour enseigner la programmation à quelqu'un parce qu'il voulait gagner un bon karma.,male
-"L'étudiante a présenté une pétition à l'administrateur, qui n'était pas au courant.",unknown
+"L'étudiante a présenté une pétition à l'administrateur, qui n'était pas au courant.",female
 L'étudiant a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.,female
-"Quelqu'un a présenté une pétition à l'administrateur, dont il n'était pas au courant.",unknown
+"Quelqu'un a présenté une pétition à l'administrateur, dont il n'était pas au courant.",female
 Quelqu'un a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.,female
 La conseillère a rencontré le candidat au rattrapage parce qu'il voulait s'informer sur les candidatures.,male
 Le conseiller a rencontré la conseillère parce qu'elle voulait s'informer sur les candidatures.,female
@@ -240,7 +240,7 @@ La vétérinaire a informé le propriétaire que son chat avait développé un d
 "La peintre a vendu toute une collection de tableaux au client, car elle a dû abandonner la galerie.",female
 "Le peintre a vendu toute une collection de tableaux à la cliente, car il a dû abandonner la galerie.",male
 "L'assistante juridique a oublié de déposer des papiers pour le client, elle a donc été virée.",female
-"L'assistant juridique a oublié de déposer des papiers pour la cliente, alors il a été viré.",male
+"L'assistant juridique a oublié de déposer des papiers pour la cliente, alors il a été viré.",unknown
 "L'ambulancier a pratiqué un massage cardiaque sur la passagère, tout en sachant qu'il était trop tard.",male
 "L'ambulancière a pratiqué un massage cardiaque sur le passager, tout en sachant qu'il était trop tard.",female
 L'ambulancier a pratiqué un massage cardiaque sur la passagère alors qu'elle était déjà morte.,female

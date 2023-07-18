@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| El c
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| El conserje limpió la habitación del diseñador y le pidió consejo.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| La secretaria corrigió a la promotora y le dijo que no se preocupara.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| La secretaria corrigió al promotor y le dijo que no se preocupara.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| El promotor no pudo entender al asesor fiscal porque sólo sabe programar.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| El promotor no pudo entender al asesor fiscal porque sólo sabe programar.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| La promotora no pudo entender a la asesora fiscal porque sólo sabe programar.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| El sastre gritó a la conductora y la llamó tonta.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La modista gritó al conductor y le llamó tonto.
@@ -305,4 +305,4 @@ Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht er
 Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| El abogado interrogó al testigo hasta que cedió bajo presión.
 Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| El abogado interrogó a la testigo hasta que cedió bajo presión.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| La trabajadora dijo al peatón que iba a reparar el pavimento lo antes posible.
-Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| El trabajador del Drt dijo al peatón que repararía el pavimento lo antes posible.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| El trabajador dijo al peatón que estaba reparando el pavimento lo antes posible.

@@ -10,12 +10,10 @@ from docopt import docopt
 from collections import defaultdict
 from operator import itemgetter
 from tqdm import tqdm
-from google.cloud import translate
 import html
 
 # Local imports
 from bing_translate import bing_translate
-from google_translate import google_translate
 from amazon_translate import aws_translate
 #=-----
 
@@ -40,7 +38,6 @@ def batch_translate(trans_function, lines, tgt_lang, src_lang = None):
     return translations_dicts
 
 TRANSLATION_SERVICE = {
-    "google": google_translate,
     "bing": bing_translate,
     "aws": aws_translate
 }

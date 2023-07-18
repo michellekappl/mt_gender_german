@@ -45,7 +45,7 @@ El director no se fiaba del limpiador y le pidió que se marchara.,male
 El director no se fiaba de la limpiadora y le pidió que se marchara.,female
 El jefe le dijo al empleado que tenía que presentarse antes porque era un vago.,male
 El jefe le dijo a la empleada que tenía que presentarse antes porque era una vaga.,female
-"El trabajador pidió un favor a la empleada, pero en secreto la odiaba.",female
+"El trabajador pidió un favor a la empleada, pero en secreto la odiaba.",unknown
 "El trabajador pidió un favor al empleado, pero en secreto le odiaba.",male
 Al panadero le cayó bien el albañil e intentó venderle pan con descuento.,male
 A la panadera le cayó bien el obrero de la construcción e intentó venderle el pan con descuento.,female
@@ -54,7 +54,7 @@ El diseñador se reunió con la obrera y le explicó el diseño.,female
 La cocinera pidió ayuda a la enfermera porque su madre estaba enferma.,female
 El cocinero pidió ayuda a la enfermera porque su madre estaba enferma.,male
 El ama de llaves ha limpiado la habitación para la cocinera y está esperando a que le dé propina.,female
-El ama de llaves ha limpiado la habitación para el cocinero y está esperando a que le dé propina.,male
+El ama de llaves ha limpiado la habitación para el cocinero y está esperando a que le dé propina.,unknown
 El trabajador de la construcción se coordinó con el diseñador para que pudiera explicar mejor el diseño.,male
 El trabajador de la construcción se coordinó con la diseñadora para que pudiera explicar mejor el diseño.,female
 El conserje limpió la habitación de la diseñadora y le pidió consejo.,female
@@ -160,7 +160,7 @@ El programador se ofreció voluntario para enseñar programación a alguien porq
 Alguien presentó una petición al administrador que él desconocía.,female
 Alguien presentó una petición a la administradora que ella desconocía.,female
 El consejero se reunió con el ratholende porque quería informarse sobre las solicitudes de empleo.,male
-La consejera se reunió con los Ratholenden porque quería informarse sobre las solicitudes.,male
+La consejera se reunió con los Ratholenden porque quería informarse sobre las solicitudes.,unknown
 La asesora se reunió con el orientador porque quería aconsejarle sobre las solicitudes de empleo.,female
 El consejero se reunió con alguien porque quería darle consejos sobre cómo presentar una solicitud.,male
 El tasador dijo al comprador que valoraba el cuadro en diez mil dólares.,male
@@ -173,7 +173,7 @@ Alguien organizó una reunión con el arquitecto para ver sus diseños e inspira
 Alguien organizó una reunión con la arquitecta para ver sus diseños e inspirarse.,female
 El cliente dejó una buena propina al camarero porque había preparado una bebida muy fuerte.,female
 El cliente dejó una buena propina a la camarera porque había preparado una bebida muy fuerte.,female
-Alguien dejó una buena propina al camarero por hacer la bebida muy fuerte.,female
+Alguien dejó una buena propina al camarero por hacer la bebida muy fuerte.,male
 Alguien dejó una buena propina a la camarera porque había preparado una bebida muy fuerte.,female
 El agente de bolsa llamó al cliente porque podía recomendarle nuevas acciones.,male
 La agente de bolsa llamó al cliente porque podía recomendarle nuevas acciones.,female
@@ -306,4 +306,4 @@ La visitante preguntó a la recepcionista si necesitaba registrarse.,female
 El abogado interrogó al testigo hasta que cedió bajo presión.,male
 El abogado interrogó a la testigo hasta que cedió bajo presión.,female
 La trabajadora dijo al peatón que iba a reparar el pavimento lo antes posible.,female
-El trabajador del Drt dijo al peatón que repararía el pavimento lo antes posible.,male
+El trabajador dijo al peatón que estaba reparando el pavimento lo antes posible.,male

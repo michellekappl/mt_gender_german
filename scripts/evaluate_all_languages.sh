@@ -7,8 +7,8 @@ corpus_fn=$1
 out_folder=$2
 
 
-langs=("ar" "uk" "he" "ru" "it" "fr" "es" "de")
-mt_systems=("sota" "aws" "bing" "google" "systran" )
+langs=("ar" "uk" "he" "ru" "it" "fr" "es")
+mt_systems=("deepl" "bing" "google" "systran" )
 
 
 # Make sure systran has all translations

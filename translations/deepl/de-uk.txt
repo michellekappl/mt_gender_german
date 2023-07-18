@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| До
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Доглядач прибрав у кімнаті дизайнера і попросив у нього поради.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Секретарка виправила розробницю і сказала, щоб вона не хвилювалася.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| Секретарка виправила розробника і сказала, щоб він не хвилювався.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Розробник не міг зрозуміти податкового консультанта, бо знається лише на програмуванні.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Розробник не міг зрозуміти податкового консультанта, бо знається лише на програмуванні.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| Розробник не міг зрозуміти податкового консультанта, тому що вона знається лише на програмуванні.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Кравець накричав на водія і назвав її дурепою.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| Кравчиня накричала на водія і назвала його дурнем.
@@ -305,4 +305,4 @@ Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht er
 Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| Адвокат допитував свідка, поки той не здався під тиском.
 Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| Адвокат допитував свідка, поки вона не здалася під тиском.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| Робітниця сказала пішоходу, що ремонтує тротуар якнайшвидше.
-Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Працівник ДРТ сказав пішоходу, що відремонтує покриття якнайшвидше.
+Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Робітник сказав пішоходу, що ремонтує тротуар якнайшвидше.

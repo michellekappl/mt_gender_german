@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf.
@@ -305,4 +305,4 @@ Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht er
 Die Anwältin befragte den Zeugen, bis er unter Druck nachgab.
 Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte.
-Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.

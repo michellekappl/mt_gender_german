@@ -1,0 +1,2 @@
+male	1	Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.	Geschäftsführer
+female	1	Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.	Geschäftsführerin

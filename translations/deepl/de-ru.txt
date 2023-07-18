@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| См
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Сторож убирает комнату дизайнера и спрашивает у него совета.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Секретарь поправила разработчика и сказала, чтобы она не волновалась.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| Секретарь поправил разработчика и сказал, чтобы он не беспокоился.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Разработчик не смог понять налогового консультанта, поскольку тот знает только программирование.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Разработчик не смог понять налогового консультанта, поскольку тот знает только программирование.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| Разработчик не смог понять налогового консультанта, потому что она знает только программирование.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Портной накричал на водителя и назвал ее дурой.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| Портниха накричала на водителя и назвала его дураком.
@@ -305,4 +305,4 @@ Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht er
 Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| Адвокат допрашивал свидетеля до тех пор, пока тот не сдался под давлением.
 Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| Адвокат допрашивал свидетельницу до тех пор, пока она не сдалась под давлением.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| Рабочий сказал пешеходу, что отремонтирует тротуар как можно скорее.
-Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Работник Drt сообщил пешеходу, что отремонтирует тротуар в кратчайшие сроки.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Рабочий сказал пешеходу, что отремонтирует тротуар как можно скорее.

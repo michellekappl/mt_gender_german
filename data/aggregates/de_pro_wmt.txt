@@ -29,7 +29,7 @@ female	7	Der Haushälter hat den Raum für die Köchin gereinigt und wartet dara
 male	6	Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann.	Designer
 male	4	Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat.	Designer
 male	4	Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen.	Entwickler
-male	1	Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.	Entwickler
+male	1	Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.	Entwickler
 male	4	Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf.	Fahrer
 male	1	Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte.	Fahrer
 female	4	Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben.	Redakteurin

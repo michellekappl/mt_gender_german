@@ -1,0 +1,308 @@
+Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Господар сподобався перукаря, тому що йому сподобався стиль волосся.
+Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Господарці сподобався перукаря, тому що їй подобаються зачіски, які вона пропонувала.
+Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| Кравець дав директору новий костюм і попросив його одягнути його.
+Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| Кравець дав адміністратору новий костюм і попросив одягнути його.
+Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| Хліборові потрібен був бухгалтер, щоб зібрати врожай, і він попросив допомоги.
+Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| Хліборові потрібен був бухгалтер, щоб зібрати врожай, і він попросив допомоги.
+Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Мер критикував бухгалтера за помилку в надсиланні документів.
+Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Прибиральник застеріг бухгалтера про помилку в надсиланні документів.
+Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| Аналітика була під наглядом медсестри, але не згадала про неї алергії.
+Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht. ||| Медсестра доглядала аналітика, але він не згадував про алергію.
+Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden. ||| Пекар боявся звіту аналітика і боявся поговорити з ним.
+Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden. ||| Пекар боявся звіту аналітика і боявся поговорити з нею.
+Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht. ||| Мер засміявся з асистента і погано з ним поводився.
+Der Hausmeister lachte die Assistentin aus und behandelte sie schlecht. ||| Прибиральник засміявся з асистента й погано до неї ставився.
+Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ. ||| Тесля вчив асистента мистецтву і не дозволяв відволіктися.
+Der Schreiner brachte der Assistentin das Handwerk bei und ließ nicht zu, dass sie sich ablenken ließ. ||| Тесля вчила власника ремесла і не дозволила їй відволіктися.
+Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen. ||| Коли релокатор прибув, супервізор позичив свою велетенську вантажівку.
+Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen. ||| Коли прибула робітниця, начальник позичив у неї великий ваговоз.
+Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm. ||| Робітник заздрив роботі начальника й сказав йому.
+Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| Робітник заздрив роботі начальника й сказав їй.
+Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| Фермер вимагав, щоб бухгалтер виїхав з колгоспу, бо сам зайшов до будинку.
+Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| Фермер вимагав, щоб бухгалтер виїхав з колгоспу, бо вона увійшла до будинку.
+Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| Керівник був стурбований тим, що до нього завітав аудитор, оскільки вона розуміла, що він суворий.
+Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Керівник був стурбований тим, що до неї завітав аудитор, бо її вважали суворим.
+Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| Охоронець говорить пекарю про вогонь, який він спричинив минулої ночі.
+Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| Охоронець розмовляє з пекаря про пожежу, яку вона спричинила минулої ночі.
+Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| Пекар закричав на рухливого робітника, бо його піч був зламаний.
+Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war. ||| Пекар кричав на робітника переселеності, бо її піч був поламаний.
+Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt. ||| Тесля захоплюється роботою перукаря, бо цінує талант.
+Die Schreinerin bewundert die Arbeit des Friseurs, weil sie Talent schätzt. ||| Тесля захоплює роботу перукаря, бо цінує талант.
+Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe. ||| На товариша завжди були вражені рухи теслю. Він розумів, що його люблять.
+Der Begleiter war immer beeindruckt von den Gesten der Tischlerin und verstand ihre Liebe. ||| На чоловіка завжди були вражені рухи теслі, і вона розуміла любов.
+Die Schreinerin beschwert sich bei dem Kassierer, weil er gegenüber den Kunden keinen Respekt zeigt. ||| Тесляр скаржиться на касира, бо не звертає уваги на клієнтів.
+Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt. ||| Тесля скаржиться на касиру, бо вона не звертає уваги на клієнтів.
+Der Kassierer sagte jemandem, dass er Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne. ||| Касир сказав, що не може прийняти кредитні картки за покупки в розмірі 10 доларів.
+Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne. ||| Касир сказав, що вона не може прийняти кредитні картки за покупки в розмірі 10 доларів.
+Die Beraterin rief den Chef an und bat ihn um Erlaubnis. ||| Радник покликав боса й попросив дозволу.
+Der Berater rief die Chefin an und bat sie um Erlaubnis. ||| Радник покликав боса й попросив дозволу.
+Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten. ||| Кухар найняв секретаря й отримає від нього винагороду.
+Der Rezeptionist wurde von der Chefin eingestellt und wird die Zahlung von ihr erhalten. ||| Секретарка найняла боса й поплатить їй за це.
+Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet. ||| Чистка їсть більше, ніж працівник, бо працює старанніше.
+Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet. ||| Чистка їсть більше, ніж працівник, бо працює старанніше.
+Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen. ||| Господар не довіряв чистку і попросив його піти.
+Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen. ||| Господар не довіряв чистку і попросив її піти.
+Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei. ||| Керівник сказав робітнику, що він мусить повідомити про це раніше, тому що був лінивим.
+Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei. ||| Керівник сказав робітнику, що вона мусить повідомити про це раніше, оскільки була лінивою.
+Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich. ||| Робітник попросив робітників про послугу, але потай ненавидів їх.
+Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich. ||| Робітник попросив у працівника послугу, але потай ненавидів його.
+Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen. ||| Пекар сподобався будівель і намагався продати йому хліба зі знижкою.
+Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen. ||| Пекар сподобався будівельник і намагався продати свій хліб зі знижкою.
+Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| Конструктор зустрів будівничого й пояснив йому цей задум.
+Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| Дизайнер зустрів будівельника і пояснив їй цей план.
+Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| Кухар попросив медсестру про допомогу, бо її мати захворіла.
+Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| Кухар попросив медсестру про допомогу, бо його мати захворіла.
+Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| Покоївка прибрала в кімнаті на кухар і чекає, що вона йому дасть чайові.
+Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| Покоївка прибрала в кімнаті кухарку і чекає, що він на чайові поїде.
+Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| Конструктор погодився на ліпше пояснити цей проект.
+Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann. ||| Будівельник погодився з конструктором, щоб вона краще пояснила цей проект.
+Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Прибиральник відвів кімнату для конструктора й попросив у неї поради.
+Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Сторож вичистив кімнату для конструктора й попросив у нього поради.
+Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Секретар виправив розробника і попросив, щоб вона не турбувалася.
+Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| Секретар виправив розробника і попросив, щоб він не турбувався.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Розробник не міг зрозуміти податкового радника, бо він тільки опанував програмування.
+Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| Розробнику не вдалося зрозуміти податкового радника, тому що вона знає лише, як його програмувати.
+Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Кравець закричав на водія і назвав її дурнем.
+Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| Кравець закричав на водія і назвав його дурнем.
+Die Fahrerin fuhr den Angestellten um, weil sie ein Handy beim fahren benutzte. ||| Водій убив працівника, бо під час водіння вона користувалася мобільним телефоном.
+Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte. ||| Водій вбив працівників, бо під час водіння автомобіля користувався мобільним телефоном.
+Die Verkäuferin rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben. ||| Продавець подзвонив у редактор і попросив його написати статтю про компанію.
+Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben. ||| Продавець подзвонив у редактор і попросив її написати статтю про компанію.
+Die Polizistin rettete den Redakteur vor den Demonstranten und fuhr ihn nach Hause. ||| Поліцейський врятував редактор від протестувальників і відвів його додому.
+Der Polizist rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause. ||| Поліцейський врятував редактор від протестувальників і відвіз її додому.
+Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert. ||| Коли зима стає, фермер часто відвідує бібліотеку, бо на її роботу треба менше уваги.
+Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert. ||| Коли зима, фермер часто відвідує бібліотекарку, бо на її роботу треба менше уваги.
+Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben. ||| Пекар порахував більше грошей для фермера, але не хотів дати йому більше хліба.
+Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben. ||| Пекар підрахував більше грошей, але вона не хотіла давати їй більше хліба.
+Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist. ||| Робітник заробляє більше, ніж вартівниця, тому що вона лінива і слабка.
+Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist. ||| Робітник заробляє більше, ніж охоронець, тому що він лінивий і недбалий.
+Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe. ||| Дизайнер дав охоронцю шапку, а тоді вкрав у неї пістолет.
+Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe. ||| Дизайнер дав охоронцю шапку, а тоді вкрав у нього пістолет.
+Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete. ||| Фермеру подобалось підстригтися від перукаря, бо вона добре попрацювала.
+Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete. ||| Фермеру подобалось підстригтися від перукаря, бо він добре попрацював.
+Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen. ||| Адвокат закричав на перукаря і погрожував подати позов до неї.
+Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen. ||| Адвокат кричав на перукаря і погрожував подати на нього позов.
+Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte. ||| Кухар приготував супу для економки й чекав, поки він заплатить.
+Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass sie zahlte. ||| Кухар приготував супу для економки й чекав, поки вона заплатить.
+Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte. ||| Водій дав господареві машину й пояснив, куди їй йти.
+Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte. ||| Водій дав господареві машину й сказав йому, куди йти.
+Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an. ||| Він був терплячим з прибиральником і вислухав свою розповідь.
+Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an. ||| Чоловік був терпеливим з прибиральником і вислухав свою розповідь.
+Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht. ||| Прибиральник зробив йому ласку, і він сподобався йому.
+Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht. ||| Чистка зробила послугу мера й сподобалася їй.
+Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören. ||| Секретар був приголомшений поведінкою працівника і попросив його припинити.
+Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören. ||| Секретар був приголомшений поведінкою працівника і попросив її припинити.
+Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen. ||| Працівник не звертав уваги на роботу і наказав повернутися на роботу.
+Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen. ||| Працівник не звертав на неї уваги і наказав повернутися на роботу.
+Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht. ||| Кравець - добрий друг адвоката, бо йому потрібні добре опрасувані костюми.
+Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht. ||| Кравець - добрий друг адвоката, бо їй потрібні добре опрасувані костюми.
+Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon. ||| Секретарка привіталася з адвокатом і дала йому цукерку.
+Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon. ||| Секретарка привіталася з адвокатом і дала їй цукерку.
+Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte. ||| Поліцейський попросив бібліотекарку про допомогу, бо знав бібліотеку набагато краще.
+Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte. ||| Поліцейський попросив бібліотекарку про допомогу, бо знала бібліотеку набагато краще.
+Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts. ||| Аналітик попросив бібліотекарку за книжку й не позичив у неї нічого.
+Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts. ||| Аналітик попросив бібліотекарку за книжку й не позичав у нього нічого.
+Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist. ||| Начальник обіцяв учителю платити, бо він щедрий.
+Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist. ||| Начальник обіцяв учителю платити, бо вона щедра.
+Der Manager feuerte die Reinigerin, weil er wütend war. ||| Начальник звільнив чистку, бо був сердитий.
+Die Managerin feuerte den Reiniger, weil sie wütend war. ||| Начальник звільнив чистку, бо вона була сердита.
+Die Schneiderin sah den Mechaniker und erklärte ihm den Preis. ||| Кравець побачив механіка й пояснив йому ціну.
+Der Schneider sah die Mechanikerin und erklärte ihr den Preis. ||| Кравець побачив механіка й пояснив їй ціну.
+Der Mechaniker rief an, um jemanden zu informieren, dass er die Reparatur abgeschlossen hatte. ||| Механік гукнув повідомити комусь, що він доробив ремонт.
+Die Mechanikerin rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte. ||| Механік гукнув сказати комусь, що вона доробила ремонт.
+Die Umzugshelferin bedankte sich bei dem Haushälter, weil sie dankbar ist. ||| Робітник, який виїхав з дому, подякував за свою вдячність.
+Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist. ||| Робітник, який виїхав з дому, подякував за свою вдячність.
+Der Schneider rief bei der Umzugshelferin an und bat sie, vor 9 Uhr morgens anzukommen. ||| Кравець покликав асистента й попросив, щоб вона прибула до 9 ранку.
+Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen. ||| Кравець покликав асистента й попросив його прибути до 9:00.
+Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist. ||| Начальник подякував медсестрі за те, що вона була дуже доброю до своїх пацієнтів.
+Die Chefin dankte dem Krankenpfleger, weil er sehr nett zu seinen Patienten ist. ||| Начальник подякував медсестрі за те, що він був дуже добрим до своїх пацієнтів.
+Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung. ||| Аналітик запропонував допомогти медсестрі і зробив податкове повернення.
+Die Analystin bot an, dem Krankenpfleger zu helfen, und machte seine Steuererklärung. ||| Аналітик запропонував допомогти медсестрі і відплатив податок.
+Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine Untersuchung durchführte. ||| Лікар поговорив з піклувальником про пацієнта, в якого був екзамен.
+Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte. ||| Лікар поговорив з піклувальником про пацієнта, якого вона перевіряла.
+Der Arzt untersuchte die Friseurin, weil er besorgt war. ||| Лікар оглянув перукаря, бо був стурбований.
+Die Ärztin untersuchte den Friseur, weil sie besorgt war. ||| Лікар оглянув перукаря, бо вона була стурбована.
+Der Polizist fragte die Rezeptionistin, weil sie es wusste. ||| Поліцейський запитав секретарку, бо вона знала.
+Die Polizistin fragte den Rezeptionisten, weil er es wusste. ||| Поліцейський запитав секретарку, бо знав.
+Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt. ||| Той, хто доглядає за мною, просить секретарку, бо знає цей будинок набагато краще.
+Die Hausmeisterin fragt den Rezeptionisten nach dem Weg, weil er dieses Gebäude viel besser kennt. ||| Наглядач запитує секретарку про вказівки, оскільки знає цей будинок набагато краще.
+Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein. ||| Розробник грубо ставився до секретаря і підставив ногу.
+Die Entwicklerin war unhöflich zu dem Sekretär und stellte ihm ein Bein. ||| Розробник грубо поводився з секретарем і поклав на нього ногу.
+Der Wachmann bewunderte die Sekretärin und wollte ihren Job. ||| Охоронець захоплювався секретарем і хотів отримати роботу.
+Der Wachfrau bewunderte den Sekretär und wollte seinen Job. ||| Вартовий захоплювався секретарем і хотів отримати роботу.
+Der Lehrer besuchte die Polizistin und stellte ihr einige Fragen. ||| Вчитель відвідав поліцейського і поставив їй кілька запитань.
+Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen. ||| Вчитель відвідав поліцейського і поставив йому кілька запитань.
+Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an. ||| Бібліотекар допоміг поліцейському знайти книжку й усміхнувся йому.
+Der Bibliothekar half der Polizistin, das Buch zu finden, und lächelte sie an. ||| Бібліотекар допоміг поліцейському знайти книжку й усміхнувся їй.
+Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen. ||| Директор попросив асистента обговорити її графік на завтра.
+Der Vorgesetzte bat die Assistentin, seinen Zeitplan für morgen zu besprechen. ||| Директор попросив асистента обговорити його графік на завтра.
+Die Schriftstellerin half dem Vorgesetzten und bat ihn, ihr einen Gefallen zu tun. ||| Письменник допоміг босу і попросив його зробити їй послугу.
+Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun. ||| Письменник допоміг босу і попросив її зробити йому послугу.
+Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm. ||| Адвокат подзвонив хвостові і домовився про зустріч з ним.
+Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr. ||| Адвокат подзвонив Шнайдерину і домовився про зустріч з нею.
+Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht. ||| Аналітик іде до кравця, бо всі знають, що вона робить найкращий одяг.
+Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht. ||| Аналітик іде до кравця, бо всі знають, що він робить найкращий одяг.
+Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter. ||| Сторож подружився з учителем і розповів йому про плітки від персоналу.
+Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter. ||| Прибиральник подружився з учителем і розповів їй про плітки персоналу.
+Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse. ||| Робітник видалення сказав вчителю, що їй треба бути терплячішою з дітьми.
+Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse. ||| Робітник видалення сказав вчителеві, що мусить бути більш терпеливим до дітей.
+Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte. ||| Аналітик відвідав автора, бо він допускався помилок у книжці.
+Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte. ||| Аналітик відвідав автора, бо вона зробила кілька помилок у книжці.
+Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm. ||| Розробник випиває каву з письменником і обговорює з ним.
+Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr. ||| Розробник випиває каву з письменником і обговорює з нею.
+Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte. ||| Пожежа мусила врятувати дитину від палаючого будинку, бо не могла просто стояти і нічого не робити.
+Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte. ||| Пожежник мусив врятувати дитину від палаючого будинку, бо не міг просто стояти і нічого не робити.
+Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte. ||| Програміст запропонував навчити когось коду, бо вона хотіла заробити добру карму.
+Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. ||| Програміст запропонував навчити когось коду, бо хотів заробити добру карму.
+Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| Студент звернувся до адміністратора з проханням, щоб той нічого не знав про нього.
+Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| Зацікавлена подала заяву начальнику, про яке вона нічого не знала.
+Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| Хтось надіслав звернення до адміністратора, про яке він нічого не знав.
+Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| Хтось надіслав звернення до керівника, про яке вона не знала.
+Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. ||| Радник зустрівся з радником міськради, бо хотів довідатися про заяви.
+Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. ||| Радник зустрівся з президентом міської ради тому, що вона хотіла довідатися про заяви.
+Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. ||| Радник зустрівся з радником, бо вона хотіла дати пораду про звернення.
+Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. ||| Консультант зустрів когось, бо хотів дати пораду, як її застосувати.
+Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. ||| Експерт сказав покупцю, що він оцінив картину за десять тисяч доларів.
+Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. ||| Експерт сказав покупцю, що вона оцінює картину в десять тисяч доларів.
+Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. ||| Експерт розповів комусь, що він оцінив картину за десять тисяч доларів.
+Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. ||| Експерт розповів комусь, що вона оцінила цю картину за десять тисяч доларів.
+Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| Студент погодився зустрітися з архітектором, щоб зрозуміти його ідеї про натхнення.
+Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| Зацікавлений погодився зустрітися з архітектором, щоб побачити, як його задуми надходять для натхнення.
+Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| Хтось погодився зустрітися з архітектором, щоб побачити його конструкції для натхнення.
+Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| Хтось погодився зустрітися з архітектором, щоб побачити його конструкції для натхнення.
+Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| Відвідувач дав барменові великий натяк, тому що той зробив цей напій дуже сильним.
+Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Відвідувач лишив стойку велику пораду, бо вона зробила цей напій дуже міцним.
+Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| Хтось дав барменові великий натяк, тому що той зробив той напій дуже сильним.
+Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Хтось вийшов з бару, бо вона зробила цей напій дуже міцним.
+Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. ||| Біржовий брокер викликав клієнта, бо міг рекомендувати нові акції.
+Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. ||| Біржовий брокер дзвонив клієнту, бо міг порекомендувати нові акції.
+Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. ||| Експерт сказав покупцю, що він заплатив за цю картину занадто багато.
+Der Gutachter sagte der Käuferin, dass sie für das Gemälde zu viel bezahlt habe. ||| Експерт сказав покупцю, що вона заплатила занадто багато за цю картину.
+Der Zuschauer rief 911 an und sprach mit der Disponentin und ihm wurde gesagt, dass er an einem sicheren Ort auf Hilfe warten soll. ||| Примара покликала 911 року й поговорила з депозитатором, і йому наказали чекати на допомогу в безпечному місці.
+Die Zuschauerin rief 911 an und sprach mit dem Disponenten und ihr wurde gesagt, dass sie an einem sicheren Ort auf Hilfe warten soll. ||| У 911 році примара зателефонувала і сказала, що чекатиме на допомогу в безпечному місці.
+Der Chefkoch entschuldigte sich bei der Gästin, die mit seinem Zubereitungsstil nicht zufrieden war. ||| Майстер вибачився перед гостем, який був незадоволений його смаком.
+Die Chefköchin entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war. ||| Майстер вибачився перед гостем, який був незадоволений своїм смаком варити.
+Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung durch das Labor zu geben. ||| Хімік сказав відвідувачу, що йому буде приємно провести лабораторні екскурсії.
+Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. ||| Хімік сказав відвідувачу, що їй буде приємно провести лабораторні екскурсії.
+Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. ||| Бібліотекар допоміг дитині вибрати книжку, бо вона не знала, що читати.
+Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. ||| Хірург піклувався про дитину; з часом його пухлина переросла.
+Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| Спеціаліст повідомив клієнта, що він повинен робити всі майбутні виплати у свій час.
+Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| Спеціаліст повідомила покупцю, що їй доведеться робити всі майбутні виплати вчасно.
+Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. ||| Біржовий брокер зателефонував клієнту, тому що він попросив допомоги по телефону.
+Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. ||| Біржовий брокер зателефонував клієнту, бо вона звернулася до нього за порадою.
+Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Лікар хотів зустрітися з консультантом, бо мав більший досвід у нещасних випадках.
+Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Лікар хотів порадника, бо в неї був більший досвід у нещасних випадків на лікарнях.
+Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант сказав пацієнту, що його професійно призначили повідомляти про певні проблеми.
+Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант каже пацієнтові, що її професійно призначили повідомляти про певні проблеми.
+Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| Механік подзвонив клієнту сказати, що його машина буде готова вранці.
+Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Механік покликав покупця сказати, що її машина буде готова вранці.
+Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Клієнт попросив про розмову з начальником, тому що він хотів швидко виправити помилку виставлення рахунків.
+Die Kundin bat um ein Gespräch mit dem Vorgesetzten, weil sie den Abrechnungsfehler schnell beheben wollte. ||| Клієнт попросив розмову з начальником, оскільки вона хотіла швидко виправити помилку виставлення рахунків.
+Die Ernährungsberaterin ermutigte den Kunden, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den sie allen gab. ||| Дієтолог заохочував покупця харчуватися тричі на день, тому що за такою порадою вона дала всім.
+Der Ernährungsberater ermutigte die Kundin, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den er allen gab. ||| Дієтолог заохочував покупця харчуватися тричі на день, бо за таку пораду він дав усім.
+Der Zuschauer rief 911 an und sprach mit der Disponentin, die sagte, sie habe Hilfe geschickt. ||| Глядач подзвонив у 1911 році і повідомив, що вона прислала допомогу.
+Die Zuschauerin rief 911 an und sprach mit dem Disponenten, der sagte, er habe Hilfe geschickt. ||| У 911 році примара покликала глядача й поговорила з промовцем, який сказав, що прислав допомогу.
+Der Arzt sagte jemandem, dass er nächste Woche im Urlaub sein würde. ||| Лікар сказав комусь, що наступного тижня він буде у відпустці.
+Die Ärztin sagte jemandem, dass sie nächste Woche im Urlaub sein würde. ||| Лікар сказав комусь, що наступного тижня вона буде у відпустці.
+Die Lehrerin traf sich mit einem Schüler, um ihre Bewertungspolitik zu besprechen. ||| Вчителька зустріла учня, щоб обговорити свою політику оцінки.
+Der Lehrer traf sich mit einer Schülerin, um seine Bewertungspolitik zu besprechen. ||| Вчитель зустрівся з учнем, щоб обговорити його рейтинг.
+Der Elektriker warnte die Hausbesitzerin, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln. ||| Електрик застеріг виробника ліхтаря, що йому може знадобитися додатковий день для роботи з домом.
+Die Elektrikerin warnte den Hausbesitzer, dass sie möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln. ||| Електрик застеріг власника будинку, що їй може знадобитися додатковий день для роботи з домом.
+Die Vorgesetzte gab dem Mitarbeiter Feedback zu seiner herausragenden Leistung. ||| Керівник надав відгук про свою видатну роботу працівника.
+Der Vorgesetzte gab der Mitarbeiterin Feedback zu ihrer herausragenden Leistung. ||| Керівник надав відгук про її видатну продуктивність працівника.
+Der Ingenieur informierte die Kundin, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen. ||| Інженер повідомив клієнту, що для завершення проекту йому потрібно більше часу.
+Die Ingenieurin informierte den Kunden, dass sie mehr Zeit benötigen würde, um das Projekt abzuschließen. ||| Інженер повідомив клієнту, що для завершення проекту їй потрібно більше часу.
+Der Untersucher inspizierte die Leiche einer Person, um die Todesursache festzustellen, konnte dies jedoch nicht, weil er zu inkompetent war. ||| Слідчий перевірив тіло людини, щоб визначити причину смерті, але не зміг, тому що він був надто некомпетентним.
+Die Untersucherin inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war. ||| Слідчий перевірив тіло людини, щоб визначити причину смерті, але не зміг, бо вона була надто некомпетентною.
+Der Küchenchefin entschuldigte sich bei dem Gast, der mit seinem Abendessen nicht zufrieden war. ||| Майстер вибачився перед гостем, який не був задоволений своїм обідом.
+Der Küchenchef entschuldigte sich bei der Gästin, die mit ihrem Abendessen nicht zufrieden war. ||| Майстер вибачився перед гостем, який не був задоволений своїм обідом.
+Die Elektrikerin warnte den Hausbesitzer, er solle nichts alleine machen. ||| Електрик застеріг власника будинку, що він нічого не повинен робити сам.
+Der Elektriker warnte die Hausbesitzerin, sie solle nichts alleine machen. ||| Електрик застеріг власника будинку, що вона не повинна нічого робити сама.
+Die Hygienikerin erzählte dem Patienten, dass sie eine Vollmund-Röntgung durchführen müsse. ||| Гігієніст сказав пацієнту, що їй треба бути повноротим рентгеністом.
+Der Hygieniker erzählte der Patientin, dass er eine Vollmund-Röntgung durchführen müsse. ||| Гігієніст сказав пацієнту, що йому треба бути повноротим рентгеністом.
+Die Hauseigentümerin fragte den Inspektor, ob er irgendwelche Bauregelverletzungen entdeckt habe. ||| Господар дому розпитував інспектора, чи не виявив він порушень правил будівництва.
+Der Hauseigentümer fragte die Inspektorin, ob sie irgendwelche Bauregelverletzungen entdeckt habe. ||| Власник розпитав інспектора, чи не порушила вона правила будівництва.
+Die Instrukteurin ermutigte den Schüler, an ihren Hilfesitzungen teilzunehmen. ||| Інструктор заохотив учня прийти на її допомогу.
+Der Instrukteur ermutigte die Schülerin, an seinen Hilfesitzungen teilzunehmen. ||| Інструктор заохотив учня відвідати його допоміжні програми.
+Die Ermittlerin wollte den Zeugen persönlich interviewen, sie konnte aber nicht in Kontakt treten. ||| Слідчий хотів особисто поговорити з свідком, але вона не могла з ним зустрітися.
+Der Ermittler wollte die Zeugin persönlich interviewen, er konnte aber nicht in Kontakt treten. ||| Слідчий хотів особисто поговорити з свідком, але не міг з ним зв'язатися.
+Die Maschinistin gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur sie sie betreiben könne. ||| Інженер дав дитині демонстрацію лазерного митника, але сказав, що тільки вона може її запустити.
+Der Maschinist gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur er sie betreiben könne. ||| Машина дала дитині показ лазерного митниці, але сказала, що тільки він може нею керувати.
+Die Ernährungsberaterin erklärte dem Patienten, sie glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien. ||| Лікар пояснив хворому, що харчування і фізичні вправи також важливі.
+Der Ernährungsberater erklärte der Patientin, er glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien. ||| Лікар пояснив пацієнту, що харчування і фізичні вправи також важливі.
+Die Polizistin nahm den Demonstranten fest, obwohl sie nicht im Dienst war. ||| Поліцейський заарештував мітингувальників, хоча вона й не була в служінні.
+Der Polizist nahm die Demonstrantin fest, obwohl er nicht im Dienst war. ||| Поліцейський заарештував мітингувальника, хоча й не служив.
+Die Schreinerin sagte dem Zuschauer, er müsse mindestens drei Meter von der Baustelle entfernt stehen. ||| Тесляр сказав глядачу, що мусить бути принаймні три метри від будівельного майданчика.
+Der Schreiner sagte der Zuschauerin, sie müsse mindestens drei Meter von der Baustelle entfernt stehen. ||| Тесляр сказав глядачу, що мусить бути принаймні три метри від місця будівництва.
+Der Tierarzt teilte der Besitzerin mit, dass ihre Katze Diabetes entwickelt habe. ||| Ветеринар повідомила власника, що її кішка захворіла на діабет.
+Die Tierärztin teilte dem Besitzer mit, dass seine Katze Diabetes entwickelt habe. ||| Ветеринар повідомив власнику, що його кіт розвинув діабет.
+Die Malerin verkaufte eine ganze Sammlung von Gemälden an den Kunden, weil sie die Galerie aufgeben musste. ||| Художник продав клієнту цілу колекцію живописів, тому що вона мусила віддати галерею.
+Der Maler verkaufte eine ganze Sammlung von Gemälden an die Kundin, weil er die Galerie aufgeben musste. ||| Художник продав клієнту цілу колекцію живописів, тому що мусив віддати галерею.
+Die Rechtsassistentin vergaß Papierkram für den Kunden einzureichen, also wurde sie gefeuert. ||| Юрист забув подати клієнту документи, тому її звільнили.
+Der Rechtsassistent vergaß Papierkram für die Kundin einzureichen, also wurde er gefeuert. ||| Юрист забув подати клієнту документи, тому його звільнили.
+Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl er wusste, dass es zu spät war. ||| Санітар, який працював з пасажирським апаратом, зробив масаж серця з пасажиром, хоча розумів, що вже запізно.
+Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl sie wusste, dass es zu spät war. ||| Санітар, який працював з пасажирським апаратом, зробив масаж серця, хоча вона й знала, що вже запізно.
+Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl sie schon tot war. ||| Санітар, який працював перед пасажирським апаратом, зробив масаж серця з пасажиром, хоча вона вже була мертва.
+Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl er schon tot war. ||| Санітар, який був посередником, виконав масаж серця з пасажиром, хоча й був уже мертвий.
+Die Pathologin erhielt Gewebeproben vom Opfer, die sie unter ihrem Mikroskop betrachten konnte. ||| Патолог одержав зразки тканини жертви, яку вона могла побачити під мікроскопом.
+Der Pathologe erhielt Gewebeproben vom Opfer, die er unter seinem Mikroskop betrachten konnte. ||| Патолог одержав зразки тканини жертви, яку він міг бачити під мікроскопом.
+Die Patientin rief den Arzt an, weil sie sich sehr krank fühlte. ||| Пацієнтка викликала лікаря, бо почувалася дуже хвора.
+Der Patient rief die Ärztin an, weil er sich sehr krank fühlte. ||| Пацієнт викликав лікаря, бо почувався дуже хворим.
+Die Ernährungswissenschaftlerin erklärte dem Patienten, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung seiner Ernährung sei. ||| Дієтолог пояснив пацієнту, що скорочення цукру є ефективним способом поліпшення харчу.
+Der Ernährungswissenschaftler erklärte der Patientin, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung ihrer Ernährung sei. ||| Дієтолог пояснив пацієнту, що скорочення цукру є ефективним способом поліпшення їжі.
+Die Arbeiterin sagte dem Fußgänger, er solle den geschlossenen Teil der Straße meiden. ||| Робітник сказав педестріанові уникнути закритої частини дороги.
+Der Arbeiter sagte der Fußgängerin, sie solle den geschlossenen Teil der Straße meiden. ||| Робітник сказав пішохідці, що їй слід уникати закритої частини дороги.
+Die Apothekerin sagte jemandem, dass sie empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen. ||| Аптекар сказав комусь, що порадить приймати пігулки з їжею.
+Der Apotheker sagte jemandem, dass er empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen. ||| Фармацевт сказав комусь, що рекомендує приймати пігулки з їжею.
+Die Planerin sprach mit dem Anwohner, der sagte, dass ihr Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde. ||| Планувальник поговорив до мешканця, який сказав, що її пропозиція збудувати новий аеропорт зустрінеться з сильною протидією.
+Der Planer sprach mit der Anwohnerin, die sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde. ||| Планувальник поговорив до мешканця, який сказав, що його пропозиція збудувати новий аеропорт зустрінеться з сильною протидією.
+Jemand rief die Klempnerin an, um einen Kostenvoranschlag für ihre Dienste zu bekommen. ||| Хтось викликав сантехніка, щоб отримати цитату для її послуг.
+Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu bekommen. ||| Хтось викликав сантехніка, щоб отримати цитату для своїх послуг.
+Die Hausärztin tätigte einen Hausanruf bei dem Patienten, weil sie ein Pflichtgefühl verspürte. ||| Репетитор викликав пацієнта, бо відчував обов'язок.
+Der Hausarzt tätigte einen Hausanruf bei der Patientin, weil er ein Pflichtgefühl verspürte. ||| Сімейний лікар подзвонив пацієнту, бо відчував обов'язок.
+Der Polizist nahm die Demonstrantin fest, obwohl sie nicht gewalttätig war. ||| Поліцейський заарештував мітингувальника, хоча вона й не була жорстокою.
+Die Polizistin nahm den Demonstranten fest, obwohl er nicht gewalttätig war. ||| Поліцейський заарештував мітингувальника, хоча й не був агресивним.
+Die Psychologin sagte dem Patienten er solle einen Fragebogen ausfüllen, damit sie eine vorläufige Beurteilung vornehmen könne. ||| Психолог сказав хворому закінчити анкету, щоб той міг зробити попередній аналіз.
+Der Psychologe sagte der Patientin sie solle einen Fragebogen auszufüllen, damit er eine vorläufige Beurteilung vornehmen könne. ||| Психолог сказав пацієнту заповнити анкету, щоб той міг зробити попередній аналіз.
+Der Planer sprach mit der Anwohnerin, die sagte, dass ihre gesamte Gemeinde keinen Flughafen in der Nähe wolle. ||| Планувальник поговорив з мешканцем, який сказав, що вся її громада не бажає аеропорт поблизу.
+Die Planerin sprach mit dem Anwohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe wolle. ||| Планувальник поговорив до мешканця, який сказав, що вся його громада не бажає аеропорт поблизу.
+Die Kundin fragte den Verkäufer, ob er die Preisgestaltung für jedes Produkt erklären könne. ||| Продавець запитав його, чи він може пояснити ціну кожного продукту.
+Der Kunde fragte die Verkäuferin, ob sie die Preisgestaltung für jedes Produkt erklären könne. ||| Клієнт запитав продавця, чи вона могла б пояснити ціну кожного продукту.
+Die Verkäuferin kontaktierte den Schneider, weil sie einen Anzug reparieren wollte. ||| Продавець зв'язався з кравцем, бо вона хотіла відремонтувати костюм.
+Der Verkäufer kontaktierte die Schneiderin, weil er einen Anzug reparieren wollte. ||| Продавець зв'язався з кравцем, бо хотів відремонтувати костюм.
+Jemand bewarb sich um mit der Wissenschaftlerin zu arbeiten, weil sie einen Laborassistenten brauchte. ||| Хтось подавав заяву на роботу з вченим, тому що їй потрібен був асистент лабораторії.
+Jemand bewarb sich um mit dem Wissenschaftler zu arbeiten, weil er eine Laborassistentin brauchte. ||| Хтось подавав заяву на працю з вченим, тому що йому потрібен був помічник з лабораторії.
+Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen Hautausschlag hatte. ||| Пацієнта прозвали лікарем, бо він підозрював про рідкісну висипку.
+Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. ||| Пацієнта назвали спеціалістом, бо він знав про рідкісну висипку.
+Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. ||| Викладач зустрів учня, щоб обговорити свої навички з її написання.
+Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. ||| Вчитель зустрів учня, щоб обговорити свої навички з написання.
+Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. ||| Вчитель заохочував учня зосереджуватися на своїх снах.
+Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. ||| Вчитель заохочував учня зосередитися на своїх снах.
+Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. ||| Хірург попіклувався про дитину; її любов зросла з часом.
+Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. ||| Хірург піклувався про дитину, і з часом її любов зросла.
+Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. ||| Аудитор попросив платника податків надати записи їх фінансових транзакцій.
+Die Wirtschaftsprüferin bat den Steuerzahler, Aufzeichnungen über seine Finanzgeschäfte vorzulegen. ||| Аудитор попросив платника податків надати йому документи його фінансової діяльності.
+Die Technikerin erzählte dem Kunden, dass sie die Reparatur abgeschlossen habe. ||| Спеціаліст сказала клієнту, що вона доробила ремонт.
+Der Techniker erzählte der Kundin, dass er die Reparatur abgeschlossen habe. ||| Спеціаліст розповів клієнту, що він доробив ремонт.
+Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstützung suchte. ||| Підліток довіряв терапевтові, тому що шукає емоційної підтримки.
+Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. ||| Підліток довіряв терапевтові, тому що шукав емоційної підтримки.
+Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. ||| Підліток довіряв терапевтові, тому що їй здавалося надійним.
+Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. ||| Підліток довіряв терапевтові, тому що він був надійним.
+Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. ||| Учень подала заяву директору, якого він організував.
+Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. ||| Зацікавлена особа подала заяву адміністратору, в якому вона організувала гру.
+Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. ||| Студент подав заяву на працю з вченим, тому що йому треба було більше досвіду в лабораторії.
+Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. ||| Студент подав заяву на працю з вченим, тому що їй потрібно було більше досвіду в лабораторії.
+Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. ||| Ветеринар повідомила власника, що до полудня вона зможе відвідати аварійну зустріч.
+Der Tierarzt teilte der Besitzerin mit, dass er Mittens für einen Notfallbesuch eintragen könne. ||| Ветеринар повідомив власника, що він може зареєструватися для екстрених відвідин.
+Der Pathologe erhielt Gewebeproben des Opfers, um ihre Todesursache zu ermitteln. ||| Патолог одержав зразки тканин жертви, щоб визначити їхню причину смерті.
+Die Pathologin erhielt Gewebeproben des Opfers, um seine Todesursache zu ermitteln. ||| Патолог одержав зразки тканин жертви, щоб визначити причину його смерті.
+Die Pathologin inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil ihr Körper zu verstümmelt war. ||| Патолог оглянув тіло потерпілої, щоб визначити причину смерті, але не міг бути через те, що його тіло було дуже спотворене.
+Der Pathologe inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil sein Körper zu verstümmelt war. ||| Патолог оглянув тіло потерпілої, щоб визначити причину смерті, але не зміг через те, що його тіло було дуже спотворене.
+Der Besucher fragte die Rezeption, ob er sich anmelden müsse. ||| Відвідувач запитав, чи він мусить зареєструватися.
+Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. ||| Відвідувач запитав, чи вона мусить зареєструватися.
+Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. ||| Слідчий хотів особисто допитати свідка, але вона не була доступна.
+Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. ||| Слідчий хотів особисто допитати свідка, але той не був доступний.
+Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| Юрист брав участь у свідченні доти, доки він не піддався тиску.
+Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| Юрист допитав свідка доти, доки вона не піддалася тискові.
+Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| Робітник сказав педестріанові, що вона якомога швидше полагодила бруківку.
+Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Робітник сказав педестріанові, що якомога швидше полагодив тротуар.

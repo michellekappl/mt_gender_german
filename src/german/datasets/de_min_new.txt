@@ -60,7 +60,7 @@ female	4	Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.
 male	4	Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat.	Designer
 female	4	Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen.	Entwicklerin
 male	4	Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen.	Entwickler
-male	1	Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.	Entwickler
+male	1	Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.	Entwickler
 female	1	Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht.	Entwicklerin
 female	4	Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf.	Fahrerin
 male	4	Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf.	Fahrer
@@ -305,4 +305,4 @@ male	4	Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber n
 male	4	Die Anwältin befragte den Zeugen, bis er unter Druck nachgab.	Zeugen
 female	4	Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab.	Zeugin
 female	1	Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte.	Arbeiterin
-male	1	Drt Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter
+male	1	Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter

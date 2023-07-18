@@ -24,7 +24,7 @@ mkdir -p ../data/human/$lang
 trans_fn=../translations/$trans_sys/$prefix.txt
 echo "!!! $trans_fn"
 if [ ! -f $trans_fn ]; then
-    python translate.py --trans=$trans_sys --in=./tmp.in --src=de --tgt=$2 --out=$trans_fn
+    python translate.py --trans=$trans_sys --in=./tmp.in --src=de --tgt=$lang --out=$trans_fn
 else
     echo "Not translating since translation file exists: $trans_fn"
 fi

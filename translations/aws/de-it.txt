@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| Il designer ha incontrato il costruttore e gli ha spiegato il progetto.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| Il designer ha incontrato l'operaio edile e le ha spiegato il progetto.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| La cuoca ha chiesto aiuto all'infermiera perché sua madre era malata.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| Il cuoco ha chiesto aiuto all'infermiera perché sua madre era malata.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| Il cuoco ha chiesto aiuto all'infermiera perché sua madre era malata.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| La domestica ha pulito la stanza della cuoca e aspetta che dia la mancia.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| La domestica ha pulito la stanza del cuoco e aspetta che dia la mancia.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| L'operaio edile si è coordinato con il progettista in modo che potesse spiegare meglio il progetto.
@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Il c
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Il custode ha pulito la stanza del designer e gli ha chiesto consigli.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| La segretaria ha corretto lo sviluppatore e le ha detto di non preoccuparsi.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| La segretaria ha corretto lo sviluppatore e gli ha detto di non preoccuparsi.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Lo sviluppatore non è riuscito a capire il consulente fiscale perché sa solo programmare.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Lo sviluppatore non è riuscito a capire il consulente fiscale perché sa solo programmare.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| La sviluppatrice non è riuscita a capire il consulente fiscale perché sa solo programmare.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Il sarto urlò all'autista e la chiamò pazza.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La sarta urlò all'autista e lo chiamò pazzo.

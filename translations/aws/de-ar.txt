@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| التقى المصمم بالمنشئ وشرح التصميم له.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| قابلت المصممة عاملة البناء وشرحت التصميم لها.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| طلبت الطاهية من الممرضة المساعدة لأن والدتها كانت مريضة.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| طلب الطباخ المساعدة من الممرضة لأن والدته كانت مريضة.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| طلب الطباخ المساعدة من الممرضة لأن والدته كانت مريضة.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| قامت مدبرة المنزل بتنظيف غرفة الطباخ وتنتظر منها البقشيش.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| نظفت مدبرة المنزل غرفة الطباخ وتنتظر منه البقشيش.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| قام عامل البناء بالتنسيق مع المصمم حتى يتمكن من شرح التصميم بشكل أفضل.
@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| قا
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| قام البواب بتنظيف غرفة المصمم وطلب منه النصيحة.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| قامت السكرتيرة بتصحيح المطور وأخبرتها بعدم القلق.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| قام السكرتير بتصحيح المطور وأخبره بعدم القلق.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| لم يتمكن المطور من فهم المستشار الضريبي لأنه يعرف فقط كيفية البرمجة.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| لم يتمكن المطور من فهم المستشار الضريبي لأنه يعرف فقط كيفية البرمجة.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| لم تتمكن المطوّرة من فهم المستشار الضريبي لأنها تعرف فقط كيفية البرمجة.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| صرخ الخياط على السائق ووصفها بأنها حمقاء.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| صرخت الخياطة على السائق ووصفته بأنه أحمق.

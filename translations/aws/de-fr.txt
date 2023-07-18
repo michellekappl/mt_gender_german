@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| Le concepteur a rencontré le constructeur et lui a expliqué le projet.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| Le concepteur a rencontré l'ouvrière du bâtiment et lui a expliqué le projet.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| La cuisinière a demandé de l'aide à l'infirmière parce que sa mère était malade.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| Le cuisinier a demandé de l'aide à l'infirmière parce que sa mère était malade.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| Le cuisinier a demandé de l'aide à l'infirmière parce que sa mère était malade.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| La femme de ménage a nettoyé la chambre de la cuisinière et attend qu'elle donne un pourboire.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| La femme de ménage a nettoyé la chambre du cuisinier et attend qu'il donne un pourboire.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| L'ouvrier du bâtiment s'est coordonné avec le concepteur afin qu'il puisse mieux expliquer la conception.
@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Le c
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Le concierge a nettoyé la chambre du designer et lui a demandé conseil.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| La secrétaire a corrigé le développeur et lui a dit de ne pas s'inquiéter.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| Le secrétaire a corrigé le développeur et lui a dit de ne pas s'inquiéter.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Le développeur n'a pas pu comprendre le conseiller fiscal car il ne sait que programmer.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Le développeur n'a pas pu comprendre le conseiller fiscal car il ne sait que programmer.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| La développeuse n'a pas pu comprendre la conseillère fiscale car elle ne sait que programmer.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Le tailleur a crié après la conductrice et l'a traitée d'idiote.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La couturière a crié au chauffeur et l'a traité d'idiot.

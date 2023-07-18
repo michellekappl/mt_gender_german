@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| Дизайнер встретился со строителем и объяснил ему дизайн.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| Дизайнер познакомился со строителем и объяснил ей дизайн.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| Повар обратился за помощью к медсестре, потому что ее мать была больна.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| Повар обратился к медсестре за помощью, потому что его мать была больна.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| Повар обратился к медсестре за помощью, потому что его мать была больна.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| Домработница убрала комнату повара и ждет чаевых.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| Домработница убрала комнату повара и ждет от него чаевых.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| Строитель согласовал свои действия с дизайнером, чтобы он мог лучше объяснить проект.
@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Уб
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Уборщик навел порядок в комнате дизайнера и обратился к нему за советом.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Секретарша поправила разработчика и сказала ей не волноваться.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| Секретарша поправила разработчика и сказала ему не волноваться.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Разработчик не мог понять налогового консультанта, потому что он умеет только программировать.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Разработчик не мог понять налогового консультанта, потому что он умеет только программировать.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| Разработчик не смог понять налогового консультанта, потому что она умеет только программировать.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Портной накричал на водителя и назвал ее дурой.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| Швея накричала на водителя и назвала его дураком.

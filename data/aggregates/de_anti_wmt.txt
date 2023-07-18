@@ -24,7 +24,7 @@ female	4	Der Manager sagte der Angestellten, dass sie sich früh melden müsse, 
 female	4	Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich.	Angestellte
 female	4	Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen.	Bauarbeiterin
 female	4	Der Designer traf die Bauarbeiterin und erklärte ihr das Design.	Bauarbeiterin
-male	1	Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war.	Koch
+male	1	Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war.	Koch
 male	7	Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt.	Koch
 female	6	Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann.	Designerin
 female	4	Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.	Designerin

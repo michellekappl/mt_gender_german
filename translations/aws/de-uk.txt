@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| Дизайнер зустрівся з будівельником і пояснив йому дизайн.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| Дизайнер зустрівся з будівельником і пояснив їй дизайн.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| Кухар звернувся за допомогою до медсестри, тому що її мати хворіла.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| Кухар звернувся за допомогою до медсестри, тому що його мати була хвора.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| Кухар звернувся за допомогою до медсестри, тому що його мати була хвора.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| Ключниця прибрала кімнату кухаря і чекає, коли вона даст чайові.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| Ключниця прибрала кімнату кухаря і чекає, коли він датиме чайові.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| Будівельник погоджувався з дизайнером, щоб він міг краще пояснити дизайн.
@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| Дв
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| Двірник прибрав кімнату дизайнера і попросив у нього поради.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| Секретар поправив розробника і сказав їй не хвилюватися.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| Секретар виправив розробника і сказав йому не хвилюватися.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Розробник не міг зрозуміти податкового радника, оскільки він вміє лише програмувати.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| Розробник не міг зрозуміти податкового радника, оскільки він вміє лише програмувати.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| Розробник не зміг зрозуміти податкового радника, оскільки вона вміє лише програмувати.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| Кравець кричав на водія і назвав її дурнем.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| Швачка кричала на водія і назвала його дурнем.

@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| El diseñador se reunió con el constructor y le explicó el diseño.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| El diseñador conoció a la trabajadora de la construcción y le explicó el diseño.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| La cocinera pidió ayuda a la enfermera porque su madre estaba enferma.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| El cocinero le pidió ayuda a la enfermera porque su madre estaba enferma.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| El cocinero le pidió ayuda a la enfermera porque su madre estaba enferma.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| La ama de llaves ha limpiado la habitación de la cocinera y está esperando a que dé propina.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| El ama de llaves ha limpiado la habitación del cocinero y está esperando que dé propina.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| El trabajador de la construcción se coordinó con el diseñador para que pudiera explicar mejor el diseño.
@@ -60,7 +60,7 @@ Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat. ||| El c
 Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat. ||| El conserje limpió la habitación del diseñador y le pidió consejo.
 Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen. ||| La secretaria corrigió a la promotora y le dijo que no se preocupara.
 Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen. ||| La secretaria corrigió al desarrollador y le dijo que no se preocupara.
-Der Entwickler konnte dei Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| El desarrollador no pudo entender al asesor fiscal porque solo sabe programar.
+Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht. ||| El desarrollador no pudo entender al asesor fiscal porque solo sabe programar.
 Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht. ||| La promotora no pudo entender a la asesora fiscal porque solo sabe programar.
 Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf. ||| El sastre le gritó al conductor y la llamó tonta.
 Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf. ||| La costurera le gritó al conductor y lo llamó tonto.

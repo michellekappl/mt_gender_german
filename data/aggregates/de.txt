@@ -51,7 +51,7 @@ female	4	Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem 
 male	4	Die Designerin traf den Bauarbeiter und erklärte ihm das Design.	Bauarbeiter
 female	4	Der Designer traf die Bauarbeiterin und erklärte ihr das Design.	Bauarbeiterin
 female	1	Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war.	Köchin
-male	1	Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war.	Koch
+male	1	Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war.	Koch
 female	7	Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt.	Köchin
 male	7	Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt.	Koch
 male	6	Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann.	Designer

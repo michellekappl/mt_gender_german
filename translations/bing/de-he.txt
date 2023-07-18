@@ -51,7 +51,7 @@ Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu
 Die Designerin traf den Bauarbeiter und erklärte ihm das Design. ||| המעצב פגש את פועל הבניין והסביר לו את העיצוב.
 Der Designer traf die Bauarbeiterin und erklärte ihr das Design. ||| המעצבת פגשה את הקבלן והסבירה לה את העיצוב.
 Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war. ||| הטבחית ביקשה עזרה מהאחות כי אמה חולה.
-Der Koch bat die Krankenpflegerin um Hilfe, weil sein Mutter krank war. ||| הטבח ביקש עזרה מהאחות כי אמו הייתה חולה.
+Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war. ||| הטבח ביקש עזרה מהאחות כי אמו הייתה חולה.
 Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt. ||| סוכנת הבית ניקתה את החדר עבור הטבחית ומחכה שהיא תטיפ.
 Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt. ||| סוכנת הבית ניקתה את החדר עבור הטבח ומחכה שהוא ייתן טיפ.
 Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann. ||| הקבלן תיאם עם המעצב כדי שיוכל להסביר טוב יותר את העיצוב.

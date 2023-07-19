@@ -1,0 +1,15 @@
+!!! ../translations/google/de-he.txt
+Not translating since translation file exists: ../translations/google/de-he.txt
+
+Gold distribution: male: 54.76% (69), female: 45.24% (57) 
+
+Predictions: male: 51.59% (65), female: 37.3% (47)
+
+Unknown words ['chefin', 'angestellte', 'friseur']
+Unknown Misc ['Geschäftsführerin', 'Buchhalter', 'der', 'Chefin', 'Chefin', 'Angestellte', 'Landwirtin', 'Wachfrau,', 'dem', 'Friseur', 'Arbeiterin', 'Krankenpfleger', 'Polizistin', 'Schneider']
+Unkown: 14 (11.11%), male: 6, female: 8
+
+Accuracy: 58.7, male: 65.22, female: 50.88 
+
+F1: male: 67.1, female: 55.8 
+

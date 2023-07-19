@@ -1,0 +1,15 @@
+!!! ../translations/aws/de-uk.txt
+Not translating since translation file exists: ../translations/aws/de-uk.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 52.6% (162), female: 12.34% (38)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'wirtschaftsprüfer', 'wirtschaftsprüferin', 'tischlers', 'tischlerin', 'angestellte', 'designer', 'designerin', 'haushälter', 'anwalts', 'anwältin', 'anwalt', 'sekretärin', 'sekretär', 'besitzerin', 'besitzer', 'fußgänger', 'fußgängerin', 'demonstranten', 'fachärztin', 'facharzt']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'Aufseherin', 'der', 'die', 'Wirtschaftsprüfer,', 'Wirtschaftsprüferin,', 'Bäcker', 'Bäckerin', 'Tischlers', 'Tischlerin', 'Kassierer,', 'Chef', 'Chefin', 'Angestellten,', 'Angestellte', 'Angestellten', 'Köchin', 'Koch', 'Designer', 'Designerin', 'Designerin', 'Designer', 'Entwicklerin', 'Entwickler', 'Fahrer', 'Redakteur', 'Redakteurin', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann', 'der', 'dem', 'Haushälter', 'Haushälterin', 'Haushälter', 'Hausmeister', 'Hausmeisterin', 'Arbeiters', 'Arbeiterin', 'Anwalts,', 'Anwältin,', 'Anwalt', 'Anwältin', 'Managerin', 'Mechaniker', 'Mechanikerin', 'Krankenpflegerin', 'Krankenpfleger', 'Rezeptionistin', 'Sekretärin', 'Sekretär', 'Sekretärin', 'Sekretär', 'Polizistin', 'Kunden', 'Kundin', 'Beraterin', 'Besitzerin', 'Besitzer', 'Patientin,', 'Fußgänger,', 'Fußgängerin,', 'Demonstranten', 'Fachärztin', 'Facharzt', 'Schüler,', 'Schülerin,']
+Unkown: 75 (24.35%), male: 37, female: 38
+
+Accuracy: 41.2, male: 61.69, female: 20.78 
+
+F1: male: 60.1, female: 33.4 
+

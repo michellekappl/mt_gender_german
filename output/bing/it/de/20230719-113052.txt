@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-it.txt
+Not translating since translation file exists: ../translations/bing/de-it.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 61.36% (189), female: 15.58% (48)
+
+Unknown words ['geschäftsführerin', 'analysten', 'wirtschaftsprüfer', 'tischlers', 'tischlerin', 'angestellte', 'fahrerin', 'fahrer', 'haushälter', 'bibliothekar', 'rezeptionistin', 'lehrer', 'lehrerin', 'architekten', 'architektin', 'käufer', 'käuferin', 'disponentin', 'elektrikerin', 'mitarbeiter', 'mitarbeiterin', 'ingenieur', 'ingenieurin', 'gast', 'gästin', 'hygienikerin', 'hygieniker', 'patienten', 'anwohnerin', 'steuerzahlerin', 'steuerzahler', 'teenagerin', 'teenager']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analysten', 'Analystin', 'Assistenten', 'Assistentin', 'der', 'Wirtschaftsprüfer,', 'Wirtschaftsprüferin,', 'Tischlers', 'Tischlerin', 'Angestellten,', 'Angestellten,', 'Angestellte', 'Bauarbeiterin', 'Designer', 'Fahrerin', 'Fahrer', 'Fahrerin', 'Fahrer', 'der', 'dem', 'Haushälter', 'Haushälterin', 'Haushälter', 'Gefallen', 'Gefallen', 'Arbeiterin', 'Arbeiterin', 'Bibliothekar', 'Bibliothekarin', 'Bibliothekar', 'Rezeptionistin,', 'Rezeptionistin', 'Lehrer', 'Lehrerin', 'Lehrerin,', 'Lehrer,', 'Architekten', 'Architektin', 'Architekten', 'Architektin', 'Käufer,', 'Käuferin,', 'Kunden', 'Disponentin,', 'Lehrerin', 'Lehrer', 'Elektrikerin', 'Mitarbeiter', 'Mitarbeiterin', 'Ingenieur', 'Ingenieurin', 'Gast,', 'Gästin,', 'Hygienikerin', 'Hygieniker', 'Patienten,', 'Patientin,', 'Anwohnerin,', 'Verkäufer,', 'Verkäuferin,', 'Schülerin,', 'Schüler,', 'Steuerzahlerin,', 'Steuerzahler,', 'Teenagerin', 'Teenager']
+Unkown: 71 (23.05%), male: 33, female: 38
+
+Accuracy: 49.0, male: 72.73, female: 25.32 
+
+F1: male: 65.3, female: 38.6 
+

@@ -1,0 +1,15 @@
+!!! ../translations/aws/de-fr.txt
+Not translating since translation file exists: ../translations/aws/de-fr.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 53.95% (41), female: 34.21% (26)
+
+Unknown words ['analystin']
+Unknown Misc ['Buchhalterin', 'Analystin', 'Analystin', 'die', 'Angestellten', 'Designer', 'Wachmann', 'der', 'Umzugshelfer']
+Unkown: 9 (11.84%), male: 4, female: 5
+
+Accuracy: 78.9, male: 89.47, female: 68.42 
+
+F1: male: 86.1, female: 81.2 
+

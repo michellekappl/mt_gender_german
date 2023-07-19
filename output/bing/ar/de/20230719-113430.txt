@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-ar.txt
+Not translating since translation file exists: ../translations/bing/de-ar.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 64.94% (200), female: 20.13% (62)
+
+Unknown words ['umzugshelferin', 'chefköchin', 'disponentin', 'disponenten', 'inspektor', 'inspektorin', 'patienten', 'klempnerin', 'klempner', 'demonstranten', 'psychologin', 'anwohner']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Aufseherin', 'Chef', 'Chefin', 'Bauarbeiterin', 'Köchin', 'Koch', 'Designerin', 'Designer', 'Entwicklerin', 'Entwickler', 'der', 'dem', 'Haushälterin', 'Manager', 'Umzugshelferin', 'Umzugshelferin', 'Umzugshelfer', 'Sekretär', 'Schneider', 'Schneiderin', 'Beraterin', 'Architekten', 'Architektin', 'Barkeeper', 'Barkeeperin', 'Chefköchin', 'Kunden', 'Kundin', 'Kunden', 'Kundin', 'Disponentin,', 'Disponenten,', 'Lehrerin', 'Inspektor,', 'Inspektorin,', 'Patienten,', 'Klempnerin', 'Klempner', 'Demonstranten', 'Psychologin', 'Anwohner,', 'Verkäuferin,', 'Zeugin', 'Zeugen']
+Unkown: 46 (14.94%), male: 21, female: 25
+
+Accuracy: 54.2, male: 77.27, female: 31.17 
+
+F1: male: 67.2, female: 44.5 
+

@@ -1,0 +1,15 @@
+!!! ../translations/aws/de-he.txt
+Not translating since translation file exists: ../translations/aws/de-he.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 52.38% (66), female: 34.92% (44)
+
+Unknown words ['wirtschaftsprüferin', 'tischlers', 'landwirt', 'friseurin', 'therapeutin', 'fachärztin']
+Unknown Misc ['Geschäftsführer', 'Assistentin', 'die', 'Wirtschaftsprüferin,', 'Tischlers', 'Chef', 'Landwirt', 'Landwirt', 'Wachmann', 'der', 'Friseurin', 'Arbeiter', 'Krankenpflegerin', 'Schneiderin', 'Therapeutin', 'Fachärztin']
+Unkown: 16 (12.7%), male: 7, female: 9
+
+Accuracy: 66.7, male: 78.95, female: 56.52 
+
+F1: male: 73.2, female: 69.0 
+

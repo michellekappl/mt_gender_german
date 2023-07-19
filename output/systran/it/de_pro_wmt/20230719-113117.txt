@@ -1,0 +1,15 @@
+!!! ../translations/systran/de-it.txt
+Not translating since translation file exists: ../translations/systran/de-it.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 43.42% (33), female: 36.84% (28)
+
+Unknown words ['tischlers', 'landwirt', 'lehrerin']
+Unknown Misc ['Buchhalterin', 'Analystin', 'Assistentin', 'Tischlers', 'Designer', 'Fahrer', 'Landwirt', 'Landwirt', 'Haushälterin', 'Anwältin', 'Bibliothekarin', 'Rezeptionistin,', 'Lehrerin', 'Lehrerin,', 'Schriftstellerin,']
+Unkown: 15 (19.74%), male: 5, female: 10
+
+Accuracy: 75.0, male: 81.58, female: 68.42 
+
+F1: male: 87.3, female: 78.8 
+

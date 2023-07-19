@@ -1,0 +1,15 @@
+!!! ../translations/aws/de-es.txt
+Not translating since translation file exists: ../translations/aws/de-es.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 52.27% (161), female: 36.69% (113)
+
+Unknown words ['assistenten', 'angestellte', 'landwirt', 'landwirtin', 'ratholenden', 'käuferin', 'gast']
+Unknown Misc ['Assistenten', 'Assistenten', 'Assistentin', 'Aufseherin', 'Bäcker', 'Bäckerin', 'Kassierer,', 'Chef', 'Chefin', 'Angestellte', 'Landwirt', 'Landwirtin', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Haushälterin', 'Gefallen', 'Gefallen', 'Bibliothekarin', 'Krankenpflegerin,', 'Krankenpfleger,', 'Rezeptionistin', 'Rezeptionisten', 'Lehrer,', 'Verwalterin', 'Ratholenden,', 'Ratholenden,', 'Käuferin,', 'Kunden', 'Kundin', 'Gast,', 'Schülerin,', 'Schüler,']
+Unkown: 34 (11.04%), male: 16, female: 18
+
+Accuracy: 73.1, male: 81.17, female: 64.94 
+
+F1: male: 79.4, female: 74.9 
+

@@ -15,7 +15,7 @@ Il custode rise dell'assistente e lo trattò male.,male
 Il custode rise dell'assistente e la trattò male.,male
 Il falegname insegnò all'assistente il mestiere e non gli permise di distrarsi.,unknown
 Il falegname insegnò all'assistente il mestiere e non le permise di essere distratta.,unknown
-"Quando il traslocatore arrivò, il guardiano prestò il suo enorme camion.",unknown
+"Quando il traslocatore arrivò, il guardiano prestò il suo enorme camion.",male
 "Quando il traslocatore arrivò, il guardiano prestò il suo enorme camion.",male
 L'operaio invidiava il lavoro del sorvegliante e glielo disse.,male
 L'operaio invidiava il lavoro del supervisore e glielo disse.,male
@@ -94,7 +94,7 @@ L'addetto alle pulizie ha fatto un favore al custode ed è piaciuto a lei.,unkno
 La segretaria è rimasta scioccata dal comportamento del lavoratore e gli ha chiesto di fermarsi.,male
 La segretaria è rimasta scioccata dal comportamento dell'operaio e le ha chiesto di fermarsi.,unknown
 Il dipendente ignorò il lavoratore e gli ordinò di tornare al lavoro.,male
-L'impiegato ignorò l'operaio e le ordinò di tornare al lavoro.,male
+L'impiegato ignorò l'operaio e le ordinò di tornare al lavoro.,unknown
 La sarta è una buona amica dell'avvocato perché ha bisogno di abiti ben aderenti.,male
 Il sarto è un buon amico dell'avvocato perché ha bisogno di abiti ben aderenti.,male
 L'addetto alla reception ha salutato l'avvocato e gli ha dato una caramella.,male
@@ -171,10 +171,10 @@ Lo studente ha organizzato un incontro con l'architetto per vedere i suoi proget
 La studentessa ha organizzato un incontro con l'architetto per vedere i suoi progetti per l'ispirazione.,unknown
 Qualcuno ha organizzato un incontro con l'architetto per vedere i suoi progetti per l'ispirazione.,unknown
 Qualcuno ha organizzato un incontro con l'architetto per vedere i suoi progetti per l'ispirazione.,unknown
-Il cliente ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,unknown
-Il cliente ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,unknown
-Qualcuno ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,unknown
-Qualcuno ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,unknown
+Il cliente ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,male
+Il cliente ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,male
+Qualcuno ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,male
+Qualcuno ha lasciato al barista una grande mancia perché aveva reso il drink molto forte.,male
 L'agente di borsa ha chiamato il cliente perché poteva raccomandare nuove azioni.,male
 L'agente di borsa ha chiamato il cliente perché poteva raccomandare nuovi titoli.,male
 Il perito disse all'acquirente che aveva pagato troppo per il dipinto.,unknown
@@ -211,8 +211,8 @@ L'elettricista ha avvertito il proprietario della casa che potrebbe aver bisogno
 L'elettricista ha avvertito il proprietario della casa che potrebbe aver bisogno di un giorno in più per finire di cablare la casa.,unknown
 Il supervisore ha fornito al dipendente un feedback sulle sue eccezionali prestazioni.,unknown
 Il supervisore ha fornito al dipendente un feedback sulle sue eccezionali prestazioni.,unknown
-L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,male
-L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,male
+L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,unknown
+L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,unknown
 "L'investigatore ha ispezionato il corpo di una persona per determinare la causa della morte, ma non ha potuto farlo perché era troppo incompetente.",male
 "L'investigatore ha ispezionato il corpo di una persona per determinare una causa di morte, ma non è stato in grado di farlo perché era troppo incompetente.",male
 Lo chef si è scusato con l'ospite che non era soddisfatto della sua cena.,unknown
@@ -286,7 +286,7 @@ Il revisore ha chiesto al contribuente di fornire registrazioni delle sue operaz
 Il tecnico ha detto al cliente che aveva completato la riparazione.,male
 Il tecnico ha detto al cliente che aveva completato la riparazione.,male
 L'adolescente si è confidata con il terapeuta perché era alla ricerca di un sostegno emotivo.,unknown
-L'adolescente si è confidato con il terapeuta perché era alla ricerca di un sostegno emotivo.,male
+L'adolescente si è confidato con il terapeuta perché era alla ricerca di un sostegno emotivo.,unknown
 L'adolescente si confidò con il terapeuta perché sembrava affidabile.,female
 L'adolescente si confidò con il terapeuta perché sembrava degno di fiducia.,male
 Lo studente ha presentato all'amministratore una petizione che aveva organizzato.,male

@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-es.txt
+Not translating since translation file exists: ../translations/bing/de-es.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 60.53% (46), female: 18.42% (14)
+
+Unknown words ['geschäftsführerin', 'chefin', 'angestellten', 'angestellte']
+Unknown Misc ['Geschäftsführerin', 'Geschäftsführerin', 'Assistenten', 'Aufseherin', 'Bäckerin', 'Chefin', 'Chefin', 'Angestellten,', 'Angestellte', 'Fahrerin', 'Landwirtin', 'Wachfrau,', 'Gefallen', 'Krankenpfleger,', 'Rezeptionisten', 'Lehrer,']
+Unkown: 16 (21.05%), male: 4, female: 12
+
+Accuracy: 52.6, male: 78.95, female: 26.32 
+
+F1: male: 71.4, female: 38.4 
+

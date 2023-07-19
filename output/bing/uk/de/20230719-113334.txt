@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-uk.txt
+Not translating since translation file exists: ../translations/bing/de-uk.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 53.25% (164), female: 18.83% (58)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'wirtschaftsprüfer', 'wirtschaftsprüferin', 'designer', 'designerin', 'sekretär', 'feuerwehrfrau', 'feuerwehrmann', 'barkeeperin', 'patienten', 'demonstranten', 'anwohner']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'der', 'die', 'Wirtschaftsprüfer,', 'Wirtschaftsprüferin,', 'Chef', 'Chefin', 'Designer', 'Designerin', 'Designerin', 'Designer', 'Entwicklerin', 'Entwickler', 'Fahrerin', 'Fahrer', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Hausmeister', 'Hausmeisterin', 'Arbeiters', 'Arbeiterin', 'Mechaniker', 'Mechanikerin', 'Umzugshelferin', 'Umzugshelfer', 'Krankenpflegerin', 'Rezeptionistin', 'Sekretär', 'Sekretärin', 'Sekretär', 'Polizistin', 'Feuerwehrfrau', 'Feuerwehrmann', 'Barkeeperin', 'Barkeeperin', 'Kunden', 'Kundin', 'Beraterin', 'Kundin', 'Patienten,', 'Patientin,', 'Demonstranten', 'Anwohner,', 'Verkäuferin,', 'Schülerin,']
+Unkown: 54 (17.53%), male: 24, female: 30
+
+Accuracy: 48.1, male: 65.58, female: 30.52 
+
+F1: male: 63.5, female: 44.3 
+

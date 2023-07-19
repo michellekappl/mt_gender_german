@@ -1,0 +1,15 @@
+!!! ../translations/google/de-ru.txt
+Not translating since translation file exists: ../translations/google/de-ru.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 50.0% (63), female: 19.05% (24)
+
+Unknown words ['geschäftsführer', 'analystin', 'aufsehers', 'tischlers', 'designer', 'landwirt', 'sekretärin', 'wissenschaftler']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführer', 'Buchhalterin', 'Analystin', 'Analystin', 'Aufsehers', 'die', 'Bäcker', 'Tischlers', 'Chef', 'Designer', 'Designer', 'Entwickler', 'Redakteurin', 'Landwirt', 'Landwirt', 'Wachmann,', 'der', 'Arbeiters', 'Bibliothekarin', 'Mechaniker', 'Umzugshelfer', 'Krankenpflegerin', 'Rezeptionistin', 'Sekretärin', 'Sekretärin', 'Schriftstellerin', 'Verwalterin', 'Beraterin', 'Wissenschaftler']
+Unkown: 30 (23.81%), male: 16, female: 14
+
+Accuracy: 38.9, male: 56.14, female: 24.64 
+
+F1: male: 53.3, female: 36.5 
+

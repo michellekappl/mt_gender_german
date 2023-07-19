@@ -1,0 +1,15 @@
+!!! ../translations/deepl/de-es.txt
+Not translating since translation file exists: ../translations/deepl/de-es.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 53.25% (164), female: 38.96% (120)
+
+Unknown words ['angestellte', 'landwirtin', 'haushälterin', 'architekten', 'fachärztin']
+Unknown Misc ['Buchhalterin,', 'Assistenten', 'Assistentin', 'Aufseherin', 'Bäcker', 'Chefin', 'Angestellte', 'Landwirt', 'Landwirtin', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Haushälterin', 'Haushälterin', 'Gefallen', 'Gefallen', 'Bibliothekarin', 'Krankenpflegerin,', 'Rezeptionistin', 'Architekten', 'Architekten', 'Kunden', 'Fachärztin', 'Schülerin,']
+Unkown: 24 (7.79%), male: 8, female: 16
+
+Accuracy: 81.8, male: 90.26, female: 73.38 
+
+F1: male: 87.5, female: 82.5 
+

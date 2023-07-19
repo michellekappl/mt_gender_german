@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-ru.txt
+Not translating since translation file exists: ../translations/bing/de-ru.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 49.35% (152), female: 21.43% (66)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'wirtschaftsprüfer', 'tischlers', 'tischlerin', 'designerin', 'wachfrau', 'wachmann', 'friseurin', 'friseur', 'anwalts', 'sekretärin', 'sekretär', 'besitzerin', 'patienten', 'demonstrantin', 'demonstranten', 'anwohner']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'der', 'Wirtschaftsprüfer,', 'Wirtschaftsprüferin,', 'Bäcker', 'Bäckerin', 'Tischlers', 'Tischlerin', 'Chef', 'Chefin', 'Designer', 'Designerin', 'Designerin', 'Entwicklerin', 'Entwickler', 'Redakteur', 'Redakteurin', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Wachfrau', 'Wachmann', 'der', 'dem', 'Friseurin', 'Friseur', 'Haushälter', 'Haushälterin', 'Hausmeister', 'Hausmeisterin', 'Arbeiters', 'Arbeiterin', 'Anwalts,', 'Bibliothekar', 'Bibliothekarin', 'Umzugshelferin', 'Umzugshelfer', 'Krankenpflegerin', 'Rezeptionistin', 'Sekretärin', 'Sekretär', 'Sekretärin', 'Sekretär', 'Zuschauer', 'Kundin', 'Beraterin', 'Besitzerin', 'Patienten,', 'Patientin,', 'Demonstrantin', 'Demonstranten', 'Anwohner,', 'Schülerin,']
+Unkown: 59 (19.16%), male: 28, female: 31
+
+Accuracy: 46.1, male: 60.39, female: 31.82 
+
+F1: male: 60.8, female: 44.5 
+

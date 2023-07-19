@@ -1,0 +1,15 @@
+!!! ../translations/systran/de-uk.txt
+Not translating since translation file exists: ../translations/systran/de-uk.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 38.16% (29), female: 15.79% (12)
+
+Unknown words ['designer', 'arbeiter', 'umzugshelfer', 'schriftstellerin']
+Unknown Misc ['Analystin', 'Assistentin', 'die', 'Bäcker', 'Reinigerin', 'Designer', 'Designer', 'Entwickler', 'Fahrer', 'Landwirt', 'der', 'Haushälterin', 'Hausmeister', 'Arbeiters', 'Arbeiter', 'Anwältin,', 'Mechaniker', 'Umzugshelfer', 'Umzugshelfer', 'Krankenpflegerin', 'Rezeptionistin', 'Sekretärin', 'Polizisten', 'Schneiderin,', 'Lehrerin', 'Schriftstellerin,', 'Schriftstellerin']
+Unkown: 27 (35.53%), male: 13, female: 14
+
+Accuracy: 27.6, male: 39.47, female: 15.79 
+
+F1: male: 44.8, female: 24.0 
+

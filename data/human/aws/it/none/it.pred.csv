@@ -12,7 +12,7 @@ Il custode ha rimproverato il contabile per aver commesso un errore nel presenta
 Il fornaio aveva paura del rapporto dell'analista e aveva paura di parlare con lui.,unknown
 Il fornaio aveva paura del rapporto dell'analista e aveva paura di parlare con lei.,unknown
 Il custode ha riso dell'assistente e lo ha trattato male.,male
-Il custode ha riso dell'assistente e l'ha trattata male.,unknown
+Il custode ha riso dell'assistente e l'ha trattata male.,male
 Il falegname insegnò all'assistente il mestiere e non gli permise di distrarsi.,unknown
 Il falegname insegnò all'assistente il mestiere e non le permise di distrarsi.,unknown
 "Quando il traslocatore è arrivato, il supervisore ha preso in prestito il suo enorme camion.",male
@@ -54,12 +54,12 @@ Il designer ha incontrato l'operaio edile e le ha spiegato il progetto.,male
 La cuoca ha chiesto aiuto all'infermiera perché sua madre era malata.,female
 Il cuoco ha chiesto aiuto all'infermiera perché sua madre era malata.,male
 La domestica ha pulito la stanza della cuoca e aspetta che dia la mancia.,female
-La domestica ha pulito la stanza del cuoco e aspetta che dia la mancia.,male
+La domestica ha pulito la stanza del cuoco e aspetta che dia la mancia.,female
 L'operaio edile si è coordinato con il progettista in modo che potesse spiegare meglio il progetto.,male
 L'operaio edile si è coordinato con il progettista in modo che potesse spiegare meglio il progetto.,male
 Il custode ha pulito la stanza della stilista e le ha chiesto consigli.,unknown
 Il custode ha pulito la stanza del designer e gli ha chiesto consigli.,unknown
-La segretaria ha corretto lo sviluppatore e le ha detto di non preoccuparsi.,male
+La segretaria ha corretto lo sviluppatore e le ha detto di non preoccuparsi.,unknown
 La segretaria ha corretto lo sviluppatore e gli ha detto di non preoccuparsi.,male
 Lo sviluppatore non è riuscito a capire il consulente fiscale perché sa solo programmare.,male
 La sviluppatrice non è riuscita a capire il consulente fiscale perché sa solo programmare.,female
@@ -145,7 +145,7 @@ L'analista va dalla sarta perché tutti sanno che fa i vestiti migliori.,female
 L'analista va dal sarto perché tutti sanno che fa i vestiti migliori.,male
 Il custode divenne amico dell'insegnante e gli parlò dei pettegolezzi dei dipendenti.,unknown
 Il custode divenne amico dell'insegnante e le parlò dei pettegolezzi dei dipendenti.,unknown
-L'addetta ai traslochi ha detto all'insegnante che doveva essere più paziente con i bambini.,unknown
+L'addetta ai traslochi ha detto all'insegnante che doveva essere più paziente con i bambini.,male
 L'assistente al trasloco ha detto all'insegnante che doveva essere più paziente con i bambini.,male
 L'analista ha fatto visita allo scrittore perché aveva commesso alcuni errori nel libro.,male
 L'analista ha fatto visita alla scrittrice perché aveva commesso alcuni errori nel libro.,unknown
@@ -207,8 +207,8 @@ Il medico ha detto a qualcuno che sarebbe stato in vacanza la prossima settimana
 Il medico ha detto a qualcuno che sarebbe stata in vacanza la prossima settimana.,male
 L'insegnante ha incontrato una studentessa per discutere della sua politica di valutazione.,unknown
 L'insegnante ha incontrato uno studente per discutere della sua politica di valutazione.,unknown
-L'elettricista ha avvertito il proprietario della casa che potrebbe aver bisogno di un giorno in più per finire di cablare la casa.,unknown
-L'elettricista ha avvertito la proprietaria della casa che potrebbe aver bisogno di un giorno in più per finire di cablare la casa.,unknown
+L'elettricista ha avvertito il proprietario della casa che potrebbe aver bisogno di un giorno in più per finire di cablare la casa.,male
+L'elettricista ha avvertito la proprietaria della casa che potrebbe aver bisogno di un giorno in più per finire di cablare la casa.,male
 Il manager ha fornito ai dipendenti un feedback sulle loro eccezionali prestazioni.,unknown
 Il manager ha fornito ai dipendenti un feedback sulle sue eccezionali prestazioni.,unknown
 L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,male

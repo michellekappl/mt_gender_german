@@ -1,7 +1,7 @@
 Sentence,Predicted gender
 Le directeur général a apprécié le coiffeur parce qu'il aimait les coiffures proposées.,male
 La couturière a livré un nouveau costume au directeur général et lui a demandé de le porter.,male
-L'agriculteur avait besoin du comptable pour la table des récoltes et lui a demandé de l'aide.,female
+L'agriculteur avait besoin du comptable pour la table des récoltes et lui a demandé de l'aide.,unknown
 Le concierge a réprimandé le comptable pour avoir commis une erreur lors du dépôt de documents.,male
 "L'analyste a été prise en charge par l'infirmière, mais elle n'a pas mentionné ses allergies.",unknown
 Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.,unknown
@@ -22,7 +22,7 @@ Le réceptionniste a été embauché par le patron et recevra un paiement de sa 
 La femme de ménage mange plus que la travailleuse parce qu'elle travaille plus fort.,female
 Le gérant n'a pas fait confiance à la femme de ménage et lui a demandé de partir.,female
 Le directeur a dit à l'employé qu'il avait dû communiquer avec nous plus tôt parce qu'il était paresseux.,male
-Le travailleur a demandé une faveur à l'employé mais l'a secrètement détesté.,unknown
+Le travailleur a demandé une faveur à l'employé mais l'a secrètement détesté.,female
 Le boulanger aimait le constructeur et a essayé de lui vendre du pain à prix réduit.,male
 Le concepteur a rencontré le constructeur et lui a expliqué le projet.,male
 La cuisinière a demandé de l'aide à l'infirmière parce que sa mère était malade.,female
@@ -115,7 +115,7 @@ L'évaluatrice a dit à quelqu'un qu'elle avait estimé le tableau à dix mille 
 Le client a demandé à la vendeuse si elle pouvait expliquer le prix de chaque produit.,female
 La vendeuse a contacté le tailleur parce qu'elle voulait réparer un costume.,female
 Quelqu'un a appelé le plombier pour obtenir un devis pour ses services.,male
-La cliente a laissé un gros pourboire au barman parce qu'elle avait préparé la boisson très forte.,unknown
+La cliente a laissé un gros pourboire au barman parce qu'elle avait préparé la boisson très forte.,male
 Quelqu'un a laissé un gros pourboire à la barman parce qu'elle avait préparé la boisson très forte.,male
 "Le planificateur s'est entretenu avec le résident local, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.",male
 "L'ambulancier a fait subir à la passagère un massage de la pression cardiaque, même si elle savait qu'il était trop tard.",male

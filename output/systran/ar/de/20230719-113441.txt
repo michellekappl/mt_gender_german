@@ -1,0 +1,15 @@
+!!! ../translations/systran/de-ar.txt
+Not translating since translation file exists: ../translations/systran/de-ar.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 63.31% (195), female: 24.35% (75)
+
+Unknown words ['zuschauerin', 'kunde', 'besitzer', 'patienten', 'fachärztin']
+Unknown Misc ['Aufseherin', 'der', 'Chefin', 'Reinigerin', 'Bauarbeiter', 'Bauarbeiterin', 'Köchin', 'Koch', 'Designerin', 'Entwicklerin', 'Entwickler', 'Redakteur', 'Redakteurin', 'Landwirt', 'Landwirtin', 'Wachfrau', 'der', 'dem', 'Manager', 'Managerin', 'Umzugshelferin', 'Umzugshelfer', 'Schneider', 'Schneiderin', 'Zuschauer', 'Zuschauerin', 'Kunden', 'Berater', 'Beraterin', 'Kundin', 'Kunde', 'Lehrer', 'Zuschauerin,', 'Besitzer', 'Patienten,', 'Verkäufer,', 'Verkäuferin,', 'Fachärztin']
+Unkown: 38 (12.34%), male: 18, female: 20
+
+Accuracy: 52.9, male: 72.73, female: 33.12 
+
+F1: male: 64.2, female: 44.5 
+

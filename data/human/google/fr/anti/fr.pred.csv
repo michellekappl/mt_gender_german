@@ -22,7 +22,7 @@ La réceptionniste a été embauchée par le patron et recevra le paiement de sa
 Le nettoyeur mange plus que l'ouvrier parce qu'il travaille plus dur.,male
 Le directeur n'a pas fait confiance au nettoyeur et lui a demandé de partir.,male
 Le directeur a dit à l'employée de se présenter tôt parce qu'elle était paresseuse.,male
-Le travailleur a demandé une faveur au commis mais l'a secrètement détestée.,female
+Le travailleur a demandé une faveur au commis mais l'a secrètement détestée.,unknown
 Le boulanger aimait l'ouvrier du bâtiment et a essayé de vendre son pain à prix réduit.,male
 Le concepteur a rencontré le travailleur de la construction et lui a expliqué la conception.,female
 Le cuisinier a demandé de l'aide à l'infirmière car sa mère était malade.,male
@@ -38,7 +38,7 @@ La policière a sauvé le rédacteur en chef des manifestants et l'a ramené che
 "Quand c'est l'hiver, l'agriculteur rend souvent visite à la bibliothécaire car son travail demande moins d'attention.",unknown
 Le boulanger a demandé plus d'argent à la fermière mais ne lui a pas donné plus de pain.,unknown
 L'employée gagne plus que l'agent de sécurité parce qu'elle est paresseuse et négligente.,female
-"La créatrice a donné un chapeau à l'agent de sécurité, puis lui a volé son arme.",unknown
+"La créatrice a donné un chapeau à l'agent de sécurité, puis lui a volé son arme.",male
 Le fermier aimait se faire couper les cheveux par le coiffeur parce qu'il faisait du bon travail.,unknown
 L'avocat a crié après le coiffeur et a menacé de le poursuivre.,male
 Le cuisinier a préparé de la soupe pour le maître de maison et a attendu qu'il paie.,male
@@ -98,7 +98,7 @@ Le conseiller a rencontré quelqu'un parce qu'il voulait donner des conseils sur
 Le médecin souhaitait rencontrer le consultant car il a plus d'expérience en matière d'accidents médicaux.,male
 Le conseiller dit au patient qu'il a été professionnellement chargé de signaler des problèmes spécifiques.,male
 Le médecin généraliste a fait une visite à domicile au patient parce qu'il avait le sens du devoir.,male
-L'étudiante a organisé une rencontre avec l'architecte pour voir ses créations et s'en inspirer.,unknown
+L'étudiante a organisé une rencontre avec l'architecte pour voir ses créations et s'en inspirer.,female
 Quelqu'un a organisé une réunion avec l'architecte pour voir ses créations d'inspiration.,female
 Le nutritionniste a encouragé le client à manger trois repas principaux par jour car c'était le conseil qu'il donnait à tout le monde.,male
 Le nutritionniste a expliqué au patient qu'il croyait que le régime alimentaire et l'exercice étaient tout aussi importants.,male

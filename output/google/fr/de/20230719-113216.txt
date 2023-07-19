@@ -1,0 +1,15 @@
+!!! ../translations/google/de-fr.txt
+Not translating since translation file exists: ../translations/google/de-fr.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 59.74% (184), female: 27.6% (85)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'angestellte', 'landwirtin', 'bibliothekar', 'kind', 'fußgänger', 'fußgängerin', 'klempnerin', 'schülerin', 'schüler', 'steuerzahler']
+Unknown Misc ['Geschäftsführer', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'Aufseherin', 'der', 'die', 'Angestellte', 'Angestellten', 'Redakteur', 'Redakteurin', 'Landwirtin', 'Landwirtin', 'Wachfrau', 'Wachmann', 'der', 'dem', 'Bibliothekar', 'Bibliothekar', 'Krankenpfleger', 'Rezeptionisten,', 'Sekretär', 'Architekten', 'Kind,', 'Kind', 'Kunden', 'Zuschauer,', 'Zuschauerin,', 'Fußgänger,', 'Fußgängerin,', 'Klempnerin', 'Schülerin,', 'Schüler,', 'Schüler,', 'Schülerin,', 'Steuerzahler,']
+Unkown: 39 (12.66%), male: 22, female: 17
+
+Accuracy: 62.7, male: 77.92, female: 47.4 
+
+F1: male: 71.0, female: 61.1 
+

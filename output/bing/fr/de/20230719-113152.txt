@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-fr.txt
+Not translating since translation file exists: ../translations/bing/de-fr.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 49.68% (153), female: 35.71% (110)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'angestellte', 'landwirt', 'landwirtin', 'bibliothekar', 'verwalterin', 'barkeeperin', 'kind', 'fußgänger', 'fußgängerin', 'anwohner', 'schülerin', 'schüler', 'steuerzahler']
+Unknown Misc ['Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'Aufseherin', 'der', 'Angestellte', 'Angestellten', 'Designer', 'Fahrerin', 'Fahrer', 'Landwirt', 'Landwirtin', 'Landwirt', 'Landwirtin', 'der', 'dem', 'Bibliothekar', 'Bibliothekar', 'Umzugshelferin', 'Rezeptionistin', 'Verwalterin', 'Verwalterin', 'Barkeeperin', 'Barkeeperin', 'Kind,', 'Kind', 'Kunden', 'Kunden', 'Zuschauer,', 'Zuschauerin,', 'Patientin,', 'Fußgänger,', 'Fußgängerin,', 'Anwohner,', 'Verkäufer,', 'Verkäuferin,', 'Schülerin,', 'Schüler,', 'Schüler,', 'Schülerin,', 'Steuerzahler,']
+Unkown: 45 (14.61%), male: 22, female: 23
+
+Accuracy: 65.6, male: 72.73, female: 58.44 
+
+F1: male: 72.9, female: 68.1 
+

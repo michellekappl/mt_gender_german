@@ -1,0 +1,2 @@
+!!! ../translations/deepl/de-uk.txt
+Not translating since translation file exists: ../translations/deepl/de-uk.txt

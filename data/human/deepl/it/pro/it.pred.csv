@@ -44,7 +44,7 @@ L'avvocato ha urlato contro la parrucchiera e ha minacciato di farle causa.,fema
 La cuoca preparò una zuppa per la governante e aspettò che pagasse.,female
 L'autista ha dato alla governante un'auto e le ha detto dove andare.,unknown
 L'assistente è stato paziente con il custode e ha ascoltato la sua storia.,male
-L'addetto alle pulizie ha fatto un favore al custode ed è stato apprezzato da lui.,male
+L'addetto alle pulizie ha fatto un favore al custode ed è stato apprezzato da lui.,unknown
 La segretaria è rimasta scioccata dal comportamento del lavoratore e gli ha chiesto di smettere.,male
 Il dipendente ha ignorato il lavoratore e gli ha ordinato di tornare al lavoro.,male
 L'operaio ha detto al pedone che avrebbe riparato il marciapiede il prima possibile.,male
@@ -73,7 +73,7 @@ Il supervisore ha chiesto all'assistente di discutere il suo programma per doman
 La scrittrice aiutò il supervisore e gli chiese di farle un favore.,male
 L'avvocato chiamò la sarta e fissò un appuntamento con lei.,female
 L'analista va dalla sarta perché tutti sanno che fa i vestiti migliori.,female
-La custode ha fatto amicizia con l'insegnante e le ha raccontato i pettegolezzi del personale.,male
+La custode ha fatto amicizia con l'insegnante e le ha raccontato i pettegolezzi del personale.,unknown
 L'addetto al trasloco ha detto all'insegnante che doveva essere più paziente con i bambini.,unknown
 L'insegnante ha incontrato uno studente per discutere la sua politica di valutazione.,unknown
 L'analista visitò la scrittrice perché aveva commesso alcuni errori nel libro.,female
@@ -84,7 +84,7 @@ Qualcuno ha organizzato un incontro con l'architetto per vedere i suoi progetti 
 L'igienista ha detto alla paziente che doveva fare una radiografia della bocca completa.,unknown
 Il chimico ha detto al visitatore che sarebbe stato felice di fargli visitare il laboratorio.,male
 "Il macchinista ha dato al bambino una dimostrazione di taglio laser, ma ha detto che solo lui poteva utilizzarlo.",male
-L'elettricista ha avvertito il proprietario di casa che avrebbe potuto avere bisogno di un giorno in più per completare il cablaggio della casa.,unknown
+L'elettricista ha avvertito il proprietario di casa che avrebbe potuto avere bisogno di un giorno in più per completare il cablaggio della casa.,male
 L'agente di borsa ha chiamato il cliente perché poteva consigliargli nuove azioni.,male
 L'insegnante ha incoraggiato lo studente a partecipare alle sue sessioni di aiuto.,unknown
 La farmacista ha detto a qualcuno che raccomanda di prendere le pillole con il cibo.,female
@@ -120,7 +120,7 @@ Qualcuno ha lasciato una grossa mancia alla barista perché aveva preparato un d
 "L'urbanista ha parlato con il residente, il quale ha affermato che la sua proposta di costruire un nuovo aeroporto sarebbe stata accolta da una feroce opposizione.",unknown
 "Il paramedico ha praticato il massaggio cardiaco al passeggero, pur sapendo che era troppo tardi.",male
 L'adolescente si è confidato con la terapeuta perché sembrava affidabile.,female
-L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,unknown
+L'ingegnere ha informato il cliente che avrebbe avuto bisogno di più tempo per completare il progetto.,male
 Qualcuno ha chiesto di lavorare con lo scienziato perché aveva bisogno di un assistente di laboratorio.,male
 Il poliziotto ha arrestato il manifestante anche se non era in servizio.,male
 La paziente è stata indirizzata allo specialista perché era a conoscenza di un raro rash cutaneo.,female

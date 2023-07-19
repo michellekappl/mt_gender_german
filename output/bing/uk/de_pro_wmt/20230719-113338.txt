@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-uk.txt
+Not translating since translation file exists: ../translations/bing/de-uk.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 40.79% (31), female: 26.32% (20)
+
+Unknown words ['analystin', 'wirtschaftsprüferin', 'designer']
+Unknown Misc ['Geschäftsführer', 'Analystin', 'Analystin', 'die', 'Wirtschaftsprüferin,', 'Chef', 'Designer', 'Designer', 'Entwickler', 'Fahrer', 'Landwirt', 'Wachmann,', 'Hausmeister', 'Arbeiters', 'Mechaniker', 'Umzugshelfer', 'Krankenpflegerin', 'Rezeptionistin', 'Sekretärin']
+Unkown: 19 (25.0%), male: 12, female: 7
+
+Accuracy: 52.6, male: 57.89, female: 47.37 
+
+F1: male: 63.8, female: 62.1 
+

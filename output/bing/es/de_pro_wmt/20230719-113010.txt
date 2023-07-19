@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-es.txt
+Not translating since translation file exists: ../translations/bing/de-es.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 50.0% (38), female: 30.26% (23)
+
+Unknown words ['aufseher']
+Unknown Misc ['Geschäftsführer', 'Analystin', 'Assistentin', 'Aufseher', 'Bäcker', 'Chef', 'Angestellten', 'Fahrer', 'Landwirt', 'Wachmann,', 'Gefallen', 'Bibliothekarin', 'Umzugshelfer', 'Rezeptionistin', 'Lehrerin,']
+Unkown: 15 (19.74%), male: 10, female: 5
+
+Accuracy: 64.5, male: 71.05, female: 57.89 
+
+F1: male: 71.1, female: 72.1 
+

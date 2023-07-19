@@ -1,0 +1,15 @@
+!!! ../translations/deepl/de-it.txt
+Not translating since translation file exists: ../translations/deepl/de-it.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 48.38% (149), female: 25.97% (80)
+
+Unknown words ['assistenten', 'assistentin', 'wirtschaftsprüfer', 'tischlers', 'tischlerin', 'angestellte', 'fahrerin', 'fahrer', 'landwirt', 'haushälter', 'anwältin', 'anwalt', 'bibliothekar', 'bibliothekarin', 'rezeptionistin', 'lehrer', 'lehrerin', 'architekten', 'architektin', 'barkeeper', 'barkeeperin', 'käufer', 'käuferin', 'mitarbeiter', 'mitarbeiterin', 'gast', 'gästin', 'hygienikerin', 'hygieniker', 'instrukteurin', 'rechtsassistentin', 'rechtsassistent', 'patienten', 'planerin', 'planer', 'steuerzahlerin', 'steuerzahler', 'teenagerin', 'teenager']
+Unknown Misc ['Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Assistenten', 'Assistentin', 'Assistenten', 'Assistentin', 'Aufseherin', 'der', 'die', 'Wirtschaftsprüfer,', 'Bäckerin', 'Tischlers', 'Tischlerin', 'Chef', 'Chefin', 'Angestellten,', 'Angestellte', 'Bauarbeiterin', 'Designerin', 'Designer', 'Fahrerin', 'Fahrer', 'Fahrerin', 'Fahrer', 'Landwirt', 'Landwirt', 'Landwirtin', 'dem', 'Haushälter', 'Haushälterin', 'Haushälter', 'Anwältin,', 'Anwalt', 'Anwältin', 'Bibliothekar', 'Bibliothekarin', 'Bibliothekarin', 'Bibliothekar', 'Rezeptionistin,', 'Rezeptionistin', 'Lehrer', 'Lehrerin', 'Lehrerin,', 'Lehrer,', 'Ratholenden,', 'Architekten', 'Architektin', 'Architekten', 'Architektin', 'Barkeeper', 'Barkeeperin', 'Barkeeper', 'Barkeeperin', 'Käufer,', 'Käuferin,', 'Kunden', 'Lehrerin', 'Lehrer', 'Mitarbeiter', 'Mitarbeiterin', 'Gast,', 'Gästin,', 'Hygienikerin', 'Hygieniker', 'Instrukteurin', 'Rechtsassistentin', 'Rechtsassistent', 'Patienten,', 'Patientin,', 'Planerin', 'Planer', 'Verkäuferin,', 'Schüler,', 'Steuerzahlerin,', 'Steuerzahler,', 'Teenagerin', 'Teenager']
+Unkown: 79 (25.65%), male: 38, female: 41
+
+Accuracy: 58.4, male: 70.13, female: 46.75 
+
+F1: male: 71.3, female: 61.6 
+

@@ -1,0 +1,15 @@
+!!! ../translations/google/de-uk.txt
+Not translating since translation file exists: ../translations/google/de-uk.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 51.3% (158), female: 20.13% (62)
+
+Unknown words ['analystin', 'analyst', 'analysten', 'wirtschaftsprüfer', 'wirtschaftsprüferin', 'tischlers', 'tischlerin', 'angestellte', 'landwirt', 'anwalts', 'anwalt', 'feuerwehrfrau', 'feuerwehrmann', 'gast', 'polizist', 'besitzer', 'patienten', 'demonstranten']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'Aufseherin', 'der', 'die', 'Wirtschaftsprüfer,', 'Wirtschaftsprüferin,', 'Bäcker', 'Bäckerin', 'Tischlers', 'Tischlerin', 'Angestellte', 'Köchin', 'Koch', 'Designerin', 'Designer', 'Entwicklerin', 'Entwickler', 'Fahrerin', 'Fahrer', 'Landwirt', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'der', 'dem', 'Haushälter', 'Haushälterin', 'Hausmeister', 'Arbeiters', 'Anwalts,', 'Anwalt', 'Anwältin', 'Manager', 'Managerin', 'Mechaniker', 'Mechanikerin', 'Umzugshelferin', 'Umzugshelfer', 'Krankenpflegerin', 'Krankenpfleger', 'Rezeptionistin', 'Sekretärin', 'Sekretär', 'Feuerwehrfrau', 'Feuerwehrmann', 'Verwalterin', 'Kunden', 'Kundin', 'Gast,', 'Polizistin', 'Polizist', 'Besitzer', 'Patienten,', 'Patientin,', 'Demonstranten', 'Schülerin,', 'Schüler,', 'Opfers,', 'Opfers,']
+Unkown: 67 (21.75%), male: 35, female: 32
+
+Accuracy: 46.8, male: 61.69, female: 31.82 
+
+F1: male: 60.9, female: 45.3 
+

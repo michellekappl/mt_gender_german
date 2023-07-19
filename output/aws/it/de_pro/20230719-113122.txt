@@ -1,0 +1,15 @@
+!!! ../translations/aws/de-it.txt
+Not translating since translation file exists: ../translations/aws/de-it.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 51.59% (65), female: 26.19% (33)
+
+Unknown words ['tischlers', 'fahrer', 'friseurin', 'bibliothekarin', 'umzugshelfer', 'rezeptionistin', 'hygienikerin', 'instrukteurin', 'rechtsassistentin', 'steuerzahler', 'mitarbeiter', 'wissenschaftler']
+Unknown Misc ['Analystin', 'Assistentin', 'Bäcker', 'Tischlers', 'Angestellten,', 'Designer', 'Entwickler', 'Fahrer', 'Fahrer', 'Redakteurin', 'der', 'Friseurin', 'Bibliothekarin', 'Bibliothekarin', 'Umzugshelfer', 'Umzugshelfer', 'Rezeptionistin,', 'Rezeptionistin', 'Lehrerin,', 'Lehrerin', 'Schriftstellerin,', 'Hygienikerin', 'Instrukteurin', 'Rechtsassistentin', 'Steuerzahler,', 'Mitarbeiter', 'Verkäuferin,', 'Wissenschaftler']
+Unkown: 28 (22.22%), male: 12, female: 16
+
+Accuracy: 58.7, male: 75.44, female: 44.93 
+
+F1: male: 70.5, female: 60.8 
+

@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-fr.txt
+Not translating since translation file exists: ../translations/bing/de-fr.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 46.05% (35), female: 36.84% (28)
+
+Unknown words ['analyst', 'analysten', 'angestellte', 'bibliothekar']
+Unknown Misc ['Geschäftsführerin', 'Buchhalter', 'Analyst', 'Analysten', 'Aufseherin', 'der', 'Angestellte', 'Fahrerin', 'Landwirtin', 'dem', 'Bibliothekar', 'Bibliothekar', 'Umzugshelferin']
+Unkown: 13 (17.11%), male: 7, female: 6
+
+Accuracy: 53.9, male: 57.89, female: 50.0 
+
+F1: male: 60.3, female: 57.6 
+

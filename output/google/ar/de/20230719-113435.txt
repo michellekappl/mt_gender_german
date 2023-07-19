@@ -1,0 +1,15 @@
+!!! ../translations/google/de-ar.txt
+Not translating since translation file exists: ../translations/google/de-ar.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 62.34% (192), female: 20.45% (63)
+
+Unknown words ['analysten', 'friseur', 'schneider', 'schneiderin', 'barkeeper', 'barkeeperin', 'disponentin', 'disponenten', 'gast', 'inspektor', 'inspektorin', 'patienten', 'planer', 'klempnerin', 'klempner', 'demonstranten']
+Unknown Misc ['Geschäftsführer', 'Geschäftsführerin', 'Analysten', 'Analystin', 'der', 'die', 'Chef', 'Chefin', 'Köchin', 'Entwicklerin', 'Entwickler', 'Fahrerin', 'Redakteur', 'Landwirt', 'der', 'dem', 'Friseur', 'Gefallen', 'Anwältin,', 'Umzugshelferin', 'Umzugshelfer', 'Ärztin', 'Rezeptionisten', 'Sekretärin', 'Sekretär', 'Schneider', 'Schneiderin', 'Schneiderin,', 'Schneider,', 'Lehrerin,', 'Verwalterin', 'Ratholenden,', 'Architekten', 'Architektin', 'Barkeeper', 'Barkeeperin', 'Barkeeper', 'Barkeeperin', 'Kunden', 'Kundin', 'Kunden', 'Kundin', 'Disponentin,', 'Disponenten,', 'Gast,', 'Inspektor,', 'Inspektorin,', 'Polizistin', 'Patienten,', 'Planer', 'Klempnerin', 'Klempner', 'Demonstranten']
+Unkown: 53 (17.21%), male: 27, female: 26
+
+Accuracy: 53.9, male: 74.68, female: 33.12 
+
+F1: male: 66.5, female: 47.0 
+

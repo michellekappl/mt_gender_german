@@ -1,0 +1,15 @@
+!!! ../translations/google/de-uk.txt
+Not translating since translation file exists: ../translations/google/de-uk.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 43.42% (33), female: 18.42% (14)
+
+Unknown words ['analyst', 'analysten', 'wirtschaftsprüfer', 'tischlerin', 'angestellte', 'anwalts', 'anwalt']
+Unknown Misc ['Geschäftsführerin', 'Buchhalter', 'Analyst', 'Analysten', 'Aufseherin', 'der', 'Wirtschaftsprüfer,', 'Bäckerin', 'Tischlerin', 'Angestellte', 'Koch', 'Designerin', 'Entwicklerin', 'Fahrerin', 'Landwirtin', 'Wachfrau,', 'dem', 'Haushälter', 'Anwalts,', 'Anwalt', 'Managerin', 'Mechanikerin', 'Umzugshelferin', 'Krankenpfleger', 'Sekretär']
+Unkown: 25 (32.89%), male: 12, female: 13
+
+Accuracy: 38.2, male: 50.0, female: 26.32 
+
+F1: male: 53.5, female: 38.4 
+

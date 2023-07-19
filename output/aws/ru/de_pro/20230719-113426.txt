@@ -1,0 +1,15 @@
+!!! ../translations/aws/de-ru.txt
+Not translating since translation file exists: ../translations/aws/de-ru.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 55.56% (70), female: 17.46% (22)
+
+Unknown words ['analystin', 'designer', 'landwirt', 'wachmann', 'anwältin', 'sekretärin']
+Unknown Misc ['Analystin', 'Analystin', 'die', 'Bäcker', 'Kassiererin,', 'Chef', 'Reinigerin', 'Köchin', 'Designer', 'Designer', 'Entwickler', 'Fahrer', 'Landwirt', 'Landwirt', 'Wachmann,', 'Wachmann', 'der', 'Haushälterin', 'Arbeiters', 'Anwältin,', 'Anwältin', 'Bibliothekarin', 'Rezeptionistin', 'Sekretärin', 'Sekretärin']
+Unkown: 25 (19.84%), male: 11, female: 14
+
+Accuracy: 42.1, male: 64.91, female: 23.19 
+
+F1: male: 58.3, female: 35.2 
+

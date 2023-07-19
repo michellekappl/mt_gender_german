@@ -1,0 +1,15 @@
+!!! ../translations/bing/de-he.txt
+Not translating since translation file exists: ../translations/bing/de-he.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 47.37% (36), female: 35.53% (27)
+
+Unknown words ['friseurin']
+Unknown Misc ['Geschäftsführer', 'Chef', 'Landwirt', 'Wachmann', 'der', 'Friseurin', 'Haushälterin', 'Hausmeister', 'Arbeiter', 'Krankenpflegerin', 'Sekretärin', 'Schneiderin', 'Schriftstellerin']
+Unkown: 13 (17.11%), male: 6, female: 7
+
+Accuracy: 69.7, male: 76.32, female: 63.16 
+
+F1: male: 78.4, female: 73.9 
+

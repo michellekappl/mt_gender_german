@@ -1,0 +1,15 @@
+!!! ../translations/deepl/de-es.txt
+Not translating since translation file exists: ../translations/deepl/de-es.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 59.21% (45), female: 31.58% (24)
+
+Unknown words ['landwirtin']
+Unknown Misc ['Assistenten', 'Aufseherin', 'Chefin', 'Landwirtin', 'Landwirtin', 'Wachfrau,', 'Gefallen']
+Unkown: 7 (9.21%), male: 1, female: 6
+
+Accuracy: 77.6, male: 94.74, female: 60.53 
+
+F1: male: 86.7, female: 74.2 
+

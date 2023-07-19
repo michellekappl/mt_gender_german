@@ -1,0 +1,15 @@
+!!! ../translations/google/de-fr.txt
+Not translating since translation file exists: ../translations/google/de-fr.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 58.73% (74), female: 30.95% (39)
+
+Unknown words ['analystin', 'architekten', 'steuerzahler', 'ingenieur']
+Unknown Misc ['Geschäftsführer', 'Buchhalterin', 'Analystin', 'Analystin', 'die', 'Angestellten', 'Redakteurin', 'Wachmann', 'der', 'Architekten', 'Architekten', 'Steuerzahler,', 'Ingenieur']
+Unkown: 13 (10.32%), male: 7, female: 6
+
+Accuracy: 64.3, male: 80.7, female: 50.72 
+
+F1: male: 70.3, female: 64.8 
+

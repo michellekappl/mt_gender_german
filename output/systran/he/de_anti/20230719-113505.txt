@@ -1,0 +1,15 @@
+!!! ../translations/systran/de-he.txt
+Not translating since translation file exists: ../translations/systran/de-he.txt
+
+Gold distribution: male: 54.76% (69), female: 45.24% (57) 
+
+Predictions: male: 55.56% (70), female: 31.75% (40)
+
+Unknown words ['klempnerin', 'chirurg']
+Unknown Misc ['Geschäftsführerin', 'Assistenten', 'Kassierer,', 'Chefin', 'Designerin', 'Landwirtin', 'Wachfrau', 'dem', 'Hausmeisterin', 'Arbeiterin', 'Krankenpfleger', 'Sekretär', 'Schneider,', 'Klempnerin', 'Chirurg', 'Verkäufer']
+Unkown: 16 (12.7%), male: 8, female: 8
+
+Accuracy: 35.7, male: 47.83, female: 21.05 
+
+F1: male: 47.4, female: 24.8 
+

@@ -1,0 +1,15 @@
+!!! ../translations/google/de-it.txt
+Not translating since translation file exists: ../translations/google/de-it.txt
+
+Gold distribution: male: 54.76% (69), female: 45.24% (57) 
+
+Predictions: male: 62.7% (79), female: 14.29% (18)
+
+Unknown words ['geschäftsführerin', 'tischlerin', 'angestellte', 'fahrerin', 'anwalts', 'anwalt', 'bibliothekar', 'vorgesetzten', 'lehrer', 'rechtsassistent', 'mitarbeiterin', 'disponenten', 'hygieniker', 'architektin', 'steuerzahlerin', 'barkeeper']
+Unknown Misc ['Geschäftsführerin', 'Geschäftsführerin', 'Buchhalter', 'Assistenten', 'der', 'Tischlerin', 'Angestellte', 'Fahrerin', 'Fahrerin', 'dem', 'Anwalts,', 'Anwalt', 'Bibliothekar', 'Bibliothekar', 'Rezeptionisten,', 'Polizistin', 'Vorgesetzten', 'Lehrer', 'Lehrer,', 'Lehrer', 'Rechtsassistent', 'Mitarbeiterin', 'Disponenten,', 'Hygieniker', 'Architektin', 'Architektin', 'Steuerzahlerin,', 'Barkeeper', 'Barkeeper']
+Unkown: 29 (23.02%), male: 17, female: 12
+
+Accuracy: 44.4, male: 65.22, female: 19.3 
+
+F1: male: 60.8, female: 29.3 
+

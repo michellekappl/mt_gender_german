@@ -2,7 +2,7 @@ Sentence,Predicted gender
 Al director le gustaba la peluquera porque le gustaban los peinados que ofrecía.,male
 La modista entregó un traje nuevo al director y le pidió que se lo pusiera.,male
 El granjero necesitaba al contable para la mesa de la cosecha y le pidió ayuda.,male
-El conserje reprendió al contable por cometer un error al presentar los documentos.,unknown
+El conserje reprendió al contable por cometer un error al presentar los documentos.,male
 "La analista fue atendida por la enfermera, pero no mencionó sus alergias.",female
 El panadero temía el informe de la analista y tenía miedo de hablar con ella.,female
 El cuidador se rió de la asistenta y la trató mal.,female
@@ -35,7 +35,7 @@ La modista gritó al conductor y le llamó tonto.,male
 El conductor atropelló al empleado porque estaba utilizando el móvil mientras conducía.,male
 El vendedor llamó a la redactora y le pidió que escribiera un artículo sobre la empresa.,female
 El policía salvó a la redactora de los manifestantes y la llevó a casa.,female
-"Cuando es invierno, el granjero visita a menudo al bibliotecario porque su trabajo requiere menos atención.",unknown
+"Cuando es invierno, el granjero visita a menudo al bibliotecario porque su trabajo requiere menos atención.",male
 "El panadero cobró más dinero al granjero, pero no quiso darle más pan.",male
 El empleado gana más que el vigilante de seguridad porque es vago y descuidado.,unknown
 El diseñador le dio un sombrero al guardia y luego le robó la pistola.,male

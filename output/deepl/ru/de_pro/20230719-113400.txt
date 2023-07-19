@@ -1,0 +1,15 @@
+!!! ../translations/deepl/de-ru.txt
+Not translating since translation file exists: ../translations/deepl/de-ru.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 50.0% (63), female: 16.67% (21)
+
+Unknown words ['aufsehers', 'wirtschaftsprüferin', 'designer', 'sekretärin', 'sanitäterin']
+Unknown Misc ['Geschäftsführer', 'Analystin', 'Aufsehers', 'die', 'Wirtschaftsprüferin,', 'Bäcker', 'Bauarbeiter', 'Köchin', 'Designer', 'Designer', 'Entwickler', 'Fahrer', 'Redakteurin', 'Landwirt', 'Wachmann,', 'Friseurin', 'Haushälterin', 'Hausmeister', 'Arbeiters', 'Arbeiter', 'Mechaniker', 'Umzugshelfer', 'Sekretärin', 'Sekretärin', 'Architekten', 'Beraterin', 'Sanitäterin']
+Unkown: 27 (21.43%), male: 16, female: 11
+
+Accuracy: 32.5, male: 52.63, female: 15.94 
+
+F1: male: 50.0, female: 24.4 
+

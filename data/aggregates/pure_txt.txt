@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte.

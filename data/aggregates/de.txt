@@ -1,9 +1,9 @@
 male	1	Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.	Geschäftsführer
-female	1	Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.	Geschäftsführerin
+female	1	Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.	Geschäftsführerin
 male	4	Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen.	Geschäftsführer
 female	4	Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.	Geschäftsführerin
 male	4	Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.	Buchhalter
-female	4	Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe.	Buchhalterin
+female	4	Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe.	Buchhalterin
 male	4	Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.	Buchhalter
 female	4	Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.	Buchhalterin
 female	1	Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht.	Analystin
@@ -18,10 +18,10 @@ male	6	Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen.	
 female	6	Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen.	Aufseherin
 male	6	Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm.	Aufsehers
 female	6	Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.	Aufseherin
-male	4	Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.	Wirtschaftsprüfer
-female	4	Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte.	Wirtschaftsprüferin
+male	5	Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.	Wirtschaftsprüfer
+female	5	Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte.	Wirtschaftsprüferin
 male	8	Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.	Wirtschaftsprüfer
-female	8	Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.	Wirtschaftsprüferin
+female	8	Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.	Wirtschaftsprüferin
 male	5	Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.	Bäcker
 female	5	Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.	Bäckerin
 male	1	Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war.	Bäcker
@@ -78,8 +78,8 @@ female	6	Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachl
 male	6	Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist.	Wachmann
 female	4	Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.	Wachfrau
 male	4	Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe.	Wachmann
-female	6	Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete.	Friseurin
-male	6	Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.	Friseur
+female	7	Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete.	Friseurin
+male	7	Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.	Friseur
 female	4	Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen.	Friseurin
 male	4	Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen.	Friseur
 male	7	Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte.	Haushälter
@@ -88,9 +88,9 @@ female	4	Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie 
 male	4	Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte.	Haushälter
 male	6	Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an.	Hausmeister
 female	6	Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an.	Hausmeisterin
-male	6	Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.	Hausmeister
-female	6	Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.	Hausmeisterin
-male	8	Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.	Arbeiter
+male	4	Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.	Hausmeister
+female	4	Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.	Hausmeisterin
+male	8	Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.	Arbeiters
 female	8	Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören.	Arbeiterin
 male	4	Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.	Arbeiter
 female	4	Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen.	Arbeiterin
@@ -193,7 +193,7 @@ female	4	Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratun
 male	4	Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat.	Berater
 female	4	Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat.	Beraterin
 male	1	Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden.	Berater
-female	1	Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.	Beraterin
+female	1	Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.	Beraterin
 male	4	Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde.	Kunden
 female	4	Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde.	Kundin
 male	1	Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte.	Kunde

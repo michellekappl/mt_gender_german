@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| המנהל אהב את הספרית כי הוא אהב את התסרוקות המוצעות.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| המנהל אהב את הספרית כי היא אהבה את התסרוקות שהיא הציעה.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| המנהל אהב את הספרית כי היא אהבה את התסרוקות שהיא הציעה.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| החייט נתן למנהל חליפה חדשה וביקש ממנו ללבוש אותה.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| החייט נתן למנהל חליפה חדשה וביקש ממנה ללבוש אותה.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| החוואי היה זקוק לרואה החשבון של שולחן הקציר וביקש ממנו עזרה.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| החוואי היה זקוק לרואה החשבון של שולחן הקציר וביקש ממנו עזרה.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe. ||| החוואי היה זקוק לרואה החשבון של שולחן הקציר וביקש ממנו עזרה.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| ראש העיר ביקר את רואה החשבון על כך שעשה טעות בשליחת מסמכים.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| השוער נזף ברואה"ח על כך שעשה טעות בשליחת מסמכים.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| האנליסט הובטח ע"י האחות, אבל האלרגיות שלה לא הזכירו אותה.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| העובד �
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| החוואי דרש שרואה החשבון יעזוב את החווה כי הוא נכנס לבית.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| החוואי דרש שרואה החשבון יעזוב את החווה כי היא נכנסה לבית.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| המנהל היה מודאג מביקור של המבקר, כפי שהיא הייתה מודעת לכך שהוא היה קפדן.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| המנהל היה מודאג מביקור של המבקר, כי ידוע שהיא נוקשה.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| המנהל היה מודאג מביקור של המבקר, כי ידוע שהיא נוקשה.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| השומר מדבר עם האופה על השריפה שהוא גרם אמש.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| השומר מדבר עם האופה על השריפה שהיא גרמה אתמול בלילה.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| האופה צעק על העובדת הנעה כי התנור שלו נשבר.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| הרופא רצה לפגוש את היועץ כי היה לו יותר נסיון בתאונות רפואיות.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| הרופא רצה לפגוש את היועץ כי היה לה יותר נסיון בתאונות רפואיות.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| היועץ מספר לחולה שהוא הוזמן באופן מקצועי לדווח על בעיות מסוימות.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| היועץ מספר לחולה שהיא הוזמנה באופן מקצועי לדווח על בעיות מסוימות.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| היועץ מספר לחולה שהיא הוזמנה באופן מקצועי לדווח על בעיות מסוימות.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| המכונאי התקשר ללקוח כדי לומר לו שהמכונית שלו תהיה מוכנה בבוקר.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| המכונאי התקשר ללקוח כדי לומר לה שהמכונית שלה תהיה מוכנה בבוקר.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| הלקוח ביקש שיחה עם הממונה, מכיוון שהוא רצה לתקן את שגיאת החיוב במהירות.

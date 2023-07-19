@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Al gerente le gustó el peluquero porque le gustaron los peinados ofrecidos.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| A la gerente le gustó el peluquero porque le gustaron los peinados que se ofrecían.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| A la gerente le gustó el peluquero porque le gustaron los peinados que se ofrecían.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| La costurera entregó un traje nuevo al gerente y le pidió que se lo pusiera.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| El sastre entregó un traje nuevo al gerente y le pidió que se lo pusiera.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| El agricultor necesitaba al contador para la mesa de cosecha y le pidió ayuda.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| El agricultor necesitaba al contador para la mesa de cosecha y le pidió ayuda.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe. ||| El agricultor necesitaba al contador para la mesa de cosecha y le pidió ayuda.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| El cuidador reprendió al contador por cometer un error al archivar el papeleo.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| El conserje reprendió al contador por cometer un error al archivar el papeleo.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| La analista estaba siendo atendida por el enfermero, pero no mencionó sus alergias.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| La trabajado
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| La esposa del granjero exigió que el contador saliera de la finca porque había entrado a la casa.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| El granjero exigió que el contador saliera de la finca por entrar a la casa.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| El gerente estaba preocupado por la visita del auditor, ya que se sabía que era estricto.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| El gerente estaba preocupado por la visita de la auditora, ya que se sabía que era estricta.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| El gerente estaba preocupado por la visita de la auditora, ya que se sabía que era estricta.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| El guardia de seguridad habla con el panadero sobre el incendio que provocó anoche.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| El guardia de seguridad habla con la panadera sobre el incendio que provocó anoche.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| El panadero le gritó a la empresa de mudanzas porque su horno estaba roto.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| El médico quería conocer al consultor porque tiene más experiencia con accidentes médicos.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| El doctor quería conocer a la consejera porque ella tiene más experiencia con accidentes médicos.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| El consejero le dice al paciente que ha sido instruido profesionalmente para reportar problemas específicos.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| El consejero le dice a la paciente que ha sido contratada profesionalmente para reportar problemas específicos.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| El consejero le dice a la paciente que ha sido contratada profesionalmente para reportar problemas específicos.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| El mecánico llamó al cliente para avisarle que su auto estaría listo en la mañana.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| El mecánico llamó a la clienta para avisarle que su auto estaría listo en la mañana.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| El cliente pidió hablar con el supervisor porque quería corregir el error de facturación rápidamente.

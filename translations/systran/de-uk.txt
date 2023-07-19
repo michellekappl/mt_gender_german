@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Господар сподобався перукаря, тому що йому сподобався стиль волосся.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Господарці сподобався перукаря, тому що їй подобаються зачіски, які вона пропонувала.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Господарці сподобався перукаря, тому що їй подобаються зачіски, які вона пропонувала.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| Кравець дав директору новий костюм і попросив його одягнути його.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| Кравець дав адміністратору новий костюм і попросив одягнути його.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| Хліборові потрібен був бухгалтер, щоб зібрати врожай, і він попросив допомоги.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| Хліборові потрібен був бухгалтер, щоб зібрати врожай, і він попросив допомоги.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe. ||| Хліборові потрібен був бухгалтер, щоб зібрати врожай, і він попросив допомоги.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Мер критикував бухгалтера за помилку в надсиланні документів.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Прибиральник застеріг бухгалтера про помилку в надсиланні документів.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| Аналітика була під наглядом медсестри, але не згадала про неї алергії.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| Робітн
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| Фермер вимагав, щоб бухгалтер виїхав з колгоспу, бо сам зайшов до будинку.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| Фермер вимагав, щоб бухгалтер виїхав з колгоспу, бо вона увійшла до будинку.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| Керівник був стурбований тим, що до нього завітав аудитор, оскільки вона розуміла, що він суворий.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Керівник був стурбований тим, що до неї завітав аудитор, бо її вважали суворим.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Керівник був стурбований тим, що до неї завітав аудитор, бо її вважали суворим.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| Охоронець говорить пекарю про вогонь, який він спричинив минулої ночі.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| Охоронець розмовляє з пекаря про пожежу, яку вона спричинила минулої ночі.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| Пекар закричав на рухливого робітника, бо його піч був зламаний.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Лікар хотів зустрітися з консультантом, бо мав більший досвід у нещасних випадках.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Лікар хотів порадника, бо в неї був більший досвід у нещасних випадків на лікарнях.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант сказав пацієнту, що його професійно призначили повідомляти про певні проблеми.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант каже пацієнтові, що її професійно призначили повідомляти про певні проблеми.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант каже пацієнтові, що її професійно призначили повідомляти про певні проблеми.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| Механік подзвонив клієнту сказати, що його машина буде готова вранці.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Механік покликав покупця сказати, що її машина буде готова вранці.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Клієнт попросив про розмову з начальником, тому що він хотів швидко виправити помилку виставлення рахунків.

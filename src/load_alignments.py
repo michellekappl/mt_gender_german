@@ -12,6 +12,7 @@ from operator import itemgetter
 from tqdm import tqdm
 from typing import List
 import csv
+import pandas as pd
 
 # Local imports
 from languages.spacy_support import SpacyPredictor
@@ -163,6 +164,7 @@ if __name__ == "__main__":
     bitext = align_bitext_to_ds(full_bitext, ds)
 
     translated_profs, tgt_inds = get_translated_professions(align_fn, ds, bitext)
+
     assert(len(translated_profs) == len(tgt_inds))
 
     target_sentences = [tgt_sent for (ind, (src_sent, tgt_sent)) in bitext]
@@ -176,6 +178,15 @@ if __name__ == "__main__":
 
     # Output predictions
     output_predictions(target_sentences, gender_predictions, out_fn)
+
+    df = pd.DataFrame()
+    df['translated_professions'] = translated_profs
+    df['target_indices'] = tgt_inds
+    df['target_sentences'] = target_sentences
+    df['gender_prediction'] = gender_predictions
+    df['ds'] = ds
+    df.to_csv(out_fn, index=False)
+
 
     d = evaluate_bias(ds, gender_predictions)
 

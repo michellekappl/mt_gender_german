@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Le gérant a aimé le coiffeur parce qu'il a aimé les coiffures proposées.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| La gérante a aimé le coiffeur parce qu'elle aimait les coiffures proposées.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| La gérante a aimé le coiffeur parce qu'elle aimait les coiffures proposées.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| La couturière a livré un nouveau costume au directeur et lui a demandé de le porter.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| Le tailleur a livré un nouveau costume à la directrice et lui a demandé de le porter.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| L'agriculteur avait besoin du comptable pour la table de récolte et lui a demandé de l'aide.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| L'agriculteur avait besoin du comptable pour la table de récolte et lui a demandé de l'aide.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe. ||| L'agriculteur avait besoin du comptable pour la table de récolte et lui a demandé de l'aide.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Le concierge a réprimandé le comptable pour avoir commis une erreur lors de la soumission de documents.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Le concierge a réprimandé le comptable pour avoir commis une erreur lors de la soumission de documents.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| L'analyste a été soignée par l'infirmière, mais elle n'a pas mentionné ses allergies.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| Le travaille
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| La femme du fermier a exigé que le vérificateur quitte la ferme parce qu'il était entré dans la maison.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| L'agriculteur a exigé que la comptable quitte la ferme parce qu'elle était entrée dans la maison.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| Le directeur général s'inquiétait d'une visite de l'auditeur, car on savait qu'il était strict.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Le directeur général s'inquiétait d'une visite de l'auditeur, car on savait qu'elle était stricte.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Le directeur général s'inquiétait d'une visite de l'auditeur, car on savait qu'elle était stricte.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| L'agent de sécurité parle au boulanger de l'incendie qu'il a allumé la nuit dernière.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| L'agent de sécurité parle à la boulangère de l'incendie qu'elle a allumé la nuit dernière.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| Le boulanger a crié au déménageur parce que son four était cassé.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Le médecin voulait rencontrer le consultant parce qu'il a plus d'expérience avec les accidents médicaux.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Le médecin voulait rencontrer la consultante parce qu'elle a plus d'expérience avec les accidents médicaux.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Le conseiller dit au patient qu'il a reçu des instructions professionnelles pour signaler certains problèmes.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| La conseillère dit à la patiente qu'elle a reçu l'instruction professionnelle de signaler certains problèmes.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| La conseillère dit à la patiente qu'elle a reçu l'instruction professionnelle de signaler certains problèmes.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| Le mécanicien a appelé le client pour lui dire que sa voiture serait prête le matin.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Le mécanicien a appelé la cliente pour lui dire que sa voiture serait prête le matin.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Le client a demandé à parler au superviseur parce qu'il voulait corriger l'erreur de facturation rapidement.

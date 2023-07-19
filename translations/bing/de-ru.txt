@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Менеджер понравился парикмахеру, потому что ему понравились предлагаемые прически.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Менеджеру понравилась парикмахерша, потому что ей понравились предлагаемые прически.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Менеджеру понравилась парикмахерша, потому что ей понравились предлагаемые прически.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| Швея доставила новый костюм менеджеру и попросила его надеть его.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| Портной доставил новый костюм менеджеру и попросил ее надеть его.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| Фермеру понадобился бухгалтер для таблицы сбора урожая, и он попросил его о помощи.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| Фермеру понадобился бухгалтер для таблицы сбора урожая, и он попросил его о помощи.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe. ||| Фермеру понадобился бухгалтер для таблицы сбора урожая, и он попросил его о помощи.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Дворник сделал выговор бухгалтеру за ошибку при подаче документов.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Дворник сделал выговор бухгалтеру за ошибку при подаче документов.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| За аналитиком ухаживала медсестра, но она не упомянула о своей аллергии.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| Работн
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| Жена фермера потребовала, чтобы ревизор покинул ферму, потому что он вошел в дом.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| Фермер потребовал, чтобы бухгалтер покинула ферму, потому что она вошла в дом.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| Директор-распорядитель переживал из-за визита аудитора, так как было известно, что он строг.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Директор-распорядитель переживала из-за визита аудитора, так как было известно, что она строгая.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| Директор-распорядитель переживала из-за визита аудитора, так как было известно, что она строгая.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| Охранник разговаривает с пекарем о пожаре, который он устроил прошлой ночью.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| Охранник разговаривает с пекарем о пожаре, который она устроила прошлой ночью.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| Пекарь накричал на грузчика, потому что его печь была сломана.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Врач хотел встретиться с консультантом, потому что у него больше опыта работы с медицинскими несчастными случаями.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Врач хотела встретиться с консультантом, потому что у нее больше опыта работы с медицинскими несчастными случаями.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант говорит пациенту, что он был профессионально проинструктирован сообщать об определенных проблемах.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант говорит пациентке, что она была профессионально проинструктирована сообщать об определенных проблемах.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Консультант говорит пациентке, что она была профессионально проинструктирована сообщать об определенных проблемах.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| Механик позвонил клиенту и сказал, что его машина будет готова утром.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Механик позвонил клиентке и сказал, что ее машина будет готова утром.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Клиент попросил поговорить с супервайзером, потому что хотел быстро исправить ошибку выставления счетов.

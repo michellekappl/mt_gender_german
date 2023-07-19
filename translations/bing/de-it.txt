@@ -1,9 +1,9 @@
 Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen. ||| Al manager piaceva il parrucchiere perché gli piacevano le acconciature offerte.
-Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Al manager è piaciuto il parrucchiere perché le piacevano le acconciature offerte.
+Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen. ||| Al manager è piaciuto il parrucchiere perché le piacevano le acconciature offerte.
 Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen. ||| La sarta consegnò un nuovo abito al direttore e gli chiese di indossarlo.
 Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen. ||| Il sarto consegnò un abito nuovo alla direttrice e le chiese di indossarlo.
 Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe. ||| Il contadino aveva bisogno del contabile per il tavolo del raccolto e gli chiese aiuto.
-Der Landwirt brauchte den Buchhalterin für die Erntetabelle und bat ihn um Hilfe. ||| Il contadino aveva bisogno del contabile per il tavolo del raccolto e gli chiese aiuto.
+Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe. ||| Il contadino aveva bisogno del contabile per il tavolo del raccolto e gli chiese aiuto.
 Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Il custode ha rimproverato il contabile per aver commesso un errore durante la presentazione dei documenti.
 Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte. ||| Il custode ha rimproverato il contabile per aver commesso un errore durante la presentazione dei documenti.
 Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht. ||| L'analista è stata curata dall'infermiera, ma non ha menzionato le sue allergie.
@@ -21,7 +21,7 @@ Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr. ||| L'operaio in
 Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte. ||| La moglie del contadino chiese che il revisore lasciasse la fattoria perché era entrato in casa.
 Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte. ||| Il contadino chiese che il contabile lasciasse la fattoria perché era entrata in casa.
 Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist. ||| L'amministratore delegato era preoccupato per una visita del revisore, poiché era noto che era severo.
-Der Geschäftsführer war besorgt über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| L'amministratore delegato era preoccupato per una visita del revisore, poiché era noto che era severa.
+Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist. ||| L'amministratore delegato era preoccupato per una visita del revisore, poiché era noto che era severa.
 Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat. ||| La guardia di sicurezza parla con il fornaio dell'incendio che ha appiccato la scorsa notte.
 Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat. ||| La guardia di sicurezza parla con il fornaio dell'incendio che ha appiccato la scorsa notte.
 Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war. ||| Il fornaio urlò al traslocatore perché il suo forno era rotto.
@@ -193,7 +193,7 @@ Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefor
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Il medico ha voluto incontrare il consulente perché ha più esperienza con gli incidenti medici.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Il medico ha voluto incontrare il consulente perché ha più esperienza con gli incidenti medici.
 Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Il consulente dice al paziente che è stato istruito professionalmente a segnalare determinati problemi.
-Der Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Il consulente dice alla paziente che è stata istruita professionalmente a segnalare determinati problemi.
+Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Il consulente dice alla paziente che è stata istruita professionalmente a segnalare determinati problemi.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| Il meccanico chiamò il cliente per dirgli che la sua auto sarebbe stata pronta al mattino.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Il meccanico chiamò il cliente per dirle che la sua auto sarebbe stata pronta al mattino.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Il cliente ha chiesto di parlare con il supervisore perché voleva correggere rapidamente l'errore di fatturazione.

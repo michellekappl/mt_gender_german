@@ -35,7 +35,7 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
     total = defaultdict(lambda: 0)
     pred_cnt = defaultdict(lambda: 0)
     correct_cnt = defaultdict(lambda: 0)
-
+    unknowns = []
     count_unknowns = defaultdict(lambda: 0)
 
     for (gold_gender, word_ind, sent, profession), pred_gender in zip(ds, predicted):
@@ -46,8 +46,10 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
 
         if pred_gender == GENDER.unknown:
             count_unknowns[gold_gender] += 1
-
-        sent = sent.split()
+            sent = sent.split()
+            unknowns.append(sent[int(word_ind)])
+        else:
+            sent = sent.split()
         profession = profession.lower()
         if not profession:
             pdb.set_trace()
@@ -89,22 +91,22 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
                    "acc_female": acc_female,
                    "unk_male": count_unknowns[GENDER.male],
                    "unk_female": count_unknowns[GENDER.female],
-                   "unk_perc": round(((count_unknowns[GENDER.female]+count_unknowns[GENDER.male])/all_total)* 100, 2),
                    }
     
-    print("\nGold distribution: male: {} ({}), female: {} ({}) \n".format(round((total[GENDER.male]/ all_total) * 100, 2), total[GENDER.male],
+    print("\nGold distribution: male: {}% ({}), female: {}% ({}) \n".format(round((total[GENDER.male]/ all_total) * 100, 2), total[GENDER.male],
                                                            round((total[GENDER.female]/ all_total) * 100,2), total[GENDER.female]))
 
-    print("Predictions: male: {} ({}), female: {} ({})\n".format(round((pred_cnt[GENDER.male] / all_total) * 100, 2), pred_cnt[GENDER.male],
+    print("Predictions: male: {}% ({}), female: {}% ({})\n".format(round((pred_cnt[GENDER.male] / all_total) * 100, 2), pred_cnt[GENDER.male],
                                                      round((pred_cnt[GENDER.female] / all_total) * 100, 2), pred_cnt[GENDER.female]))
     
     print("Unknown words {}".format(unknown))
-    print("Unkown: {}% ({}) male: {}, female: {}\n".format(count_unknowns[GENDER.female]+count_unknowns[GENDER.male], 
+    print("Unknown Misc {}".format(unknowns))
+    print("Unkown: {} ({}%), male: {}, female: {}\n".format(count_unknowns[GENDER.female]+count_unknowns[GENDER.male], 
                                                          round(((count_unknowns[GENDER.female]+count_unknowns[GENDER.male])/all_total)* 100, 2), 
                                                          count_unknowns[GENDER.male],count_unknowns[GENDER.female]))
     
 
-    print(f"Accuracy: {acc} male: {acc_male}, female: {acc_female} \n")
+    print(f"Accuracy: {acc}, male: {acc_male}, female: {acc_female} \n")
 
     print(f"F1: male: {f1_male}, female: {f1_female} \n")
 

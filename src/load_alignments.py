@@ -47,7 +47,7 @@ def get_src_indices(instance: List[str]) -> List[int]:
     _, src_word_ind, sent = instance[: 3]
     src_word_ind = int(src_word_ind)
     sent_tok = sent.split(" ")
-    articles = ["der", "die", "des", "dem", "den"]
+    articles = ["der", "die", "des", "dem", "den"] #["the", "an", "a"] 
     if (src_word_ind > 0) and (sent_tok[src_word_ind - 1].lower() in articles):        
         src_indices = [src_word_ind -1]
     else:

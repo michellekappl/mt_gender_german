@@ -1,0 +1,14 @@
+!!! ../translations/bing/de-ar.txt
+Not translating since translation file exists: ../translations/bing/de-ar.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 64.29% (81), female: 17.46% (22), neutral 0.0% (0)
+
+Unknown Profs ['Geschäftsführer', 'Chef', 'Köchin', 'Designer', 'Entwickler', 'Friseurin', 'Haushälterin', 'Hausmeister', 'Manager', 'Manager', 'Umzugshelfer', 'Schneiderin', 'Lehrerin', 'Chefköchin', 'Architekten', 'Inspektor,', 'Disponentin,', 'Verwalterin', 'Psychologin', 'Beraterin', 'Verkäuferin,', 'Klempner', 'Barkeeperin']
+Unkown: 23 (18.25%), male: 11, female: 12
+
+Accuracy: 52.4, male: 78.95, female: 30.43 
+
+F1: male: 65.2, female: 46.1 
+

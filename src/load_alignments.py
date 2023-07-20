@@ -187,7 +187,6 @@ if __name__ == "__main__":
     df['ds'] = ds
     df.to_csv(out_fn, index=False)
 
-
     d = evaluate_bias(ds, gender_predictions)
 
 

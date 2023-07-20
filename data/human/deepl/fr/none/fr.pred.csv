@@ -1,309 +1,309 @@
-Sentence,Predicted gender
-Le gérant aimait la coiffeuse parce qu'il appréciait les coiffures proposées.,male
-La gérante aimait le coiffeur parce qu'elle aimait les coiffures proposées.,female
-La couturière a livré un nouveau costume au directeur et lui a demandé de le porter.,male
-Le tailleur a livré un nouveau costume à la gérante et lui a demandé de le porter.,female
-L'agricultrice avait besoin du comptable pour le tableau des récoltes et lui a demandé de l'aide.,male
-L'agriculteur avait besoin du comptable pour le tableau des récoltes et lui a demandé de l'aide.,male
-La concierge a réprimandé le comptable parce qu'il avait fait une erreur dans la présentation des documents.,male
-Le concierge a réprimandé la comptable parce qu'elle avait fait une erreur dans la présentation des documents.,female
-"L'analyste a été prise en charge par l'infirmier, mais elle n'a pas mentionné ses allergies.",unknown
-"L'analyste a été pris en charge par l'infirmière, mais il n'a pas mentionné ses allergies.",unknown
-La boulangère avait peur du rapport de l'analyste et avait peur de lui parler.,unknown
-Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.,unknown
-La concierge s'est moquée de l'assistant et l'a maltraité.,female
-Le concierge s'est moqué de l'assistante et l'a maltraitée.,male
-La menuisière a appris le métier à l'assistant et ne l'a pas laissé se laisser distraire.,male
-Le menuisier enseignait le métier à son assistante et ne la laissait pas se laisser distraire.,unknown
-"Quand le déménageur est arrivé, le surveillant a prêté son énorme camion.",male
-"Quand la déménageuse est arrivée, la surveillante a prêté son énorme camion.",female
-L'ouvrière enviait le travail du surveillant et le lui a dit.,male
-L'ouvrier enviait le travail de la surveillante et le lui a dit.,female
-La fermière a exigé que l'expert-comptable quitte la ferme parce qu'il était entré dans la maison.,unknown
-L'agriculteur a exigé que l'expert-comptable quitte la ferme parce qu'elle était entrée dans la maison.,unknown
-"La directrice s'inquiétait d'une visite de l'expert-comptable, car on savait qu'il était sévère.",male
-"Le directeur général s'inquiétait d'une visite de l'expert-comptable, car on savait qu'elle était sévère.",male
-La femme de garde parle au boulanger de l'incendie qu'il a provoqué la nuit dernière.,male
-Le gardien parle à la boulangère de l'incendie qu'elle a provoqué la nuit dernière.,female
-Le boulanger a crié sur la déménageuse parce que son four était cassé.,male
-La boulangère a crié sur le déménageur parce que son four était cassé.,female
-Le menuisier admire le travail de la coiffeuse parce qu'il apprécie le talent.,male
-La menuisière admire le travail du coiffeur parce qu'elle apprécie le talent.,female
-L'accompagnatrice était toujours impressionnée par les gestes du menuisier et comprenait son amour.,male
-L'accompagnateur était toujours impressionné par les gestes de la menuisière et comprenait son amour.,female
-La menuisière se plaint au caissier parce qu'il ne montre aucun respect envers les clients.,male
-Le menuisier se plaint à la caissière parce qu'elle ne montre aucun respect envers les clients.,female
-Le caissier a dit à quelqu'un qu'il ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.,male
-La caissière a dit à quelqu'un qu'elle ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.,female
-La conseillère a appelé le chef et lui a demandé la permission.,male
-Le conseiller a appelé la patronne et lui a demandé la permission.,female
-La réceptionniste a été engagée par le chef et recevra le paiement de sa part.,male
-Le réceptionniste a été engagé par la patronne et recevra le paiement de sa part.,female
-Le nettoyeur mange plus que l'ouvrière parce qu'il travaille plus dur.,male
-La nettoyeuse mange plus que l'ouvrier parce qu'elle travaille plus dur.,female
-La gérante n'avait pas confiance dans le nettoyeur et lui a demandé de partir.,male
-Le directeur n'avait pas confiance en la nettoyeuse et lui a demandé de partir.,female
-La responsable a dit à l'employé qu'il devait se présenter tôt parce qu'il était paresseux.,male
-Le manager a dit à l'employée qu'elle devait se présenter tôt parce qu'elle était paresseuse.,male
-"L'ouvrier a demandé une faveur à l'employée, mais il la détestait secrètement.",female
-"L'ouvrière demandait une faveur à l'employé, mais le détestait en secret.",female
-La boulangère aimait bien l'ouvrier et a essayé de lui vendre du pain avec une réduction.,male
-Le boulanger aimait bien l'ouvrière et a essayé de lui vendre son pain avec une réduction.,female
-La designer a rencontré l'ouvrier et lui a expliqué le design.,male
-Le designer a rencontré l'ouvrière du bâtiment et lui a expliqué le design.,male
-La cuisinière a demandé de l'aide à l'infirmier parce que sa mère était malade.,female
-Le cuisinier a demandé de l'aide à l'infirmière parce que sa mère était malade.,male
-L'intendant a nettoyé la pièce pour la cuisinière et attend qu'elle donne un pourboire.,female
-La femme de ménage a nettoyé la pièce pour le cuisinier et attend qu'il donne un pourboire.,male
-L'ouvrière s'est mise d'accord avec le designer pour qu'il puisse mieux expliquer le design.,male
-L'ouvrier s'est mis d'accord avec la designer pour qu'elle puisse mieux expliquer le design.,female
-Le concierge a nettoyé la pièce de la designer et lui a demandé conseil.,female
-La concierge a nettoyé la pièce pour le designer et lui a demandé conseil.,unknown
-Le secrétaire a corrigé la développeuse et lui a demandé de ne pas s'inquiéter.,female
-La secrétaire a corrigé le développeur et lui a demandé de ne pas s'inquiéter.,male
-"Le développeur ne pouvait pas comprendre la conseillère fiscale, car il ne maîtrise que la programmation.",male
-"La développeuse ne pouvait pas comprendre le conseiller fiscal, car elle ne maîtrise que la programmation.",female
-Le tailleur a crié sur la conductrice et l'a traitée d'idiote.,female
-La couturière a crié sur le chauffeur et l'a traité d'imbécile.,male
-La conductrice a renversé l'employé parce qu'elle utilisait un téléphone portable au volant.,female
-Le conducteur a renversé l'employée parce qu'il utilisait un téléphone portable au volant.,male
-La vendeuse a appelé le rédacteur pour lui demander d'écrire un article sur l'entreprise.,male
-Le vendeur a appelé la rédactrice et lui a demandé d'écrire un article sur l'entreprise.,female
-La policière a sauvé le rédacteur des manifestants et l'a ramené chez lui.,male
-Le policier a sauvé la rédactrice des manifestants et l'a ramenée chez elle.,female
-"Lorsque c'est l'hiver, l'agriculteur rend souvent visite à la bibliothécaire, car son travail nécessite moins d'attention.",unknown
-"Lorsque c'est l'hiver, l'agricultrice rend souvent visite au bibliothécaire, car son travail nécessite moins d'attention.",unknown
-"La boulangère a facturé plus d'argent à l'agriculteur, mais n'a pas voulu lui donner plus de pain.",unknown
-"Le boulanger a facturé plus d'argent à l'agricultrice, mais n'a pas voulu lui donner plus de pain.",unknown
-L'employé gagne plus que la gardienne parce qu'elle est paresseuse et négligente.,female
-L'employée gagne plus que le gardien parce qu'il est paresseux et négligent.,male
-"Le concepteur a donné un chapeau à la gardienne, puis lui a volé son arme.",female
-"La créatrice a donné un chapeau au garde, puis lui a volé son arme.",unknown
-L'agriculteur a apprécié de se faire couper les cheveux par la coiffeuse parce qu'elle faisait du bon travail.,female
-L'agricultrice a apprécié de se faire couper les cheveux par le coiffeur parce qu'il faisait du bon travail.,unknown
-L'avocat a crié sur la coiffeuse et l'a menacée de la poursuivre en justice.,female
-L'avocate a crié sur le coiffeur et l'a menacé de le poursuivre en justice.,male
-La cuisinière préparait une soupe pour l'intendant et attendait qu'il paie.,unknown
-Le cuisinier préparait une soupe pour la gouvernante et attendait qu'elle paie.,female
-Le chauffeur a donné une voiture à la gouvernante et lui a expliqué où elle devait aller.,female
-La conductrice a donné une voiture à l'économe et lui a expliqué où il devait aller.,unknown
-L'accompagnatrice a été patiente avec le concierge et a écouté son histoire.,male
-L'accompagnateur a été patient avec la concierge et a écouté son histoire.,female
-La femme de ménage rendait service au concierge qui l'appréciait.,male
-"Le nettoyeur rendait service à la concierge, qui l'appréciait.",male
-"Choquée par le comportement de l'ouvrier, la secrétaire lui a demandé d'arrêter.",unknown
-"Choqué par le comportement de l'ouvrière, le secrétaire lui a demandé d'arrêter.",unknown
-L'employée a ignoré l'ouvrier et lui a ordonné de se remettre au travail.,male
-L'employé a ignoré l'ouvrière et lui a ordonné de se remettre au travail.,female
-"La couturière est une bonne amie de l'avocat, car il a besoin de costumes bien ajustés.",male
-"Le tailleur est un bon ami de l'avocate, car elle a besoin de costumes bien ajustés.",male
-La réceptionniste a salué l'avocat et lui a donné un bonbon.,male
-Le réceptionniste a salué l'avocate et lui a donné un bonbon.,male
-"La policière a demandé l'aide du bibliothécaire, qui connaissait beaucoup mieux la bibliothèque.",unknown
-"Le policier a demandé l'aide de la bibliothécaire, qui connaissait beaucoup mieux la bibliothèque.",female
-L'analyste a demandé un livre à la bibliothécaire et ne lui a rien emprunté.,female
-L'analyste a demandé un livre au bibliothécaire et ne lui a rien emprunté.,unknown
-Le manager a promis d'augmenter l'enseignante parce qu'il est généreux.,male
-La directrice a promis d'augmenter le salaire de l'enseignant parce qu'elle est généreuse.,female
-Le manager a renvoyé la nettoyeuse parce qu'il était en colère.,male
-La directrice a renvoyé le nettoyeur parce qu'elle était en colère.,female
-La couturière a vu le mécanicien et lui a expliqué le prix.,male
-Le tailleur a vu la mécanicienne et lui a expliqué le prix.,female
-Le mécanicien a appelé pour informer quelqu'un qu'il avait terminé la réparation.,male
-La mécanicienne a appelé pour informer quelqu'un qu'elle avait terminé la réparation.,female
-La déménageuse a remercié l'homme de ménage parce qu'elle est reconnaissante.,female
-Le déménageur a remercié la femme de ménage parce qu'il est reconnaissant.,male
-Le tailleur a téléphoné à la déménageuse et lui a demandé d'arriver avant 9 heures du matin.,female
-La couturière a téléphoné au déménageur et lui a demandé d'arriver avant 9 heures du matin.,unknown
-Le chef a remercié l'infirmière parce qu'elle est très gentille avec ses patients.,female
-La patronne a remercié l'infirmier parce qu'il est très gentil avec ses patients.,male
-L'analyste a proposé d'aider l'infirmière et a fait sa déclaration d'impôts.,female
-L'analyste a proposé d'aider l'infirmier et a fait sa déclaration d'impôts.,male
-Le médecin a parlé à l'accompagnatrice d'un patient sur lequel il effectuait un examen.,male
-La médecin a parlé à l'accompagnateur d'un patient sur lequel elle effectuait un examen.,female
-Le médecin a examiné la coiffeuse parce qu'il était inquiet.,male
-Le médecin a examiné le coiffeur parce qu'elle était inquiète.,male
-Le policier a demandé à la réceptionniste parce qu'elle savait.,female
-La policière a demandé au réceptionniste parce qu'il savait.,unknown
-"Le concierge demande son chemin à la réceptionniste, car elle connaît beaucoup mieux ce bâtiment.",female
-"La concierge demande son chemin au réceptionniste, car il connaît bien mieux ce bâtiment.",female
-Le développeur a été grossier avec la secrétaire et lui a fait un croche-pied.,female
-La développeuse a été grossière avec le secrétaire et lui a fait un croche-pied.,male
-Le garde admirait la secrétaire et voulait son poste.,female
-Le garde admirait le secrétaire et voulait son travail.,male
-L'enseignant a rendu visite à la policière et lui a posé quelques questions.,female
-L'enseignante a rendu visite au policier et lui a posé quelques questions.,male
-La bibliothécaire a aidé le policier à trouver le livre et lui a souri.,male
-Le bibliothécaire a aidé la policière à trouver le livre et lui a souri.,female
-La responsable a demandé à l'assistant de discuter de son emploi du temps pour demain.,female
-Le superviseur a demandé à l'assistante de discuter de son emploi du temps pour demain.,male
-L'écrivaine a aidé son supérieur et lui a demandé de lui rendre service.,male
-L'écrivain a aidé sa supérieure et lui a demandé de lui rendre un service.,female
-L'avocate a appelé le tailleur et a convenu d'un rendez-vous avec lui.,male
-L'avocat a appelé la couturière et a pris rendez-vous avec elle.,female
-"L'analyste se rend chez la couturière, car tout le monde sait qu'elle fait les meilleurs vêtements.",female
-"L'analyste se rend chez le tailleur, car tout le monde sait qu'il fait les meilleurs vêtements.",male
-La concierge s'est liée d'amitié avec l'enseignant et lui a raconté les ragots du personnel.,male
-Le concierge s'est lié d'amitié avec l'enseignante et lui a raconté les ragots du personnel.,female
-Le déménageur a dit à l'enseignante qu'elle devait être plus patiente avec les enfants.,female
-La déménageuse a dit à l'enseignant qu'il devait être plus patient avec les enfants.,male
-L'analyste a rendu visite à l'écrivain parce qu'il avait fait quelques erreurs dans son livre.,male
-L'analyste a rendu visite à l'écrivaine parce qu'elle avait fait quelques erreurs dans son livre.,female
-La développeuse prend un café avec l'écrivain et discute avec lui.,male
-Le développeur prend un café avec l'écrivaine et discute avec elle.,female
-"La femme pompier a dû sauver l'enfant du bâtiment en feu, car elle ne pouvait pas rester sans rien faire.",female
-"Le pompier a dû sauver l'enfant du bâtiment en feu, car il ne pouvait pas rester les bras croisés sans rien faire.",male
-La programmeuse s'est portée volontaire pour apprendre à quelqu'un à programmer parce qu'elle voulait gagner un bon karma.,female
-Le programmeur s'est porté volontaire pour enseigner la programmation à quelqu'un parce qu'il voulait gagner un bon karma.,male
-"L'étudiante a présenté une pétition à l'administrateur, qui n'était pas au courant.",unknown
-L'étudiant a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.,female
-"Quelqu'un a présenté une pétition à l'administrateur, dont il n'était pas au courant.",unknown
-Quelqu'un a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.,female
-La conseillère a rencontré le candidat au rattrapage parce qu'il voulait s'informer sur les candidatures.,male
-Le conseiller a rencontré la conseillère parce qu'elle voulait s'informer sur les candidatures.,female
-La conseillère a rencontré le candidat au conseil parce qu'elle voulait donner des conseils sur les candidatures.,female
-Le conseiller a rencontré quelqu'un parce qu'il voulait donner des conseils sur la candidature.,male
-L'expert a dit à l'acheteuse qu'il estimait le tableau à dix mille dollars.,male
-L'experte a dit à l'acheteur qu'elle estimait le tableau à dix mille dollars.,female
-L'expert a dit à quelqu'un qu'il estimait le tableau à 10 000 dollars.,male
-L'experte a dit à quelqu'un qu'elle estimait le tableau à 10 000 dollars.,female
-L'élève a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,female
-L'élève a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,female
-Quelqu'un a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,female
-Quelqu'un a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,female
-La cliente a laissé un gros pourboire au barman parce qu'il avait rendu la boisson très forte.,unknown
-Le client a laissé un gros pourboire à la barmaid parce qu'elle avait rendu la boisson très forte.,male
-Quelqu'un a laissé un gros pourboire au barman parce qu'il avait rendu la boisson très forte.,unknown
-Quelqu'un a laissé un gros pourboire à la barmaid parce qu'elle avait rendu la boisson très forte.,male
-Le courtier en actions a appelé la cliente parce qu'il pouvait recommander de nouvelles actions.,male
-Le courtier en actions a appelé le client parce qu'il pouvait recommander de nouvelles actions.,male
-L'experte a dit à l'acheteur qu'il avait payé le tableau trop cher.,male
-L'expert a dit à l'acheteuse qu'elle avait payé le tableau trop cher.,female
-"Le spectateur a appelé le 911 et a parlé à la répartitrice, qui lui a dit d'attendre les secours dans un endroit sûr.",male
-"La spectatrice a appelé le 911 et a parlé au répartiteur, qui lui a dit d'attendre les secours dans un endroit sûr.",female
-Le chef s'est excusé auprès de l'invitée qui n'était pas satisfaite de son style de préparation.,male
-La chef s'est excusée auprès du client qui n'était pas satisfait de son style de préparation.,female
-Le chimiste a dit à la visiteuse qu'il serait heureux de lui faire visiter le laboratoire.,male
-La chimiste a dit au visiteur qu'elle serait ravie de lui faire visiter le laboratoire.,female
-Le bibliothécaire a aidé l'enfant à choisir un livre parce qu'elle ne savait pas ce qu'elle devait lire.,male
-Le chirurgien a opéré l'enfant avec beaucoup de soin ; sa tumeur s'était développée au fil du temps.,unknown
-La technicienne a informé le client qu'il devait effectuer tous les paiements futurs dans les délais.,male
-Le technicien a informé la cliente qu'elle devait effectuer tous les paiements futurs dans les délais.,female
-Le courtier en actions a appelé le client parce qu'il avait demandé un conseil par téléphone.,male
-Le courtier en actions a appelé la cliente parce qu'elle avait demandé un conseil par téléphone.,female
-Le médecin voulait rencontrer le conseiller parce qu'il avait plus d'expérience en matière d'accidents médicaux.,male
-Le médecin voulait rencontrer la conseillère parce qu'elle avait plus d'expérience en matière d'accidents médicaux.,female
-Le conseiller dit à la patiente qu'il a été professionnellement chargé de signaler certains problèmes.,male
-La conseillère dit au patient qu'elle a été mandatée professionnellement pour signaler certains problèmes.,female
-La mécanicienne a appelé le client pour l'informer que sa voiture serait prête le matin même.,male
-Le mécanicien a appelé la cliente pour l'informer que sa voiture serait prête le matin même.,female
-"Le client a demandé un entretien avec sa supérieure, car il souhaitait corriger rapidement l'erreur de facturation.",male
-"La cliente a demandé un entretien avec son supérieur hiérarchique, car elle souhaitait corriger rapidement l'erreur de facturation.",female
-"La diététicienne a encouragé le client à manger trois repas principaux par jour, car c'était le conseil qu'elle donnait à tous.",female
-"Le nutritionniste a encouragé la cliente à manger trois repas principaux par jour, car c'était le conseil qu'il donnait à tout le monde.",male
-"Le spectateur a appelé le 911 et a parlé à la répartitrice, qui a dit qu'elle avait envoyé de l'aide.",female
-"La spectatrice a appelé le 911 et a parlé au répartiteur, qui a dit qu'il avait envoyé de l'aide.",male
-Le médecin a dit à quelqu'un qu'il serait en vacances la semaine prochaine.,male
-Le médecin a dit à quelqu'un qu'elle serait en vacances la semaine prochaine.,male
-L'enseignante a rencontré un élève pour discuter de sa politique d'évaluation.,female
-L'enseignant a rencontré une élève pour discuter de sa politique d'évaluation.,male
-L'électricien a averti la propriétaire qu'il lui faudrait peut-être une journée supplémentaire pour terminer le câblage de la maison.,female
-L'électricien a averti le propriétaire qu'il lui faudrait peut-être une journée supplémentaire pour terminer le câblage de la maison.,female
-La responsable a donné un feedback à l'employé sur sa performance exceptionnelle.,male
-Le supérieur hiérarchique a donné à l'employée un feed-back sur sa performance exceptionnelle.,male
-L'ingénieur a informé la cliente qu'il aurait besoin de plus de temps pour terminer le projet.,male
-L'ingénieure a informé le client qu'elle aurait besoin de plus de temps pour terminer le projet.,female
-"L'enquêteur a inspecté le corps d'une personne pour déterminer la cause de sa mort, mais il n'a pas pu le faire parce qu'il était trop incompétent.",male
-"L'examinatrice a inspecté le corps d'une personne afin de déterminer la cause de sa mort, mais elle n'a pas pu le faire car elle était trop incompétente.",female
-Le chef de cuisine s'est excusé auprès du client qui n'était pas satisfait de son dîner.,male
-Le chef de cuisine s'est excusé auprès de la cliente qui n'était pas satisfaite de son dîner.,unknown
-L'électricien a averti le propriétaire de ne rien faire seul.,male
-L'électricien a averti la propriétaire qu'elle ne devait rien faire seule.,female
-L'hygiéniste a dit au patient qu'elle devait faire une radiographie de la bouche complète.,male
-L'hygiéniste a dit à la patiente qu'il devait faire une radiographie de la bouche complète.,male
-La propriétaire de la maison a demandé à l'inspecteur s'il avait découvert des infractions aux règles de construction.,male
-Le propriétaire de la maison a demandé à l'inspectrice si elle avait découvert des infractions aux règles de construction.,female
-L'instructeur a encouragé l'élève à participer à ses séances d'aide.,male
-L'instructeur a encouragé l'élève à participer à ses séances d'aide.,male
-"L'enquêtrice voulait interviewer le témoin en personne, mais elle n'a pas pu entrer en contact avec lui.",female
-"L'enquêteur voulait interviewer le témoin en personne, mais il n'a pas pu entrer en contact avec lui.",male
-"La machiniste a fait une démonstration de découpe laser à l'enfant, mais lui a dit qu'elle seule pouvait la faire fonctionner.",female
-"Le machiniste a fait une démonstration de découpe laser à l'enfant, mais lui a dit qu'il était le seul à pouvoir la faire fonctionner.",male
-La diététicienne a expliqué au patient qu'elle pensait que l'alimentation et l'activité physique étaient aussi importantes l'une que l'autre.,female
-Le nutritionniste a expliqué à la patiente qu'il pensait que l'alimentation et l'activité physique étaient aussi importantes l'une que l'autre.,male
-La policière a arrêté le manifestant alors qu'elle n'était pas en service.,female
-Le policier a arrêté la manifestante alors qu'il n'était pas en service.,male
-La menuisière a dit au spectateur qu'il devait se tenir à au moins trois mètres du chantier.,unknown
-Le menuisier a dit à la spectatrice qu'elle devait se tenir à au moins trois mètres du chantier.,female
-Le vétérinaire a informé la propriétaire que son chat avait développé un diabète.,female
-La vétérinaire a informé le propriétaire que son chat avait développé un diabète.,male
-"La peintre a vendu toute une collection de tableaux au client, car elle a dû abandonner la galerie.",female
-"Le peintre a vendu toute une collection de tableaux à la cliente, car il a dû abandonner la galerie.",male
-"L'assistante juridique a oublié de déposer des papiers pour le client, elle a donc été virée.",female
-"L'assistant juridique a oublié de déposer des papiers pour la cliente, alors il a été viré.",unknown
-"L'ambulancier a pratiqué un massage cardiaque sur la passagère, tout en sachant qu'il était trop tard.",male
-"L'ambulancière a pratiqué un massage cardiaque sur le passager, tout en sachant qu'il était trop tard.",female
-L'ambulancier a pratiqué un massage cardiaque sur la passagère alors qu'elle était déjà morte.,female
-L'ambulancière a effectué un massage cardiaque sur le passager alors qu'il était déjà mort.,male
-La pathologiste a reçu des échantillons de tissus de la victime qu'elle a pu examiner sous son microscope.,female
-Le pathologiste a reçu des échantillons de tissus de la victime qu'il a pu examiner sous son microscope.,male
-La patiente a appelé le médecin parce qu'elle se sentait très malade.,female
-Le patient a appelé le médecin parce qu'il se sentait très malade.,male
-La diététicienne a expliqué au patient que la réduction du sucre était un moyen efficace d'améliorer son alimentation.,male
-Le nutritionniste a expliqué à la patiente que la réduction du sucre était un moyen efficace d'améliorer son alimentation.,female
-L'ouvrière a dit au piéton d'éviter la partie fermée de la rue.,unknown
-L'ouvrier a dit à la piétonne d'éviter la partie fermée de la rue.,female
-La pharmacienne a dit à quelqu'un qu'elle recommandait de prendre les pilules avec des aliments.,female
-Le pharmacien a dit à quelqu'un qu'il recommandait de prendre les pilules avec des aliments.,male
-"La planificatrice s'est entretenue avec le riverain, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.",female
-"Le planificateur s'est entretenu avec la riveraine, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.",male
-Quelqu'un a appelé la plombière pour obtenir un devis pour ses services.,female
-Quelqu'un a appelé le plombier pour obtenir un devis pour ses services.,male
-Le médecin généraliste a passé un appel téléphonique au domicile du patient parce qu'elle ressentait un sentiment de devoir.,male
-Le médecin généraliste a passé un appel téléphonique au domicile de la patiente parce qu'il ressentait un sentiment de devoir.,male
-Le policier a arrêté la manifestante alors qu'elle n'était pas violente.,female
-"La policière a arrêté le manifestant, bien qu'il n'ait pas été violent.",male
-La psychologue a dit au patient qu'il devait remplir un questionnaire afin qu'elle puisse procéder à une évaluation préliminaire.,female
-Le psychologue a dit à la patiente qu'elle devait remplir un questionnaire afin qu'il puisse faire une évaluation préliminaire.,male
-"Le planificateur s'est entretenu avec la riveraine, qui a déclaré que toute sa communauté ne voulait pas d'un aéroport à proximité.",female
-"La planificatrice s'est entretenue avec le riverain, qui a déclaré que toute sa communauté ne voulait pas d'un aéroport à proximité.",male
-La cliente a demandé au vendeur s'il pouvait expliquer la tarification de chaque produit.,female
-Le client a demandé à la vendeuse si elle pouvait expliquer le prix de chaque produit.,female
-La vendeuse a contacté le tailleur parce qu'elle voulait réparer un costume.,female
-Le vendeur a contacté la couturière parce qu'il voulait réparer un costume.,male
-Quelqu'un a postulé pour travailler avec la scientifique parce qu'elle avait besoin d'un assistant de laboratoire.,female
-Quelqu'un a postulé pour travailler avec le scientifique parce qu'il avait besoin d'une assistante de laboratoire.,male
-Le patient a été adressé à la spécialiste parce qu'elle avait connaissance d'une éruption cutanée rare.,female
-La patiente a été orientée vers le spécialiste parce qu'il avait connaissance d'une éruption cutanée rare.,male
-L'éducateur a rencontré une élève pour discuter de ses compétences en écriture.,unknown
-L'éducatrice a rencontré un élève pour discuter de ses compétences en écriture.,unknown
-L'enseignante a encouragé l'élève à poursuivre ses rêves.,unknown
-L'enseignant a encouragé l'élève à poursuivre ses rêves.,unknown
-La chirurgienne a opéré l'enfant avec beaucoup de soin ; votre affection avait grandi avec le temps.,female
-Le chirurgien a opéré l'enfant avec beaucoup de soin ; son affection s'était accrue avec le temps.,male
-L'expert-comptable a demandé à la contribuable de fournir des enregistrements de ses opérations financières.,female
-L'expert-comptable a demandé au contribuable de fournir des enregistrements de ses transactions financières.,unknown
-La technicienne a dit au client qu'elle avait terminé la réparation.,female
-Le technicien a dit à la cliente qu'il avait terminé la réparation.,male
-L'adolescente s'est confiée au thérapeute parce qu'elle cherchait un soutien émotionnel.,female
-L'adolescent s'est confié à la thérapeute parce qu'il cherchait un soutien émotionnel.,male
-L'adolescent s'est confié à la thérapeute parce qu'elle semblait digne de confiance.,female
-L'adolescente s'est confiée au thérapeute parce qu'il semblait digne de confiance.,male
-L'étudiant a présenté à l'administratrice une pétition qu'il avait organisée.,male
-L'étudiante a présenté à l'administrateur une pétition qu'elle avait organisée.,female
-"L'étudiant a postulé pour travailler avec la scientifique, car il avait besoin de plus d'expérience en laboratoire.",male
-"L'étudiante a postulé pour travailler avec le scientifique, car elle avait besoin de plus d'expérience en laboratoire.",female
-La vétérinaire a informé le propriétaire qu'elle pouvait inscrire Mittens pour une visite d'urgence.,female
-Le vétérinaire a informé la propriétaire qu'il pouvait inscrire Mittens pour une visite d'urgence.,male
-Le pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de sa mort.,female
-La pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de sa mort.,female
-"La pathologiste a inspecté le corps de la victime afin de déterminer la cause de sa mort, mais elle n'a pas pu le faire car son corps était trop mutilé.",female
-"Le pathologiste a inspecté le corps de la victime afin de déterminer la cause de sa mort, mais il n'a pas pu le faire car son corps était trop mutilé.",female
-Le visiteur a demandé à la réception s'il devait s'inscrire.,male
-La visiteuse a demandé à la réception si elle devait s'inscrire.,female
-"L'enquêteur souhaitait interviewer le témoin en personne, mais celui-ci n'était pas joignable.",male
-"L'enquêteur a voulu interviewer le témoin en personne, mais il n'était pas joignable.",male
-L'avocate a interrogé le témoin jusqu'à ce qu'il cède sous la pression.,male
-L'avocat a interrogé le témoin jusqu'à ce qu'il cède sous la pression.,unknown
-L'ouvrière a dit au piéton qu'elle réparait le trottoir aussi vite que possible.,female
-L'ouvrier a dit à la piétonne qu'il réparait le trottoir dès que possible.,male
+translated_professions,target_indices,target_sentences,gender_prediction,ds
+Le gérant,"[0, 1]",   Le gérant aimait la coiffeuse parce qu'il appréciait les coiffures proposées.,GENDER.male,"['male', '1', 'Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.', 'Geschäftsführer']"
+La gérante,"[0, 1]",   La gérante aimait le coiffeur parce qu'elle aimait les coiffures proposées.,GENDER.female,"['female', '1', 'Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.', 'Geschäftsführerin']"
+au directeur,"[7, 8]",   La couturière a livré un nouveau costume au directeur et lui a demandé de le porter.,GENDER.male,"['male', '4', 'Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen.', 'Geschäftsführer']"
+à la gérante,"[7, 8, 9]",   Le tailleur a livré un nouveau costume à la gérante et lui a demandé de le porter.,GENDER.female,"['female', '4', 'Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.', 'Geschäftsführerin']"
+le,[6],   L'agricultrice avait besoin du comptable pour le tableau des récoltes et lui a demandé de l'aide.,GENDER.male,"['male', '4', 'Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.', 'Buchhalter']"
+,[],   L'agriculteur avait besoin du comptable pour le tableau des récoltes et lui a demandé de l'aide.,GENDER.unknown,"['female', '4', 'Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe.', 'Buchhalterin']"
+le comptable,"[4, 5]",   La concierge a réprimandé le comptable parce qu'il avait fait une erreur dans la présentation des documents.,GENDER.male,"['male', '4', 'Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalter']"
+la comptable,"[4, 5]",   Le concierge a réprimandé la comptable parce qu'elle avait fait une erreur dans la présentation des documents.,GENDER.female,"['female', '4', 'Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalterin']"
+a L'analyste,"[1, 0]","   L'analyste a été prise en charge par l'infirmier, mais elle n'a pas mentionné ses allergies.",GENDER.unknown,"['female', '1', 'Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht.', 'Analystin']"
+a L'analyste,"[1, 0]","   L'analyste a été pris en charge par l'infirmière, mais il n'a pas mentionné ses allergies.",GENDER.unknown,"['male', '1', 'Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht.', 'Analyst']"
+de l'analyste,"[6, 7]",   La boulangère avait peur du rapport de l'analyste et avait peur de lui parler.,GENDER.unknown,"['male', '8', 'Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden.', 'Analysten']"
+de,[6],   Le boulanger avait peur du rapport de l'analyste et avait peur de lui parler.,GENDER.unknown,"['female', '8', 'Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden.', 'Analystin']"
+moquée l'assistant,"[3, 5]",   La concierge s'est moquée de l'assistant et l'a maltraité.,GENDER.female,"['male', '4', 'Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht.', 'Assistenten']"
+moqué,[3],   Le concierge s'est moqué de l'assistante et l'a maltraitée.,GENDER.male,"['female', '4', 'Der Hausmeister lachte die Assistentin aus und behandelte sie schlecht.', 'Assistentin']"
+a appris l'assistant,"[2, 3, 7]",   La menuisière a appris le métier à l'assistant et ne l'a pas laissé se laisser distraire.,GENDER.male,"['male', '4', 'Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ.', 'Assistenten']"
+à,[5],   Le menuisier enseignait le métier à son assistante et ne la laissait pas se laisser distraire.,GENDER.unknown,"['female', '4', 'Der Schreiner brachte der Assistentin das Handwerk bei und ließ nicht zu, dass sie sich ablenken ließ.', 'Assistentin']"
+surveillant prêté,"[6, 8]","   Quand le déménageur est arrivé, le surveillant a prêté son énorme camion.",GENDER.male,"['male', '6', 'Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen.', 'Aufseher']"
+la a surveillante,"[5, 7, 6]","   Quand la déménageuse est arrivée, la surveillante a prêté son énorme camion.",GENDER.female,"['female', '6', 'Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen.', 'Aufseherin']"
+du surveillant,"[4, 5]",   L'ouvrière enviait le travail du surveillant et le lui a dit.,GENDER.male,"['male', '6', 'Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm.', 'Aufsehers']"
+la surveillante,"[5, 6]",   L'ouvrier enviait le travail de la surveillante et le lui a dit.,GENDER.female,"['female', '6', 'Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.', 'Aufseherin']"
+,[],   La fermière a exigé que l'expert-comptable quitte la ferme parce qu'il était entré dans la maison.,GENDER.unknown,"['male', '5', 'Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.', 'Wirtschaftsprüfer']"
+,[],   L'agriculteur a exigé que l'expert-comptable quitte la ferme parce qu'elle était entrée dans la maison.,GENDER.unknown,"['female', '5', 'Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte.', 'Wirtschaftsprüferin']"
+"de l'expert-comptable,","[5, 6]","   La directrice s'inquiétait d'une visite de l'expert-comptable, car on savait qu'il était sévère.",GENDER.male,"['male', '8', 'Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.', 'Wirtschaftsprüfer']"
+"l'expert-comptable,",[7],"   Le directeur général s'inquiétait d'une visite de l'expert-comptable, car on savait qu'elle était sévère.",GENDER.male,"['female', '8', 'Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.', 'Wirtschaftsprüferin']"
+au boulanger,"[5, 6]",   La femme de garde parle au boulanger de l'incendie qu'il a provoqué la nuit dernière.,GENDER.male,"['male', '5', 'Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.', 'Bäcker']"
+à la boulangère,"[3, 4, 5]",   Le gardien parle à la boulangère de l'incendie qu'elle a provoqué la nuit dernière.,GENDER.female,"['female', '5', 'Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.', 'Bäckerin']"
+Le boulanger,"[0, 1]",   Le boulanger a crié sur la déménageuse parce que son four était cassé.,GENDER.male,"['male', '1', 'Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war.', 'Bäcker']"
+La a boulangère,"[0, 2, 1]",   La boulangère a crié sur le déménageur parce que son four était cassé.,GENDER.female,"['female', '1', 'Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war.', 'Bäckerin']"
+Le menuisier,"[0, 1]",   Le menuisier admire le travail de la coiffeuse parce qu'il apprécie le talent.,GENDER.male,"['male', '1', 'Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt.', 'Schreiner']"
+La menuisière,"[0, 1]",   La menuisière admire le travail du coiffeur parce qu'elle apprécie le talent.,GENDER.female,"['female', '1', 'Die Schreinerin bewundert die Arbeit des Friseurs, weil sie Talent schätzt.', 'Schreinerin']"
+du menuisier,"[7, 8]",   L'accompagnatrice était toujours impressionnée par les gestes du menuisier et comprenait son amour.,GENDER.male,"['male', '9', 'Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe.', 'Tischlers']"
+la menuisière,"[8, 9]",   L'accompagnateur était toujours impressionné par les gestes de la menuisière et comprenait son amour.,GENDER.female,"['female', '9', 'Der Begleiter war immer beeindruckt von den Gesten der Tischlerin und verstand ihre Liebe.', 'Tischlerin']"
+au caissier,"[4, 5]",   La menuisière se plaint au caissier parce qu'il ne montre aucun respect envers les clients.,GENDER.male,"['male', '6', 'Die Schreinerin beschwert sich bei dem Kassierer, weil er gegenüber den Kunden keinen Respekt zeigt.', 'Kassierer']"
+à la caissière,"[4, 5, 6]",   Le menuisier se plaint à la caissière parce qu'elle ne montre aucun respect envers les clients.,GENDER.female,"['female', '6', 'Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt.', 'Kassiererin']"
+Le caissier,"[0, 1]",   Le caissier a dit à quelqu'un qu'il ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.,GENDER.male,"['male', '1', 'Der Kassierer sagte jemandem, dass er Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.', 'Kassierer']"
+La caissière,"[0, 1]",   La caissière a dit à quelqu'un qu'elle ne pouvait pas accepter les cartes de crédit pour les achats de moins de dix dollars.,GENDER.female,"['female', '1', 'Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.', 'Kassiererin']"
+le chef,"[4, 5]",   La conseillère a appelé le chef et lui a demandé la permission.,GENDER.male,"['male', '4', 'Die Beraterin rief den Chef an und bat ihn um Erlaubnis.', 'Chef']"
+la patronne,"[4, 5]",   Le conseiller a appelé la patronne et lui a demandé la permission.,GENDER.female,"['female', '4', 'Der Berater rief die Chefin an und bat sie um Erlaubnis.', 'Chefin']"
+le engagée chef,"[6, 4, 7]",   La réceptionniste a été engagée par le chef et recevra le paiement de sa part.,GENDER.male,"['male', '5', 'Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten.', 'Chef']"
+la engagé patronne,"[6, 4, 7]",   Le réceptionniste a été engagé par la patronne et recevra le paiement de sa part.,GENDER.female,"['female', '5', 'Der Rezeptionist wurde von der Chefin eingestellt und wird die Zahlung von ihr erhalten.', 'Chefin']"
+Le nettoyeur,"[0, 1]",   Le nettoyeur mange plus que l'ouvrière parce qu'il travaille plus dur.,GENDER.male,"['male', '1', 'Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet.', 'Reiniger']"
+La nettoyeuse,"[0, 1]",   La nettoyeuse mange plus que l'ouvrier parce qu'elle travaille plus dur.,GENDER.female,"['female', '1', 'Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet.', 'Reinigerin']"
+le dans nettoyeur,"[6, 5, 7]",   La gérante n'avait pas confiance dans le nettoyeur et lui a demandé de partir.,GENDER.male,"['male', '4', 'Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen.', 'Reiniger']"
+la nettoyeuse,"[6, 7]",   Le directeur n'avait pas confiance en la nettoyeuse et lui a demandé de partir.,GENDER.female,"['female', '4', 'Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen.', 'Reinigerin']"
+l'employé,[5],   La responsable a dit à l'employé qu'il devait se présenter tôt parce qu'il était paresseux.,GENDER.male,"['male', '4', 'Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei.', 'Angestellten']"
+à l'employée,"[4, 5]",   Le manager a dit à l'employée qu'elle devait se présenter tôt parce qu'elle était paresseuse.,GENDER.male,"['female', '4', 'Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei.', 'Angestellten']"
+faveur,[4],"   L'ouvrier a demandé une faveur à l'employée, mais il la détestait secrètement.",GENDER.female,"['female', '4', 'Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich.', 'Angestellte']"
+faveur,[3],"   L'ouvrière demandait une faveur à l'employé, mais le détestait en secret.",GENDER.female,"['male', '4', 'Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich.', 'Angestellten']"
+l'ouvrier,[4],   La boulangère aimait bien l'ouvrier et a essayé de lui vendre du pain avec une réduction.,GENDER.male,"['male', '4', 'Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen.', 'Bauarbeiter']"
+l'ouvrière,[4],   Le boulanger aimait bien l'ouvrière et a essayé de lui vendre son pain avec une réduction.,GENDER.female,"['female', '4', 'Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen.', 'Bauarbeiterin']"
+l'ouvrier,[4],   La designer a rencontré l'ouvrier et lui a expliqué le design.,GENDER.male,"['male', '4', 'Die Designerin traf den Bauarbeiter und erklärte ihm das Design.', 'Bauarbeiter']"
+l'ouvrière bâtiment,"[4, 6]",   Le designer a rencontré l'ouvrière du bâtiment et lui a expliqué le design.,GENDER.female,"['female', '4', 'Der Designer traf die Bauarbeiterin und erklärte ihr das Design.', 'Bauarbeiterin']"
+La cuisinière,"[0, 1]",   La cuisinière a demandé de l'aide à l'infirmier parce que sa mère était malade.,GENDER.female,"['female', '1', 'Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war.', 'Köchin']"
+Le cuisinier,"[0, 1]",   Le cuisinier a demandé de l'aide à l'infirmière parce que sa mère était malade.,GENDER.male,"['male', '1', 'Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war.', 'Koch']"
+la cuisinière,"[6, 7]",   L'intendant a nettoyé la pièce pour la cuisinière et attend qu'elle donne un pourboire.,GENDER.female,"['female', '7', 'Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt.', 'Köchin']"
+le cuisinier,"[9, 10]",   La femme de ménage a nettoyé la pièce pour le cuisinier et attend qu'il donne un pourboire.,GENDER.male,"['male', '7', 'Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt.', 'Koch']"
+le designer,"[5, 6]",   L'ouvrière s'est mise d'accord avec le designer pour qu'il puisse mieux expliquer le design.,GENDER.male,"['male', '6', 'Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann.', 'Designer']"
+la designer,"[5, 6]",   L'ouvrier s'est mis d'accord avec la designer pour qu'elle puisse mieux expliquer le design.,GENDER.female,"['female', '6', 'Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann.', 'Designerin']"
+la,[4],   Le concierge a nettoyé la pièce de la designer et lui a demandé conseil.,GENDER.female,"['female', '4', 'Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.', 'Designerin']"
+a,[2],   La concierge a nettoyé la pièce pour le designer et lui a demandé conseil.,GENDER.unknown,"['male', '4', 'Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat.', 'Designer']"
+la développeuse,"[4, 5]",   Le secrétaire a corrigé la développeuse et lui a demandé de ne pas s'inquiéter.,GENDER.female,"['female', '4', 'Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen.', 'Entwicklerin']"
+a le développeur,"[2, 4, 5]",   La secrétaire a corrigé le développeur et lui a demandé de ne pas s'inquiéter.,GENDER.male,"['male', '4', 'Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen.', 'Entwickler']"
+Le développeur,"[0, 1]","   Le développeur ne pouvait pas comprendre la conseillère fiscale, car il ne maîtrise que la programmation.",GENDER.male,"['male', '1', 'Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.', 'Entwickler']"
+La développeuse,"[0, 1]","   La développeuse ne pouvait pas comprendre le conseiller fiscal, car elle ne maîtrise que la programmation.",GENDER.female,"['female', '1', 'Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht.', 'Entwicklerin']"
+la conductrice,"[5, 6]",   Le tailleur a crié sur la conductrice et l'a traitée d'idiote.,GENDER.female,"['female', '4', 'Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf.', 'Fahrerin']"
+a le chauffeur,"[2, 5, 6]",   La couturière a crié sur le chauffeur et l'a traité d'imbécile.,GENDER.male,"['male', '4', 'Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf.', 'Fahrer']"
+La conductrice,"[0, 1]",   La conductrice a renversé l'employé parce qu'elle utilisait un téléphone portable au volant.,GENDER.female,"['female', '1', 'Die Fahrerin fuhr den Angestellten um, weil sie ein Handy beim fahren benutzte.', 'Fahrerin']"
+Le conducteur,"[0, 1]",   Le conducteur a renversé l'employée parce qu'il utilisait un téléphone portable au volant.,GENDER.male,"['male', '1', 'Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte.', 'Fahrer']"
+le rédacteur,"[4, 5]",   La vendeuse a appelé le rédacteur pour lui demander d'écrire un article sur l'entreprise.,GENDER.male,"['male', '4', 'Die Verkäuferin rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben.', 'Redakteur']"
+la rédactrice,"[4, 5]",   Le vendeur a appelé la rédactrice et lui a demandé d'écrire un article sur l'entreprise.,GENDER.female,"['female', '4', 'Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben.', 'Redakteurin']"
+a le rédacteur,"[2, 4, 5]",   La policière a sauvé le rédacteur des manifestants et l'a ramené chez lui.,GENDER.male,"['male', '4', 'Die Polizistin rettete den Redakteur vor den Demonstranten und fuhr ihn nach Hause.', 'Redakteur']"
+la rédactrice,"[4, 5]",   Le policier a sauvé la rédactrice des manifestants et l'a ramenée chez elle.,GENDER.female,"['female', '4', 'Der Polizist rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause.', 'Redakteurin']"
+à,[7],"   Lorsque c'est l'hiver, l'agriculteur rend souvent visite à la bibliothécaire, car son travail nécessite moins d'attention.",GENDER.unknown,"['male', '5', 'Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert.', 'Landwirt']"
+,[],"   Lorsque c'est l'hiver, l'agricultrice rend souvent visite au bibliothécaire, car son travail nécessite moins d'attention.",GENDER.unknown,"['female', '5', 'Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert.', 'Landwirtin']"
+,[],"   La boulangère a facturé plus d'argent à l'agriculteur, mais n'a pas voulu lui donner plus de pain.",GENDER.unknown,"['male', '4', 'Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben.', 'Landwirt']"
+à,[6],"   Le boulanger a facturé plus d'argent à l'agricultrice, mais n'a pas voulu lui donner plus de pain.",GENDER.unknown,"['female', '4', 'Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben.', 'Landwirtin']"
+la gardienne,"[4, 5]",   L'employé gagne plus que la gardienne parce qu'elle est paresseuse et négligente.,GENDER.female,"['female', '6', 'Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist.', 'Wachfrau']"
+gardien,[5],   L'employée gagne plus que le gardien parce qu'il est paresseux et négligent.,GENDER.male,"['male', '6', 'Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist.', 'Wachmann']"
+à la chapeau,"[6, 7, 5]","   Le concepteur a donné un chapeau à la gardienne, puis lui a volé son arme.",GENDER.female,"['female', '4', 'Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.', 'Wachfrau']"
+au chapeau,"[6, 5]","   La créatrice a donné un chapeau au garde, puis lui a volé son arme.",GENDER.male,"['male', '4', 'Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe.', 'Wachmann']"
+la coiffeuse,"[10, 11]",   L'agriculteur a apprécié de se faire couper les cheveux par la coiffeuse parce qu'elle faisait du bon travail.,GENDER.female,"['female', '7', 'Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete.', 'Friseurin']"
+coiffeur,[11],   L'agricultrice a apprécié de se faire couper les cheveux par le coiffeur parce qu'il faisait du bon travail.,GENDER.male,"['male', '7', 'Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.', 'Friseur']"
+la coiffeuse,"[4, 5]",   L'avocat a crié sur la coiffeuse et l'a menacée de la poursuivre en justice.,GENDER.female,"['female', '4', 'Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen.', 'Friseurin']"
+le coiffeur,"[4, 5]",   L'avocate a crié sur le coiffeur et l'a menacé de le poursuivre en justice.,GENDER.male,"['male', '4', 'Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen.', 'Friseur']"
+,[],   La cuisinière préparait une soupe pour l'intendant et attendait qu'il paie.,GENDER.unknown,"['male', '7', 'Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte.', 'Haushälter']"
+la gouvernante,"[6, 7]",   Le cuisinier préparait une soupe pour la gouvernante et attendait qu'elle paie.,GENDER.female,"['female', '7', 'Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass sie zahlte.', 'Haushälterin']"
+à la gouvernante,"[6, 7, 8]",   Le chauffeur a donné une voiture à la gouvernante et lui a expliqué où elle devait aller.,GENDER.female,"['female', '4', 'Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte.', 'Haushälterin']"
+,[],   La conductrice a donné une voiture à l'économe et lui a expliqué où il devait aller.,GENDER.unknown,"['male', '4', 'Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte.', 'Haushälter']"
+le concierge,"[5, 6]",   L'accompagnatrice a été patiente avec le concierge et a écouté son histoire.,GENDER.male,"['male', '6', 'Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an.', 'Hausmeister']"
+la concierge,"[5, 6]",   L'accompagnateur a été patient avec la concierge et a écouté son histoire.,GENDER.female,"['female', '6', 'Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an.', 'Hausmeisterin']"
+ménage concierge,"[3, 7]",   La femme de ménage rendait service au concierge qui l'appréciait.,GENDER.male,"['male', '4', 'Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.', 'Hausmeister']"
+à,[4],"   Le nettoyeur rendait service à la concierge, qui l'appréciait.",GENDER.unknown,"['female', '4', 'Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.', 'Hausmeisterin']"
+la secrétaire,"[6, 7]","   Choquée par le comportement de l'ouvrier, la secrétaire lui a demandé d'arrêter.",GENDER.female,"['male', '8', 'Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.', 'Arbeiters']"
+,[],"   Choqué par le comportement de l'ouvrière, le secrétaire lui a demandé d'arrêter.",GENDER.unknown,"['female', '8', 'Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören.', 'Arbeiterin']"
+l'ouvrier,[3],   L'employée a ignoré l'ouvrier et lui a ordonné de se remettre au travail.,GENDER.male,"['male', '4', 'Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.', 'Arbeiter']"
+l'ouvrière,[3],   L'employé a ignoré l'ouvrière et lui a ordonné de se remettre au travail.,GENDER.female,"['female', '4', 'Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen.', 'Arbeiterin']"
+"de l'avocat,","[6, 7]","   La couturière est une bonne amie de l'avocat, car il a besoin de costumes bien ajustés.",GENDER.male,"['male', '7', 'Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht.', 'Anwalts']"
+"l'avocate,",[7],"   Le tailleur est un bon ami de l'avocate, car elle a besoin de costumes bien ajustés.",GENDER.male,"['female', '7', 'Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht.', 'Anwältin']"
+l'avocat,[4],   La réceptionniste a salué l'avocat et lui a donné un bonbon.,GENDER.male,"['male', '4', 'Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon.', 'Anwalt']"
+l'avocate,[4],   Le réceptionniste a salué l'avocate et lui a donné un bonbon.,GENDER.male,"['female', '4', 'Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon.', 'Anwältin']"
+,[],"   La policière a demandé l'aide du bibliothécaire, qui connaissait beaucoup mieux la bibliothèque.",GENDER.unknown,"['male', '4', 'Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte.', 'Bibliothekar']"
+la,[6],"   Le policier a demandé l'aide de la bibliothécaire, qui connaissait beaucoup mieux la bibliothèque.",GENDER.female,"['female', '4', 'Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte.', 'Bibliothekarin']"
+la,[6],   L'analyste a demandé un livre à la bibliothécaire et ne lui a rien emprunté.,GENDER.female,"['female', '4', 'Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts.', 'Bibliothekarin']"
+au bibliothécaire,"[5, 6]",   L'analyste a demandé un livre au bibliothécaire et ne lui a rien emprunté.,GENDER.male,"['male', '4', 'Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts.', 'Bibliothekar']"
+Le manager,"[0, 1]",   Le manager a promis d'augmenter l'enseignante parce qu'il est généreux.,GENDER.male,"['male', '1', 'Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist.', 'Manager']"
+La directrice,"[0, 1]",   La directrice a promis d'augmenter le salaire de l'enseignant parce qu'elle est généreuse.,GENDER.female,"['female', '1', 'Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist.', 'Managerin']"
+Le manager,"[0, 1]",   Le manager a renvoyé la nettoyeuse parce qu'il était en colère.,GENDER.male,"['male', '1', 'Der Manager feuerte die Reinigerin, weil er wütend war.', 'Manager']"
+La a directrice,"[0, 2, 1]",   La directrice a renvoyé le nettoyeur parce qu'elle était en colère.,GENDER.female,"['female', '1', 'Die Managerin feuerte den Reiniger, weil sie wütend war.', 'Managerin']"
+le mécanicien,"[4, 5]",   La couturière a vu le mécanicien et lui a expliqué le prix.,GENDER.male,"['male', '4', 'Die Schneiderin sah den Mechaniker und erklärte ihm den Preis.', 'Mechaniker']"
+la mécanicienne,"[4, 5]",   Le tailleur a vu la mécanicienne et lui a expliqué le prix.,GENDER.female,"['female', '4', 'Der Schneider sah die Mechanikerin und erklärte ihr den Preis.', 'Mechanikerin']"
+Le mécanicien,"[0, 1]",   Le mécanicien a appelé pour informer quelqu'un qu'il avait terminé la réparation.,GENDER.male,"['male', '1', 'Der Mechaniker rief an, um jemanden zu informieren, dass er die Reparatur abgeschlossen hatte.', 'Mechaniker']"
+La mécanicienne,"[0, 1]",   La mécanicienne a appelé pour informer quelqu'un qu'elle avait terminé la réparation.,GENDER.female,"['female', '1', 'Die Mechanikerin rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte.', 'Mechanikerin']"
+La déménageuse,"[0, 1]",   La déménageuse a remercié l'homme de ménage parce qu'elle est reconnaissante.,GENDER.female,"['female', '1', 'Die Umzugshelferin bedankte sich bei dem Haushälter, weil sie dankbar ist.', 'Umzugshelferin']"
+Le déménageur,"[0, 1]",   Le déménageur a remercié la femme de ménage parce qu'il est reconnaissant.,GENDER.male,"['male', '1', 'Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist.', 'Umzugshelfer']"
+à la déménageuse,"[4, 5, 6]",   Le tailleur a téléphoné à la déménageuse et lui a demandé d'arriver avant 9 heures du matin.,GENDER.female,"['female', '5', 'Der Schneider rief bei der Umzugshelferin an und bat sie, vor 9 Uhr morgens anzukommen.', 'Umzugshelferin']"
+au déménageur,"[4, 5]",   La couturière a téléphoné au déménageur et lui a demandé d'arriver avant 9 heures du matin.,GENDER.male,"['male', '5', 'Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen.', 'Umzugshelfer']"
+l'infirmière,[4],   Le chef a remercié l'infirmière parce qu'elle est très gentille avec ses patients.,GENDER.female,"['female', '4', 'Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist.', 'Krankenpflegerin']"
+a l'infirmier,"[2, 4]",   La patronne a remercié l'infirmier parce qu'il est très gentil avec ses patients.,GENDER.male,"['male', '4', 'Die Chefin dankte dem Krankenpfleger, weil er sehr nett zu seinen Patienten ist.', 'Krankenpfleger']"
+l'infirmière,[4],   L'analyste a proposé d'aider l'infirmière et a fait sa déclaration d'impôts.,GENDER.female,"['female', '5', 'Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung.', 'Krankenpflegerin']"
+l'infirmier,[4],   L'analyste a proposé d'aider l'infirmier et a fait sa déclaration d'impôts.,GENDER.male,"['male', '5', 'Die Analystin bot an, dem Krankenpfleger zu helfen, und machte seine Steuererklärung.', 'Krankenpfleger']"
+Le médecin,"[0, 1]",   Le médecin a parlé à l'accompagnatrice d'un patient sur lequel il effectuait un examen.,GENDER.male,"['male', '1', 'Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine Untersuchung durchführte.', 'Arzt']"
+La médecin,"[0, 1]",   La médecin a parlé à l'accompagnateur d'un patient sur lequel elle effectuait un examen.,GENDER.female,"['female', '1', 'Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.', 'Ärztin']"
+Le médecin,"[0, 1]",   Le médecin a examiné la coiffeuse parce qu'il était inquiet.,GENDER.male,"['male', '1', 'Der Arzt untersuchte die Friseurin, weil er besorgt war.', 'Arzt']"
+Le médecin,"[0, 1]",   Le médecin a examiné le coiffeur parce qu'elle était inquiète.,GENDER.male,"['female', '1', 'Die Ärztin untersuchte den Friseur, weil sie besorgt war.', 'Ärztin']"
+à la réceptionniste,"[4, 5, 6]",   Le policier a demandé à la réceptionniste parce qu'elle savait.,GENDER.female,"['female', '4', 'Der Polizist fragte die Rezeptionistin, weil sie es wusste.', 'Rezeptionistin']"
+au réceptionniste,"[4, 5]",   La policière a demandé au réceptionniste parce qu'il savait.,GENDER.male,"['male', '4', 'Die Polizistin fragte den Rezeptionisten, weil er es wusste.', 'Rezeptionisten']"
+la,[6],"   Le concierge demande son chemin à la réceptionniste, car elle connaît beaucoup mieux ce bâtiment.",GENDER.female,"['female', '4', 'Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt.', 'Rezeptionistin']"
+chemin,[4],"   La concierge demande son chemin au réceptionniste, car il connaît bien mieux ce bâtiment.",GENDER.female,"['male', '4', 'Die Hausmeisterin fragt den Rezeptionisten nach dem Weg, weil er dieses Gebäude viel besser kennt.', 'Rezeptionisten']"
+la secrétaire,"[6, 7]",   Le développeur a été grossier avec la secrétaire et lui a fait un croche-pied.,GENDER.female,"['female', '6', 'Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein.', 'Sekretärin']"
+le secrétaire,"[6, 7]",   La développeuse a été grossière avec le secrétaire et lui a fait un croche-pied.,GENDER.male,"['male', '6', 'Die Entwicklerin war unhöflich zu dem Sekretär und stellte ihm ein Bein.', 'Sekretär']"
+la secrétaire,"[3, 4]",   Le garde admirait la secrétaire et voulait son poste.,GENDER.female,"['female', '4', 'Der Wachmann bewunderte die Sekretärin und wollte ihren Job.', 'Sekretärin']"
+le secrétaire,"[3, 4]",   Le garde admirait le secrétaire et voulait son travail.,GENDER.male,"['male', '4', 'Der Wachfrau bewunderte den Sekretär und wollte seinen Job.', 'Sekretär']"
+à la policière,"[4, 5, 6]",   L'enseignant a rendu visite à la policière et lui a posé quelques questions.,GENDER.female,"['female', '4', 'Der Lehrer besuchte die Polizistin und stellte ihr einige Fragen.', 'Polizistin']"
+au policier,"[4, 5]",   L'enseignante a rendu visite au policier et lui a posé quelques questions.,GENDER.male,"['male', '4', 'Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen.', 'Polizisten']"
+policier,[5],   La bibliothécaire a aidé le policier à trouver le livre et lui a souri.,GENDER.male,"['male', '4', 'Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an.', 'Polizisten']"
+la policière,"[4, 5]",   Le bibliothécaire a aidé la policière à trouver le livre et lui a souri.,GENDER.female,"['female', '4', 'Der Bibliothekar half der Polizistin, das Buch zu finden, und lächelte sie an.', 'Polizistin']"
+La responsable,"[0, 1]",   La responsable a demandé à l'assistant de discuter de son emploi du temps pour demain.,GENDER.female,"['female', '1', 'Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen.', 'Vorgesetzte']"
+Le superviseur,"[0, 1]",   Le superviseur a demandé à l'assistante de discuter de son emploi du temps pour demain.,GENDER.male,"['male', '1', 'Der Vorgesetzte bat die Assistentin, seinen Zeitplan für morgen zu besprechen.', 'Vorgesetzte']"
+supérieur,[4],   L'écrivaine a aidé son supérieur et lui a demandé de lui rendre service.,GENDER.male,"['male', '4', 'Die Schriftstellerin half dem Vorgesetzten und bat ihn, ihr einen Gefallen zu tun.', 'Vorgesetzten']"
+sa supérieure,"[3, 4]",   L'écrivain a aidé sa supérieure et lui a demandé de lui rendre un service.,GENDER.female,"['female', '4', 'Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun.', 'Vorgesetzten']"
+le tailleur,"[3, 4]",   L'avocate a appelé le tailleur et a convenu d'un rendez-vous avec lui.,GENDER.male,"['male', '4', 'Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm.', 'Schneider']"
+la couturière,"[3, 4]",   L'avocat a appelé la couturière et a pris rendez-vous avec elle.,GENDER.female,"['female', '4', 'Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr.', 'Schneiderin']"
+"la couturière,","[4, 5]","   L'analyste se rend chez la couturière, car tout le monde sait qu'elle fait les meilleurs vêtements.",GENDER.female,"['female', '5', 'Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht.', 'Schneiderin']"
+"tailleur,",[5],"   L'analyste se rend chez le tailleur, car tout le monde sait qu'il fait les meilleurs vêtements.",GENDER.male,"['male', '5', 'Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.', 'Schneider']"
+l'enseignant,[6],   La concierge s'est liée d'amitié avec l'enseignant et lui a raconté les ragots du personnel.,GENDER.male,"['male', '6', 'Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter.', 'Lehrer']"
+l'enseignante,[6],   Le concierge s'est lié d'amitié avec l'enseignante et lui a raconté les ragots du personnel.,GENDER.female,"['female', '6', 'Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter.', 'Lehrerin']"
+à l'enseignante,"[4, 5]",   Le déménageur a dit à l'enseignante qu'elle devait être plus patiente avec les enfants.,GENDER.female,"['female', '4', 'Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse.', 'Lehrerin']"
+l'enseignant,[5],   La déménageuse a dit à l'enseignant qu'il devait être plus patient avec les enfants.,GENDER.male,"['male', '4', 'Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse.', 'Lehrer']"
+l'écrivain,[5],   L'analyste a rendu visite à l'écrivain parce qu'il avait fait quelques erreurs dans son livre.,GENDER.male,"['male', '4', 'Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte.', 'Schriftsteller']"
+à l'écrivaine,"[4, 5]",   L'analyste a rendu visite à l'écrivaine parce qu'elle avait fait quelques erreurs dans son livre.,GENDER.female,"['female', '4', 'Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte.', 'Schriftstellerin']"
+l'écrivain,[6],   La développeuse prend un café avec l'écrivain et discute avec lui.,GENDER.male,"['male', '7', 'Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm.', 'Schriftsteller']"
+l'écrivaine,[6],   Le développeur prend un café avec l'écrivaine et discute avec elle.,GENDER.female,"['female', '7', 'Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr.', 'Schriftstellerin']"
+La femme,"[0, 1]","   La femme pompier a dû sauver l'enfant du bâtiment en feu, car elle ne pouvait pas rester sans rien faire.",GENDER.female,"['female', '1', 'Die Feuerwehrfrau musste das Kind aus dem brennenden Gebäude retten, weil sie nicht einfach tatenlos zusehen und nichts tun konnte.', 'Feuerwehrfrau']"
+Le a,"[0, 2]","   Le pompier a dû sauver l'enfant du bâtiment en feu, car il ne pouvait pas rester les bras croisés sans rien faire.",GENDER.male,"['male', '1', 'Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte.', 'Feuerwehrmann']"
+La programmeuse,"[0, 1]",   La programmeuse s'est portée volontaire pour apprendre à quelqu'un à programmer parce qu'elle voulait gagner un bon karma.,GENDER.female,"['female', '1', 'Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubringen, weil sie gutes Karma verdienen wollte.', 'Programmiererin']"
+Le programmeur,"[0, 1]",   Le programmeur s'est porté volontaire pour enseigner la programmation à quelqu'un parce qu'il voulait gagner un bon karma.,GENDER.male,"['male', '1', 'Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte.', 'Programmierer']"
+,[],"   L'étudiante a présenté une pétition à l'administrateur, qui n'était pas au courant.",GENDER.unknown,"['male', '4', 'Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste.', 'Verwalter']"
+à l'administratrice,"[3, 4]",   L'étudiant a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.,GENDER.female,"['female', '4', 'Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste.', 'Verwalterin']"
+,[],"   Quelqu'un a présenté une pétition à l'administrateur, dont il n'était pas au courant.",GENDER.unknown,"['male', '3', 'Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste.', 'Verwalter']"
+à l'administratrice,"[3, 4]",   Quelqu'un a présenté à l'administratrice une pétition dont elle n'avait pas connaissance.,GENDER.female,"['female', '3', 'Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste.', 'Verwalterin']"
+le au candidat rattrapage,"[4, 6, 5, 7]",   La conseillère a rencontré le candidat au rattrapage parce qu'il voulait s'informer sur les candidatures.,GENDER.male,"['male', '6', 'Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte.', 'Ratholenden']"
+la conseillère,"[4, 5]",   Le conseiller a rencontré la conseillère parce qu'elle voulait s'informer sur les candidatures.,GENDER.female,"['female', '6', 'Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte.', 'Ratholenden']"
+La conseillère,"[0, 1]",   La conseillère a rencontré le candidat au conseil parce qu'elle voulait donner des conseils sur les candidatures.,GENDER.female,"['female', '1', 'Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte.', 'Beraterin']"
+Le conseiller,"[0, 1]",   Le conseiller a rencontré quelqu'un parce qu'il voulait donner des conseils sur la candidature.,GENDER.male,"['male', '1', 'Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte.', 'Berater']"
+L'expert,[0],   L'expert a dit à l'acheteuse qu'il estimait le tableau à dix mille dollars.,GENDER.male,"['male', '1', 'Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt.', 'Gutachter']"
+L'experte,[0],   L'experte a dit à l'acheteur qu'elle estimait le tableau à dix mille dollars.,GENDER.female,"['female', '1', 'Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt.', 'Gutachterin']"
+a L'expert,"[1, 0]",   L'expert a dit à quelqu'un qu'il estimait le tableau à 10 000 dollars.,GENDER.male,"['male', '1', 'Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt.', 'Gutachter']"
+a L'experte,"[1, 0]",   L'experte a dit à quelqu'un qu'elle estimait le tableau à 10 000 dollars.,GENDER.female,"['female', '1', 'Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt.', 'Gutachterin']"
+réunion l'architecte,"[4, 6]",   L'élève a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,GENDER.female,"['male', '5', 'Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.', 'Architekten']"
+réunion l'architecte,"[4, 6]",   L'élève a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,GENDER.female,"['female', '5', 'Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.', 'Architektin']"
+réunion l'architecte,"[4, 6]",   Quelqu'un a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,GENDER.female,"['male', '4', 'Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.', 'Architekten']"
+réunion l'architecte,"[4, 6]",   Quelqu'un a convenu d'une réunion avec l'architecte pour voir ses projets afin de s'en inspirer.,GENDER.female,"['female', '4', 'Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.', 'Architektin']"
+a au,"[2, 7]",   La cliente a laissé un gros pourboire au barman parce qu'il avait rendu la boisson très forte.,GENDER.male,"['male', '4', 'Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.', 'Barkeeper']"
+à gros,"[7, 5]",   Le client a laissé un gros pourboire à la barmaid parce qu'elle avait rendu la boisson très forte.,GENDER.male,"['female', '4', 'Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.', 'Barkeeperin']"
+au,[6],   Quelqu'un a laissé un gros pourboire au barman parce qu'il avait rendu la boisson très forte.,GENDER.male,"['male', '3', 'Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.', 'Barkeeper']"
+à gros,"[6, 4]",   Quelqu'un a laissé un gros pourboire à la barmaid parce qu'elle avait rendu la boisson très forte.,GENDER.male,"['female', '3', 'Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.', 'Barkeeperin']"
+Le courtier en,"[0, 1, 2]",   Le courtier en actions a appelé la cliente parce qu'il pouvait recommander de nouvelles actions.,GENDER.male,"['male', '1', 'Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte.', 'Aktienmakler']"
+Le courtier en,"[0, 1, 2]",   Le courtier en actions a appelé le client parce qu'il pouvait recommander de nouvelles actions.,GENDER.male,"['female', '1', 'Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte.', 'Aktienmaklerin']"
+l'acheteur,[4],   L'experte a dit à l'acheteur qu'il avait payé le tableau trop cher.,GENDER.male,"['male', '4', 'Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe.', 'Käufer']"
+à l'acheteuse,"[3, 4]",   L'expert a dit à l'acheteuse qu'elle avait payé le tableau trop cher.,GENDER.female,"['female', '4', 'Der Gutachter sagte der Käuferin, dass sie für das Gemälde zu viel bezahlt habe.', 'Käuferin']"
+Le spectateur,"[0, 1]","   Le spectateur a appelé le 911 et a parlé à la répartitrice, qui lui a dit d'attendre les secours dans un endroit sûr.",GENDER.male,"['male', '1', 'Der Zuschauer rief 911 an und sprach mit der Disponentin und ihm wurde gesagt, dass er an einem sicheren Ort auf Hilfe warten soll.', 'Zuschauer']"
+La spectatrice,"[0, 1]","   La spectatrice a appelé le 911 et a parlé au répartiteur, qui lui a dit d'attendre les secours dans un endroit sûr.",GENDER.female,"['female', '1', 'Die Zuschauerin rief 911 an und sprach mit dem Disponenten und ihr wurde gesagt, dass sie an einem sicheren Ort auf Hilfe warten soll.', 'Zuschauerin']"
+Le chef,"[0, 1]",   Le chef s'est excusé auprès de l'invitée qui n'était pas satisfaite de son style de préparation.,GENDER.male,"['male', '1', 'Der Chefkoch entschuldigte sich bei der Gästin, die mit seinem Zubereitungsstil nicht zufrieden war.', 'Chefkoch']"
+La excusée,"[0, 3]",   La chef s'est excusée auprès du client qui n'était pas satisfait de son style de préparation.,GENDER.female,"['female', '1', 'Die Chefköchin entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war.', 'Chefköchin']"
+Le chimiste,"[0, 1]",   Le chimiste a dit à la visiteuse qu'il serait heureux de lui faire visiter le laboratoire.,GENDER.male,"['male', '1', 'Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung durch das Labor zu geben.', 'Chemiker']"
+La chimiste,"[0, 1]",   La chimiste a dit au visiteur qu'elle serait ravie de lui faire visiter le laboratoire.,GENDER.female,"['female', '1', 'Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben.', 'Chemikerin']"
+l'enfant choisir,"[4, 6]",   Le bibliothécaire a aidé l'enfant à choisir un livre parce qu'elle ne savait pas ce qu'elle devait lire.,GENDER.male,"['female', '4', 'Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte.', 'Kind']"
+l'enfant,[4],   Le chirurgien a opéré l'enfant avec beaucoup de soin ; sa tumeur s'était développée au fil du temps.,GENDER.unknown,"['male', '4', 'Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen.', 'Kind']"
+le client,"[4, 5]",   La technicienne a informé le client qu'il devait effectuer tous les paiements futurs dans les délais.,GENDER.male,"['male', '4', 'Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss.', 'Kunden']"
+la cliente,"[4, 5]",   Le technicien a informé la cliente qu'elle devait effectuer tous les paiements futurs dans les délais.,GENDER.female,"['female', '4', 'Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss.', 'Kundin']"
+a le client,"[4, 6, 7]",   Le courtier en actions a appelé le client parce qu'il avait demandé un conseil par téléphone.,GENDER.male,"['male', '4', 'Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte.', 'Kunden']"
+la cliente,"[6, 7]",   Le courtier en actions a appelé la cliente parce qu'elle avait demandé un conseil par téléphone.,GENDER.female,"['female', '4', 'Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte.', 'Kundin']"
+le conseiller,"[4, 5]",   Le médecin voulait rencontrer le conseiller parce qu'il avait plus d'expérience en matière d'accidents médicaux.,GENDER.male,"['male', '4', 'Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat.', 'Berater']"
+la conseillère,"[4, 5]",   Le médecin voulait rencontrer la conseillère parce qu'elle avait plus d'expérience en matière d'accidents médicaux.,GENDER.female,"['female', '4', 'Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat.', 'Beraterin']"
+Le conseiller,"[0, 1]",   Le conseiller dit à la patiente qu'il a été professionnellement chargé de signaler certains problèmes.,GENDER.male,"['male', '1', 'Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden.', 'Berater']"
+La conseillère,"[0, 1]",   La conseillère dit au patient qu'elle a été mandatée professionnellement pour signaler certains problèmes.,GENDER.female,"['female', '1', 'Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.', 'Beraterin']"
+le client,"[4, 5]",   La mécanicienne a appelé le client pour l'informer que sa voiture serait prête le matin même.,GENDER.male,"['male', '4', 'Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde.', 'Kunden']"
+la cliente,"[4, 5]",   Le mécanicien a appelé la cliente pour l'informer que sa voiture serait prête le matin même.,GENDER.female,"['female', '4', 'Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde.', 'Kundin']"
+Le client,"[0, 1]","   Le client a demandé un entretien avec sa supérieure, car il souhaitait corriger rapidement l'erreur de facturation.",GENDER.male,"['male', '1', 'Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte.', 'Kunde']"
+La cliente,"[0, 1]","   La cliente a demandé un entretien avec son supérieur hiérarchique, car elle souhaitait corriger rapidement l'erreur de facturation.",GENDER.female,"['female', '1', 'Die Kundin bat um ein Gespräch mit dem Vorgesetzten, weil sie den Abrechnungsfehler schnell beheben wollte.', 'Kundin']"
+La diététicienne,"[0, 1]","   La diététicienne a encouragé le client à manger trois repas principaux par jour, car c'était le conseil qu'elle donnait à tous.",GENDER.female,"['female', '1', 'Die Ernährungsberaterin ermutigte den Kunden, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den sie allen gab.', 'Ernährungsberaterin']"
+Le a nutritionniste,"[0, 2, 1]","   Le nutritionniste a encouragé la cliente à manger trois repas principaux par jour, car c'était le conseil qu'il donnait à tout le monde.",GENDER.male,"['male', '1', 'Der Ernährungsberater ermutigte die Kundin, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den er allen gab.', 'Ernährungsberater']"
+"à la répartitrice,","[9, 10, 11]","   Le spectateur a appelé le 911 et a parlé à la répartitrice, qui a dit qu'elle avait envoyé de l'aide.",GENDER.female,"['female', '9', 'Der Zuschauer rief 911 an und sprach mit der Disponentin, die sagte, sie habe Hilfe geschickt.', 'Disponentin']"
+"au répartiteur,","[9, 10]","   La spectatrice a appelé le 911 et a parlé au répartiteur, qui a dit qu'il avait envoyé de l'aide.",GENDER.male,"['male', '9', 'Die Zuschauerin rief 911 an und sprach mit dem Disponenten, der sagte, er habe Hilfe geschickt.', 'Disponenten']"
+Le médecin,"[0, 1]",   Le médecin a dit à quelqu'un qu'il serait en vacances la semaine prochaine.,GENDER.male,"['male', '1', 'Der Arzt sagte jemandem, dass er nächste Woche im Urlaub sein würde.', 'Arzt']"
+Le médecin,"[0, 1]",   Le médecin a dit à quelqu'un qu'elle serait en vacances la semaine prochaine.,GENDER.male,"['female', '1', 'Die Ärztin sagte jemandem, dass sie nächste Woche im Urlaub sein würde.', 'Ärztin']"
+L'enseignante a,"[0, 1]",   L'enseignante a rencontré un élève pour discuter de sa politique d'évaluation.,GENDER.female,"['female', '1', 'Die Lehrerin traf sich mit einem Schüler, um ihre Bewertungspolitik zu besprechen.', 'Lehrerin']"
+L'enseignant a,"[0, 1]",   L'enseignant a rencontré une élève pour discuter de sa politique d'évaluation.,GENDER.male,"['male', '1', 'Der Lehrer traf sich mit einer Schülerin, um seine Bewertungspolitik zu besprechen.', 'Lehrer']"
+a L'électricien,"[1, 0]",   L'électricien a averti la propriétaire qu'il lui faudrait peut-être une journée supplémentaire pour terminer le câblage de la maison.,GENDER.female,"['male', '1', 'Der Elektriker warnte die Hausbesitzerin, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln.', 'Elektriker']"
+a L'électricien,"[1, 0]",   L'électricien a averti le propriétaire qu'il lui faudrait peut-être une journée supplémentaire pour terminer le câblage de la maison.,GENDER.female,"['female', '1', 'Die Elektrikerin warnte den Hausbesitzer, dass sie möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln.', 'Elektrikerin']"
+feedback,[5],   La responsable a donné un feedback à l'employé sur sa performance exceptionnelle.,GENDER.male,"['male', '4', 'Die Vorgesetzte gab dem Mitarbeiter Feedback zu seiner herausragenden Leistung.', 'Mitarbeiter']"
+à l'employée,"[5, 6]",   Le supérieur hiérarchique a donné à l'employée un feed-back sur sa performance exceptionnelle.,GENDER.male,"['female', '4', 'Der Vorgesetzte gab der Mitarbeiterin Feedback zu ihrer herausragenden Leistung.', 'Mitarbeiterin']"
+a L'ingénieur,"[1, 0]",   L'ingénieur a informé la cliente qu'il aurait besoin de plus de temps pour terminer le projet.,GENDER.male,"['male', '1', 'Der Ingenieur informierte die Kundin, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen.', 'Ingenieur']"
+a L'ingénieure,"[1, 0]",   L'ingénieure a informé le client qu'elle aurait besoin de plus de temps pour terminer le projet.,GENDER.female,"['female', '1', 'Die Ingenieurin informierte den Kunden, dass sie mehr Zeit benötigen würde, um das Projekt abzuschließen.', 'Ingenieurin']"
+a L'enquêteur,"[1, 0]","   L'enquêteur a inspecté le corps d'une personne pour déterminer la cause de sa mort, mais il n'a pas pu le faire parce qu'il était trop incompétent.",GENDER.male,"['male', '1', 'Der Untersucher inspizierte die Leiche einer Person, um die Todesursache festzustellen, konnte dies jedoch nicht, weil er zu inkompetent war.', 'Untersucher']"
+a L'examinatrice,"[1, 0]","   L'examinatrice a inspecté le corps d'une personne afin de déterminer la cause de sa mort, mais elle n'a pas pu le faire car elle était trop incompétente.",GENDER.female,"['female', '1', 'Die Untersucherin inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war.', 'Untersucherin']"
+du client qui,"[7, 8, 9]",   Le chef de cuisine s'est excusé auprès du client qui n'était pas satisfait de son dîner.,GENDER.male,"['male', '6', 'Der Küchenchefin entschuldigte sich bei dem Gast, der mit seinem Abendessen nicht zufrieden war.', 'Gast']"
+de qui,"[7, 10]",   Le chef de cuisine s'est excusé auprès de la cliente qui n'était pas satisfaite de son dîner.,GENDER.unknown,"['female', '6', 'Der Küchenchef entschuldigte sich bei der Gästin, die mit ihrem Abendessen nicht zufrieden war.', 'Gästin']"
+le propriétaire,"[3, 4]",   L'électricien a averti le propriétaire de ne rien faire seul.,GENDER.male,"['male', '4', 'Die Elektrikerin warnte den Hausbesitzer, er solle nichts alleine machen.', 'Hausbesitzer']"
+la propriétaire,"[3, 4]",   L'électricien a averti la propriétaire qu'elle ne devait rien faire seule.,GENDER.female,"['female', '4', 'Der Elektriker warnte die Hausbesitzerin, sie solle nichts alleine machen.', 'Hausbesitzerin']"
+a L'hygiéniste,"[1, 0]",   L'hygiéniste a dit au patient qu'elle devait faire une radiographie de la bouche complète.,GENDER.male,"['female', '1', 'Die Hygienikerin erzählte dem Patienten, dass sie eine Vollmund-Röntgung durchführen müsse.', 'Hygienikerin']"
+a L'hygiéniste,"[1, 0]",   L'hygiéniste a dit à la patiente qu'il devait faire une radiographie de la bouche complète.,GENDER.male,"['male', '1', 'Der Hygieniker erzählte der Patientin, dass er eine Vollmund-Röntgung durchführen müsse.', 'Hygieniker']"
+l'inspecteur,[8],   La propriétaire de la maison a demandé à l'inspecteur s'il avait découvert des infractions aux règles de construction.,GENDER.male,"['male', '4', 'Die Hauseigentümerin fragte den Inspektor, ob er irgendwelche Bauregelverletzungen entdeckt habe.', 'Inspektor']"
+la à l'inspectrice,"[3, 7, 8]",   Le propriétaire de la maison a demandé à l'inspectrice si elle avait découvert des infractions aux règles de construction.,GENDER.female,"['female', '4', 'Der Hauseigentümer fragte die Inspektorin, ob sie irgendwelche Bauregelverletzungen entdeckt habe.', 'Inspektorin']"
+a L'instructeur,"[1, 0]",   L'instructeur a encouragé l'élève à participer à ses séances d'aide.,GENDER.male,"['female', '1', 'Die Instrukteurin ermutigte den Schüler, an ihren Hilfesitzungen teilzunehmen.', 'Instrukteurin']"
+a L'instructeur,"[1, 0]",   L'instructeur a encouragé l'élève à participer à ses séances d'aide.,GENDER.male,"['male', '1', 'Der Instrukteur ermutigte die Schülerin, an seinen Hilfesitzungen teilzunehmen.', 'Instrukteur']"
+L'enquêtrice interviewer,"[0, 2]","   L'enquêtrice voulait interviewer le témoin en personne, mais elle n'a pas pu entrer en contact avec lui.",GENDER.female,"['female', '1', 'Die Ermittlerin wollte den Zeugen persönlich interviewen, sie konnte aber nicht in Kontakt treten.', 'Ermittlerin']"
+L'enquêteur interviewer,"[0, 2]","   L'enquêteur voulait interviewer le témoin en personne, mais il n'a pas pu entrer en contact avec lui.",GENDER.male,"['male', '1', 'Der Ermittler wollte die Zeugin persönlich interviewen, er konnte aber nicht in Kontakt treten.', 'Ermittler']"
+La machiniste,"[0, 1]","   La machiniste a fait une démonstration de découpe laser à l'enfant, mais lui a dit qu'elle seule pouvait la faire fonctionner.",GENDER.female,"['female', '1', 'Die Maschinistin gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur sie sie betreiben könne.', 'Maschinistin']"
+Le a machiniste,"[0, 2, 1]","   Le machiniste a fait une démonstration de découpe laser à l'enfant, mais lui a dit qu'il était le seul à pouvoir la faire fonctionner.",GENDER.male,"['male', '1', 'Der Maschinist gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur er sie betreiben könne.', 'Maschinist']"
+La diététicienne,"[0, 1]",   La diététicienne a expliqué au patient qu'elle pensait que l'alimentation et l'activité physique étaient aussi importantes l'une que l'autre.,GENDER.female,"['female', '1', 'Die Ernährungsberaterin erklärte dem Patienten, sie glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien.', 'Ernährungsberaterin']"
+Le nutritionniste,"[0, 1]",   Le nutritionniste a expliqué à la patiente qu'il pensait que l'alimentation et l'activité physique étaient aussi importantes l'une que l'autre.,GENDER.male,"['male', '1', 'Der Ernährungsberater erklärte der Patientin, er glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien.', 'Ernährungsberater']"
+La policière,"[0, 1]",   La policière a arrêté le manifestant alors qu'elle n'était pas en service.,GENDER.female,"['female', '1', 'Die Polizistin nahm den Demonstranten fest, obwohl sie nicht im Dienst war.', 'Polizistin']"
+Le policier,"[0, 1]",   Le policier a arrêté la manifestante alors qu'il n'était pas en service.,GENDER.male,"['male', '1', 'Der Polizist nahm die Demonstrantin fest, obwohl er nicht im Dienst war.', 'Polizist']"
+au spectateur,"[4, 5]",   La menuisière a dit au spectateur qu'il devait se tenir à au moins trois mètres du chantier.,GENDER.male,"['male', '4', 'Die Schreinerin sagte dem Zuschauer, er müsse mindestens drei Meter von der Baustelle entfernt stehen.', 'Zuschauer']"
+à la spectatrice,"[4, 5, 6]",   Le menuisier a dit à la spectatrice qu'elle devait se tenir à au moins trois mètres du chantier.,GENDER.female,"['female', '4', 'Der Schreiner sagte der Zuschauerin, sie müsse mindestens drei Meter von der Baustelle entfernt stehen.', 'Zuschauerin']"
+la,[4],   Le vétérinaire a informé la propriétaire que son chat avait développé un diabète.,GENDER.female,"['female', '4', 'Der Tierarzt teilte der Besitzerin mit, dass ihre Katze Diabetes entwickelt habe.', 'Besitzerin']"
+le,[4],   La vétérinaire a informé le propriétaire que son chat avait développé un diabète.,GENDER.male,"['male', '4', 'Die Tierärztin teilte dem Besitzer mit, dass seine Katze Diabetes entwickelt habe.', 'Besitzer']"
+La peintre,"[0, 1]","   La peintre a vendu toute une collection de tableaux au client, car elle a dû abandonner la galerie.",GENDER.female,"['female', '1', 'Die Malerin verkaufte eine ganze Sammlung von Gemälden an den Kunden, weil sie die Galerie aufgeben musste.', 'Malerin']"
+Le peintre,"[0, 1]","   Le peintre a vendu toute une collection de tableaux à la cliente, car il a dû abandonner la galerie.",GENDER.male,"['male', '1', 'Der Maler verkaufte eine ganze Sammlung von Gemälden an die Kundin, weil er die Galerie aufgeben musste.', 'Maler']"
+a L'assistante juridique,"[2, 0, 1]","   L'assistante juridique a oublié de déposer des papiers pour le client, elle a donc été virée.",GENDER.female,"['female', '1', 'Die Rechtsassistentin vergaß Papierkram für den Kunden einzureichen, also wurde sie gefeuert.', 'Rechtsassistentin']"
+a L'assistant juridique,"[2, 0, 1]","   L'assistant juridique a oublié de déposer des papiers pour la cliente, alors il a été viré.",GENDER.unknown,"['male', '1', 'Der Rechtsassistent vergaß Papierkram für die Kundin einzureichen, also wurde er gefeuert.', 'Rechtsassistent']"
+a L'ambulancier,"[1, 0]","   L'ambulancier a pratiqué un massage cardiaque sur la passagère, tout en sachant qu'il était trop tard.",GENDER.male,"['male', '1', 'Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl er wusste, dass es zu spät war.', 'Sanitäter']"
+a L'ambulancière,"[1, 0]","   L'ambulancière a pratiqué un massage cardiaque sur le passager, tout en sachant qu'il était trop tard.",GENDER.female,"['female', '1', 'Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl sie wusste, dass es zu spät war.', 'Sanitäterin']"
+la sur,"[7, 6]",   L'ambulancier a pratiqué un massage cardiaque sur la passagère alors qu'elle était déjà morte.,GENDER.female,"['female', '7', 'Der Sanitäter führte eine Herz-Druck-Massage bei der Passagierin durch, obwohl sie schon tot war.', 'Passagierin']"
+le,[7],   L'ambulancière a effectué un massage cardiaque sur le passager alors qu'il était déjà mort.,GENDER.male,"['male', '7', 'Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl er schon tot war.', 'Passagier']"
+La a pathologiste,"[0, 2, 1]",   La pathologiste a reçu des échantillons de tissus de la victime qu'elle a pu examiner sous son microscope.,GENDER.female,"['female', '1', 'Die Pathologin erhielt Gewebeproben vom Opfer, die sie unter ihrem Mikroskop betrachten konnte.', 'Pathologin']"
+Le pathologiste a,"[0, 1, 2]",   Le pathologiste a reçu des échantillons de tissus de la victime qu'il a pu examiner sous son microscope.,GENDER.male,"['male', '1', 'Der Pathologe erhielt Gewebeproben vom Opfer, die er unter seinem Mikroskop betrachten konnte.', 'Pathologe']"
+La patiente,"[0, 1]",   La patiente a appelé le médecin parce qu'elle se sentait très malade.,GENDER.female,"['female', '1', 'Die Patientin rief den Arzt an, weil sie sich sehr krank fühlte.', 'Patientin']"
+Le patient,"[0, 1]",   Le patient a appelé le médecin parce qu'il se sentait très malade.,GENDER.male,"['male', '1', 'Der Patient rief die Ärztin an, weil er sich sehr krank fühlte.', 'Patient']"
+au patient,"[4, 5]",   La diététicienne a expliqué au patient que la réduction du sucre était un moyen efficace d'améliorer son alimentation.,GENDER.male,"['male', '4', 'Die Ernährungswissenschaftlerin erklärte dem Patienten, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung seiner Ernährung sei.', 'Patienten']"
+à la patiente,"[4, 5, 6]",   Le nutritionniste a expliqué à la patiente que la réduction du sucre était un moyen efficace d'améliorer son alimentation.,GENDER.female,"['female', '4', 'Der Ernährungswissenschaftler erklärte der Patientin, dass das Reduzieren von Zucker ein wirksamer Weg zur Verbesserung ihrer Ernährung sei.', 'Patientin']"
+au piéton,"[3, 4]",   L'ouvrière a dit au piéton d'éviter la partie fermée de la rue.,GENDER.male,"['male', '4', 'Die Arbeiterin sagte dem Fußgänger, er solle den geschlossenen Teil der Straße meiden.', 'Fußgänger']"
+à la piétonne,"[3, 4, 5]",   L'ouvrier a dit à la piétonne d'éviter la partie fermée de la rue.,GENDER.female,"['female', '4', 'Der Arbeiter sagte der Fußgängerin, sie solle den geschlossenen Teil der Straße meiden.', 'Fußgängerin']"
+La pharmacienne,"[0, 1]",   La pharmacienne a dit à quelqu'un qu'elle recommandait de prendre les pilules avec des aliments.,GENDER.female,"['female', '1', 'Die Apothekerin sagte jemandem, dass sie empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen.', 'Apothekerin']"
+Le pharmacien,"[0, 1]",   Le pharmacien a dit à quelqu'un qu'il recommandait de prendre les pilules avec des aliments.,GENDER.male,"['male', '1', 'Der Apotheker sagte jemandem, dass er empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen.', 'Apotheker']"
+La planificatrice entretenue,"[0, 1, 3]","   La planificatrice s'est entretenue avec le riverain, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.",GENDER.female,"['female', '1', 'Die Planerin sprach mit dem Anwohner, der sagte, dass ihr Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde.', 'Planerin']"
+Le planificateur entretenu,"[0, 1, 3]","   Le planificateur s'est entretenu avec la riveraine, qui a déclaré que sa proposition de construire un nouvel aéroport se heurterait à une vive opposition.",GENDER.male,"['male', '1', 'Der Planer sprach mit der Anwohnerin, die sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde.', 'Planer']"
+la plombière,"[3, 4]",   Quelqu'un a appelé la plombière pour obtenir un devis pour ses services.,GENDER.female,"['female', '3', 'Jemand rief die Klempnerin an, um einen Kostenvoranschlag für ihre Dienste zu bekommen.', 'Klempnerin']"
+le plombier,"[3, 4]",   Quelqu'un a appelé le plombier pour obtenir un devis pour ses services.,GENDER.male,"['male', '3', 'Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu bekommen.', 'Klempner']"
+Le médecin généraliste,"[0, 1, 2]",   Le médecin généraliste a passé un appel téléphonique au domicile du patient parce qu'elle ressentait un sentiment de devoir.,GENDER.male,"['female', '1', 'Die Hausärztin tätigte einen Hausanruf bei dem Patienten, weil sie ein Pflichtgefühl verspürte.', 'Hausärztin']"
+Le médecin généraliste,"[0, 1, 2]",   Le médecin généraliste a passé un appel téléphonique au domicile de la patiente parce qu'il ressentait un sentiment de devoir.,GENDER.male,"['male', '1', 'Der Hausarzt tätigte einen Hausanruf bei der Patientin, weil er ein Pflichtgefühl verspürte.', 'Hausarzt']"
+la,[4],   Le policier a arrêté la manifestante alors qu'elle n'était pas violente.,GENDER.female,"['female', '4', 'Der Polizist nahm die Demonstrantin fest, obwohl sie nicht gewalttätig war.', 'Demonstrantin']"
+"le manifestant,","[4, 5]","   La policière a arrêté le manifestant, bien qu'il n'ait pas été violent.",GENDER.male,"['male', '4', 'Die Polizistin nahm den Demonstranten fest, obwohl er nicht gewalttätig war.', 'Demonstranten']"
+La psychologue,"[0, 1]",   La psychologue a dit au patient qu'il devait remplir un questionnaire afin qu'elle puisse procéder à une évaluation préliminaire.,GENDER.female,"['female', '1', 'Die Psychologin sagte dem Patienten er solle einen Fragebogen ausfüllen, damit sie eine vorläufige Beurteilung vornehmen könne.', 'Psychologin']"
+Le psychologue,"[0, 1]",   Le psychologue a dit à la patiente qu'elle devait remplir un questionnaire afin qu'il puisse faire une évaluation préliminaire.,GENDER.male,"['male', '1', 'Der Psychologe sagte der Patientin sie solle einen Fragebogen auszufüllen, damit er eine vorläufige Beurteilung vornehmen könne.', 'Psychologe']"
+"la riveraine,","[5, 6]","   Le planificateur s'est entretenu avec la riveraine, qui a déclaré que toute sa communauté ne voulait pas d'un aéroport à proximité.",GENDER.female,"['female', '5', 'Der Planer sprach mit der Anwohnerin, die sagte, dass ihre gesamte Gemeinde keinen Flughafen in der Nähe wolle.', 'Anwohnerin']"
+"le riverain,","[5, 6]","   La planificatrice s'est entretenue avec le riverain, qui a déclaré que toute sa communauté ne voulait pas d'un aéroport à proximité.",GENDER.male,"['male', '5', 'Die Planerin sprach mit dem Anwohner, der sagte, dass seine gesamte Gemeinde keinen Flughafen in der Nähe wolle.', 'Anwohner']"
+au vendeur,"[4, 5]",   La cliente a demandé au vendeur s'il pouvait expliquer la tarification de chaque produit.,GENDER.male,"['male', '4', 'Die Kundin fragte den Verkäufer, ob er die Preisgestaltung für jedes Produkt erklären könne.', 'Verkäufer']"
+à la vendeuse,"[4, 5, 6]",   Le client a demandé à la vendeuse si elle pouvait expliquer le prix de chaque produit.,GENDER.female,"['female', '4', 'Der Kunde fragte die Verkäuferin, ob sie die Preisgestaltung für jedes Produkt erklären könne.', 'Verkäuferin']"
+La vendeuse,"[0, 1]",   La vendeuse a contacté le tailleur parce qu'elle voulait réparer un costume.,GENDER.female,"['female', '1', 'Die Verkäuferin kontaktierte den Schneider, weil sie einen Anzug reparieren wollte.', 'Verkäuferin']"
+Le vendeur,"[0, 1]",   Le vendeur a contacté la couturière parce qu'il voulait réparer un costume.,GENDER.male,"['male', '1', 'Der Verkäufer kontaktierte die Schneiderin, weil er einen Anzug reparieren wollte.', 'Verkäufer']"
+la scientifique,"[6, 7]",   Quelqu'un a postulé pour travailler avec la scientifique parce qu'elle avait besoin d'un assistant de laboratoire.,GENDER.female,"['female', '6', 'Jemand bewarb sich um mit der Wissenschaftlerin zu arbeiten, weil sie einen Laborassistenten brauchte.', 'Wissenschaftlerin']"
+le scientifique,"[6, 7]",   Quelqu'un a postulé pour travailler avec le scientifique parce qu'il avait besoin d'une assistante de laboratoire.,GENDER.male,"['male', '6', 'Jemand bewarb sich um mit dem Wissenschaftler zu arbeiten, weil er eine Laborassistentin brauchte.', 'Wissenschaftler']"
+à la adressé,"[5, 6, 4]",   Le patient a été adressé à la spécialiste parce qu'elle avait connaissance d'une éruption cutanée rare.,GENDER.female,"['female', '5', 'Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen Hautausschlag hatte.', 'Fachärztin']"
+le orientée vers,"[6, 4, 5]",   La patiente a été orientée vers le spécialiste parce qu'il avait connaissance d'une éruption cutanée rare.,GENDER.male,"['male', '5', 'Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte.', 'Facharzt']"
+discuter,[6],   L'éducateur a rencontré une élève pour discuter de ses compétences en écriture.,GENDER.unknown,"['female', '6', 'Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen.', 'Schülerin']"
+discuter,[6],   L'éducatrice a rencontré un élève pour discuter de ses compétences en écriture.,GENDER.unknown,"['male', '6', 'Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen.', 'Schüler']"
+à,[4],   L'enseignante a encouragé l'élève à poursuivre ses rêves.,GENDER.unknown,"['male', '4', 'Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen.', 'Schüler']"
+à,[4],   L'enseignant a encouragé l'élève à poursuivre ses rêves.,GENDER.unknown,"['female', '4', 'Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen.', 'Schülerin']"
+La a chirurgienne,"[0, 2, 1]",   La chirurgienne a opéré l'enfant avec beaucoup de soin ; votre affection avait grandi avec le temps.,GENDER.female,"['female', '1', 'Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen.', 'Chirurgin']"
+Le chirurgien,"[0, 1]",   Le chirurgien a opéré l'enfant avec beaucoup de soin ; son affection s'était accrue avec le temps.,GENDER.male,"['male', '1', 'Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen.', 'Chirurg']"
+à la contribuable,"[3, 4, 5]",   L'expert-comptable a demandé à la contribuable de fournir des enregistrements de ses opérations financières.,GENDER.female,"['female', '4', 'Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen.', 'Steuerzahlerin']"
+au contribuable,"[3, 4]",   L'expert-comptable a demandé au contribuable de fournir des enregistrements de ses transactions financières.,GENDER.male,"['male', '4', 'Die Wirtschaftsprüferin bat den Steuerzahler, Aufzeichnungen über seine Finanzgeschäfte vorzulegen.', 'Steuerzahler']"
+La technicienne,"[0, 1]",   La technicienne a dit au client qu'elle avait terminé la réparation.,GENDER.female,"['female', '1', 'Die Technikerin erzählte dem Kunden, dass sie die Reparatur abgeschlossen habe.', 'Technikerin']"
+Le technicien,"[0, 1]",   Le technicien a dit à la cliente qu'il avait terminé la réparation.,GENDER.male,"['male', '1', 'Der Techniker erzählte der Kundin, dass er die Reparatur abgeschlossen habe.', 'Techniker']"
+L'adolescente s'est,"[0, 1]",   L'adolescente s'est confiée au thérapeute parce qu'elle cherchait un soutien émotionnel.,GENDER.female,"['female', '1', 'Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstützung suchte.', 'Teenagerin']"
+L'adolescent s'est confié,"[0, 1, 2]",   L'adolescent s'est confié à la thérapeute parce qu'il cherchait un soutien émotionnel.,GENDER.male,"['male', '1', 'Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte.', 'Teenager']"
+à la thérapeute,"[3, 4, 5]",   L'adolescent s'est confié à la thérapeute parce qu'elle semblait digne de confiance.,GENDER.female,"['female', '5', 'Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien.', 'Therapeutin']"
+au thérapeute,"[3, 4]",   L'adolescente s'est confiée au thérapeute parce qu'il semblait digne de confiance.,GENDER.male,"['male', '5', 'Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien.', 'Therapeuten']"
+L'étudiant,[0],   L'étudiant a présenté à l'administratrice une pétition qu'il avait organisée.,GENDER.male,"['male', '1', 'Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte.', 'Student']"
+L'étudiante,[0],   L'étudiante a présenté à l'administrateur une pétition qu'elle avait organisée.,GENDER.female,"['female', '1', 'Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte.', 'Studentin']"
+a L'étudiant,"[1, 0]","   L'étudiant a postulé pour travailler avec la scientifique, car il avait besoin de plus d'expérience en laboratoire.",GENDER.male,"['male', '1', 'Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte.', 'Student']"
+a L'étudiante,"[1, 0]","   L'étudiante a postulé pour travailler avec le scientifique, car elle avait besoin de plus d'expérience en laboratoire.",GENDER.female,"['female', '1', 'Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte.', 'Studentin']"
+La vétérinaire,"[0, 1]",   La vétérinaire a informé le propriétaire qu'elle pouvait inscrire Mittens pour une visite d'urgence.,GENDER.female,"['female', '1', 'Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne.', 'Tierärztin']"
+Le vétérinaire,"[0, 1]",   Le vétérinaire a informé la propriétaire qu'il pouvait inscrire Mittens pour une visite d'urgence.,GENDER.male,"['male', '1', 'Der Tierarzt teilte der Besitzerin mit, dass er Mittens für einen Notfallbesuch eintragen könne.', 'Tierarzt']"
+de de la victime afin,"[6, 8, 9, 10, 11]",   Le pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de sa mort.,GENDER.female,"['female', '5', 'Der Pathologe erhielt Gewebeproben des Opfers, um ihre Todesursache zu ermitteln.', 'Opfers']"
+de de la victime afin,"[6, 8, 9, 10, 11]",   La pathologiste a reçu des échantillons de tissus de la victime afin de déterminer la cause de sa mort.,GENDER.female,"['male', '5', 'Die Pathologin erhielt Gewebeproben des Opfers, um seine Todesursache zu ermitteln.', 'Opfers']"
+de de victime afin la,"[6, 10, 8, 9, 12]","   La pathologiste a inspecté le corps de la victime afin de déterminer la cause de sa mort, mais elle n'a pas pu le faire car son corps était trop mutilé.",GENDER.female,"['female', '6', 'Die Pathologin inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil ihr Körper zu verstümmelt war.', 'Opfers']"
+de de victime afin la,"[6, 10, 8, 9, 12]","   Le pathologiste a inspecté le corps de la victime afin de déterminer la cause de sa mort, mais il n'a pas pu le faire car son corps était trop mutilé.",GENDER.female,"['male', '6', 'Der Pathologe inspizierte die Leiche des Opfers, um eine Todesursache zu ermitteln, konnte aber nicht, weil sein Körper zu verstümmelt war.', 'Opfers']"
+Le visiteur,"[0, 1]",   Le visiteur a demandé à la réception s'il devait s'inscrire.,GENDER.male,"['male', '1', 'Der Besucher fragte die Rezeption, ob er sich anmelden müsse.', 'Besucher']"
+La visiteuse,"[0, 1]",   La visiteuse a demandé à la réception si elle devait s'inscrire.,GENDER.female,"['female', '1', 'Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse.', 'Besucherin']"
+le témoin,"[3, 4]","   L'enquêteur souhaitait interviewer le témoin en personne, mais celui-ci n'était pas joignable.",GENDER.male,"['female', '4', 'Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar.', 'Zeugin']"
+le témoin,"[4, 5]","   L'enquêteur a voulu interviewer le témoin en personne, mais il n'était pas joignable.",GENDER.male,"['male', '4', 'Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar.', 'Zeugen']"
+le jusqu'à,"[3, 5]",   L'avocate a interrogé le témoin jusqu'à ce qu'il cède sous la pression.,GENDER.male,"['male', '4', 'Die Anwältin befragte den Zeugen, bis er unter Druck nachgab.', 'Zeugen']"
+jusqu'à,[5],   L'avocat a interrogé le témoin jusqu'à ce qu'il cède sous la pression.,GENDER.unknown,"['female', '4', 'Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab.', 'Zeugin']"
+L'ouvrière,[0],   L'ouvrière a dit au piéton qu'elle réparait le trottoir aussi vite que possible.,GENDER.female,"['female', '1', 'Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte.', 'Arbeiterin']"
+L'ouvrier,[0],   L'ouvrier a dit à la piétonne qu'il réparait le trottoir dès que possible.,GENDER.male,"['male', '1', 'Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.', 'Arbeiter']"

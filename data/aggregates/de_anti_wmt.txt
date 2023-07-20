@@ -1,4 +1,4 @@
-female	1	Der Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.	Geschäftsführerin
+female	1	Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.	Geschäftsführerin
 female	4	Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.	Geschäftsführerin
 male	4	Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.	Buchhalter
 male	4	Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.	Buchhalter
@@ -8,7 +8,7 @@ male	4	Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht.
 male	4	Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ.	Assistenten
 female	6	Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen.	Aufseherin
 female	6	Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.	Aufseherin
-male	4	Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.	Wirtschaftsprüfer
+male	5	Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.	Wirtschaftsprüfer
 male	8	Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.	Wirtschaftsprüfer
 female	5	Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.	Bäckerin
 female	1	Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war.	Bäckerin
@@ -38,12 +38,12 @@ female	5	Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil 
 female	4	Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben.	Landwirtin
 female	6	Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist.	Wachfrau
 female	4	Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.	Wachfrau
-male	6	Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.	Friseur
+male	7	Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.	Friseur
 male	4	Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen.	Friseur
 male	7	Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte.	Haushälter
 male	4	Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte.	Haushälter
 female	6	Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an.	Hausmeisterin
-female	6	Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.	Hausmeisterin
+female	4	Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.	Hausmeisterin
 female	8	Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören.	Arbeiterin
 female	4	Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen.	Arbeiterin
 male	7	Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht.	Anwalts

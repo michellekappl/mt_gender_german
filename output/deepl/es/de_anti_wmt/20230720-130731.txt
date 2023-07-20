@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-es.txt
+Not translating since translation file exists: ../translations/deepl/de-es.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 59.21% (45), female: 32.89% (25), neutral 0.0% (0)
+
+Unknown Profs ['Assistenten', 'Aufseherin', 'Chefin', 'Landwirtin', 'Landwirtin', 'Wachfrau,']
+Unkown: 6 (7.89%), male: 1, female: 5
+
+Accuracy: 78.9, male: 94.74, female: 63.16 
+
+F1: male: 86.7, female: 76.2 
+

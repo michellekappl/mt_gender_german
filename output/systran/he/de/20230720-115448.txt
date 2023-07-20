@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-he.txt
+Not translating since translation file exists: ../translations/systran/de-he.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 57.47% (177), female: 30.19% (93), neutral 0.0% (0)
+
+Unknown Profs ['Geschäftsführer', 'Geschäftsführerin', 'Analystin', 'Assistentin', 'Assistenten', 'Assistentin', 'Kassierer,', 'Kassiererin,', 'Chefin', 'Chef', 'Designerin', 'Designer', 'Redakteurin', 'Landwirt', 'Landwirtin', 'Wachfrau', 'Wachmann', 'Friseurin', 'Friseur', 'Friseurin', 'Hausmeisterin', 'Hausmeister', 'Arbeiter', 'Arbeiterin', 'Krankenpflegerin', 'Krankenpfleger', 'Sekretärin', 'Sekretär', 'Schneiderin', 'Schneiderin,', 'Schneider,', 'Kind', 'Patienten,', 'Klempnerin', 'Klempner', 'Anwohnerin,', 'Anwohner,', 'Verkäufer']
+Unkown: 38 (12.34%), male: 18, female: 20
+
+Accuracy: 45.1, male: 59.09, female: 31.17 
+
+F1: male: 55.0, female: 38.9 
+

@@ -1,77 +1,77 @@
-Sentence,Predicted gender
-Al gerente le gustaba la peluquera porque le gustaban los peinados ofrecidos.,unknown
-La sastrera le entregó al gerente un traje nuevo y le pidió que lo usara.,male
-El agricultor necesitaba a la contadora para el cuadro de la cosecha y le pidió ayuda.,unknown
-El conserje reprochó a la contadora por haber cometido un error en la presentación de documentos.,female
-"La analista estaba a cargo del enfermero, pero no mencionó sus alergias.",female
-El panadero tenía miedo del informe de la analista y tenía miedo de hablar con ella.,female
-El conserje se rió de la asistente y la trató mal.,female
-El carpintero enseñó a la asistente el oficio y no dejó que se distrajera.,female
-"Cuando el agente de mudanza llegó, el supervisor prestó su camión gigante.",male
-La trabajadora envidiaba el trabajo del supervisor y se lo dijo.,male
-El agricultor exigió que la auditora abandonara la granja porque había entrado en la casa.,female
-"El director ejecutivo estaba preocupado por la visita de la auditora, ya que se sabía que era estricta.",female
-La vigilante le habla al panadero del fuego que provocó anoche.,male
-El panadero le gritó a la mudanza porque su horno estaba roto.,male
-El carpintero admira el trabajo de la peluquera porque aprecia el talento.,male
-La acompañante siempre estaba impresionada por los gestos del carpintero y entendía su amor.,male
-El carpintero se queja con la cajera porque no muestra respeto por los clientes.,female
-La cajera le dijo a alguien que no podía aceptar tarjetas de crédito para compras inferiores a diez dólares.,female
-La consejera llamó al jefe y le pidió permiso.,male
-La recepcionista fue contratada por el jefe y recibirá el pago de él.,male
-La limpiadora come más que el trabajador porque trabaja más duro.,female
-El gerente no confió en la limpiadora y le pidió que se fuera.,female
-La gerente le dijo al empleado que tenía que presentarse temprano porque era flojo.,male
-"La trabajadora le pidió un favor al empleado, pero lo odiaba en secreto.",male
-A la panadera le gustaba el trabajador de la construcción y trató de venderle pan con un descuento.,male
-La diseñadora se reunió con el constructor y le explicó el diseño.,male
-La cocinera pidió ayuda al enfermero porque su madre estaba enferma.,female
-El ama de llaves limpió la habitación para la cocinera y está esperando que le dé propina.,female
-La trabajadora de la construcción se coordinó con el diseñador para que pudiera explicar mejor el diseño.,male
-La ama de llaves limpió la habitación del diseñador y le pidió consejo.,male
-La secretaria corrigió al desarrollador y le pidió que no se preocupara.,male
-"El desarrollador no podía entender a la asesora fiscal, ya que solo domina la programación.",male
-La modista le gritó al conductor y le llamó tonto.,male
-El conductor volcó a la empleada porque usaba un teléfono móvil mientras conducía.,male
-El vendedor llamó a la editora y le pidió que escribiera un artículo sobre la empresa.,female
-El policía rescató a la editora de los manifestantes y la llevó a casa.,female
-"Cuando es invierno, el agricultor visita con frecuencia a la bibliotecaria porque su trabajo requiere menos atención.",male
-La panadera le cobró más dinero al agricultor y no quiso darle más pan.,male
-La empleada gana más que el guardia porque es flojo y negligente.,male
-La diseñadora le dio un sombrero al guardia y luego robó su arma.,male
-El agricultor ha disfrutado cortando el pelo de la peluquera porque hacía un buen trabajo.,male
-El abogado le gritó a la peluquera y amenazó con demandarla.,female
-El cocinero preparó una sopa para la ama de llaves y esperó a que ella pagara.,female
-El conductor le dio un coche a la ama de llaves y le explicó a dónde iba.,female
-La acompañante fue paciente con el conserje y escuchó su historia.,male
-La limpiadora le hizo un favor al conserje y le gustó.,unknown
-La secretaria se sorprendió por el comportamiento del trabajador y le pidió que parara.,male
-La empleada ignoró al trabajador y le ordenó que volviera al trabajo.,male
-El sastre es un buen amigo de la abogada porque necesita trajes bien ajustados.,female
-El recepcionista saludó a la abogada y le dio un caramelo.,female
-El policía le pidió ayuda a la bibliotecaria porque ella conocía mucho mejor la biblioteca.,female
-El analista le pidió a la bibliotecaria un libro y no le pidió prestado nada.,female
-El gerente le prometió a la profesora un aumento de sueldo porque es generoso.,male
-El gerente despidió a la limpiadora porque estaba enojado.,male
-La modista vio al mecánico y le explicó el precio.,male
-El mecánico llamó para informar a alguien de que había completado la reparación.,male
-El ayudante de mudanza le dio las gracias a la ama de llaves porque está agradecido.,male
-La modista llamó al mudador y le pidió que llegara antes de las 9 de la mañana.,male
-El jefe agradeció a la enfermera porque es muy amable con sus pacientes.,female
-El analista se ofreció a ayudar a la enfermera y presentó su declaración de impuestos.,female
-La doctora habló con el cuidador sobre un paciente en el que estaba realizando un examen.,female
-La doctora revisó el peluquero porque estaba preocupada.,female
-El policía le preguntó a la recepcionista porque ella lo sabía.,female
-"El conserje le pregunta a la recepcionista cuál es el camino, porque ella conoce este edificio mucho mejor.",female
-El desarrollador fue grosero con la secretaria y le puso una pierna.,female
-El guardia de seguridad admiraba a la secretaria y quería su trabajo.,female
-La profesora visitó al policía y le hizo algunas preguntas.,male
-La bibliotecaria ayudó al policía a encontrar el libro y le sonrió.,male
-El supervisor le pidió a la asistente que discutiera su horario para mañana.,male
-La escritora ayudó al supervisor y le pidió que le hiciera un favor.,male
-El abogado llamó a la sastre y le acordó una cita.,female
-El analista va a ver a la sastre porque todos saben que ella hace la mejor ropa.,female
-El conserje se hizo amigo de la profesora y le contó sobre el chisme del personal.,female
-El ayudante de mudanza le dijo a la maestra que tenía que ser más paciente con los niños.,female
-El analista visitó a la escritora porque había cometido algunos errores en el libro.,female
-El desarrollador toma un café con la escritora y discute con ella.,female
+translated_professions,target_indices,target_sentences,gender_prediction,ds
+gerente,[1],Al gerente le gustaba la peluquera porque le gustaban los peinados ofrecidos.,GENDER.unknown,"['male', '1', 'Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.', 'Geschäftsführer']"
+al gerente,"[4, 5]",La sastrera le entregó al gerente un traje nuevo y le pidió que lo usara.,GENDER.male,"['male', '4', 'Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen.', 'Geschäftsführer']"
+a la contadora,"[3, 4, 5]",El agricultor necesitaba a la contadora para el cuadro de la cosecha y le pidió ayuda.,GENDER.female,"['female', '4', 'Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe.', 'Buchhalterin']"
+a la contadora,"[3, 4, 5]",El conserje reprochó a la contadora por haber cometido un error en la presentación de documentos.,GENDER.female,"['female', '4', 'Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalterin']"
+La analista,"[0, 1]","La analista estaba a cargo del enfermero, pero no mencionó sus alergias.",GENDER.female,"['female', '1', 'Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht.', 'Analystin']"
+la analista,"[7, 8]",El panadero tenía miedo del informe de la analista y tenía miedo de hablar con ella.,GENDER.female,"['female', '8', 'Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden.', 'Analystin']"
+la,[5],El conserje se rió de la asistente y la trató mal.,GENDER.female,"['female', '4', 'Der Hausmeister lachte die Assistentin aus und behandelte sie schlecht.', 'Assistentin']"
+a la,"[3, 4]",El carpintero enseñó a la asistente el oficio y no dejó que se distrajera.,GENDER.female,"['female', '4', 'Der Schreiner brachte der Assistentin das Handwerk bei und ließ nicht zu, dass sie sich ablenken ließ.', 'Assistentin']"
+el supervisor prestó,"[6, 7, 8]","Cuando el agente de mudanza llegó, el supervisor prestó su camión gigante.",GENDER.male,"['male', '6', 'Als der Umzugshelfer ankam, lieh der Aufseher seinen riesigen Lastwagen.', 'Aufseher']"
+del supervisor,"[5, 6]",La trabajadora envidiaba el trabajo del supervisor y se lo dijo.,GENDER.male,"['male', '6', 'Die Arbeiterin beneidete den Job des Aufsehers und sagte es ihm.', 'Aufsehers']"
+la auditora,"[4, 5]",El agricultor exigió que la auditora abandonara la granja porque había entrado en la casa.,GENDER.female,"['female', '5', 'Der Bauer verlangte, dass die Wirtschaftsprüferin die Farm verließ, weil sie das Haus betreten hatte.', 'Wirtschaftsprüferin']"
+"la la auditora,","[6, 9, 10]","El director ejecutivo estaba preocupado por la visita de la auditora, ya que se sabía que era estricta.",GENDER.female,"['female', '8', 'Der Geschäftsführer war besorgst über einen Besuch der Wirtschaftsprüferin, da bekannt war, dass sie streng ist.', 'Wirtschaftsprüferin']"
+le al panadero,"[2, 4, 5]",La vigilante le habla al panadero del fuego que provocó anoche.,GENDER.male,"['male', '5', 'Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.', 'Bäcker']"
+El panadero,"[0, 1]",El panadero le gritó a la mudanza porque su horno estaba roto.,GENDER.male,"['male', '1', 'Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war.', 'Bäcker']"
+El carpintero,"[0, 1]",El carpintero admira el trabajo de la peluquera porque aprecia el talento.,GENDER.male,"['male', '1', 'Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt.', 'Schreiner']"
+del carpintero,"[8, 9]",La acompañante siempre estaba impresionada por los gestos del carpintero y entendía su amor.,GENDER.male,"['male', '9', 'Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe.', 'Tischlers']"
+la cajera,"[5, 6]",El carpintero se queja con la cajera porque no muestra respeto por los clientes.,GENDER.female,"['female', '6', 'Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt.', 'Kassiererin']"
+La cajera,"[0, 1]",La cajera le dijo a alguien que no podía aceptar tarjetas de crédito para compras inferiores a diez dólares.,GENDER.female,"['female', '1', 'Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.', 'Kassiererin']"
+al jefe,"[3, 4]",La consejera llamó al jefe y le pidió permiso.,GENDER.male,"['male', '4', 'Die Beraterin rief den Chef an und bat ihn um Erlaubnis.', 'Chef']"
+el jefe,"[5, 6]",La recepcionista fue contratada por el jefe y recibirá el pago de él.,GENDER.male,"['male', '5', 'Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten.', 'Chef']"
+La limpiadora,"[0, 1]",La limpiadora come más que el trabajador porque trabaja más duro.,GENDER.female,"['female', '1', 'Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet.', 'Reinigerin']"
+la limpiadora,"[5, 6]",El gerente no confió en la limpiadora y le pidió que se fuera.,GENDER.female,"['female', '4', 'Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen.', 'Reinigerin']"
+al empleado,"[4, 5]",La gerente le dijo al empleado que tenía que presentarse temprano porque era flojo.,GENDER.male,"['male', '4', 'Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei.', 'Angestellten']"
+al favor,"[6, 5]","La trabajadora le pidió un favor al empleado, pero lo odiaba en secreto.",GENDER.male,"['male', '4', 'Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich.', 'Angestellten']"
+el trabajador,"[5, 6]",A la panadera le gustaba el trabajador de la construcción y trató de venderle pan con un descuento.,GENDER.male,"['male', '4', 'Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen.', 'Bauarbeiter']"
+el constructor,"[5, 6]",La diseñadora se reunió con el constructor y le explicó el diseño.,GENDER.male,"['male', '4', 'Die Designerin traf den Bauarbeiter und erklärte ihm das Design.', 'Bauarbeiter']"
+La cocinera,"[0, 1]",La cocinera pidió ayuda al enfermero porque su madre estaba enferma.,GENDER.female,"['female', '1', 'Die Köchin bat den Krankenpfleger um Hilfe, weil ihre Mutter krank war.', 'Köchin']"
+la la cocinera,"[5, 8, 9]",El ama de llaves limpió la habitación para la cocinera y está esperando que le dé propina.,GENDER.female,"['female', '7', 'Der Haushälter hat den Raum für die Köchin gereinigt und wartet darauf, dass sie Trinkgeld gibt.', 'Köchin']"
+el diseñador,"[8, 9]",La trabajadora de la construcción se coordinó con el diseñador para que pudiera explicar mejor el diseño.,GENDER.male,"['male', '6', 'Die Bauarbeiterin stimmte sich mit dem Designer ab, damit er das Design besser erklären kann.', 'Designer']"
+del diseñador,"[7, 8]",La ama de llaves limpió la habitación del diseñador y le pidió consejo.,GENDER.male,"['male', '4', 'Die Hausmeisterin räumte dem Designer den Raum auf und bat ihn um Rat.', 'Designer']"
+al desarrollador,"[3, 4]",La secretaria corrigió al desarrollador y le pidió que no se preocupara.,GENDER.male,"['male', '4', 'Die Sekretärin korrigierte den Entwickler und forderte ihn auf, sich keine Sorgen zu machen.', 'Entwickler']"
+El desarrollador,"[0, 1]","El desarrollador no podía entender a la asesora fiscal, ya que solo domina la programación.",GENDER.male,"['male', '1', 'Der Entwickler konnte die Steuerberaterin nicht verstehen, da er nur das Programmieren beherrscht.', 'Entwickler']"
+al conductor,"[4, 5]",La modista le gritó al conductor y le llamó tonto.,GENDER.male,"['male', '4', 'Die Schneiderin schrie den Fahrer an und nannte ihn einen Dummkopf.', 'Fahrer']"
+El conductor,"[0, 1]",El conductor volcó a la empleada porque usaba un teléfono móvil mientras conducía.,GENDER.male,"['male', '1', 'Der Fahrer fuhr die Angestellte um, weil er ein Handy beim fahren benutzte.', 'Fahrer']"
+a la editora,"[3, 4, 5]",El vendedor llamó a la editora y le pidió que escribiera un artículo sobre la empresa.,GENDER.female,"['female', '4', 'Der Verkäufer rief die Redakteurin an und bat sie, einen Artikel über das Unternehmen zu schreiben.', 'Redakteurin']"
+a la editora,"[3, 4, 5]",El policía rescató a la editora de los manifestantes y la llevó a casa.,GENDER.female,"['female', '4', 'Der Polizist rettete die Redakteurin vor den Demonstranten und fuhr sie nach Hause.', 'Redakteurin']"
+el con agricultor,"[3, 6, 4]","Cuando es invierno, el agricultor visita con frecuencia a la bibliotecaria porque su trabajo requiere menos atención.",GENDER.male,"['male', '5', 'Wenn Winter ist, besucht der Landwirt die Bibliothekarin häufig, weil seine Arbeit weniger Aufmerksamkeit erfordert.', 'Landwirt']"
+al agricultor,"[6, 7]",La panadera le cobró más dinero al agricultor y no quiso darle más pan.,GENDER.male,"['male', '4', 'Die Bäckerin berechnete dem Landwirt mehr Geld und wollte ihm aber nicht mehr Brot geben.', 'Landwirt']"
+el guardia,"[5, 6]",La empleada gana más que el guardia porque es flojo y negligente.,GENDER.male,"['male', '6', 'Die Angestellte verdient mehr als der Wachmann, weil er faul und nachlässig ist.', 'Wachmann']"
+al,[6],La diseñadora le dio un sombrero al guardia y luego robó su arma.,GENDER.male,"['male', '4', 'Die Designerin gab dem Wachmann einen Hut und stahl dann seine Waffe.', 'Wachmann']"
+el peluquera,"[5, 9]",El agricultor ha disfrutado cortando el pelo de la peluquera porque hacía un buen trabajo.,GENDER.male,"['female', '7', 'Der Landwirt hat es genossen, von der Friseurin einen Haarschnitt zu bekommen, weil sie gute Arbeit leistete.', 'Friseurin']"
+a la peluquera,"[4, 5, 6]",El abogado le gritó a la peluquera y amenazó con demandarla.,GENDER.female,"['female', '4', 'Der Anwalt schrie die Friseurin an und drohte, sie zu verklagen.', 'Friseurin']"
+la ama,"[6, 7]",El cocinero preparó una sopa para la ama de llaves y esperó a que ella pagara.,GENDER.female,"['female', '7', 'Der Koch bereitete eine Suppe für die Haushälterin vor und wartete darauf, dass sie zahlte.', 'Haushälterin']"
+a la ama,"[6, 7, 8]",El conductor le dio un coche a la ama de llaves y le explicó a dónde iba.,GENDER.female,"['female', '4', 'Der Fahrer gab der Haushälterin ein Auto und erklärte ihr, wohin sie gehen sollte.', 'Haushälterin']"
+el conserje,"[5, 6]",La acompañante fue paciente con el conserje y escuchó su historia.,GENDER.male,"['male', '6', 'Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschichte an.', 'Hausmeister']"
+al conserje,"[6, 7]",La limpiadora le hizo un favor al conserje y le gustó.,GENDER.male,"['male', '4', 'Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.', 'Hausmeister']"
+del trabajador,"[7, 8]",La secretaria se sorprendió por el comportamiento del trabajador y le pidió que parara.,GENDER.male,"['male', '8', 'Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.', 'Arbeiters']"
+al trabajador,"[3, 4]",La empleada ignoró al trabajador y le ordenó que volviera al trabajo.,GENDER.male,"['male', '4', 'Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.', 'Arbeiter']"
+la abogada,"[7, 8]",El sastre es un buen amigo de la abogada porque necesita trajes bien ajustados.,GENDER.female,"['female', '7', 'Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht.', 'Anwältin']"
+a la abogada,"[3, 4, 5]",El recepcionista saludó a la abogada y le dio un caramelo.,GENDER.female,"['female', '4', 'Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon.', 'Anwältin']"
+a la bibliotecaria,"[5, 6, 7]",El policía le pidió ayuda a la bibliotecaria porque ella conocía mucho mejor la biblioteca.,GENDER.female,"['female', '4', 'Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte.', 'Bibliothekarin']"
+a la bibliotecaria,"[4, 5, 6]",El analista le pidió a la bibliotecaria un libro y no le pidió prestado nada.,GENDER.female,"['female', '4', 'Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts.', 'Bibliothekarin']"
+El gerente,"[0, 1]",El gerente le prometió a la profesora un aumento de sueldo porque es generoso.,GENDER.male,"['male', '1', 'Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist.', 'Manager']"
+El gerente,"[0, 1]",El gerente despidió a la limpiadora porque estaba enojado.,GENDER.male,"['male', '1', 'Der Manager feuerte die Reinigerin, weil er wütend war.', 'Manager']"
+al mecánico,"[3, 4]",La modista vio al mecánico y le explicó el precio.,GENDER.male,"['male', '4', 'Die Schneiderin sah den Mechaniker und erklärte ihm den Preis.', 'Mechaniker']"
+El mecánico,"[0, 1]",El mecánico llamó para informar a alguien de que había completado la reparación.,GENDER.male,"['male', '1', 'Der Mechaniker rief an, um jemanden zu informieren, dass er die Reparatur abgeschlossen hatte.', 'Mechaniker']"
+El ayudante de mudanza,"[0, 1, 2, 3]",El ayudante de mudanza le dio las gracias a la ama de llaves porque está agradecido.,GENDER.male,"['male', '1', 'Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist.', 'Umzugshelfer']"
+al mudador,"[3, 4]",La modista llamó al mudador y le pidió que llegara antes de las 9 de la mañana.,GENDER.male,"['male', '5', 'Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen.', 'Umzugshelfer']"
+a la enfermera,"[3, 4, 5]",El jefe agradeció a la enfermera porque es muy amable con sus pacientes.,GENDER.female,"['female', '4', 'Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist.', 'Krankenpflegerin']"
+la a enfermera,"[7, 6, 8]",El analista se ofreció a ayudar a la enfermera y presentó su declaración de impuestos.,GENDER.female,"['female', '5', 'Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung.', 'Krankenpflegerin']"
+La doctora,"[0, 1]",La doctora habló con el cuidador sobre un paciente en el que estaba realizando un examen.,GENDER.female,"['female', '1', 'Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.', 'Ärztin']"
+La doctora,"[0, 1]",La doctora revisó el peluquero porque estaba preocupada.,GENDER.female,"['female', '1', 'Die Ärztin untersuchte den Friseur, weil sie besorgt war.', 'Ärztin']"
+a la recepcionista,"[4, 5, 6]",El policía le preguntó a la recepcionista porque ella lo sabía.,GENDER.female,"['female', '4', 'Der Polizist fragte die Rezeptionistin, weil sie es wusste.', 'Rezeptionistin']"
+a la recepcionista,"[4, 5, 6]","El conserje le pregunta a la recepcionista cuál es el camino, porque ella conoce este edificio mucho mejor.",GENDER.female,"['female', '4', 'Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt.', 'Rezeptionistin']"
+la secretaria,"[5, 6]",El desarrollador fue grosero con la secretaria y le puso una pierna.,GENDER.female,"['female', '6', 'Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein.', 'Sekretärin']"
+a la secretaria,"[5, 6, 7]",El guardia de seguridad admiraba a la secretaria y quería su trabajo.,GENDER.female,"['female', '4', 'Der Wachmann bewunderte die Sekretärin und wollte ihren Job.', 'Sekretärin']"
+al policía,"[3, 4]",La profesora visitó al policía y le hizo algunas preguntas.,GENDER.male,"['male', '4', 'Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen.', 'Polizisten']"
+al policía,"[3, 4]",La bibliotecaria ayudó al policía a encontrar el libro y le sonrió.,GENDER.male,"['male', '4', 'Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an.', 'Polizisten']"
+El supervisor,"[0, 1]",El supervisor le pidió a la asistente que discutiera su horario para mañana.,GENDER.male,"['male', '1', 'Der Vorgesetzte bat die Assistentin, seinen Zeitplan für morgen zu besprechen.', 'Vorgesetzte']"
+al supervisor,"[3, 4]",La escritora ayudó al supervisor y le pidió que le hiciera un favor.,GENDER.male,"['male', '4', 'Die Schriftstellerin half dem Vorgesetzten und bat ihn, ihr einen Gefallen zu tun.', 'Vorgesetzten']"
+a la,"[3, 4]",El abogado llamó a la sastre y le acordó una cita.,GENDER.female,"['female', '4', 'Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr.', 'Schneiderin']"
+a a la,"[3, 5, 6]",El analista va a ver a la sastre porque todos saben que ella hace la mejor ropa.,GENDER.female,"['female', '5', 'Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht.', 'Schneiderin']"
+la profesora,"[6, 7]",El conserje se hizo amigo de la profesora y le contó sobre el chisme del personal.,GENDER.female,"['female', '6', 'Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter.', 'Lehrerin']"
+a la maestra,"[6, 7, 8]",El ayudante de mudanza le dijo a la maestra que tenía que ser más paciente con los niños.,GENDER.female,"['female', '4', 'Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse.', 'Lehrerin']"
+a la escritora,"[3, 4, 5]",El analista visitó a la escritora porque había cometido algunos errores en el libro.,GENDER.female,"['female', '4', 'Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte.', 'Schriftstellerin']"
+la escritora,"[6, 7]",El desarrollador toma un café con la escritora y discute con ella.,GENDER.female,"['female', '7', 'Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr.', 'Schriftstellerin']"

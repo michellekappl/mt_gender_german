@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-ru.txt
+Not translating since translation file exists: ../translations/deepl/de-ru.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 45.78% (141), female: 21.43% (66), neutral 11.36% (35)
+
+Unknown Profs ['Geschäftsführerin', 'Geschäftsführer', 'Geschäftsführerin', 'Analysten', 'Analystin', 'Aufsehers', 'Aufseherin', 'Wirtschaftsprüfer', 'Wirtschaftsprüferin', 'Wirtschaftsprüfer,', 'Wirtschaftsprüferin,', 'Bäcker', 'Bäckerin', 'Tischlerin', 'Bauarbeiter', 'Bauarbeiterin', 'Köchin', 'Koch', 'Designer', 'Designerin', 'Designerin', 'Designer', 'Entwicklerin', 'Entwickler', 'Fahrerin', 'Fahrer', 'Redakteur', 'Redakteurin', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Friseurin', 'Friseur', 'Haushälterin', 'Haushälter', 'Hausmeister', 'Arbeiters', 'Arbeiterin', 'Arbeiter', 'Anwalts,', 'Mechaniker', 'Mechanikerin', 'Umzugshelferin', 'Umzugshelfer', 'Krankenpfleger', 'Rezeptionisten', 'Sekretärin', 'Sekretär', 'Sekretärin', 'Sekretär', 'Zuschauer', 'Zuschauerin', 'Berater', 'Beraterin', 'Hausbesitzerin,', 'Sanitäter', 'Sanitäterin', 'Patienten,', 'Demonstranten', 'Anwohnerin,', 'Anwohner,', 'Schülerin,', 'Schüler,', 'Zeugin', 'Zeugen']
+Unkown: 66 (21.43%), male: 35, female: 31
+
+Accuracy: 44.2, male: 55.84, female: 32.47 
+
+F1: male: 58.3, female: 45.5 
+

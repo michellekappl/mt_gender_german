@@ -87,11 +87,11 @@ def get_gender_from_token(token: Token):
     Get gender indication from spacy token, if it exists
     """
     # Weird spacy bug? "au" should be male
-    if (token.lang_ == "fr") and (token.text == "au") and (token.tag_.startswith("DET")):
+    if (token.lang_ == "fr") and (token.text == "au"):
         return GENDER.male
 
-    # Italian spacy doesn't seem to split correctly
-    if (token.lang_ == "it") and (token.text.startswith("dell'")):
+    # Italian spacy doesn't seem to split correctly and al will not get annotated correctly
+    if (token.lang_ == "it") and (token.text.startswith("dell'")) or (token.text.startswith("al")):
         return GENDER.male
 
 

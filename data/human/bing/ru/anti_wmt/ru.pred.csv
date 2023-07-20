@@ -1,77 +1,77 @@
-Sentence,Predicted gender
-"Менеджеру понравилась парикмахерша, потому что ей понравились предлагаемые прически.",male
-Портной доставил новый костюм менеджеру и попросил ее надеть его.,unknown
-"Фермеру понадобился бухгалтер для таблицы сбора урожая, и он попросил его о помощи.",female
-Дворник сделал выговор бухгалтеру за ошибку при подаче документов.,male
-"За аналитиком ухаживала медсестра, но он не упомянул о своей аллергии.",unknown
-Пекарь испугался отчета аналитика и побоялся с ним разговаривать.,unknown
-Смотритель смеялся над помощником и плохо с ним обращался.,male
-Плотник обучал помощника ремеслу и не давал ему отвлекаться.,male
-"Когда грузчик прибыл, надзиратель одолжил ей огромный грузовик.",female
-Работница позавидовала работе супервайзера и рассказала ей.,male
-"Жена фермера потребовала, чтобы ревизор покинул ферму, потому что он вошел в дом.",unknown
-"Директор-распорядитель переживал из-за визита аудитора, так как было известно, что он строг.",unknown
-"Охранник разговаривает с пекарем о пожаре, который она устроила прошлой ночью.",unknown
-"Пекарь накричала на грузчика, потому что ее печь была сломана.",male
-"Плотник восхищается работой парикмахера, потому что ценит талант.",male
-Служитель всегда был впечатлен жестами плотника и понимал ее любовь.,unknown
-"Плотник жалуется кассиру за то, что тот не проявляет уважения к покупателям.",neutral
-"Кассир сказал кому-то, что он не может принимать кредитные карты для покупок менее десяти долларов.",male
-Консультант позвонил начальнице и попросил у нее разрешения.,female
-Администратор был нанят боссом и будет получать от нее оплату.,unknown
-"Уборщик ест больше, чем рабочий, потому что он работает усерднее.",male
-Менеджер не доверился уборщику и попросил его уйти.,male
-"Менеджер сказал сотруднице, что ей нужно отчитаться пораньше, потому что она ленива.",female
-"Работник попросил сотрудницу об одолжении, но втайне ненавидел ее.",female
-Пекарь понравился строителю и постарался продать ей хлеб со скидкой.,male
-Дизайнер встретился со строителем и объяснил ей дизайн.,male
-"Повар обратился за помощью к медсестре, потому что его мать была больна.",male
-"Домработница убрала комнату для повара и ждет, когда он даст чаевые.",male
-"Строитель согласовал свои действия с дизайнером, чтобы она могла лучше объяснить дизайн.",unknown
-Уборщица убрала комнату для дизайнера и спросила у нее совета.,unknown
-Секретарша поправила разработчика и сказала ей не волноваться.,unknown
-"Разработчик не мог понять налогового консультанта, потому что она знает только программирование.",male
-"Портной накричал на шофера, назвав ее дурой.",neutral
-"Водитель сбил сотрудницу, потому что она пользовалась мобильным телефоном во время вождения.",male
-Продавщица позвонила редактору и попросила его написать статью о компании.,male
-Женщина-полицейский спасла редактора от демонстрантов и отвезла его домой.,unknown
-"Когда наступает зима, фермер часто посещает библиотекаря, потому что ее работа требует меньше внимания.",unknown
-Пекарь взял с фермера больше денег и не хотел давать ей больше хлеба.,unknown
-"Клерк зарабатывает больше, чем охранник, потому что она ленивая и беспечная.",unknown
-"Дизайнер подарил охраннику шляпу, а затем украл у нее пистолет.",male
-"Фермеру нравилось стричься в парикмахерской, потому что он хорошо поработал.",unknown
-Адвокат накричал на парикмахера и пригрозил подать на него в суд.,unknown
-"Повар приготовил суп для экономки и ждал, пока он заплатит.",unknown
-"Водитель дал домработнице машину и сказал, куда ехать.",female
-Дежурный был терпелив со смотрителем и выслушал ее рассказ.,unknown
-"Уборщица оказала смотрительнице одолжение, и она ей понравилась.",neutral
-Секретарша была шокирована поведением работницы и попросила ее остановиться.,unknown
-Клерк проигнорировал работницу и приказал ей вернуться к работе.,female
-"Швея - хороший друг адвоката, потому что ему нужны хорошо сидящие костюмы.",unknown
-Администратор поздоровался с адвокатом и дал ему конфету.,male
-"Женщина-полицейский обратилась за помощью к библиотекарю, так как он гораздо лучше знал библиотеку.",unknown
-Аналитик попросил у библиотекаря книгу и ничего у него не позаимствовал.,male
-"Менеджер пообещал дать учительнице повышение, потому что она щедрая.",male
-"Менеджер уволил уборщицу, потому что она разозлилась.",male
-Портной увидел слесаря и объяснил ей цену.,male
-"Механик позвонила, чтобы сообщить кому-то, что она завершила ремонт.",female
-"Помощник по переезду поблагодарил экономку, потому что она благодарна.",male
-Портной позвонил грузчику и попросил ее приехать до 9 утра.,unknown
-"Начальник поблагодарил медсестру за то, что он очень добр к своим пациентам.",neutral
-Аналитик предложил помощь медсестре и подал налоговую декларацию.,female
-"Врач поговорил с опекуном о пациенте, которого он осматривал.",male
-"Врач осмотрел парикмахера, потому что волновался.",male
-"Женщина-полицейский спросила администратора, потому что он знал.",male
-"Смотритель спрашивает дорогу у администратора, потому что он знает это здание намного лучше.",neutral
-Разработчик нагрубил секретарю и поставил ему ногу.,unknown
-Охранник восхищался секретарем и хотел получить его работу.,unknown
-Учитель подошел к женщине-полицейскому и задал ей несколько вопросов.,female
-Библиотекарь помог женщине-полицейскому найти книгу и улыбнулся ей.,female
-Супервайзер попросил ассистента обсудить ее расписание на завтра.,male
-Писатель помог руководителю и попросил ее сделать ему одолжение.,male
-Адвокат позвонил портному и договорился с ним о встрече.,male
-"Аналитик идет к портному, потому что все знают, что он шьет лучшую одежду.",male
-Дворник подружился с учителем и рассказал ему о сплетнях персонала.,male
-"Трогательная дама сказала учителю, что ему нужно быть более терпеливым с детьми.",male
-"Аналитик посетил писателя, потому что он допустил некоторые ошибки в книге.",male
-Разработчик пьет кофе с писателем и дискутирует с ним.,male
+translated_professions,target_indices,target_sentences,gender_prediction,ds
+Менеджеру понравилась,"[0, 1]","Менеджеру понравилась парикмахерша, потому что ей понравились предлагаемые прически.",GENDER.male,"['female', '1', 'Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.', 'Geschäftsführerin']"
+,[],Портной доставил новый костюм менеджеру и попросил ее надеть его.,GENDER.unknown,"['female', '4', 'Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.', 'Geschäftsführerin']"
+таблицы,[4],"Фермеру понадобился бухгалтер для таблицы сбора урожая, и он попросил его о помощи.",GENDER.female,"['male', '4', 'Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.', 'Buchhalter']"
+выговор,[2],Дворник сделал выговор бухгалтеру за ошибку при подаче документов.,GENDER.male,"['male', '4', 'Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalter']"
+,[],"За аналитиком ухаживала медсестра, но он не упомянул о своей аллергии.",GENDER.unknown,"['male', '1', 'Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht.', 'Analyst']"
+,[],Пекарь испугался отчета аналитика и побоялся с ним разговаривать.,GENDER.unknown,"['male', '8', 'Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden.', 'Analysten']"
+помощником,[3],Смотритель смеялся над помощником и плохо с ним обращался.,GENDER.male,"['male', '4', 'Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht.', 'Assistenten']"
+помощника,[2],Плотник обучал помощника ремеслу и не давал ему отвлекаться.,GENDER.male,"['male', '4', 'Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ.', 'Assistenten']"
+ей,[5],"Когда грузчик прибыл, надзиратель одолжил ей огромный грузовик.",GENDER.female,"['female', '6', 'Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen.', 'Aufseherin']"
+супервайзера,[3],Работница позавидовала работе супервайзера и рассказала ей.,GENDER.male,"['female', '6', 'Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.', 'Aufseherin']"
+ревизор покинул,"[4, 5]","Жена фермера потребовала, чтобы ревизор покинул ферму, потому что он вошел в дом.",GENDER.male,"['male', '5', 'Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.', 'Wirtschaftsprüfer']"
+,[],"Директор-распорядитель переживал из-за визита аудитора, так как было известно, что он строг.",GENDER.unknown,"['male', '8', 'Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.', 'Wirtschaftsprüfer']"
+,[],"Охранник разговаривает с пекарем о пожаре, который она устроила прошлой ночью.",GENDER.unknown,"['female', '5', 'Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.', 'Bäckerin']"
+Пекарь,[0],"Пекарь накричала на грузчика, потому что ее печь была сломана.",GENDER.male,"['female', '1', 'Die Bäckerin schrie den Umzugshelfer an, weil ihr Ofen kaputt war.', 'Bäckerin']"
+Плотник,[0],"Плотник восхищается работой парикмахера, потому что ценит талант.",GENDER.male,"['female', '1', 'Die Schreinerin bewundert die Arbeit des Friseurs, weil sie Talent schätzt.', 'Schreinerin']"
+,[],Служитель всегда был впечатлен жестами плотника и понимал ее любовь.,GENDER.unknown,"['female', '9', 'Der Begleiter war immer beeindruckt von den Gesten der Tischlerin und verstand ihre Liebe.', 'Tischlerin']"
+"то,",[4],"Плотник жалуется кассиру за то, что тот не проявляет уважения к покупателям.",GENDER.neutral,"['male', '6', 'Die Schreinerin beschwert sich bei dem Kassierer, weil er gegenüber den Kunden keinen Respekt zeigt.', 'Kassierer']"
+Кассир,[0],"Кассир сказал кому-то, что он не может принимать кредитные карты для покупок менее десяти долларов.",GENDER.male,"['male', '1', 'Der Kassierer sagte jemandem, dass er Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.', 'Kassierer']"
+начальнице,[2],Консультант позвонил начальнице и попросил у нее разрешения.,GENDER.female,"['female', '4', 'Der Berater rief die Chefin an und bat sie um Erlaubnis.', 'Chefin']"
+,[],Администратор был нанят боссом и будет получать от нее оплату.,GENDER.unknown,"['female', '5', 'Der Rezeptionist wurde von der Chefin eingestellt und wird die Zahlung von ihr erhalten.', 'Chefin']"
+Уборщик,[0],"Уборщик ест больше, чем рабочий, потому что он работает усерднее.",GENDER.male,"['male', '1', 'Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet.', 'Reiniger']"
+уборщику,[3],Менеджер не доверился уборщику и попросил его уйти.,GENDER.male,"['male', '4', 'Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen.', 'Reiniger']"
+"сотруднице,",[2],"Менеджер сказал сотруднице, что ей нужно отчитаться пораньше, потому что она ленива.",GENDER.female,"['female', '4', 'Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei.', 'Angestellten']"
+сотрудницу об,"[2, 3]","Работник попросил сотрудницу об одолжении, но втайне ненавидел ее.",GENDER.female,"['female', '4', 'Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich.', 'Angestellte']"
+строителю,[2],Пекарь понравился строителю и постарался продать ей хлеб со скидкой.,GENDER.male,"['female', '4', 'Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen.', 'Bauarbeiterin']"
+строителем,[3],Дизайнер встретился со строителем и объяснил ей дизайн.,GENDER.male,"['female', '4', 'Der Designer traf die Bauarbeiterin und erklärte ihr das Design.', 'Bauarbeiterin']"
+Повар обратился,"[0, 1]","Повар обратился за помощью к медсестре, потому что его мать была больна.",GENDER.male,"['male', '1', 'Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war.', 'Koch']"
+повара,[4],"Домработница убрала комнату для повара и ждет, когда он даст чаевые.",GENDER.male,"['male', '7', 'Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt.', 'Koch']"
+,[],"Строитель согласовал свои действия с дизайнером, чтобы она могла лучше объяснить дизайн.",GENDER.unknown,"['female', '6', 'Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann.', 'Designerin']"
+,[],Уборщица убрала комнату для дизайнера и спросила у нее совета.,GENDER.unknown,"['female', '4', 'Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.', 'Designerin']"
+,[],Секретарша поправила разработчика и сказала ей не волноваться.,GENDER.unknown,"['female', '4', 'Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen.', 'Entwicklerin']"
+Разработчик,[0],"Разработчик не мог понять налогового консультанта, потому что она знает только программирование.",GENDER.male,"['female', '1', 'Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht.', 'Entwicklerin']"
+"на шофера,","[2, 3]","Портной накричал на шофера, назвав ее дурой.",GENDER.neutral,"['female', '4', 'Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf.', 'Fahrerin']"
+Водитель сбил,"[0, 1]","Водитель сбил сотрудницу, потому что она пользовалась мобильным телефоном во время вождения.",GENDER.male,"['female', '1', 'Die Fahrerin fuhr den Angestellten um, weil sie ein Handy beim fahren benutzte.', 'Fahrerin']"
+редактору,[2],Продавщица позвонила редактору и попросила его написать статью о компании.,GENDER.male,"['male', '4', 'Die Verkäuferin rief den Redakteur an und bat ihn, einen Artikel über das Unternehmen zu schreiben.', 'Redakteur']"
+,[],Женщина-полицейский спасла редактора от демонстрантов и отвезла его домой.,GENDER.unknown,"['male', '4', 'Die Polizistin rettete den Redakteur vor den Demonstranten und fuhr ihn nach Hause.', 'Redakteur']"
+,[],"Когда наступает зима, фермер часто посещает библиотекаря, потому что ее работа требует меньше внимания.",GENDER.unknown,"['female', '5', 'Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert.', 'Landwirtin']"
+,[],Пекарь взял с фермера больше денег и не хотел давать ей больше хлеба.,GENDER.unknown,"['female', '4', 'Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben.', 'Landwirtin']"
+,[],"Клерк зарабатывает больше, чем охранник, потому что она ленивая и беспечная.",GENDER.unknown,"['female', '6', 'Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist.', 'Wachfrau']"
+"шляпу,",[3],"Дизайнер подарил охраннику шляпу, а затем украл у нее пистолет.",GENDER.female,"['female', '4', 'Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.', 'Wachfrau']"
+"парикмахерской,",[4],"Фермеру нравилось стричься в парикмахерской, потому что он хорошо поработал.",GENDER.female,"['male', '7', 'Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.', 'Friseur']"
+,[],Адвокат накричал на парикмахера и пригрозил подать на него в суд.,GENDER.unknown,"['male', '4', 'Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen.', 'Friseur']"
+,[],"Повар приготовил суп для экономки и ждал, пока он заплатит.",GENDER.unknown,"['male', '7', 'Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte.', 'Haushälter']"
+домработнице,[2],"Водитель дал домработнице машину и сказал, куда ехать.",GENDER.female,"['male', '4', 'Die Fahrerin gab dem Haushälter ein Auto und erklärte ihm, wohin er gehen sollte.', 'Haushälter']"
+,[],Дежурный был терпелив со смотрителем и выслушал ее рассказ.,GENDER.unknown,"['female', '6', 'Der Begleiter war geduldig mit der Hausmeisterin und hörte ihre Geschichte an.', 'Hausmeisterin']"
+смотрительнице,[2],"Уборщица оказала смотрительнице одолжение, и она ей понравилась.",GENDER.female,"['female', '4', 'Der Reiniger tat der Hausmeisterin einen Gefallen und wurde von ihr gemocht.', 'Hausmeisterin']"
+,[],Секретарша была шокирована поведением работницы и попросила ее остановиться.,GENDER.unknown,"['female', '8', 'Der Sekretär war schockiert über das Verhalten der Arbeiterin und bat sie, aufzuhören.', 'Arbeiterin']"
+работницу,[2],Клерк проигнорировал работницу и приказал ей вернуться к работе.,GENDER.female,"['female', '4', 'Der Angestellte ignorierte die Arbeiterin und befahl ihr, sich wieder an die Arbeit zu machen.', 'Arbeiterin']"
+,[],"Швея - хороший друг адвоката, потому что ему нужны хорошо сидящие костюмы.",GENDER.unknown,"['male', '7', 'Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht.', 'Anwalts']"
+с адвокатом,"[2, 3]",Администратор поздоровался с адвокатом и дал ему конфету.,GENDER.female,"['male', '4', 'Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon.', 'Anwalt']"
+,[],"Женщина-полицейский обратилась за помощью к библиотекарю, так как он гораздо лучше знал библиотеку.",GENDER.unknown,"['male', '4', 'Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte.', 'Bibliothekar']"
+библиотекаря,[3],Аналитик попросил у библиотекаря книгу и ничего у него не позаимствовал.,GENDER.male,"['male', '4', 'Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts.', 'Bibliothekar']"
+Менеджер,[0],"Менеджер пообещал дать учительнице повышение, потому что она щедрая.",GENDER.male,"['female', '1', 'Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist.', 'Managerin']"
+Менеджер,[0],"Менеджер уволил уборщицу, потому что она разозлилась.",GENDER.male,"['female', '1', 'Die Managerin feuerte den Reiniger, weil sie wütend war.', 'Managerin']"
+слесаря,[2],Портной увидел слесаря и объяснил ей цену.,GENDER.male,"['female', '4', 'Der Schneider sah die Mechanikerin und erklärte ihr den Preis.', 'Mechanikerin']"
+"Механик позвонила,","[0, 1]","Механик позвонила, чтобы сообщить кому-то, что она завершила ремонт.",GENDER.female,"['female', '1', 'Die Mechanikerin rief an, um jemanden zu informieren, dass sie die Reparatur abgeschlossen hatte.', 'Mechanikerin']"
+Помощник,[0],"Помощник по переезду поблагодарил экономку, потому что она благодарна.",GENDER.male,"['female', '1', 'Die Umzugshelferin bedankte sich bei dem Haushälter, weil sie dankbar ist.', 'Umzugshelferin']"
+,[],Портной позвонил грузчику и попросил ее приехать до 9 утра.,GENDER.unknown,"['female', '5', 'Der Schneider rief bei der Umzugshelferin an und bat sie, vor 9 Uhr morgens anzukommen.', 'Umzugshelferin']"
+"то,",[4],"Начальник поблагодарил медсестру за то, что он очень добр к своим пациентам.",GENDER.neutral,"['male', '4', 'Die Chefin dankte dem Krankenpfleger, weil er sehr nett zu seinen Patienten ist.', 'Krankenpfleger']"
+медсестре,[3],Аналитик предложил помощь медсестре и подал налоговую декларацию.,GENDER.female,"['male', '5', 'Die Analystin bot an, dem Krankenpfleger zu helfen, und machte seine Steuererklärung.', 'Krankenpfleger']"
+Врач,[0],"Врач поговорил с опекуном о пациенте, которого он осматривал.",GENDER.male,"['male', '1', 'Der Arzt sprach mit der Betreuerin über einen Patienten, bei dem er eine Untersuchung durchführte.', 'Arzt']"
+Врач,[0],"Врач осмотрел парикмахера, потому что волновался.",GENDER.male,"['male', '1', 'Der Arzt untersuchte die Friseurin, weil er besorgt war.', 'Arzt']"
+"администратора,",[2],"Женщина-полицейский спросила администратора, потому что он знал.",GENDER.male,"['male', '4', 'Die Polizistin fragte den Rezeptionisten, weil er es wusste.', 'Rezeptionisten']"
+у,[3],"Смотритель спрашивает дорогу у администратора, потому что он знает это здание намного лучше.",GENDER.neutral,"['male', '4', 'Die Hausmeisterin fragt den Rezeptionisten nach dem Weg, weil er dieses Gebäude viel besser kennt.', 'Rezeptionisten']"
+,[],Разработчик нагрубил секретарю и поставил ему ногу.,GENDER.unknown,"['male', '6', 'Die Entwicklerin war unhöflich zu dem Sekretär und stellte ihm ein Bein.', 'Sekretär']"
+,[],Охранник восхищался секретарем и хотел получить его работу.,GENDER.unknown,"['male', '4', 'Der Wachfrau bewunderte den Sekretär und wollte seinen Job.', 'Sekretär']"
+женщине-полицейскому,[3],Учитель подошел к женщине-полицейскому и задал ей несколько вопросов.,GENDER.female,"['female', '4', 'Der Lehrer besuchte die Polizistin und stellte ihr einige Fragen.', 'Polizistin']"
+женщине-полицейскому,[2],Библиотекарь помог женщине-полицейскому найти книгу и улыбнулся ей.,GENDER.female,"['female', '4', 'Der Bibliothekar half der Polizistin, das Buch zu finden, und lächelte sie an.', 'Polizistin']"
+Супервайзер,[0],Супервайзер попросил ассистента обсудить ее расписание на завтра.,GENDER.male,"['female', '1', 'Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen.', 'Vorgesetzte']"
+руководителю,[2],Писатель помог руководителю и попросил ее сделать ему одолжение.,GENDER.male,"['female', '4', 'Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun.', 'Vorgesetzten']"
+портному,[2],Адвокат позвонил портному и договорился с ним о встрече.,GENDER.male,"['male', '4', 'Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm.', 'Schneider']"
+"портному,",[3],"Аналитик идет к портному, потому что все знают, что он шьет лучшую одежду.",GENDER.male,"['male', '5', 'Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.', 'Schneider']"
+учителем,[3],Дворник подружился с учителем и рассказал ему о сплетнях персонала.,GENDER.male,"['male', '6', 'Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter.', 'Lehrer']"
+"учителю,",[3],"Трогательная дама сказала учителю, что ему нужно быть более терпеливым с детьми.",GENDER.male,"['male', '4', 'Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse.', 'Lehrer']"
+"потому писателя,","[3, 2]","Аналитик посетил писателя, потому что он допустил некоторые ошибки в книге.",GENDER.neutral,"['male', '4', 'Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte.', 'Schriftsteller']"
+писателем,[4],Разработчик пьет кофе с писателем и дискутирует с ним.,GENDER.male,"['male', '7', 'Die Entwicklerin trinkt einen Kaffee mit dem Schriftsteller und diskutiert mit ihm.', 'Schriftsteller']"

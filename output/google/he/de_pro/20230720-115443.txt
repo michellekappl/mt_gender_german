@@ -1,0 +1,14 @@
+!!! ../translations/google/de-he.txt
+Not translating since translation file exists: ../translations/google/de-he.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 47.62% (60), female: 42.86% (54), neutral 0.0% (0)
+
+Unknown Profs ['Geschäftsführer', 'Wirtschaftsprüferin', 'Chef', 'Landwirt', 'Wachmann,', 'Friseurin', 'Hausmeister', 'Hausmeister', 'Arbeiter', 'Krankenpflegerin', 'Schneiderin', 'Klempner']
+Unkown: 12 (9.52%), male: 8, female: 4
+
+Accuracy: 72.2, male: 75.44, female: 69.57 
+
+F1: male: 73.5, female: 78.1 
+

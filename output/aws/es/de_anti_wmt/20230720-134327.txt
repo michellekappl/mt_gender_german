@@ -1,0 +1,14 @@
+!!! ../translations/aws/de-es.txt
+Not translating since translation file exists: ../translations/aws/de-es.txt
+
+Gold distribution: male: 50.0% (38), female: 50.0% (38) 
+
+Predictions: male: 47.37% (36), female: 32.89% (25), neutral 0.0% (0)
+
+Unknown Profs ['Assistenten', 'Assistenten', 'Aufseherin', 'Bäckerin', 'Tischlerin', 'Kassierer,', 'Chefin', 'Angestellte', 'Landwirtin', 'Landwirtin', 'Wachfrau,', 'Hausmeisterin', 'Krankenpfleger,', 'Rezeptionisten', 'Lehrer,']
+Unkown: 15 (19.74%), male: 6, female: 9
+
+Accuracy: 67.1, male: 76.32, female: 57.89 
+
+F1: male: 78.4, female: 69.8 
+

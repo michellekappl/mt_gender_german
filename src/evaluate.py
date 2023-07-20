@@ -79,11 +79,6 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
     acc_female = round((correct_cnt[GENDER.female] / total[GENDER.female]) * 100, 2)
 
     
-    unknown = [prof for prof, vals in prof_dict.items()
-                 if all(pred_gender == GENDER.unknown
-                        for pred_gender
-                        in map(itemgetter(0), vals))]
-    
     output_dict = {"acc": acc,
                    "f1_male": f1_male,
                    "acc_male": acc_male,
@@ -96,11 +91,10 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
     print("\nGold distribution: male: {}% ({}), female: {}% ({}) \n".format(round((total[GENDER.male]/ all_total) * 100, 2), total[GENDER.male],
                                                            round((total[GENDER.female]/ all_total) * 100,2), total[GENDER.female]))
 
-    print("Predictions: male: {}% ({}), female: {}% ({})\n".format(round((pred_cnt[GENDER.male] / all_total) * 100, 2), pred_cnt[GENDER.male],
-                                                     round((pred_cnt[GENDER.female] / all_total) * 100, 2), pred_cnt[GENDER.female]))
+    print("Predictions: male: {}% ({}), female: {}% ({}), neutral {}% ({})\n".format(round((pred_cnt[GENDER.male] / all_total) * 100, 2), pred_cnt[GENDER.male],
+                                                     round((pred_cnt[GENDER.female] / all_total) * 100, 2), pred_cnt[GENDER.female], round((pred_cnt[GENDER.neutral] / all_total) * 100, 2), pred_cnt[GENDER.neutral]))
     
-    print("Unknown words {}".format(unknown))
-    print("Unknown Misc {}".format(unknowns))
+    print("Unknown Profs {}".format(unknowns))
     print("Unkown: {} ({}%), male: {}, female: {}\n".format(count_unknowns[GENDER.female]+count_unknowns[GENDER.male], 
                                                          round(((count_unknowns[GENDER.female]+count_unknowns[GENDER.male])/all_total)* 100, 2), 
                                                          count_unknowns[GENDER.male],count_unknowns[GENDER.female]))

@@ -1,0 +1,14 @@
+!!! ../translations/google/de-ru.txt
+Not translating since translation file exists: ../translations/google/de-ru.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 50.0% (154), female: 18.83% (58), neutral 9.42% (29)
+
+Unknown Profs ['Geschäftsführer', 'Geschäftsführerin', 'Geschäftsführer', 'Geschäftsführerin', 'Buchhalter', 'Buchhalterin', 'Analystin', 'Analyst', 'Analysten', 'Analystin', 'Aufsehers', 'Aufseherin', 'Wirtschaftsprüfer', 'Wirtschaftsprüferin', 'Bäcker', 'Bäckerin', 'Tischlers', 'Chef', 'Chefin', 'Designer', 'Designerin', 'Designerin', 'Designer', 'Entwicklerin', 'Entwickler', 'Redakteur', 'Redakteurin', 'Landwirt', 'Landwirtin', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Wachmann', 'Friseurin', 'Friseur', 'Hausmeister', 'Hausmeisterin', 'Arbeiters', 'Arbeiterin', 'Anwalts,', 'Bibliothekar', 'Bibliothekarin', 'Mechaniker', 'Mechanikerin', 'Umzugshelferin', 'Umzugshelfer', 'Krankenpflegerin', 'Rezeptionistin', 'Sekretärin', 'Sekretär', 'Sekretärin', 'Sekretär', 'Polizistin', 'Schriftsteller', 'Schriftstellerin', 'Verwalter', 'Verwalterin', 'Zuschauer', 'Polizistin', 'Patientin,', 'Demonstranten', 'Wissenschaftlerin', 'Wissenschaftler', 'Fachärztin', 'Schülerin,', 'Schüler,']
+Unkown: 67 (21.75%), male: 33, female: 34
+
+Accuracy: 44.5, male: 60.39, female: 28.57 
+
+F1: male: 60.4, female: 41.5 
+

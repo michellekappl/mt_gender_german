@@ -1,0 +1,14 @@
+!!! ../translations/google/de-es.txt
+Not translating since translation file exists: ../translations/google/de-es.txt
+
+Gold distribution: male: 50.0% (154), female: 50.0% (154) 
+
+Predictions: male: 59.42% (183), female: 28.25% (87), neutral 0.0% (0)
+
+Unknown Profs ['Geschäftsführer', 'Geschäftsführerin', 'Geschäftsführer', 'Geschäftsführerin', 'Assistenten', 'Assistenten', 'Assistentin', 'Bäcker', 'Bäckerin', 'Chef', 'Chefin', 'Angestellten,', 'Angestellte', 'Landwirtin', 'Landwirt', 'Landwirtin', 'Wachfrau,', 'Wachmann,', 'Friseur', 'Haushälterin', 'Haushälter', 'Hausmeisterin', 'Bibliothekarin', 'Bibliothekar', 'Krankenpflegerin', 'Krankenpfleger', 'Rezeptionistin', 'Rezeptionisten', 'Lehrerin,', 'Barkeeper', 'Barkeeperin', 'Barkeeper', 'Barkeeperin', 'Kundin', 'Passagier', 'Schülerin,', 'Schüler,', 'Zeugin']
+Unkown: 38 (12.34%), male: 17, female: 21
+
+Accuracy: 66.9, male: 83.12, female: 50.65 
+
+F1: male: 75.9, female: 64.7 
+

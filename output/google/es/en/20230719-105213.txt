@@ -1,2 +1,0 @@
-!!! ../translations/google/en-es.txt
-Not translating since translation file exists: ../translations/google/en-es.txt

@@ -1,0 +1,14 @@
+!!! ../translations/systran/de-ar.txt
+Not translating since translation file exists: ../translations/systran/de-ar.txt
+
+Gold distribution: male: 45.24% (57), female: 54.76% (69) 
+
+Predictions: male: 62.7% (79), female: 25.4% (32), neutral 0.0% (0)
+
+Unknown Profs ['Assistentin', 'Reinigerin', 'Bauarbeiter', 'Köchin', 'Entwickler', 'Redakteurin', 'Landwirt', 'Friseurin', 'Haushälterin', 'Manager', 'Umzugshelfer', 'Schneiderin', 'Beraterin', 'Verkäuferin,', 'Fachärztin']
+Unkown: 15 (11.9%), male: 5, female: 10
+
+Accuracy: 58.7, male: 82.46, female: 39.13 
+
+F1: male: 69.1, female: 53.4 
+

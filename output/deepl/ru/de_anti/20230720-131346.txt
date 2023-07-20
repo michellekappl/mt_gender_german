@@ -1,0 +1,14 @@
+!!! ../translations/deepl/de-ru.txt
+Not translating since translation file exists: ../translations/deepl/de-ru.txt
+
+Gold distribution: male: 54.76% (69), female: 45.24% (57) 
+
+Predictions: male: 48.41% (61), female: 23.02% (29), neutral 7.14% (9)
+
+Unknown Profs ['Geschäftsführerin', 'Geschäftsführerin', 'Analysten', 'Aufseherin', 'Wirtschaftsprüfer', 'Wirtschaftsprüfer,', 'Bäckerin', 'Tischlerin', 'Bauarbeiterin', 'Koch', 'Designerin', 'Designerin', 'Entwicklerin', 'Fahrerin', 'Redakteur', 'Landwirtin', 'Wachfrau,', 'Friseur', 'Haushälter', 'Arbeiterin', 'Anwalts,', 'Mechanikerin', 'Umzugshelferin', 'Sekretär', 'Sekretär', 'Berater', 'Sanitäter']
+Unkown: 27 (21.43%), male: 12, female: 15
+
+Accuracy: 54.0, male: 63.77, female: 42.11 
+
+F1: male: 67.7, female: 55.8 
+

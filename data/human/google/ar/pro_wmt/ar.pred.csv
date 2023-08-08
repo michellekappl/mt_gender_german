@@ -1,7 +1,7 @@
 translated_professions,target_indices,target_sentences,gender_prediction,ds
 المدير,[1],أحب المدير مصفف الشعر لأنه أحب تسريحات الشعر المعروضة.,GENDER.male,"['male', '1', 'Der Geschäftsführer mochte die Friseurin, weil ihm die angebotenen Frisuren gefielen.', 'Geschäftsführer']"
 ,[],سلمت الخياط بدلة جديدة للمدير وطلبت منه ارتدائها.,GENDER.unknown,"['male', '4', 'Die Schneiderin lieferte dem Geschäftsführer einen neuen Anzug und bat ihn, ihn zu tragen.', 'Geschäftsführer']"
-محاسب,[3],احتاج المزارع إلى محاسب لمائدة الحصاد وطلب منه المساعدة.,GENDER.male,"['female', '4', 'Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe.', 'Buchhalterin']"
+إلى محاسب,"[2, 3]",احتاج المزارع إلى محاسب لمائدة الحصاد وطلب منه المساعدة.,GENDER.male,"['female', '4', 'Der Landwirt brauchte die Buchhalterin für die Erntetabelle und bat sie um Hilfe.', 'Buchhalterin']"
 بتوبيخ,[2],قام البواب بتوبيخ المحاسب لارتكابه خطأ في حفظ الأوراق.,GENDER.male,"['female', '4', 'Der Hausmeister rügte die Buchhalterin, weil sie bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalterin']"
 كان المحلل,"[0, 1]",كان المحلل تحت رعاية الممرض الذكر ، لكنها لم تذكر حساسيتها.,GENDER.male,"['female', '1', 'Die Analystin wurde von dem Krankenpfleger betreut, ihre Allergien erwähnte sie jedoch nicht.', 'Analystin']"
 ,[],كان الخباز يخاف من تقرير المحلل ويخشى التحدث معها.,GENDER.unknown,"['female', '8', 'Der Bäcker hatte Angst vor dem Bericht der Analystin und hatte Angst, mit ihr zu reden.', 'Analystin']"
@@ -63,7 +63,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 ,[],فحص الطبيب الحلاق لقلقها.,GENDER.unknown,"['female', '1', 'Die Ärztin untersuchte den Friseur, weil sie besorgt war.', 'Ärztin']"
 موظفة الاستقبال,"[2, 3]",سأل الشرطي موظفة الاستقبال لأنها كانت تعلم.,GENDER.female,"['female', '4', 'Der Polizist fragte die Rezeptionistin, weil sie es wusste.', 'Rezeptionistin']"
 موظف,[3],يسأل القائم بالأعمال موظف الاستقبال عن الاتجاهات لأنه يعرف هذا المبنى بشكل أفضل.,GENDER.male,"['female', '4', 'Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt.', 'Rezeptionistin']"
-مع,[3],كان المطور وقحًا مع السكرتيرة وأوقفها.,GENDER.male,"['female', '6', 'Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein.', 'Sekretärin']"
+,[],كان المطور وقحًا مع السكرتيرة وأوقفها.,GENDER.unknown,"['female', '6', 'Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein.', 'Sekretärin']"
 بالسكرتيرة,[3],أعجب حارس الأمن بالسكرتيرة وأراد وظيفتها.,GENDER.female,"['female', '4', 'Der Wachmann bewunderte die Sekretärin und wollte ihren Job.', 'Sekretärin']"
 الشرطي,[2],زار المعلم الشرطي وطرح عليه بعض الأسئلة.,GENDER.male,"['male', '4', 'Die Lehrerin besuchte den Polizisten und stellte ihm einige Fragen.', 'Polizisten']"
 الشرطي,[3],أمينة المكتبة ساعدت الشرطي في العثور على الكتاب وابتسمت له.,GENDER.male,"['male', '4', 'Die Bibliothekarin half dem Polizisten, das Buch zu finden, und lächelte ihn an.', 'Polizisten']"

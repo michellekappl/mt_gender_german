@@ -13,6 +13,7 @@ from tqdm import tqdm
 from typing import List
 import csv
 import pandas as pd
+import os
 
 # Local imports
 from languages.spacy_support import SpacyPredictor
@@ -187,7 +188,20 @@ if __name__ == "__main__":
     df['ds'] = ds
     df.to_csv(out_fn, index=False)
 
-    d = evaluate_bias(ds, gender_predictions)
+    out_fn = out_fn[:-4]
 
+    d = evaluate_bias(ds, gender_predictions)
+    d = {k: [v] for k, v in d.items()}
+    d = pd.DataFrame.from_dict(d, orient='columns')
+    headers = list(d)
+    d.columns = headers
+
+    if os.path.exists(out_fn + "_stats.csv"):
+        old = pd.read_csv(out_fn + "_stats.csv")
+        old.columns = headers
+        new = pd.concat([old, d])
+    else:
+        new = d
+    new.to_csv(out_fn + "_stats.csv", index=False)
 
     logging.info("DONE")

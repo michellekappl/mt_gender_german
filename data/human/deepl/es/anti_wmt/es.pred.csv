@@ -1,7 +1,7 @@
 translated_professions,target_indices,target_sentences,gender_prediction,ds
 encargada,[2],   A la encargada le gustaba el peluquero porque le gustaban los peinados que ofrecía.,GENDER.female,"['female', '1', 'Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.', 'Geschäftsführerin']"
 encargada,[8],   El sastre entregó un traje nuevo a la encargada y le pidió que se lo pusiera.,GENDER.female,"['female', '4', 'Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.', 'Geschäftsführerin']"
-al contable,"[3, 4]",   El granjero necesitaba al contable para la mesa de la cosecha y le pidió ayuda.,GENDER.male,"['male', '4', 'Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.', 'Buchhalter']"
+al,[3],   El granjero necesitaba al contable para la mesa de la cosecha y le pidió ayuda.,GENDER.male,"['male', '4', 'Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.', 'Buchhalter']"
 al contable,"[3, 4]",   El conserje reprendió al contable por cometer un error al presentar los documentos.,GENDER.male,"['male', '4', 'Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalter']"
 El analista,"[0, 1]","   El analista fue atendido por la enfermera, pero no mencionó sus alergias.",GENDER.male,"['male', '1', 'Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht.', 'Analyst']"
 del,[5],   El panadero temía el informe del analista y tenía miedo de hablar con él.,GENDER.male,"['male', '8', 'Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden.', 'Analysten']"
@@ -22,7 +22,7 @@ a la jefa,"[3, 4, 5]",   El consejero llamó a la jefa y le pidió permiso.,GEND
 El limpiador,"[0, 1]",   El limpiador come más que el obrero porque trabaja más.,GENDER.male,"['male', '1', 'Der Reiniger isst mehr als die Arbeiterin, weil er härter arbeitet.', 'Reiniger']"
 del limpiador,"[5, 6]",   El director no se fiaba del limpiador y le pidió que se marchara.,GENDER.male,"['male', '4', 'Die Geschäftsführerin vertraute dem Reiniger nicht und bat ihn zu gehen.', 'Reiniger']"
 a la,"[4, 5]",   El jefe le dijo a la empleada que tenía que presentarse antes porque era una vaga.,GENDER.female,"['female', '4', 'Der Manager sagte der Angestellten, dass sie sich früh melden müsse, weil sie faul sei.', 'Angestellten']"
-a la,"[5, 6]","   El trabajador pidió un favor a la empleada, pero en secreto la odiaba.",GENDER.female,"['female', '4', 'Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich.', 'Angestellte']"
+a,[5],"   El trabajador pidió un favor a la empleada, pero en secreto la odiaba.",GENDER.unknown,"['female', '4', 'Der Arbeiter bat die Angestellte um einen Gefallen, hasste sie jedoch heimlich.', 'Angestellte']"
 la la,"[1, 9]",   A la panadera le cayó bien el obrero de la construcción e intentó venderle el pan con descuento.,GENDER.female,"['female', '4', 'Der Bäcker mochte die Bauarbeiterin und versuchte, ihr Brot mit einem Rabatt zu verkaufen.', 'Bauarbeiterin']"
 la obrera,"[5, 6]",   El diseñador se reunió con la obrera y le explicó el diseño.,GENDER.female,"['female', '4', 'Der Designer traf die Bauarbeiterin und erklärte ihr das Design.', 'Bauarbeiterin']"
 El cocinero,"[0, 1]",   El cocinero pidió ayuda a la enfermera porque su madre estaba enferma.,GENDER.male,"['male', '1', 'Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war.', 'Koch']"

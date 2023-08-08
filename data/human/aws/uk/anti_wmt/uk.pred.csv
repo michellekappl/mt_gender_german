@@ -50,7 +50,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 ,[],"   Кравець - хороший друг адвоката, тому що йому потрібні добре підібрані костюми.",GENDER.unknown,"['male', '7', 'Die Schneiderin ist eine gute Freundin des Anwalts, weil er gut sitzende Anzüge braucht.', 'Anwalts']"
 ,[],   Адміністратор привітав адвоката і дав йому шматочок цукерки.,GENDER.unknown,"['male', '4', 'Die Rezeptionistin begrüßte den Anwalt und gab ihm ein Bonbon.', 'Anwalt']"
 "бібліотекаря,",[5],"   Поліцейська звернулася за допомогою до бібліотекаря, так як він знав бібліотеку набагато краще.",GENDER.male,"['male', '4', 'Die Polizistin bat den Bibliothekar um Hilfe, da er die Bibliothek viel besser kannte.', 'Bibliothekar']"
-бібліотекаря,[3],   Аналітик попросив у бібліотекаря книгу і нічого у нього не позичив.,GENDER.male,"['male', '4', 'Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts.', 'Bibliothekar']"
+у бібліотекаря,"[2, 3]",   Аналітик попросив у бібліотекаря книгу і нічого у нього не позичив.,GENDER.neutral,"['male', '4', 'Die Analystin bat den Bibliothekar um ein Buch und borgte sich von ihm nichts.', 'Bibliothekar']"
 ,[],"   Керівник пообіцяв дати вчительці підвищення зарплати, тому що вона щедра.",GENDER.unknown,"['female', '1', 'Die Managerin versprach dem Lehrer eine Gehaltserhöhung zu geben, weil sie großzügig ist.', 'Managerin']"
 Менеджер,[0],"   Менеджер звільнив прибиральницю, тому що вона розсердилася.",GENDER.male,"['female', '1', 'Die Managerin feuerte den Reiniger, weil sie wütend war.', 'Managerin']"
 ,[],   Кравець побачив механіка і пояснив їй ціну.,GENDER.unknown,"['female', '4', 'Der Schneider sah die Mechanikerin und erklärte ihr den Preis.', 'Mechanikerin']"

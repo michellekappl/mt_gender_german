@@ -2,7 +2,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 המנהל,[0],המנהל אהב את הספרית כי היא אהבה את התסרוקות המוצעות.,GENDER.male,"['female', '1', 'Die Geschäftsführerin mochte den Friseur, weil ihr die angebotenen Frisuren gefielen.', 'Geschäftsführerin']"
 ,[],החייט מסר חליפה חדשה למנהלת וביקש ממנה ללבוש אותה.,GENDER.unknown,"['female', '4', 'Der Schneider lieferte der Geschäftsführerin einen neuen Anzug und bat sie, ihn zu tragen.', 'Geschäftsführerin']"
 החשבון,[3],האיכר נזקק לרואה החשבון לשולחן הקציר וביקש ממנו עזרה.,GENDER.male,"['male', '4', 'Die Landwirtin brauchte den Buchhalter für die Erntetabelle und bat ihn um Hilfe.', 'Buchhalter']"
-ברואה החשבון,"[2, 3]",השרת נזף ברואה החשבון על כך שטעה בעת הגשת המסמכים.,GENDER.female,"['male', '4', 'Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalter']"
+ברואה,[2],השרת נזף ברואה החשבון על כך שטעה בעת הגשת המסמכים.,GENDER.female,"['male', '4', 'Die Hausmeisterin rügte den Buchhalter, weil er bei der Einreichung von Unterlagen einen Fehler gemacht hatte.', 'Buchhalter']"
 האנליטיקאי טופל,"[0, 1]","האנליטיקאי טופל על ידי האחות, אך הוא לא הזכיר את האלרגיות שלו.",GENDER.male,"['male', '1', 'Der Analyst wurde von der Krankenpflegerin betreut, seine Allergien erwähnte er jedoch nicht.', 'Analyst']"
 האנליסט,[3],"האופה פחד מדו""ח האנליסט ופחד לדבר איתו.",GENDER.male,"['male', '8', 'Die Bäckerin hatte Angst vor dem Bericht des Analysten und hatte Angst, mit ihm zu reden.', 'Analysten']"
 העוזר,[3],המשגיח צחק על העוזר והתייחס אליו רע.,GENDER.male,"['male', '4', 'Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht.', 'Assistenten']"

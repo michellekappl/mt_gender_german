@@ -68,24 +68,45 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
     all_total = sum(total.values())
     acc = round((sum(correct_cnt.values()) / all_total) * 100, 1)
 
+
     recall_male = round((correct_cnt[GENDER.male] / total[GENDER.male]) * 100, 1)
     prec_male = round((correct_cnt[GENDER.male] / pred_cnt[GENDER.male]) * 100, 1)
     f1_male = round(calc_f1(prec_male, recall_male), 1)
     acc_male = round((correct_cnt[GENDER.male] / total[GENDER.male]) * 100, 2)
+    total_male = total[GENDER.male]
+    pred_male = pred_cnt[GENDER.male]
+    pred_per_male = round(pred_male/all_total, 2)
 
     recall_female = round((correct_cnt[GENDER.female] / total[GENDER.female]) * 100, 1)
     prec_female = round((correct_cnt[GENDER.female] / pred_cnt[GENDER.female]) * 100, 1)
     f1_female = round(calc_f1(prec_female, recall_female), 1)
     acc_female = round((correct_cnt[GENDER.female] / total[GENDER.female]) * 100, 2)
+    total_female = total[GENDER.female]
+    pred_female = pred_cnt[GENDER.female]
+    pred_per_female = round(pred_female/all_total, 2)
 
-    
+    pred_n = pred_cnt[GENDER.neutral]
+    pred_per_n = round(pred_n/all_total, 2)
+
     output_dict = {"acc": acc,
-                   "f1_male": f1_male,
-                   "acc_male": acc_male,
-                   "f1_female": f1_female,
-                   "acc_female": acc_female,
-                   "unk_male": count_unknowns[GENDER.male],
-                   "unk_female": count_unknowns[GENDER.female],
+                   "recall_m": recall_male,
+                   "precision_m": prec_male,
+                   "f1_m": f1_male,
+                   "acc_m": acc_male,
+                   "total_m": total_male,
+                   "pred_m": pred_male,
+                   "pred_per_m": pred_per_male,
+                   "unk_m": count_unknowns[GENDER.male],
+                   "recall_f": recall_female,
+                   "precision_f": prec_female,
+                   "f1_f": f1_female,
+                   "acc_f": acc_female,
+                   "total_f": total_female,
+                   "pred_f": pred_female,
+                   "pred_per_f": pred_per_female,
+                   "unk_f": count_unknowns[GENDER.female],
+                   "pred_n": pred_n,
+                   "pred_per_n" : pred_per_n,
                    }
     
     print("\nGold distribution: male: {}% ({}), female: {}% ({}) \n".format(round((total[GENDER.male]/ all_total) * 100, 2), total[GENDER.male],
@@ -104,7 +125,6 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
 
     print(f"F1: male: {f1_male}, female: {f1_female} \n")
 
-
     male_prof = [prof for prof, vals in prof_dict.items()
                  if all(pred_gender == GENDER.male
                         for pred_gender
@@ -122,6 +142,7 @@ def evaluate_bias(ds: List[str], predicted: List[GENDER]) -> Dict:
 
     amb_prof = [prof for prof, vals in prof_dict.items()
                 if len(set(map(itemgetter(0), vals))) != 1]
+    return output_dict
 
 def percentage(part, total):
     """

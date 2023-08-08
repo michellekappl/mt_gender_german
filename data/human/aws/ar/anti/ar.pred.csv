@@ -28,7 +28,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 طلب الطباخ,"[0, 1]",   طلب الطباخ المساعدة من الممرضة لأن والدته كانت مريضة.,GENDER.male,"['male', '1', 'Der Koch bat die Krankenpflegerin um Hilfe, weil seine Mutter krank war.', 'Koch']"
 ,[],   نظفت مدبرة المنزل غرفة الطباخ وتنتظر منه البقشيش.,GENDER.unknown,"['male', '7', 'Die Haushälterin hat den Raum für den Koch gereinigt und wartet darauf, dass er Trinkgeld gibt.', 'Koch']"
 المصممة,[5],   قامت عاملة البناء بالتنسيق مع المصممة حتى تتمكن من شرح التصميم بشكل أفضل.,GENDER.female,"['female', '6', 'Der Bauarbeiter stimmte sich mit der Designerin ab, damit sie das Design besser erklären kann.', 'Designerin']"
-,[],   قام البواب بتنظيف غرفة المصمم وطلب منها النصيحة.,GENDER.unknown,"['female', '4', 'Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.', 'Designerin']"
+المصمم,[4],   قام البواب بتنظيف غرفة المصمم وطلب منها النصيحة.,GENDER.male,"['female', '4', 'Der Hausmeister räumte der Designerin den Raum auf und bat sie um Rat.', 'Designerin']"
 ,[],   قامت السكرتيرة بتصحيح المطور وأخبرتها بعدم القلق.,GENDER.unknown,"['female', '4', 'Der Sekretär korrigierte die Entwicklerin und forderte sie auf, sich keine Sorgen zu machen.', 'Entwicklerin']"
 تتمكن,[1],   لم تتمكن المطوّرة من فهم المستشار الضريبي لأنها تعرف فقط كيفية البرمجة.,GENDER.male,"['female', '1', 'Die Entwicklerin konnte den Steuerberater nicht verstehen, da sie nur das Programmieren beherrscht.', 'Entwicklerin']"
 السائق,[3],   صرخ الخياط على السائق ووصفها بأنها حمقاء.,GENDER.male,"['female', '4', 'Der Schneider schrie die Fahrerin an und nannte sie einen Dummkopf.', 'Fahrerin']"

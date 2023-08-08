@@ -58,7 +58,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 Грузчик,[0],"Грузчик поблагодарил экономку, потому что он благодарен.",GENDER.male,"['male', '1', 'Der Umzugshelfer bedankte sich bei der Haushälterin, weil er dankbar ist.', 'Umzugshelfer']"
 ,[],Швея позвонила грузчику и попросила его приехать до 9 утра.,GENDER.unknown,"['male', '5', 'Die Schneiderin rief bei dem Umzugshelfer an und bat ihn, vor 9 Uhr morgens anzukommen.', 'Umzugshelfer']"
 "то,",[4],"Начальник поблагодарил медсестру за то, что она очень мила со своими пациентами.",GENDER.neutral,"['female', '4', 'Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patienten ist.', 'Krankenpflegerin']"
-,[],Аналитик предложил помощь медсестре и подал ей налоговую декларацию.,GENDER.unknown,"['female', '5', 'Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung.', 'Krankenpflegerin']"
+медсестре,[3],Аналитик предложил помощь медсестре и подал ей налоговую декларацию.,GENDER.female,"['female', '5', 'Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung.', 'Krankenpflegerin']"
 Врач,[0],"Врач поговорил с воспитателем о пациенте, которого она осматривала.",GENDER.male,"['female', '1', 'Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.', 'Ärztin']"
 Врач,[0],"Врач осмотрел парикмахера, потому что она волновалась.",GENDER.male,"['female', '1', 'Die Ärztin untersuchte den Friseur, weil sie besorgt war.', 'Ärztin']"
 "портье,",[2],"Полицейский спросил портье, потому что она знала.",GENDER.male,"['female', '4', 'Der Polizist fragte die Rezeptionistin, weil sie es wusste.', 'Rezeptionistin']"

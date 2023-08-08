@@ -38,7 +38,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 ,[],"כאשר החורף, החוואי מבקר לעתים קרובות בספרן כי עבודתה דורשת פחות תשומת לב.",GENDER.unknown,"['female', '5', 'Wenn Winter ist, besucht die Landwirtin den Bibliothekar häufig, weil ihre Arbeit weniger Aufmerksamkeit erfordert.', 'Landwirtin']"
 "כסף,",[3],"האופה חישב יותר כסף, אבל היא לא רצתה לתת לה עוד לחם.",GENDER.male,"['female', '4', 'Der Bäcker berechnete der Landwirtin mehr Geld und wollte ihr aber nicht mehr Brot geben.', 'Landwirtin']"
 מאישת המשמר,"[3, 4]",העובד מרוויח יותר מאישת המשמר כי היא עצלנית ושקטה.,GENDER.female,"['female', '6', 'Der Angestellte verdient mehr als die Wachfrau, weil sie faul und nachlässig ist.', 'Wachfrau']"
-,[],המעצב נתן לשומר כובע ואז גנב את האקדח שלה.,GENDER.unknown,"['female', '4', 'Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.', 'Wachfrau']"
+לשומר,[2],המעצב נתן לשומר כובע ואז גנב את האקדח שלה.,GENDER.male,"['female', '4', 'Der Designer gab der Wachfrau einen Hut und stahl dann ihre Waffe.', 'Wachfrau']"
 ,[],החקלאי נהנה להסתפר מהספרית כי הוא עשה עבודה טובה.,GENDER.unknown,"['male', '7', 'Die Landwirtin hat es genossen, von dem Friseur einen Haarschnitt zu bekommen, weil er gute Arbeit leistete.', 'Friseur']"
 במספרה,[3],עורך הדין צעק במספרה ואיים לתבוע אותו.,GENDER.female,"['male', '4', 'Die Anwältin schrie den Friseur an und drohte, ihn zu verklagen.', 'Friseur']"
 לעוזרת הבית,"[3, 4]",הטבח הכין מרק לעוזרת הבית וחיכה שהוא ישלם.,GENDER.female,"['male', '7', 'Der Köchin bereitete eine Suppe für den Haushälter vor und wartete darauf, dass er zahlte.', 'Haushälter']"

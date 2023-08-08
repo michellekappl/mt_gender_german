@@ -8,7 +8,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 העוזר,[3],המטפל צחק על העוזר והתנהג אליו לא יפה.,GENDER.male,"['male', '4', 'Die Hausmeisterin lachte den Assistenten aus und behandelte ihn schlecht.', 'Assistenten']"
 העוזר,[3],הנגר לימד את העוזר את המלאכה ולא אפשר לו להסיח את דעתו.,GENDER.male,"['male', '4', 'Die Schreinerin brachte dem Assistenten das Handwerk bei und ließ nicht zu, dass er sich ablenken ließ.', 'Assistenten']"
 את,[4],"כשהמובילה הגיעה, שאל המפקח את המשאית הענקית שלה.",GENDER.male,"['female', '6', 'Als die Umzugshelferin ankam, lieh die Aufseherin ihren riesigen Lastwagen.', 'Aufseherin']"
-של המפקחת ואמרה,"[3, 4, 5]",העובדת קינאה בעבודתה של המפקחת ואמרה לה זאת.,GENDER.female,"['female', '6', 'Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.', 'Aufseherin']"
+המפקחת ואמרה,"[4, 5]",העובדת קינאה בעבודתה של המפקחת ואמרה לה זאת.,GENDER.female,"['female', '6', 'Der Arbeiter beneidete den Job der Aufseherin und sagte es ihr.', 'Aufseherin']"
 ,[],אשת האיכר דרשה מרואה החשבון לעזוב את המשק בגלל שנכנס לבית.,GENDER.unknown,"['male', '5', 'Die Bäuerin verlangte, dass der Wirtschaftsprüfer die Farm verließ, weil er das Haus betreten hatte.', 'Wirtschaftsprüfer']"
 של,[4],המנהל היה מודאג מביקורו של המבקר כיוון שהיה ידוע כקפדן.,GENDER.male,"['male', '8', 'Die Geschäftsführerin war besorgt über einen Besuch des Wirtschaftsprüfer, da bekannt war, dass er streng ist.', 'Wirtschaftsprüfer']"
 האופה,[3],המאבטח משוחח עם האופה על השריפה שגרמה אמש.,GENDER.female,"['female', '5', 'Der Wachmann spricht mit der Bäckerin über das Feuer, das sie letzte Nacht verursacht hat.', 'Bäckerin']"

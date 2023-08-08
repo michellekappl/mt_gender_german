@@ -14,7 +14,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 האופה,[3],המאבטח משוחח עם האופה על השריפה שהחלה אמש.,GENDER.female,"['male', '5', 'Die Wachfrau spricht mit dem Bäcker über das Feuer, das er letzte Nacht verursacht hat.', 'Bäcker']"
 האופה,[0],האופה צעק על המוביל כי התנור שלו היה מקולקל.,GENDER.female,"['male', '1', 'Der Bäcker schrie die Umzugshelferin an, weil sein Ofen kaputt war.', 'Bäcker']"
 הנגר,[0],"הנגר מעריץ את עבודתו של הספר, כי הוא מעריך כישרון.",GENDER.male,"['male', '1', 'Der Schreiner bewundert die Arbeit der Friseurin, weil er Talent schätzt.', 'Schreiner']"
-הנגר,[5],הדיילת תמיד התרשמה מהמחוות של הנגר והבינה את אהבתו.,GENDER.male,"['male', '9', 'Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe.', 'Tischlers']"
+,[],הדיילת תמיד התרשמה מהמחוות של הנגר והבינה את אהבתו.,GENDER.unknown,"['male', '9', 'Die Begleiterin war immer beeindruckt von den Gesten des Tischlers und verstand seine Liebe.', 'Tischlers']"
 הקופאית,[3],הנגר מתלונן בפני הקופאית כי היא לא מראה כבוד ללקוחות.,GENDER.female,"['female', '6', 'Der Schreiner beschwert sich bei der Kassiererin, weil sie gegenüber den Kunden keinen Respekt zeigt.', 'Kassiererin']"
 הקופאית,[0],הקופאית אמרה למישהו שהיא לא יכולה לקבל כרטיסי אשראי לרכישות מתחת לעשרה דולר.,GENDER.female,"['female', '1', 'Die Kassiererin sagte jemandem, dass sie Kreditkarten für Einkäufe unter zehn Dollar nicht akzeptieren könne.', 'Kassiererin']"
 לבוס,[2],היועץ התקשר לבוס וביקש ממנו רשות.,GENDER.male,"['male', '4', 'Die Beraterin rief den Chef an und bat ihn um Erlaubnis.', 'Chef']"

@@ -50,7 +50,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 потому,[5],"   Портной - хороший друг адвоката, потому что ей нужны хорошо сидящие костюмы.",GENDER.neutral,"['female', '7', 'Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht.', 'Anwältin']"
 юриста,[2],   Секретарша поприветствовала юриста и вручила ей конфету.,GENDER.male,"['female', '4', 'Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon.', 'Anwältin']"
 к помощью,"[4, 3]","   Полицейский обратился за помощью к библиотекарю, так как она знала библиотеку гораздо лучше.",GENDER.male,"['female', '4', 'Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte.', 'Bibliothekarin']"
-библиотекаря,[3],   Аналитик попросил у библиотекаря книгу и ничего у нее не взял.,GENDER.male,"['female', '4', 'Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts.', 'Bibliothekarin']"
+у библиотекаря,"[2, 3]",   Аналитик попросил у библиотекаря книгу и ничего у нее не взял.,GENDER.neutral,"['female', '4', 'Der Analyst bat die Bibliothekarin um ein Buch und borgte sich von ihr nichts.', 'Bibliothekarin']"
 Менеджер,[0],"   Менеджер пообещал повысить зарплату учителю, потому что он щедрый.",GENDER.male,"['male', '1', 'Der Manager versprach der Lehrerin eine Gehaltserhöhung zu geben, weil er großzügig ist.', 'Manager']"
 Менеджер,[0],"   Менеджер уволил уборщицу, потому что был зол.",GENDER.male,"['male', '1', 'Der Manager feuerte die Reinigerin, weil er wütend war.', 'Manager']"
 ,[],   Портниха увидела механика и объяснила ему цену.,GENDER.unknown,"['male', '4', 'Die Schneiderin sah den Mechaniker und erklärte ihm den Preis.', 'Mechaniker']"

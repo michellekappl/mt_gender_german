@@ -160,7 +160,7 @@ male	3	Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste.	V
 female	3	Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
 male	6	Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte.	Ratholenden
 female	6	Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte.	Ratholenden
-female	1	Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
+female	1	Die Beraterin traf sich mit jemandem, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
 male	1	Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte.	Berater
 male	1	Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt.	Gutachter
 female	1	Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt.	Gutachterin

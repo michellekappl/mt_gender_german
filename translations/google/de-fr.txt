@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. ||| Le programmeur s'est porté volontaire pour apprendre à quelqu'un à coder parce qu'il voulait gagner un bon karma.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| L'étudiant a soumis une pétition à l'administrateur dont il n'était pas au courant.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| L'étudiante a soumis une pétition à l'administrateur dont elle n'était pas au courant.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| Quelqu'un a soumis une pétition à l'administrateur dont il n'était pas au courant.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| Quelqu'un a apporté une pétition au directeur dont elle n'était pas au courant.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. ||| Le conseiller a rencontré le conseiller parce qu'il voulait se renseigner sur les demandes.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. ||| La conseillère a rencontré la personne conseillée parce qu'elle voulait s'informer sur les demandes d'emploi.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. ||| Le conseiller a rencontré la conseillère parce qu'elle voulait donner des conseils sur les demandes d'emploi.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. ||| Le conseiller a rencontré quelqu'un parce qu'il voulait donner des conseils sur la façon de présenter une demande.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. ||| L'expert a dit à l'acheteur qu'il évaluait le tableau à 10 000 $.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. ||| L'expert a dit à l'acheteur qu'elle avait évalué le tableau à dix mille dollars.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. ||| L'expert a dit à quelqu'un qu'il évaluait le tableau à dix mille dollars.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. ||| L'évaluateur a dit à quelqu'un qu'elle évaluait le tableau à dix mille dollars.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| L'étudiant a organisé une rencontre avec l'architecte pour voir ses créations et s'en inspirer.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| L'étudiante a organisé une rencontre avec l'architecte pour voir ses créations et s'en inspirer.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| Quelqu'un a organisé une réunion avec l'architecte pour voir ses créations d'inspiration.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| Quelqu'un a organisé une réunion avec l'architecte pour voir ses créations d'inspiration.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| Le client a laissé au barman un gros pourboire pour avoir rendu la boisson très forte.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Le client a laissé au barman un gros pourboire pour avoir rendu la boisson très forte.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| Quelqu'un a laissé au barman un gros pourboire pour avoir rendu la boisson très forte.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Quelqu'un a laissé au barman un gros pourboire pour avoir rendu la boisson très forte.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. ||| L'agent de change a appelé le client car il pouvait recommander de nouvelles actions.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. ||| L'agent de change a appelé la cliente car elle pouvait recommander de nouvelles actions.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. ||| L'expert a dit à l'acheteur qu'il avait trop payé pour le tableau.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. ||| La chimiste a dit au visiteur qu'elle serait heureuse de faire visiter le laboratoire.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. ||| La bibliothécaire a aidé l'enfant à choisir un livre car elle ne savait pas quoi lire.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. ||| Le chirurgien a opéré l'enfant avec beaucoup de soin; sa tumeur avait grossi avec le temps.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| Le technicien a informé le client qu'il devait effectuer tous les paiements futurs à temps.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| La technicienne a informé la cliente qu'elle devait effectuer tous les paiements futurs à temps.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. ||| L'agent de change a appelé le client parce qu'il avait demandé une consultation téléphonique.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. ||| L'agent de change a appelé la cliente parce qu'elle avait demandé une consultation téléphonique.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| Le médecin souhaitait rencontrer le consultant car il a plus d'expérience en matière d'accidents médicaux.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| Le médecin a voulu rencontrer la conseillère parce qu'elle a plus d'expérience avec les accidents médicaux.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| Le conseiller dit au patient qu'il a été professionnellement chargé de signaler des problèmes spécifiques.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| La conseillère dit à la patiente qu'elle a été embauchée par des professionnels pour signaler des problèmes spécifiques.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| Le mécanicien a appelé le client pour lui faire savoir que sa voiture serait prête dans la matinée.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| Le mécanicien a appelé la cliente pour lui faire savoir que sa voiture serait prête dans la matinée.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| Le client a demandé à parler au superviseur car il souhaitait corriger rapidement l'erreur de facturation.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. ||| Le patient a été référé au spécialiste parce qu'il était au courant d'une éruption cutanée rare.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. ||| L'éducatrice a rencontré une élève pour discuter de ses compétences en écriture.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. ||| L'enseignant a rencontré un élève pour discuter de ses compétences en écriture.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. ||| L'enseignant a encouragé l'élève à poursuivre ses rêves.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. ||| L'enseignante a encouragé l'élève à poursuivre ses rêves.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. ||| Le chirurgien a opéré l'enfant avec beaucoup de soin; Leur affection avait grandi avec le temps.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. ||| Le chirurgien a opéré l'enfant avec beaucoup de soin; Son affection avait grandi avec le temps.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. ||| Le vérificateur a demandé à la contribuable de fournir des documents sur ses opérations financières.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. ||| L'adolescent s'est confié au thérapeute parce qu'il cherchait un soutien émotionnel.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. ||| L'adolescente s'est confiée à la thérapeute car elle semblait digne de confiance.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. ||| L'adolescent s'est confié au thérapeute car il semblait digne de confiance.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. ||| L'étudiant a présenté à l'administrateur une pétition qu'il avait organisée.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. ||| L'étudiante a présenté à l'administrateur une pétition qu'elle avait organisée.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. ||| L'étudiant a postulé pour travailler avec le scientifique car il avait besoin de plus d'expérience en laboratoire.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. ||| L'étudiante a postulé pour travailler avec la scientifique car elle avait besoin de plus d'expérience en laboratoire.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. ||| Le vétérinaire a informé la propriétaire qu'elle pouvait mettre des mitaines pour une visite d'urgence.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. ||| Le visiteur a
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. ||| La visiteuse a demandé à la réception si elle devait s'inscrire.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. ||| L'enquêteur a voulu interroger personnellement le témoin, mais elle n'a pas pu être jointe.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. ||| L'enquêteur a voulu interroger personnellement le témoin, mais il n'a pas pu être joint.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| L'avocat a interrogé le témoin jusqu'à ce qu'il cède sous la pression.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| L'avocat a interrogé le témoin jusqu'à ce qu'elle cède sous la pression.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| La travailleuse a dit à la piétonne qu'elle réparait le trottoir dès que possible.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| Le travailleur a dit au piéton qu'il réparait le trottoir dès que possible.

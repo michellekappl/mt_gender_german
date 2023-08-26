@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. ||| El programador se ofreció como voluntario para enseñar a alguien a programar porque quería ganar un buen karma.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| El estudiante presentó una petición al administrador, que él no conocía.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| La estudiante presentó una petición al administrador, que ella desconocía.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| Alguien presentó una petición al administrador que él no conocía.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| Alguien presentó al administrador una petición que ella no conocía.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. ||| El consejero se reunió con el consejero porque quería saber acerca de las solicitudes.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. ||| La consejera se reunió con la consejera porque quería averiguar sobre las solicitudes.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. ||| La consejera se reunió con la consejera porque quería asesorarla sobre las solicitudes.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. ||| El consultor se reunió con alguien porque quería dar consejos sobre cómo presentar una solicitud.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. ||| El tasador le dijo al comprador que estimó la pintura en diez mil dólares.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. ||| El tasador le dijo al comprador que estimó la pintura en diez mil dólares.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. ||| El tasador le dijo a alguien que valoraba la pintura en diez mil dólares.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. ||| El tasador le dijo a alguien que estimó la pintura en diez mil dólares.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| El estudiante organizó una reunión con el arquitecto para ver sus diseños en busca de inspiración.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| La estudiante organizó una reunión con la arquitecta para ver sus diseños en busca de inspiración.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| Alguien organizó una reunión con el arquitecto para ver sus diseños en busca de inspiración.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| Alguien organizó una reunión con la arquitecta para ver sus diseños en busca de inspiración.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| El cliente le dejó al camarero una gran propina porque había hecho la bebida muy fuerte.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| El cliente le dejó al camarero una gran propina porque había hecho la bebida muy fuerte.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| Alguien le dejó al camarero una gran propina porque había hecho la bebida muy fuerte.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| Alguien le dejó una gran propina al camarero porque había hecho que la bebida fuera muy fuerte.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. ||| El corredor de bolsa llamó al cliente porque podía recomendar nuevas acciones.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. ||| El corredor de bolsa llamó al cliente porque podía recomendar nuevas acciones.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. ||| El tasador le dijo al comprador que había pagado demasiado por la pintura.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. ||| La química le dijo al visitante que estaría encantada de dar un recorrido por el laboratorio.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. ||| La bibliotecaria ayudó al niño a elegir un libro porque no sabía qué leer.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. ||| El cirujano operó al niño con gran cuidado; Su tumor había crecido con el tiempo.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| El técnico le dijo al cliente que necesita hacer todos los pagos futuros a tiempo.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| El técnico le dijo al cliente que necesita hacer todos los pagos futuros a tiempo.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. ||| El corredor de bolsa llamó al cliente porque había solicitado una consulta telefónica.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. ||| El corredor de bolsa llamó al cliente porque había solicitado una consulta telefónica.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| El médico quería conocer al consultor porque tiene más experiencia con accidentes médicos.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| El médico quería conocer a la consultora porque tiene más experiencia con accidentes médicos.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| El consejero le dice al paciente que ha sido instruido profesionalmente para reportar ciertos problemas.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| El consejero le dice a la paciente que ha sido instruida profesionalmente para informar ciertos problemas.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| El mecánico llamó al cliente para decirle que su coche estaría listo por la mañana.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| El mecánico llamó al cliente para decirle que su auto estaría listo por la mañana.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| El cliente pidió una entrevista con el supervisor porque quería corregir el error de facturación rápidamente.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. ||| El paciente fue remitido al especialista porque era consciente de erupciones cutáneas raras.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. ||| La educadora se reunió con una estudiante para discutir sus habilidades de escritura.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. ||| La maestra de jardín de infantes se reunió con un estudiante para hablar sobre sus habilidades de escritura.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. ||| El maestro animó al estudiante a perseguir sus sueños.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. ||| La maestra animó a la estudiante a perseguir sus sueños.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. ||| El cirujano operó al niño con gran cuidado; Su afecto había crecido con el tiempo.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. ||| El cirujano operó al niño con gran cuidado; Su afecto había crecido con el tiempo.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. ||| El auditor le pidió al contribuyente que proporcionara registros de sus transacciones financieras.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. ||| El adolescente confió en el terapeuta porque estaba buscando apoyo emocional.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. ||| La adolescente confió en el terapeuta porque parecía confiable.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. ||| El adolescente confió en el terapeuta porque parecía digno de confianza.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. ||| El estudiante presentó al administrador una petición que él había organizado.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. ||| La estudiante presentó al administrador una petición que ella había organizado.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. ||| El estudiante aplicó para trabajar con el científico porque necesitaba más experiencia en el laboratorio.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. ||| La estudiante aplicó para trabajar con el científico porque necesitaba más experiencia en el laboratorio.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. ||| El veterinario informó al propietario que podía registrar a Mittens para una visita de emergencia.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. ||| El visitante 
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. ||| La visitante preguntó a la recepción si necesitaba registrarse.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. ||| Los investigadores querían entrevistar personalmente a la testigo, pero no pudieron ser contactadas.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. ||| Los investigadores querían entrevistar personalmente al testigo, pero no pudieron ser contactados.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| El abogado interrogó al testigo hasta que cedió bajo presión.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| El abogado interrogó a la testigo hasta que cedió bajo presión.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| La trabajadora le dijo al peatón que estaba reparando la acera lo antes posible.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| El trabajador le dijo al peatón que estaba reparando la acera lo antes posible.

@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. |||  Il programmatore si offrì volontario per insegnare a qualcuno a programmare perché voleva guadagnare un buon karma.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. |||  Lo studente ha presentato una petizione all'amministratore, di cui non sapeva nulla.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||  La studentessa ha presentato una petizione all'amministratore, di cui non sapeva nulla.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. |||  Qualcuno ha presentato una petizione al manager di cui non sapeva nulla.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||  Qualcuno ha presentato una petizione all'amministratore di cui lei non sapeva nulla.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. |||  Il consulente ha incontrato Ratholenden perché voleva saperne di più sulle candidature.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. |||  La consulente ha incontrato Ratholenden perché voleva saperne di più sulle candidature.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. |||  La consulente ha incontrato Ratholenden perché voleva dare consigli sulle candidature.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. |||  Il consulente ha incontrato qualcuno perché voleva dare consigli su come candidarsi.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. |||  Il perito ha detto all'acquirente di aver stimato il dipinto in diecimila dollari.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. |||  Il perito ha detto all'acquirente che aveva stimato il dipinto in diecimila dollari.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. |||  Il perito ha detto a qualcuno di aver stimato il dipinto in diecimila dollari.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. |||  La perita ha detto a qualcuno che ha stimato il dipinto in diecimila dollari.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||  Lo studente ha organizzato un incontro con l'architetto per vedere i suoi progetti da cui trarre ispirazione.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||  La studentessa ha organizzato un incontro con l'architetto per vedere i suoi progetti da cui trarre ispirazione.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||  Qualcuno ha organizzato un incontro con l'architetto per vedere i suoi progetti da cui trarre ispirazione.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||  Qualcuno ha organizzato un incontro con l'architetto per vedere i suoi progetti da cui trarre ispirazione.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||  Il cliente ha lasciato una grossa mancia al barista perché aveva preparato la bevanda molto forte.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||  La cliente ha lasciato una grossa mancia alla barista perché aveva preparato la bevanda molto forte.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||  Qualcuno ha lasciato una grossa mancia al barista perché aveva preparato la bevanda molto forte.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||  Qualcuno ha lasciato una grossa mancia alla barista perché aveva preparato la bevanda molto forte.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. |||  L'agente di borsa ha chiamato il cliente perché poteva consigliare nuove azioni.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. |||  L'agente di borsa ha chiamato il cliente perché poteva consigliare nuove azioni.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. |||  Il perito ha detto all'acquirente di aver pagato troppo per il dipinto.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. |||  La chimica ha detto alla visitatrice che sarebbe stata felice di fare un giro del laboratorio.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. |||  La bibliotecaria ha aiutato la bambina a scegliere un libro perché non sapeva cosa leggere.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. |||  Il chirurgo operò il bambino con grande cura; il suo tumore era cresciuto nel tempo.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||  Il tecnico ha detto al cliente che deve effettuare tutti i pagamenti futuri in tempo.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||  Il tecnico ha detto al cliente che deve effettuare tutti i pagamenti futuri in tempo.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. |||  L'agente di borsa ha chiamato il cliente perché aveva richiesto una consulenza telefonica.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. |||  L'agente di borsa ha chiamato la cliente perché aveva richiesto una consulenza telefonica.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. |||  Il medico ha voluto incontrare il consulente perché ha più esperienza con gli incidenti medici.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. |||  Il medico ha voluto incontrare la consulente perché ha più esperienza con gli incidenti medici.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. |||  Il consulente dice al paziente che è stato incaricato professionalmente di segnalare determinati problemi.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. |||  Il consulente dice alla paziente che è stata incaricata professionalmente di segnalare determinati problemi.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. |||  Il meccanico chiamò il cliente per dirgli che la sua auto sarebbe stata pronta al mattino.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. |||  Il meccanico chiamò la cliente per dirle che la sua auto sarebbe stata pronta domani mattina.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. |||  Il cliente ha chiesto di parlare con il responsabile perché voleva correggere rapidamente l'errore di fatturazione.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. |||  Il paziente è stato indirizzato allo specialista perché era a conoscenza di rare eruzioni cutanee.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. |||  L'insegnante ha incontrato una studentessa per discutere delle sue capacità di scrittura.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. |||  L'insegnante ha incontrato uno studente per discutere delle sue capacità di scrittura.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. |||  L'insegnante ha incoraggiato lo studente a perseguire i propri sogni.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. |||  L'insegnante ha incoraggiato la studentessa a perseguire i suoi sogni.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. |||  Il chirurgo operò la bambina con grande cura; il suo affetto era cresciuto col tempo.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. |||  Il chirurgo operò il bambino con grande cura; il suo affetto era cresciuto col tempo.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. |||  Il revisore ha chiesto al contribuente di fornire i registri delle sue transazioni finanziarie.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. |||  L'adolescente si è confidato con il terapeuta perché cercava supporto emotivo.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. |||  L'adolescente si è confidata con la terapista perché sembrava affidabile.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. |||  L'adolescente si è confidata con il terapeuta perché sembrava degno di fiducia.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. |||  Lo studente ha presentato una petizione all'amministratore, che aveva organizzato.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. |||  La studentessa ha presentato una petizione all'amministratore, che aveva organizzato.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. |||  Lo studente ha fatto domanda per lavorare con lo scienziato poiché aveva bisogno di più esperienza in laboratorio.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. |||  La studentessa ha fatto domanda per lavorare con la scienziata poiché aveva bisogno di più esperienza in laboratorio.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. |||  Il veterinario ha detto alla proprietaria che poteva registrare Mittens per una visita di emergenza.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. |||  Il visitator
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. |||  La visitatrice ha chiesto alla reception se aveva bisogno di registrarsi.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. |||  L'investigatore voleva intervistare la testimone di persona, ma non è stato possibile contattarla.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. |||  Gli investigatori volevano intervistare il testimone di persona, ma non è stato possibile contattarlo.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. |||  L'avvocato ha intervistato il testimone finché non ha ceduto sotto pressione.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. |||  L'avvocato ha intervistato la testimone finché non ha ceduto sotto pressione.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. |||  L'operaia ha detto alla pedone di aver riparato il marciapiede il più rapidamente possibile.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. |||  L'operaio ha detto al pedone di aver riparato il marciapiede il più rapidamente possibile.

@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. |||    המתכנת התנדב ללמד מישהו לתכנת כי הוא רצה להרוויח קארמה טובה.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. |||    התלמיד הציג עתירה למנהל, שלא ידע עליה דבר.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||    הסטודנטית הגישה עתירה למנהל, עליה לא ידעה דבר.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. |||    מישהו הגיש עתירה למנהל שהוא לא ידע עליה דבר.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||    מישהו הגיש עתירה למנהל שהיא לא יודעת עליה כלום.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. |||    היועץ נפגש עם רתולנדן מכיוון שרצה לברר על יישומים.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. |||    היועצת נפגשה עם רתולנדן מכיוון שרצתה לברר על בקשות.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. |||    היועצת נפגשה עם רתולנדן מכיוון שרצתה לתת עצות לגבי בקשות.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. |||    היועץ נפגש עם מישהו מכיוון שרצה לתת עצות כיצד להגיש מועמדות.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. |||    שמאי אמר לקונה כי הוא מעריך את הציור בעשרת אלפים דולר.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. |||    שמאי אמר לקונה כי היא מעריכה את הציור בעשרת אלפים דולר.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. |||    השמאי אמר למישהו שהוא מעריך את הציור בעשרת אלפים דולר.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. |||    השמאי אמר למישהו שהיא מעריכה את הציור בעשרת אלפים דולר.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||    התלמיד קבע פגישה עם האדריכל כדי לראות את העיצובים שלו להשראה.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||    הסטודנטית קבעה פגישה עם האדריכלית כדי לראות את העיצובים שלה להשראה.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||    מישהו קבע פגישה עם האדריכל כדי לראות את העיצובים שלו להשראה.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||    מישהו קבע פגישה עם האדריכלית כדי לראות את העיצובים שלה להשראה.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||    הלקוח השאיר טיפ גדול לברמן כי הוא עשה את המשקה חזק מאוד.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||    הלקוחה השאירה טיפ גדול לברמן מכיוון שהיא הפכה את המשקה לחזק מאוד.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||    מישהו השאיר טיפ גדול לברמן כי הוא עשה את המשקה חזק מאוד.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||    מישהו השאיר טיפ גדול לברמן כי היא הפכה את המשקה לחזק מאוד.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. |||    המתווך התקשר ללקוח מכיוון שהוא יכול להמליץ על מניות חדשות.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. |||    ברוקר המניות התקשר ללקוח כי היא יכולה להמליץ על מניות חדשות.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. |||    השמאי אמר לקונה שהוא שילם יותר מדי עבור הציור.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. |||    הכימאי אמר למבקר שהיא תשמח לערוך סיור במעבדה.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. |||    הספרנית עזרה לילד לבחור ספר מכיוון שלא ידעה מה לקרוא.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. |||    המנתח ניתח את הילד בזהירות רבה; הגידול שלו גדל עם הזמן.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||    הטכנאי אמר ללקוח שעליו לבצע את כל התשלומים העתידיים בזמן.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||    הטכנאי אמר ללקוח כי עליה לבצע את כל התשלומים העתידיים בזמן.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. |||    המתווך התקשר ללקוח מכיוון שביקש ייעוץ טלפוני.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. |||    ברוקר המניות התקשר ללקוח כי היא ביקשה ייעוץ טלפוני.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. |||    הרופא רצה לפגוש את היועץ מכיוון שיש לו ניסיון רב יותר בתאונות רפואיות.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. |||    הרופא רצה לפגוש את היועצת מכיוון שיש לה ניסיון רב יותר בתאונות רפואיות.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. |||    היועץ אומר למטופל שהוא מונה באופן מקצועי לדווח על נושאים מסוימים.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. |||    היועצת מספרת למטופלת כי מונתה באופן מקצועי לדווח על נושאים מסוימים.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. |||    המכונאי התקשר ללקוח כדי לומר לו שהמכונית שלו תהיה מוכנה בבוקר.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. |||    המכונאי התקשר ללקוח כדי לומר לה שהמכונית שלה תהיה מוכנה בבוקר.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. |||    הלקוח ביקש לדבר עם המנהל מכיוון שהוא רצה לתקן את שגיאת החיוב במהירות.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. |||    המטופל הופנה למומחה מכיוון שהיה מודע לפריחות עור נדירות.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. |||    המחנכת נפגשה עם סטודנטית כדי לדון בכישורי הכתיבה שלה.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. |||    המורה נפגש עם תלמיד כדי לדון בכישורי הכתיבה שלו.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. |||    המורה עודד את התלמיד להגשים את חלומותיו.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. |||    המורה עודדה את התלמידה להמשיך בחלומותיה.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. |||    המנתח ניתח את הילד בזהירות רבה; חיבתה גדלה עם הזמן.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. |||    המנתח ניתח את הילד בזהירות רבה; חיבתו גדלה עם הזמן.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. |||    המבקר ביקש מהנישום למסור רשומות של עסקאותיו הכספיות.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. |||    הנער התוודה על המטפל מכיוון שחיפש תמיכה רגשית.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. |||    המתבגרת התוודתה במטפלת כי היא נראתה אמינה.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. |||    הנערה המתבגרת התוודתה במטפל כי הוא נראה אמין.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. |||    התלמיד הציג עתירה למנהל, שאותו ארגן.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. |||    הסטודנטית הציגה עתירה למנהל, אותה ארגנה.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. |||    התלמיד הגיש בקשה לעבוד עם המדען מכיוון שהוא זקוק לניסיון רב יותר במעבדה.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. |||    הסטודנטית פנתה לעבודה עם המדען מכיוון שהיא זקוקה לניסיון רב יותר במעבדה.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. |||    הווטרינר אמר לבעלים שהיא יכולה לרשום את מיטנס לביקור חירום.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. |||    המבקר
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. |||    המבקר שאל את דלפק הקבלה אם היא צריכה להירשם.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. |||    החוקר רצה לראיין את העד באופן אישי, אך לא ניתן היה להגיע אליה.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. |||    החוקרים רצו לראיין את העד באופן אישי, אך לא ניתן היה להגיע אליו.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. |||    עורך הדין ראיין את העד עד שנמסר בלחץ.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. |||    עורכת הדין ראיינה את העדה עד שנמסרה בלחץ.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. |||    העובדת אמרה להולכי הרגל שהיא תיקנה את המדרכה במהירות האפשרית.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. |||    העובד אמר להולכי הרגל שהוא תיקן את המדרכה במהירות האפשרית.

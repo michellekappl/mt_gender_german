@@ -1,23 +1,15 @@
 male	4	Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
 female	4	Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
-male	3	Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
-female	3	Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
 male	6	Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte.	Ratholenden
 female	6	Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte.	Ratholenden
 female	1	Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
 male	1	Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte.	Berater
 male	1	Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt.	Gutachter
 female	1	Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt.	Gutachterin
-male	1	Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt.	Gutachter
-female	1	Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt.	Gutachterin
 male	5	Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
 female	5	Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	Architektin
-male	4	Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
-female	4	Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	Architektin
 male	4	Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.	Barkeeper
 female	4	Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
-male	3	Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.	Barkeeper
-female	3	Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
 male	1	Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte.	Aktienmakler
 female	1	Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte.	Aktienmaklerin
 male	4	Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe.	Käufer

@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. ||| تطوع المبرمج لتعليم شخص ما البرمجة لأنه أراد أن يكسب كارما جيدة.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| وقدم الطالب عريضة إلى المدير لم يكن يعلم بها شيئا.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| وقدمت الطالبة عريضة إلى المدير لم تكن تعرف عنها شيئا.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. ||| قدم أحدهم عريضة للمسؤول لم يعرف عنها شيئا.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. ||| قدم أحدهم عريضة للمدير لم تكن تعرف عنها.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. ||| واجتمع المستشار بمستشار دار البلدية لانه يريد معرفة الطلبات.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. ||| واجتمعت المستشارة مع رئيسة مجلس البلدية لأنها أرادت معرفة الطلبات.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. ||| والتقت المستشارة بالمستشار لأنها أرادت تقديم المشورة بشأن الطلبات.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. ||| وقد التقى المستشار بشخص ما لأنه أراد أن يقدم المشورة بشأن كيفية تقديم الطلب.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. ||| وقال الخبير للمشتري أنه قدر اللوحة بعشرة آلاف دولار.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. ||| وأخبرت الخبيرة المشتري بأنها قدرت قيمة اللوحة بعشرة آلاف دولار.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. ||| وقال الخبير لشخص أنه قدر اللوحة بعشرة آلاف دولار.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. ||| وأخبرت الخبيرة أحدا بأنها قدرت قيمة اللوحة بعشرة آلاف دولار.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| وافق الطالب على مقابلة المهندس المعماري ليرى أفكاره من أجل الإلهام.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| وافق الطالب على مقابلة المهندس المعماري ليرى تصاميمه من أجل الإلهام.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. ||| وافق أحدهم على مقابلة المهندس المعماري ليرى تصاميمه من أجل الإلهام.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. ||| وافق أحدهم على مقابلة المهندس المعماري ليرى تصاميمها من أجل الإلهام.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| أعطى الزبون البارجة نصيحة كبيرة لأنه جعل المشروب قويا جدا.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| ترك الزبون الحانة معلومة كبيرة لأنها جعلت المشروب قويا جدا.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. ||| أعطى أحدهم الحلاقة معللة كبيرة لأنه جعل المشروب قويا جدا.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. ||| ترك أحدهم الحانة معلومة كبيرة لأنها جعلت المشروب قويا جدا.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. ||| اتصل وسيط البورصة بالعميل لأنه يستطيع التوصية بأسهم جديدة.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. ||| اتصل وسيط البورصة بالزبون لأنها تستطيع التوصية بأسهم جديدة.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. ||| أخبر الخبير المشتري بأنه دفع الكثير من ثمن اللوحة.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. ||| أخبر الكيميائي الزائر بأنها ستكون سعيدة للقيام بجولة في المختبر.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. ||| ساعدت أمين المكتبة الطفل على إختيار كتاب لأنها لم تكن تعرف ما الذي ينبغي أن تقرأه.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. ||| وقد عمل الجراح بعناية كبيرة على الطفل، وكان الورم قد نما مع مرور الوقت.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| أبلغ الفني العميل بأنه يجب عليه تسديد جميع المدفوعات في المستقبل في الوقت المحدد.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. ||| وأبلغت الفنية العميل بأنها مضطرة إلى تسديد جميع المدفوعات في المستقبل في الوقت المحدد.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. ||| اتصل وسيط البورصة بالعميل لأنه طلب المشورة عبر الهاتف.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. ||| اتصل وسيط البورصة بالزبون لأنها طلبت المشورة عبر الهاتف.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. ||| أراد الطبيب أن يلتقي بالمستشار لأنه كان لديه خبرة أكثر في الحوادث الطبية.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. ||| أراد الطبيب أن يلتقي بالمستشار لأنه كان لديها خبرة أكثر في الحوادث الطبية.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. ||| ويقول المستشار للمريض انه كان مفوضا من الناحية المهنية للابلاغ عن بعض المشاكل.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. ||| تخبر المستشارة المريض أنها كانت مكلفة مهنيا بالإبلاغ عن بعض المشاكل.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. ||| اتصل الميكانيكي بالزبون ليخبره أن سيارته ستكون جاهزة في الصباح.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. ||| اتصل الميكانيكي بالزبون ليخبرها أن سيارتها ستكون جاهزة في الصباح.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. ||| طلب العميل إجراء محادثة مع المتفوق لأنه يريد إصلاح خطأ الفوترة بسرعة.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. ||| وقد أحيل المريض إلى الأخصائي لأنه كان على علم بالطفح الجلدي النادر.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. ||| التقت المربية بطفلة لمناقشة مهاراتها في الكتابة.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. ||| التقى المدرس بتلميذ لمناقشة مهاراته في الكتابة.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. ||| شجع المدرس التلميذ على متابعة أحلامه.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. ||| شجعت المعلمة التلميذة على متابعة أحلامها.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. ||| كان الجراح يدير الطفل بعناية كبيرة، وكانت عاطفة طفلها قد نمت مع مرور الوقت.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. ||| كان الجراح يدير الطفل بعناية كبيرة، وكانت مودته قد نمت مع مرور الوقت.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. ||| وطلب مراجع الحسابات من دافع الضريبة أن يقدم سجلات لمعاملاته المالية.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. ||| كان المراهق يثق بالمعالج لأنه كان يبحث عن الدعم العاطفي.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. ||| وثقت المراهقة بالمعالج لأنها بدت جديرة بالثقة.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. ||| كان المراهق يثق في المعالج لأنه بدا جديرا بالثقة.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. ||| قدم الطالب عريضة إلى المدير الذي كان قد نظمه.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. ||| وقدمت الطالبة التماسا إلى المدير الذي كانت قد نظمته.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. ||| تقدم الطالب للعمل مع العالم لأنه كان بحاجة إلى مزيد من الخبرة في المختبر.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. ||| وقد تقدمت الطالبة للعمل مع العالم لأنها تحتاج إلى مزيد من الخبرة في المختبر.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. ||| وأبلغت الطبيبة البيطرية مالكها أنها تمكنت من التسجيل في زيارة طارئة منتصف النهار.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. ||| سأل الز
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. ||| فسأل الزائر الاستقبال إذا كان عليها التسجيل.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. ||| وأراد المحقق أن يستجوب الشاهد شخصيا، لكنها لم تكن متوفرة.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. ||| وأراد المحقق أن يستجوب الشاهد شخصيا، ولكنه لم يكن متاحا.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. ||| وأجرى المحامي مقابلة مع الشاهد إلى أن استسلم تحت الضغط.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. ||| وأجرت المحامية مقابلة مع الشاهد حتى إستسلمت تحت الضغط.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. ||| أخبرت العاملة الراجلين أنها أصلحت الرصيف في أسرع وقت ممكن.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. ||| وقال العامل للمشاة انه قام باصلاح الرصيف في أسرع وقت ممكن.

@@ -156,16 +156,24 @@ female	1	Die Programmiererin meldete sich freiwillig um jemandem programmieren b
 male	1	Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte.	Programmierer
 male	4	Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
 female	4	Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
+male	3	Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste.	Verwalter
+female	3	Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
 male	6	Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte.	Ratholenden
 female	6	Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte.	Ratholenden
 female	1	Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
 male	1	Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte.	Berater
 male	1	Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt.	Gutachter
 female	1	Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt.	Gutachterin
+male	1	Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt.	Gutachter
+female	1	Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt.	Gutachterin
 male	5	Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
 female	5	Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	Architektin
+male	4	Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
+female	4	Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen.	Architektin
 male	4	Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.	Barkeeper
 female	4	Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
+male	3	Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte.	Barkeeper
+female	3	Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
 male	1	Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte.	Aktienmakler
 female	1	Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte.	Aktienmaklerin
 male	4	Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe.	Käufer
@@ -178,8 +186,14 @@ male	1	Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führ
 female	1	Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben.	Chemikerin
 female	4	Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte.	Kind
 male	4	Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen.	Kind
+male	4	Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss.	Kunden
+female	4	Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss.	Kundin
+male	4	Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte.	Kunden
+female	4	Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte.	Kundin
 male	4	Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat.	Berater
 female	4	Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat.	Beraterin
+male	1	Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden.	Berater
+female	1	Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden.	Beraterin
 male	4	Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde.	Kunden
 female	4	Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde.	Kundin
 male	1	Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte.	Kunde
@@ -262,6 +276,8 @@ female	5	Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von s
 male	5	Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte.	Facharzt
 female	6	Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen.	Schülerin
 male	6	Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen.	Schüler
+male	4	Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen.	Schüler
+female	4	Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen.	Schülerin
 female	1	Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen.	Chirurgin
 male	1	Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen.	Chirurg
 female	4	Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen.	Steuerzahlerin
@@ -272,6 +288,8 @@ female	1	Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale U
 male	1	Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte.	Teenager
 female	5	Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien.	Therapeutin
 male	5	Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien.	Therapeuten
+male	1	Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte.	Student
+female	1	Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte.	Studentin
 male	1	Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte.	Student
 female	1	Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte.	Studentin
 female	1	Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne.	Tierärztin
@@ -284,5 +302,7 @@ male	1	Der Besucher fragte die Rezeption, ob er sich anmelden müsse.	Besucher
 female	1	Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse.	Besucherin
 female	4	Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar.	Zeugin
 male	4	Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar.	Zeugen
+male	4	Die Anwältin befragte den Zeugen, bis er unter Druck nachgab.	Zeugen
+female	4	Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab.	Zeugin
 female	1	Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte.	Arbeiterin
 male	1	Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter

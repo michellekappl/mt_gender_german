@@ -1,0 +1,210 @@
+job,gender,2cnd,idx,ab_code,job_class,total,perc,stereotype
+Geschäftsführer,male,no,"[0, 2]",711.0,Geschäftsführung und Vorstand,192390,77.79305325300231,pro
+Geschäftsführerin,female,no,"[1, 3]",711.0,Geschäftsführung und Vorstand,54920,22.206946746997694,anti
+Buchhalter,male,no,"[4, 6]",722.0,"Rechnungswesen, Controlling und Revision",177130,34.187060912529915,anti
+Buchhalterin,female,no,"[5, 7]",722.0,"Rechnungswesen, Controlling und Revision",340990,65.81293908747008,pro
+Analystin,female,no,"[8, 11]",721.0,Versicherungs- u. Finanzdienstleistungen,404040,54.88704440791709,pro
+Analyst,male,no,[9],721.0,Versicherungs- u. Finanzdienstleistungen,332090,45.11295559208292,anti
+Analysten,male,no,[10],721.0,Versicherungs- u. Finanzdienstleistungen,332090,45.11295559208292,anti
+Assistenten,male,no,"[12, 14]",714.0,Büro und Sekretariat,588690,22.343041923803884,anti
+Assistentin,female,no,"[13, 15]",714.0,Büro und Sekretariat,2046090,77.65695807619612,pro
+Aufseher,male,no,[16],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",304440,73.83227433671242,pro
+Aufseherin,female,no,"[17, 19]",531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",107900,26.167725663287577,anti
+Aufsehers,male,no,[18],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",304440,73.83227433671242,pro
+Wirtschaftsprüfer,male,no,"[20, 22]",722.0,"Rechnungswesen, Controlling und Revision",177130,34.187060912529915,anti
+Wirtschaftsprüferin,female,no,"[21, 23]",722.0,"Rechnungswesen, Controlling und Revision",340990,65.81293908747008,pro
+Bäcker,male,no,"[24, 26]",292.0,Lebensmittel- u. Genussmittelherstellung,240760,67.17446499818644,pro
+Bäckerin,female,no,"[25, 27]",292.0,Lebensmittel- u. Genussmittelherstellung,117650,32.82553500181356,anti
+Schreiner,male,no,[28],223.0,Holzbe- und -verarbeitung,233910,91.80861920087919,pro
+Schreinerin,female,no,[29],223.0,Holzbe- und -verarbeitung,20870,8.191380799120811,anti
+Tischlers,male,no,[30],223.0,Holzbe- und -verarbeitung,233910,91.80861920087919,pro
+Tischlerin,female,no,[31],223.0,Holzbe- und -verarbeitung,20870,8.191380799120811,anti
+Kassierer,male,no,"[32, 34]",621.0,Verkauf (ohne Produktspezialisierung),503620,30.33526485079931,anti
+Kassiererin,female,no,"[33, 35]",621.0,Verkauf (ohne Produktspezialisierung),1156560,69.66473514920068,pro
+Chef,male,no,"[36, 38]",711.0,Geschäftsführung und Vorstand,192390,77.79305325300231,pro
+Chefin,female,no,"[37, 39]",711.0,Geschäftsführung und Vorstand,54920,22.206946746997694,anti
+Reiniger,male,no,"[40, 42]",541.0,Reinigung,320760,22.688433680398372,anti
+Reinigerin,female,no,"[41, 43]",541.0,Reinigung,1093000,77.31156631960164,pro
+Angestellten,female,no,[45],0.0,Allgemein,21199820,49.59646383568271,anti
+Angestellten,male,no,"[44, 47]",0.0,Allgemein,21544800,50.40353616431729,pro
+Angestellte,female,no,[46],0.0,Allgemein,21199820,49.59646383568271,anti
+Bauarbeiter,male,no,"[48, 50]",321.0,Hochbau,516840,98.21374277896017,pro
+Bauarbeiterin,female,no,"[49, 51]",321.0,Hochbau,9400,1.7862572210398295,anti
+Köchin,female,no,"[52, 54]",293.0,Speisenzubereitung,316330,50.72561376501339,pro
+Koch,male,no,"[53, 55]",293.0,Speisenzubereitung,307280,49.27438623498661,anti
+Designer,male,no,"[56, 59]",931.0,Produkt- und Industriedesign,8350,61.487481590574376,pro
+Designerin,female,no,"[57, 58]",931.0,Produkt- und Industriedesign,5230,38.51251840942563,anti
+Entwicklerin,female,no,"[60, 63]",434.0,Softwareentwicklung und Programmierung,44300,13.901964476244272,anti
+Entwickler,male,no,"[61, 62]",434.0,Softwareentwicklung und Programmierung,274360,86.09803552375573,pro
+Fahrerin,female,no,"[64, 66]",521.0,Fahrzeugführung im Straßenverkehr,100580,8.386069353077032,anti
+Fahrer,male,no,"[65, 67]",521.0,Fahrzeugführung im Straßenverkehr,1098790,91.61393064692297,pro
+Redakteur,male,no,"[68, 70]",924.0,Redaktion und Journalismus,43650,44.861253854059605,anti
+Redakteurin,female,no,"[69, 71]",924.0,Redaktion und Journalismus,53650,55.13874614594039,pro
+Landwirt,male,no,"[72, 74]",111.0,Landwirtschaft,159810,68.51740696278512,pro
+Landwirtin,female,no,"[73, 75]",111.0,Landwirtschaft,73430,31.482593037214883,anti
+Wachfrau,female,no,"[76, 78]",531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",107900,26.167725663287577,anti
+Wachmann,male,no,"[77, 79]",531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",304440,73.83227433671242,pro
+Friseurin,female,no,"[80, 82]",823.0,Körperpflege,166110,83.96603144113632,pro
+Friseur,male,no,"[81, 83]",823.0,Körperpflege,31720,16.03396855886367,anti
+Haushälter,male,no,"[84, 87]",832.0,Hauswirtschaft und Verbraucherberatung,22030,7.24933364046201,anti
+Haushälterin,female,no,"[85, 86]",832.0,Hauswirtschaft und Verbraucherberatung,281860,92.75066635953799,pro
+Hausmeister,male,no,"[88, 90]",341.0,Gebäudetechnik,432070,89.78077922077922,pro
+Hausmeisterin,female,no,"[89, 91]",341.0,Gebäudetechnik,49180,10.219220779220779,anti
+Arbeiters,male,no,[92],0.0,Allgemein,21544800,50.40353616431729,pro
+Arbeiterin,female,no,"[93, 95]",0.0,Allgemein,21199820,49.59646383568271,anti
+Arbeiterin,female,yes,[286],0.0,Allgemein,21199820,49.59646383568271,anti
+Arbeiter,male,no,[94],0.0,Allgemein,21544800,50.40353616431729,pro
+Arbeiter,male,yes,[287],0.0,Allgemein,21544800,50.40353616431729,pro
+Anwalts,male,no,[96],731.0,"Rechtsberatung, -sprechung und -ordnung",55840,27.31230129616043,anti
+Anwältin,female,no,"[97, 99]",731.0,"Rechtsberatung, -sprechung und -ordnung",148610,72.68769870383956,pro
+Anwalt,male,no,[98],731.0,"Rechtsberatung, -sprechung und -ordnung",55840,27.31230129616043,anti
+Bibliothekar,male,no,"[100, 103]",733.0,Medien-Dokumentations-Informationsdienst,15110,24.54914703493095,anti
+Bibliothekarin,female,no,"[101, 102]",733.0,Medien-Dokumentations-Informationsdienst,46440,75.45085296506905,pro
+Manager,male,no,"[104, 106]",711.0,Geschäftsführung und Vorstand,192390,77.79305325300231,pro
+Managerin,female,no,"[105, 107]",711.0,Geschäftsführung und Vorstand,54920,22.206946746997694,anti
+Mechaniker,male,no,"[108, 110]",252.0,"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",542450,94.33584918785434,pro
+Mechanikerin,female,no,"[109, 111]",252.0,"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",32570,5.664150812145665,anti
+Umzugshelferin,female,no,"[112, 114]",223.0,Holzbe- und -verarbeitung,20870,8.191380799120811,anti
+Umzugshelfer,male,no,"[113, 115]",223.0,Holzbe- und -verarbeitung,233910,91.80861920087919,pro
+Krankenpflegerin,female,no,"[116, 118]",813.0,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",971660,78.71707834765913,pro
+Krankenpfleger,male,no,"[117, 119]",813.0,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",262710,21.282921652340868,anti
+Arzt,male,no,"[120, 122]",814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Arzt,male,yes,[190],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Ärztin,female,no,"[121, 123]",814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Ärztin,female,yes,[191],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Rezeptionistin,female,no,"[124, 126]",632.0,Hotellerie,161510,75.06855682082268,pro
+Rezeptionisten,male,no,"[125, 127]",632.0,Hotellerie,53640,24.931443179177318,anti
+Sekretärin,female,no,"[128, 130]",714.0,Büro und Sekretariat,2046090,77.65695807619612,pro
+Sekretär,male,no,"[129, 131]",714.0,Büro und Sekretariat,588690,22.343041923803884,anti
+Polizistin,female,no,"[132, 135]",532.0,"Polizei,Kriminald.,Gerichts,Justizvollz.",2660,37.83783783783784,anti
+Polizistin,female,yes,[218],532.0,"Polizei,Kriminald.,Gerichts,Justizvollz.",2660,37.83783783783784,anti
+Polizisten,male,no,"[133, 134]",532.0,"Polizei,Kriminald.,Gerichts,Justizvollz.",4370,62.16216216216216,pro
+Vorgesetzte,female,no,[136],711.0,Geschäftsführung und Vorstand,54920,22.206946746997694,anti
+Vorgesetzte,male,no,[137],711.0,Geschäftsführung und Vorstand,192390,77.79305325300231,pro
+Vorgesetzten,female,no,[139],711.0,Geschäftsführung und Vorstand,54920,22.206946746997694,anti
+Vorgesetzten,male,no,[138],711.0,Geschäftsführung und Vorstand,192390,77.79305325300231,pro
+Schneider,male,no,"[140, 143]",282.0,Textilverarbeitung,18460,29.569117411500883,anti
+Schneiderin,female,no,"[141, 142]",282.0,Textilverarbeitung,43970,70.43088258849912,pro
+Lehrer,male,no,"[144, 147]",841.0,Lehrtätigkeit an allgemeinbild. Schulen,65870,27.95128575065773,anti
+Lehrer,male,yes,[193],841.0,Lehrtätigkeit an allgemeinbild. Schulen,65870,27.95128575065773,anti
+Lehrerin,female,no,"[145, 146]",841.0,Lehrtätigkeit an allgemeinbild. Schulen,169790,72.04871424934227,pro
+Lehrerin,female,yes,[192],841.0,Lehrtätigkeit an allgemeinbild. Schulen,169790,72.04871424934227,pro
+Schriftsteller,male,no,"[148, 150]",924.0,Redaktion und Journalismus,43650,44.861253854059605,anti
+Schriftstellerin,female,no,"[149, 151]",924.0,Redaktion und Journalismus,53650,55.13874614594039,pro
+Feuerwehrfrau,female,no,[152],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",107900,26.167725663287577,anti
+Architektin,female,yes,[165],311.0,"Bauplanung u. -überwachung, Architektur",83520,30.323494172748067,anti
+Fachärztin,female,yes,[260],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Patienten,male,yes,[236],,[],[],[],[]
+Architekten,male,yes,[164],311.0,"Bauplanung u. -überwachung, Architektur",191910,69.67650582725193,pro
+Käuferin,female,yes,[171],,[],[],[],[]
+Studentin,female,yes,[275],,[],[],[],[]
+Planer,male,yes,[243],311.0,"Bauplanung u. -überwachung, Architektur",191910,69.67650582725193,pro
+Elektriker,male,yes,[194],262.0,Energietechnik,436090,95.95572865095606,pro
+Facharzt,male,yes,[261],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Teenagerin,female,yes,[270],,[],[],[],[]
+Tierärztin,female,yes,[276],815.0,Tiermedizin und Tierheilkunde,13000,77.1513353115727,pro
+Disponenten,male,yes,[189],813.0,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",262710,21.282921652340868,anti
+Sanitäter,male,yes,[228],813.0,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",262710,21.282921652340868,anti
+Klempnerin,female,yes,[244],342.0,"Klempnerei,Sanitär,Heizung,Klimatechnik",3110,1.163573780305298,anti
+Zuschauer,male,yes,"[172, 220]",,[],[],[],[]
+Chemikerin,female,yes,[177],413.0,Chemie,110650,34.65827225458874,anti
+Gästin,female,yes,[203],,[],[],[],[]
+Anwohner,male,yes,[253],,[],[],[],[]
+Inspektor,male,yes,[208],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",304440,73.83227433671242,pro
+Hausarzt,male,yes,[247],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Elektrikerin,female,yes,[195],262.0,Energietechnik,18380,4.044271349043941,anti
+Ratholenden,female,yes,[159],,[],[],[],[]
+Ratholenden,male,yes,[158],,[],[],[],[]
+Opfers,female,yes,"[278, 280]",,[],[],[],[]
+Opfers,male,yes,"[279, 281]",,[],[],[],[]
+Mitarbeiterin,female,yes,[197],0.0,Allgemein,21199820,49.59646383568271,anti
+Untersucherin,female,yes,[201],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Mitarbeiter,male,yes,[196],0.0,Allgemein,21544800,50.40353616431729,pro
+Chemiker,male,yes,[176],413.0,Chemie,208610,65.34172774541126,pro
+Ernährungsberater,male,yes,"[187, 217]",822.0,"Ernährungs-,Gesundheitsberatung,Wellness",6260,23.83853769992384,anti
+Techniker,male,yes,[269],263.0,Elektrotechnik,435640,82.31115141896233,pro
+Tierarzt,male,yes,[277],815.0,Tiermedizin und Tierheilkunde,3850,22.8486646884273,anti
+Planerin,female,yes,[242],311.0,"Bauplanung u. -überwachung, Architektur",83520,30.323494172748067,anti
+Hygienikerin,female,yes,[206],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Demonstrantin,female,yes,[248],,[],[],[],[]
+Anwohnerin,female,yes,[252],,[],[],[],[]
+Besitzerin,female,yes,[222],,[],[],[],[]
+Therapeutin,female,yes,[272],816.0,"Psychologie, nichtärztl. Psychotherapie",44580,81.11353711790393,pro
+Malerin,female,yes,[224],332.0,"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",11750,6.462079964802288,anti
+Verwalter,male,yes,[156],732.0,Verwaltung,242440,24.564567607274938,anti
+Barkeeper,male,yes,[166],633.0,Gastronomie,340690,38.13793643863832,anti
+Pathologin,female,yes,[232],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Passagier,male,yes,[231],,[],[],[],[]
+Psychologin,female,yes,[250],816.0,"Psychologie, nichtärztl. Psychotherapie",44580,81.11353711790393,pro
+Verwalterin,female,yes,[157],732.0,Verwaltung,744510,75.43543239272506,pro
+Beraterin,female,yes,"[160, 181]",715.0,Personalwesen und -dienstleistung,204210,72.99731903485255,pro
+Patientin,female,yes,"[234, 237]",,[],[],[],[]
+Feuerwehrmann,male,yes,[153],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",304440,73.83227433671242,pro
+Ermittlerin,female,yes,[212],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",107900,26.167725663287577,anti
+Verkäuferin,female,yes,"[255, 256]",621.0,Verkauf (ohne Produktspezialisierung),1156560,69.66473514920068,pro
+Instrukteurin,female,yes,[210],842.0,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",51900,52.75998780115889,pro
+Fußgängerin,female,yes,[239],,[],[],[],[]
+Wissenschaftlerin,female,yes,[258],843.0,"Lehr-,Forschungstätigkeit an Hochschulen",143120,47.31865370627521,anti
+Chefkoch,male,yes,[174],293.0,Speisenzubereitung,307280,49.27438623498661,anti
+Ingenieur,male,yes,[198],251.0,Maschinenbau- und Betriebstechnik,1193670,87.66864722342589,pro
+Polizist,male,yes,[219],532.0,"Polizei,Kriminald.,Gerichts,Justizvollz.",4370,62.16216216216216,pro
+Hygieniker,male,yes,[207],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Untersucher,male,yes,[200],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Programmierer,male,yes,[155],434.0,Softwareentwicklung und Programmierung,274360,86.09803552375573,pro
+Verkäufer,male,yes,"[254, 257]",621.0,Verkauf (ohne Produktspezialisierung),503620,30.33526485079931,anti
+Besucher,male,yes,[282],,[],[],[],[]
+Steuerzahlerin,female,yes,[266],0.0,Allgemein,21199820,49.59646383568271,anti
+Steuerzahler,male,yes,[267],0.0,Allgemein,21544800,50.40353616431729,pro
+Zeugen,male,yes,[285],,[],[],[],[]
+Barkeeperin,female,yes,[167],633.0,Gastronomie,552620,61.86206356136168,pro
+Besucherin,female,yes,[283],,[],[],[],[]
+Zuschauerin,female,yes,"[173, 221]",,[],[],[],[]
+Gutachter,male,yes,[162],947.0,Museumstechnik und -management,5840,46.09313338595106,anti
+Apothekerin,female,yes,[240],818.0,Pharmazie,141280,82.8378774552917,pro
+Chirurg,male,yes,[265],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Inspektorin,female,yes,[209],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",107900,26.167725663287577,anti
+Aktienmaklerin,female,yes,[169],721.0,Versicherungs- u. Finanzdienstleistungen,404040,54.88704440791709,pro
+Käufer,male,yes,[170],,[],[],[],[]
+Teenager,male,yes,[271],,[],[],[],[]
+Zeugin,female,yes,[284],,[],[],[],[]
+Hausbesitzerin,female,yes,[205],,[],[],[],[]
+Therapeuten,male,yes,[273],816.0,"Psychologie, nichtärztl. Psychotherapie",10380,18.88646288209607,anti
+Besitzer,male,yes,[223],,[],[],[],[]
+Wissenschaftler,male,yes,[259],843.0,"Lehr-,Forschungstätigkeit an Hochschulen",159340,52.68134629372479,pro
+Hausbesitzer,male,yes,[204],,[],[],[],[]
+Student,male,yes,[274],,[],[],[],[]
+Gutachterin,female,yes,[163],947.0,Museumstechnik und -management,6830,53.90686661404893,pro
+Apotheker,male,yes,[241],818.0,Pharmazie,29270,17.162122544708296,anti
+Gast,male,yes,[202],,[],[],[],[]
+Ernährungsberaterin,female,yes,"[186, 216]",822.0,"Ernährungs-,Gesundheitsberatung,Wellness",20000,76.16146230007617,pro
+Kundin,female,yes,"[183, 185]",,[],[],[],[]
+Kunden,male,yes,[182],,[],[],[],[]
+Maschinistin,female,yes,[214],251.0,Maschinenbau- und Betriebstechnik,167900,12.331352776574102,anti
+Instrukteur,male,yes,[211],842.0,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",46470,47.24001219884111,anti
+Maler,male,yes,[225],332.0,"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",170080,93.53792003519771,pro
+Fußgänger,male,yes,[238],,[],[],[],[]
+Hausärztin,female,yes,[246],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro
+Sanitäterin,female,yes,[229],813.0,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",971660,78.71707834765913,pro
+Klempner,male,yes,[245],342.0,"Klempnerei,Sanitär,Heizung,Klimatechnik",264170,98.8364262196947,pro
+Schüler,male,yes,[263],,[],[],[],[]
+Aktienmakler,male,yes,[168],721.0,Versicherungs- u. Finanzdienstleistungen,332090,45.11295559208292,anti
+Chefköchin,female,yes,[175],293.0,Speisenzubereitung,316330,50.72561376501339,pro
+Kind,female,yes,[178],,[],[],[],[]
+Kind,male,yes,[179],,[],[],[],[]
+Demonstranten,male,yes,[249],,[],[],[],[]
+Schülerin,female,yes,[262],,[],[],[],[]
+Berater,male,yes,"[161, 180]",715.0,Personalwesen und -dienstleistung,75540,27.00268096514745,anti
+Kunde,male,yes,[184],,[],[],[],[]
+Ermittler,male,yes,[213],531.0,"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",304440,73.83227433671242,pro
+Pathologe,male,yes,[233],814.0,Human- und Zahnmedizin,145010,46.08759216882787,anti
+Rechtsassistent,male,yes,[227],731.0,"Rechtsberatung, -sprechung und -ordnung",55840,27.31230129616043,anti
+Technikerin,female,yes,[268],263.0,Elektrotechnik,93620,17.688848581037675,anti
+Ingenieurin,female,yes,[199],251.0,Maschinenbau- und Betriebstechnik,167900,12.331352776574102,anti
+Rechtsassistentin,female,yes,[226],731.0,"Rechtsberatung, -sprechung und -ordnung",148610,72.68769870383956,pro
+Psychologe,male,yes,[251],816.0,"Psychologie, nichtärztl. Psychotherapie",10380,18.88646288209607,anti
+Patient,male,yes,[235],,[],[],[],[]
+Passagierin,female,yes,[230],,[],[],[],[]
+Maschinist,male,yes,[215],251.0,Maschinenbau- und Betriebstechnik,1193670,87.66864722342589,pro
+Disponentin,female,yes,[188],813.0,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",971660,78.71707834765913,pro
+Programmiererin,female,yes,[154],434.0,Softwareentwicklung und Programmierung,44300,13.901964476244272,anti
+Chirurgin,female,yes,[264],814.0,Human- und Zahnmedizin,169630,53.91240783117214,pro

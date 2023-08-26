@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. |||    Програміст зголосився навчити когось програмувати, тому що хотів заробити хорошу карму.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. |||    Студент подав адміністратору клопотання, про яке він нічого не знав.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||    Студентка подала адміністратору клопотання, про яке вона нічого не знала.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. |||    Хтось подав керівнику прохання про те, про що він нічого не знав.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||    Хтось подав адміністратору клопотання про те, що вона нічого не знала.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. |||    Консультант зустрівся з Ратоленденом, оскільки хотів дізнатися про заявки.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. |||    Консультант зустрівся з Ратоленденом, оскільки вона хотіла дізнатися про заявки.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. |||    Консультант зустрівся з Ратоленденом, оскільки вона хотіла дати поради щодо заявок.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. |||    Радник зустрівся з кимось, тому що хотів дати пораду, як подати заявку.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. |||    Оцінювач розповів покупцеві, що оцінював картину в десять тисяч доларів.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. |||    Оцінювач розповіла покупцеві, що оцінювала картину в десять тисяч доларів.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. |||    Комусь оцінювач розповів, що оцінював картину в десять тисяч доларів.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. |||    Комусь оцінювач розповіла, що оцінювала картину в десять тисяч доларів.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||    Студент організував зустріч з архітектором, щоб побачити його проекти для натхнення.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||    Студентка призначити зустріч з архітектором, щоб побачити її проекти для натхнення.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||    Хтось привів зустріч з архітектором, щоб побачити його проекти для натхнення.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||    Хтось привів зустріч з архітектором, щоб побачити її проекти для натхнення.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||    Клієнт залишив велику пораду бармену, оскільки він зробив напій дуже міцним.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||    Клієнт залишив велику пораду бармену, тому що вона зробила напій дуже міцним.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||    Хтось залишив велику пораду бармену, тому що він зробив напій дуже міцним.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||    Хтось залишив велику пораду бармену, тому що вона зробила напій дуже міцним.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. |||    Фондовий брокер зателефонував клієнту, тому що він міг рекомендувати нові акції.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. |||    Фондовий брокер зателефонував клієнту, тому що вона могла рекомендувати нові акції.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. |||    Оцінювач сказав покупцеві, що він заплатив занадто багато за картину.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. |||    Хімік розповіла відвідувачу, що з радістю проведе екскурсію по лабораторії.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. |||    Бібліотекар допоміг дитині вибрати книгу, тому що вона не знала, що читати.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. |||    Хірург оперував дитину з великою обережністю, пухлина з часом зросла.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||    Технік сказав замовнику, що він повинен вчасно здійснити всі майбутні платежі.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||    Технік сказав замовнику, що вона повинна вчасно здійснити всі майбутні платежі.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. |||    Фондовий брокер зателефонував клієнту, оскільки він попросив телефонну консультацію.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. |||    Фондовий брокер зателефонував клієнту, оскільки вона попросила телефонну консультацію.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. |||    Лікар хотів зустрітися з консультантом, оскільки він має більше досвіду з медичними нещасними випадками.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. |||    Лікар хотів зустрітися з консультантом, оскільки вона має більше досвіду медичних нещасних випадків.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. |||    Консультант повідомляє пацієнту, що він був професійно призначений для повідомлення про певні питання.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. |||    Консультант повідомляє пацієнтці, що вона була професійно призначена для повідомлення про певні проблеми.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. |||    Механік подзвонив замовнику, щоб повідомити йому, що його машина буде готова вранці.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. |||    Механік подзвонив замовнику, щоб сказати їй, що її машина буде готова вранці.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. |||    Клієнт попросив поговорити з менеджером, оскільки він хотів швидко виправити помилку виставлення рахунків.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. |||    Пацієнта направили до фахівця, оскільки йому було відомо про рідкісні шкірні висипання.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. |||    Вихователь зустрівся зі студенткою, щоб обговорити її навички письма.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. |||    Вчитель зустрівся з учнем, щоб обговорити його навички письма.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. |||    Вчитель заохочував учня здійснити свої мрії.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. |||    Вчитель заохочував учня здійснити свої мрії.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. |||    Хірург оперував дитину з великою обережністю, її прихильність зросла з часом.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. |||    Хірург оперував дитину з великою обережністю, його прихильність зросла з часом.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. |||    Аудитор попросив платника податків надати записи про її фінансові операції.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. |||    Підліток довірився терапевту, тому що шукав емоційної підтримки.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. |||    Підліток довірився терапевту, тому що вона здавалася надійною.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. |||    Дівчинка-підліток довірилася терапевту, тому що він здавався надійним.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. |||    Студент подав адміністратору петицію, яку він організував.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. |||    Студентка подала адміністратору петицію, яку вона організувала.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. |||    Студент подав заявку на роботу з вченим, оскільки йому потрібно було більше досвіду роботи в лабораторії.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. |||    Студентка подала заявку на роботу з вченим, оскільки їй потрібно було більше досвіду роботи в лабораторії.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. |||    Ветеринар сказав власниці, що вона може зареєструвати рукавиці для екстреного візиту.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. |||    Відві
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. |||    Відвідувач запитав на стійці реєстрації, чи потрібно їй зареєструватися.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. |||    Слідчий хотів опитати свідку особисто, але до неї не вдалося зв'язатися.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. |||    Слідчі хотіли опитати свідка особисто, але до нього не вдалося зв'язатися.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. |||    Адвокат допитував свідка, поки він не здався під тиском.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. |||    Адвокат допитував свідка, поки вона не здалася під тиском.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. |||    Працівниця розповіла пішоходу, що вона якомога швидше відремонтувала тротуар.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. |||    Працівник розповів пішоходу, що він якомога швидше відремонтував тротуар.

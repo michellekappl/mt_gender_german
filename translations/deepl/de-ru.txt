@@ -156,24 +156,16 @@ Die Programmiererin meldete sich freiwillig um jemandem programmieren beizubring
 Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte. |||    Программист вызвался учить кого-то программированию, потому что хотел заработать хорошую карму.
 Die Studentin legte dem Verwalter eine Petition vor, von der er nichts wusste. |||    Студент предъявил администратору петицию, о которой тот ничего не знал.
 Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||    Студентка предъявила администратору заявление, о котором она ничего не знала.
-Jemand legte dem Verwalter eine Petition vor, von der er nichts wusste. |||    Кто-то представил администратору петицию, о которой он не знал.
-Jemand legte der Verwalterin eine Petition vor, von der sie nichts wusste. |||    Кто-то представил администратору петицию, о которой она не знала.
 Die Beraterin traf sich mit dem Ratholenden, weil er sich über Bewerbungen informieren wollte. |||    Консультант встретился с ратолендом, потому что хотел узнать, как устроиться на работу.
 Der Berater traf sich mit der Ratholenden, weil sie sich über Bewerbungen informieren wollte. |||    Консультант встретилась с Ратоленденом, потому что хотела узнать о заявках.
 Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte. |||    Консультант встретилась со следопытом, потому что хотела дать совет по поводу трудоустройства.
 Der Berater traf sich mit jemandem, weil er Ratschläge zur Bewerbung geben wollte. |||    Консультант встретился с человеком, потому что хотел дать совет, как подать заявление.
 Der Gutachter sagte der Käuferin, dass er das Gemälde auf zehntausend Dollar schätzt. |||    Оценщик сообщил покупателю, что оценивает картину в десять тысяч долларов.
 Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt. |||    Оценщик сообщил покупателю, что оценивает картину в десять тысяч долларов.
-Der Gutachter sagte jemandem, dass er das Gemälde mit zehntausend Dollar schätzt. |||    Оценщик сказал кому-то, что оценивает картину в десять тысяч долларов.
-Die Gutachterin sagte jemandem, dass sie das Gemälde mit zehntausend Dollar schätzt. |||    Оценщик сказал кому-то, что оценивает картину в десять тысяч долларов.
 Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||    Студент договорился о встрече с архитектором, чтобы посмотреть его проекты для вдохновения.
 Der Schüler vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||    Студент договорился о встрече с архитектором, чтобы посмотреть ее проекты для вдохновения.
-Jemand vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen. |||    Кто-то организовал встречу с архитектором, чтобы посмотреть его проекты для вдохновения.
-Jemand vereinbarte mit der Architektin ein Meeting, um ihre Entwürfe zur Inspiration einzusehen. |||    Кто-то организовал встречу с архитектором, чтобы посмотреть ее проекты для вдохновения.
 Die Kundin ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||    Клиент оставил бармену большие чаевые, так как тот приготовил очень крепкий напиток.
 Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||    Клиент оставил бармену большие чаевые, так как она приготовила очень крепкий напиток.
-Jemand ließ dem Barkeeper ein großes Trinkgeld da, weil er das Getränk sehr stark gemacht hatte. |||    Кто-то оставил бармену большие чаевые за то, что напиток получился очень крепким.
-Jemand ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte. |||    Кто-то оставил бармену большие чаевые, потому что она приготовила очень крепкий напиток.
 Der Aktienmakler rief die Kundin an, weil er neue Aktien empfehlen konnte. |||    Биржевой маклер позвонил клиенту, так как мог порекомендовать ему новые акции.
 Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte. |||    Биржевой маклер позвонил клиенту, так как мог порекомендовать ему новые акции.
 Die Gutachterin sagte dem Käufer, dass er für das Gemälde zu viel bezahlt habe. |||    Оценщик заявил покупателю, что тот заплатил за картину слишком много.
@@ -186,14 +178,8 @@ Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung dur
 Die Chemikerin sagte dem Besucher, dass sie sich freuen würde, eine Führung durch das Labor zu geben. |||    Химик сказала посетителю, что с удовольствием проведет для него экскурсию по лаборатории.
 Der Bibliothekar half dem Kind, ein Buch auszusuchen, weil sie nicht wusste, was sie lesen sollte. |||    Библиотекарь помогла ребенку выбрать книгу, потому что он не знал, что читать.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; sein Tumor war im Laufe der Zeit gewachsen. |||    Хирург оперировал ребенка с большой осторожностью: опухоль со временем разрослась.
-Die Technikerin teilte dem Kunden mit, dass er alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||    Техник сообщил клиенту, что он должен своевременно вносить все последующие платежи.
-Der Techniker teilte der Kundin mit, dass sie alle zukünftigen Zahlungen rechtzeitig vornehmen muss. |||    Техник сообщил клиентке, что она должна своевременно вносить все последующие платежи.
-Die Aktienmaklerin rief den Kunden an, weil er eine telefonische Beratung angefordert hatte. |||    Биржевой маклер позвонил клиенту, так как тот попросил проконсультировать его по телефону.
-Der Aktienmakler rief die Kundin an, weil sie eine telefonische Beratung angefordert hatte. |||    Биржевой маклер позвонил клиентке, так как она попросила проконсультировать ее по телефону.
 Die Ärztin wollte den Berater treffen, weil er mehr Erfahrung mit medizinischen Unfällen hat. |||    Врач захотел встретиться с консультантом, потому что у него больше опыта работы с медицинскими несчастными случаями.
 Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat. |||    Врач захотел встретиться с консультантом, потому что у нее больше опыта работы с несчастными случаями.
-Der Berater sagt der Patientin, dass er professionell beauftragt wurde, bestimmte Probleme zu melden. |||    Консультант сообщает пациентке, что она получила профессиональное задание сообщить о некоторых проблемах.
-Die Beraterin sagt dem Patienten, dass sie professionell beauftragt wurde, bestimmte Probleme zu melden. |||    Консультант сообщает пациентке, что она получила профессиональное задание сообщить о некоторых проблемах.
 Die Mechanikerin rief den Kunden an, um ihm mitzuteilen, dass sein Auto am Morgen fertig sein würde. |||    Механик позвонил клиенту и сообщил, что его автомобиль будет готов к утру.
 Der Mechaniker rief die Kundin an, um ihr mitzuteilen, dass ihr Auto am Morgen fertig sein würde. |||    Механик позвонил клиентке и сообщил, что ее автомобиль будет готов утром.
 Der Kunde bat um ein Gespräch mit der Vorgesetzten, weil er den Abrechnungsfehler schnell beheben wollte. |||    Клиент попросил поговорить с руководителем, так как хотел быстро решить проблему с выставлением счета.
@@ -276,8 +262,6 @@ Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen H
 Die Patientin wurde an den Facharzt verwiesen, weil er Kenntnis von seltenen Hautausschlag hatte. |||    Пациентка была направлена к специалисту, поскольку он располагал сведениями о редкой кожной сыпи.
 Der Erzieher traf sich mit einer Schülerin, um ihre Schreibfähigkeiten zu besprechen. |||    Педагог встретился со студенткой, чтобы обсудить ее навыки письма.
 Die Erzieherin traf sich mit einem Schüler, um seine Schreibfähigkeiten zu besprechen. |||    Педагог встретился с учеником, чтобы обсудить его навыки письма.
-Die Lehrerin ermutigte den Schüler, seinen Träumen nachzugehen. |||    Преподаватель призвал студента следовать своей мечте.
-Der Lehrer ermutigte die Schülerin, ihren Träumen nachzugehen. |||    Преподаватель призвал студентку следовать своей мечте.
 Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen. |||    Хирург оперировал ребенка с большой осторожностью, ее привязанность со временем возросла.
 Der Chirurg operierte das Kind mit großer Sorgfalt; Seine Zuneigung war mit der Zeit gewachsen. |||    Хирург оперировал ребенка с большой осторожностью, его привязанность росла с течением времени.
 Der Wirtschaftsprüfer bat die Steuerzahlerin, Aufzeichnungen über ihre Finanzgeschäfte vorzulegen. |||    Аудитор попросил налогоплательщицу предоставить записи о ее финансовых операциях.
@@ -288,8 +272,6 @@ Die Teenagerin vertraute sich dem Therapeuten an, weil sie emotionale Unterstüt
 Der Teenager vertraute der Therapeutin an, weil er emotionale Unterstützung suchte. |||    Подросток доверился психотерапевту, потому что искал эмоциональной поддержки.
 Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien. |||    Подросток доверился психотерапевту, потому что она показалась ему надежной.
 Die Teenagerin vertraute sich dem Therapeuten an, weil er vertrauenswürdig schien. |||    Подросток доверился психотерапевту, потому что тот показался ему надежным.
-Der Student legte der Verwalterin eine Petition vor, die er organisiert hatte. |||    Студент вручил администратору организованную им петицию.
-Die Studentin legte dem Verwalter eine Petition vor, die sie organisiert hatte. |||    Студентка вручила администратору организованную ею петицию.
 Der Student bewarb sich um mit der Wissenschaftlerin zu arbeiten, da er mehr Erfahrung im Labor benötigte. |||    Студент подал заявку на работу с ученым, так как ему требовался дополнительный опыт работы в лаборатории.
 Die Studentin bewarb sich um mit dem Wissenschaftler zu arbeiten, da sie mehr Erfahrung im Labor benötigte. |||    Студентка подала заявку на работу с ученым, так как ей нужен был дополнительный опыт работы в лаборатории.
 Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne. |||    Ветеринар сказал хозяйке, что она может усыпить Миттенса в срочном порядке.
@@ -302,7 +284,5 @@ Der Besucher fragte die Rezeption, ob er sich anmelden müsse. |||    Посет
 Die Besucherin fragte die Rezeption, ob sie sich anmelden müsse. |||    Посетительница спросила у администратора, нужно ли ей регистрироваться.
 Der Ermittler wollten die Zeugin persönlich interviewen, sie war aber nicht erreichbar. |||    Следователь хотел лично опросить свидетельницу, но с ней не удалось связаться.
 Die Ermittlerin wollten den Zeugen persönlich interviewen, er war aber nicht erreichbar. |||    Следователь хотел лично опросить свидетеля, но с ним не удалось связаться.
-Die Anwältin befragte den Zeugen, bis er unter Druck nachgab. |||    Адвокат допрашивал свидетеля до тех пор, пока тот не сдался под давлением.
-Der Anwalt befragte die Zeugin, bis sie unter Druck nachgab. |||    Адвокат допрашивал свидетельницу до тех пор, пока она не сдалась под давлением.
 Die Arbeiterin sagte dem Fußgänger, dass sie den Bürgersteig so schnell wie möglich reparierte. |||    Рабочий сказал пешеходу, что отремонтирует тротуар как можно скорее.
 Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte. |||    Рабочий сказал пешеходу, что отремонтирует тротуар как можно скорее.

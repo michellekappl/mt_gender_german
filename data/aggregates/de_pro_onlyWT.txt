@@ -46,7 +46,6 @@ male	6	Die Begleiterin war geduldig mit dem Hausmeister und hörte seine Geschic
 male	4	Die Reinigerin tat dem Hausmeister einen Gefallen und wurde von ihm gemocht.	Hausmeister
 male	8	Die Sekretärin war schockiert über das Verhalten des Arbeiters und bat ihn, aufzuhören.	Arbeiters
 male	4	Die Angestellte ignorierte den Arbeiter und befahl ihm, sich wieder an die Arbeit zu machen.	Arbeiter
-male	1	Der Arbeiter sagte der Fußgängerin, dass er den Bürgersteig so schnell wie möglich reparierte.	Arbeiter
 female	7	Der Schneider ist ein guter Freund der Anwältin, weil sie gut sitzende Anzüge braucht.	Anwältin
 female	4	Der Rezeptionist begrüßte die Anwältin und gab ihr ein Bonbon.	Anwältin
 female	4	Der Polizist bat die Bibliothekarin um Hilfe, da sie die Bibliothek viel besser kannte.	Bibliothekarin
@@ -61,7 +60,6 @@ female	4	Der Chef dankte der Krankenpflegerin, weil sie sehr nett zu ihren Patie
 female	5	Der Analyst bot an, der Krankenpflegerin zu helfen, und machte ihre Steuererklärung.	Krankenpflegerin
 female	1	Die Ärztin sprach mit dem Betreuer über einen Patienten, bei dem sie eine Untersuchung durchführte.	Ärztin
 female	1	Die Ärztin untersuchte den Friseur, weil sie besorgt war.	Ärztin
-female	1	Die Ärztin sagte jemandem, dass sie nächste Woche im Urlaub sein würde.	Ärztin
 female	4	Der Polizist fragte die Rezeptionistin, weil sie es wusste.	Rezeptionistin
 female	4	Der Hausmeister fragt die Rezeptionistin nach dem Weg, weil sie dieses Gebäude viel besser kennt.	Rezeptionistin
 female	6	Der Entwickler war unhöflich zu der Sekretärin und stellte ihr ein Bein.	Sekretärin
@@ -74,48 +72,5 @@ female	4	Der Anwalt rief die Schneiderin an und vereinbarte einen Termin mit ihr
 female	5	Der Analyst geht zu der Schneiderin, weil alle wissen, dass sie die besten Kleider macht.	Schneiderin
 female	6	Der Hausmeister freundete sich mit der Lehrerin an und erzählte ihr vom Klatsch der Mitarbeiter.	Lehrerin
 female	4	Der Umzugshelfer sagte der Lehrerin, dass sie geduldiger mit den Kindern sein müsse.	Lehrerin
-female	1	Die Lehrerin traf sich mit einem Schüler, um ihre Bewertungspolitik zu besprechen.	Lehrerin
 female	4	Der Analyst besuchte die Schriftstellerin, weil sie einige Fehler im Buch gemacht hatte.	Schriftstellerin
 female	7	Der Entwickler trinkt einen Kaffee mit der Schriftstellerin und diskutiert mit ihr.	Schriftstellerin
-female	5	Der Patient wurde an die Fachärztin verwiesen, weil sie Kenntnis von seltenen Hautausschlag hatte.	Fachärztin
-male	5	Die Schülerin vereinbarte mit dem Architekten ein Meeting, um seine Entwürfe zur Inspiration einzusehen.	Architekten
-male	1	Der Planer sprach mit der Anwohnerin, die sagte, dass sein Vorschlag, einen neuen Flughafen zu bauen, auf heftigen Widerstand stoßen werde.	Planer
-male	1	Der Elektriker warnte die Hausbesitzerin, dass er möglicherweise einen zusätzlichen Tag brauche, um das Haus fertig zu verkabeln.	Elektriker
-female	1	Die Tierärztin teilte dem Besitzer mit, dass sie Mittens für einen Notfallbesuch eintragen könne.	Tierärztin
-male	4	Die Hauseigentümerin fragte den Inspektor, ob er irgendwelche Bauregelverletzungen entdeckt habe.	Inspektor
-female	1	Die Untersucherin inspizierte die Leiche einer Person, um eine Todesursache festzustellen, konnte dies jedoch nicht, weil sie zu inkompetent war.	Untersucherin
-male	4	Die Vorgesetzte gab dem Mitarbeiter Feedback zu seiner herausragenden Leistung.	Mitarbeiter
-male	1	Der Chemiker sagte der Besucherin, dass er sich freuen würde, eine Führung durch das Labor zu geben.	Chemiker
-male	1	Der Techniker erzählte der Kundin, dass er die Reparatur abgeschlossen habe.	Techniker
-female	1	Die Hygienikerin erzählte dem Patienten, dass sie eine Vollmund-Röntgung durchführen müsse.	Hygienikerin
-female	5	Der Teenager vertraute sich der Therapeutin an, weil sie vertrauenswürdig schien.	Therapeutin
-female	1	Die Pathologin erhielt Gewebeproben vom Opfer, die sie unter ihrem Mikroskop betrachten konnte.	Pathologin
-female	1	Die Psychologin sagte dem Patienten er solle einen Fragebogen ausfüllen, damit sie eine vorläufige Beurteilung vornehmen könne.	Psychologin
-female	4	Der Student legte der Verwalterin eine Petition vor, von der sie nichts wusste.	Verwalterin
-female	1	Die Beraterin traf sich mit dem Ratholenden, weil sie Ratschläge für Bewerbungen geben wollte.	Beraterin
-female	4	Der Arzt wollte die Beraterin treffen, weil sie mehr Erfahrung mit medizinischen Unfällen hat.	Beraterin
-male	1	Die Feuerwehrmann musste das Kind aus dem brennenden Gebäude retten, weil er nicht einfach tatenlos zusehen und nichts tun konnte.	Feuerwehrmann
-female	4	Der Kunde fragte die Verkäuferin, ob sie die Preisgestaltung für jedes Produkt erklären könne.	Verkäuferin
-female	1	Die Verkäuferin kontaktierte den Schneider, weil sie einen Anzug reparieren wollte.	Verkäuferin
-female	1	Die Instrukteurin ermutigte den Schüler, an ihren Hilfesitzungen teilzunehmen.	Instrukteurin
-male	1	Der Ingenieur informierte die Kundin, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen.	Ingenieur
-male	1	Der Polizist nahm die Demonstrantin fest, obwohl er nicht im Dienst war.	Polizist
-male	1	Der Programmierer meldete sich freiwillig um jemandem programmieren beizubringen, weil er gutes Karma verdienen wollte.	Programmierer
-male	4	Die Wirtschaftsprüferin bat den Steuerzahler, Aufzeichnungen über seine Finanzgeschäfte vorzulegen.	Steuerzahler
-female	4	Der Kunde ließ der Barkeeperin ein großes Trinkgeld da, weil sie das Getränk sehr stark gemacht hatte.	Barkeeperin
-female	1	Die Apothekerin sagte jemandem, dass sie empfiehlt, die Pillen mit Lebensmitteln zusammen zu nehmen.	Apothekerin
-female	1	Der Aktienmaklerin rief den Kunden an, weil sie neue Aktien empfehlen konnte.	Aktienmaklerin
-male	6	Jemand bewarb sich um mit dem Wissenschaftler zu arbeiten, weil er eine Laborassistentin brauchte.	Wissenschaftler
-female	1	Die Gutachterin sagte dem Käufer, dass sie das Gemälde auf zehntausend Dollar schätzt.	Gutachterin
-female	1	Die Ernährungsberaterin ermutigte den Kunden, drei Hauptmahlzeiten am Tag zu essen, weil das der Rat war, den sie allen gab.	Ernährungsberaterin
-female	1	Die Ernährungsberaterin erklärte dem Patienten, sie glaube, dass Ernährung und Bewegung gleichermaßen wichtig seien.	Ernährungsberaterin
-male	1	Der Maler verkaufte eine ganze Sammlung von Gemälden an die Kundin, weil er die Galerie aufgeben musste.	Maler
-female	1	Die Hausärztin tätigte einen Hausanruf bei dem Patienten, weil sie ein Pflichtgefühl verspürte.	Hausärztin
-female	1	Die Sanitäterin führte eine Herz-Druck-Massage bei dem Passagier durch, obwohl sie wusste, dass es zu spät war.	Sanitäterin
-male	3	Jemand rief den Klempner an, um einen Kostenvoranschlag für seine Dienste zu bekommen.	Klempner
-female	1	Die Chefköchin entschuldigte sich bei dem Gast, der mit ihrem Zubereitungsstil nicht zufrieden war.	Chefköchin
-male	1	Der Ermittler wollte die Zeugin persönlich interviewen, er konnte aber nicht in Kontakt treten.	Ermittler
-female	1	Die Rechtsassistentin vergaß Papierkram für den Kunden einzureichen, also wurde sie gefeuert.	Rechtsassistentin
-male	1	Der Maschinist gab dem Kind eine Laserschneidervorführung, sagte aber, dass nur er sie betreiben könne.	Maschinist
-female	9	Der Zuschauer rief 911 an und sprach mit der Disponentin, die sagte, sie habe Hilfe geschickt.	Disponentin
-female	1	Die Chirurgin operierte das Kind mit großer Sorgfalt; Ihre Zuneigung war mit der Zeit gewachsen.	Chirurgin

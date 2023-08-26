@@ -70,7 +70,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 המפקחת,[0],המפקחת ביקשה מהעוזרת לדון בלוח הזמנים שלה למחר.,GENDER.female,"['female', '1', 'Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen.', 'Vorgesetzte']"
 למפקחת,[2],הסופר עזר למפקחת וביקש ממנה לעשות לו טובה.,GENDER.female,"['female', '4', 'Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun.', 'Vorgesetzten']"
 ,[],עורך הדין התקשר לחייט וקבע איתו פגישה.,GENDER.unknown,"['male', '4', 'Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm.', 'Schneider']"
-כי כולם,"[3, 4]",האנליטיקאי הולך לחייט כי כולם יודעים שהוא מכין את הבגדים הטובים ביותר.,GENDER.male,"['male', '5', 'Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.', 'Schneider']"
+כי,[3],האנליטיקאי הולך לחייט כי כולם יודעים שהוא מכין את הבגדים הטובים ביותר.,GENDER.male,"['male', '5', 'Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.', 'Schneider']"
 המורה,[3],השרת התיידד עם המורה וסיפר לו על הרכילות של הצוות.,GENDER.female,"['male', '6', 'Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter.', 'Lehrer']"
 למורה,[3],הגברת המרגשת אמרה למורה שהוא צריך להיות סבלני יותר עם הילדים.,GENDER.female,"['male', '4', 'Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse.', 'Lehrer']"
 את הסופר,"[2, 3]",האנליטיקאי ביקר את הסופר כי הוא עשה כמה טעויות בספר.,GENDER.male,"['male', '4', 'Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte.', 'Schriftsteller']"

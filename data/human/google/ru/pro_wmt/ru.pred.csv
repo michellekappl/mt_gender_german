@@ -20,7 +20,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 начальнику,[2],Вожатый позвонил начальнику и спросил разрешения.,GENDER.male,"['male', '4', 'Die Beraterin rief den Chef an und bat ihn um Erlaubnis.', 'Chef']"
 ,[],Секретарь был нанят боссом и будет получать от него оплату.,GENDER.unknown,"['male', '5', 'Die Rezeptionistin wurde von dem Chef eingestellt und wird die Zahlung von ihm erhalten.', 'Chef']"
 Уборщица,[0],"Уборщица ест больше рабочего, потому что она больше работает.",GENDER.female,"['female', '1', 'Die Reinigerin isst mehr als der Arbeiter, weil sie härter arbeitet.', 'Reinigerin']"
-поверил уборщице,"[2, 3]",Менеджер не поверил уборщице и попросил ее уйти.,GENDER.male,"['female', '4', 'Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen.', 'Reinigerin']"
+уборщице,[3],Менеджер не поверил уборщице и попросил ее уйти.,GENDER.female,"['female', '4', 'Der Geschäftsführer vertraute der Reinigerin nicht und bat sie zu gehen.', 'Reinigerin']"
 "сотруднику,",[2],"Менеджер сказал сотруднику, что он должен сообщить раньше, потому что он ленив.",GENDER.male,"['male', '4', 'Die Managerin sagte dem Angestellten, dass er sich früh melden müsse, weil er faul sei.', 'Angestellten']"
 клерка об,"[2, 3]","Рабочий просил клерка об одолжении, но втайне ненавидел его.",GENDER.male,"['male', '4', 'Die Arbeiterin bat den Angestellten um einen Gefallen, hasste ihn jedoch heimlich.', 'Angestellten']"
 строителю,[2],Булочник понравился строителю и попытался продать ему хлеб со скидкой.,GENDER.male,"['male', '4', 'Die Bäckerin mochte den Bauarbeiter und versuchte, ihm Brot mit einem Rabatt zu verkaufen.', 'Bauarbeiter']"

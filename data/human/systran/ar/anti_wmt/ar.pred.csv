@@ -70,7 +70,7 @@ translated_professions,target_indices,target_sentences,gender_prediction,ds
 المدير,[1],وطلب المدير من المساعد مناقشة جدول اعمالها غدا.,GENDER.male,"['female', '1', 'Die Vorgesetzte bat den Assistenten, ihren Zeitplan für morgen zu besprechen.', 'Vorgesetzte']"
 الصاحبة,[2],ساعد الكاتب الصاحبة وطلب منها أن تقدم له معروفا.,GENDER.female,"['female', '4', 'Der Schriftsteller half der Vorgesetzten und bat sie, ihm einen Gefallen zu tun.', 'Vorgesetzten']"
 ,[],اتصل المحامي بالفصيل ورتب معه موعدا.,GENDER.unknown,"['male', '4', 'Die Anwältin rief den Schneider an und vereinbarte einen Termin mit ihm.', 'Schneider']"
-الخياط،,[3],فالمحلل يذهب إلى الخياط، لأن الجميع يعلم أنه يصنع أفضل الملابس.,GENDER.male,"['male', '5', 'Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.', 'Schneider']"
+,[],فالمحلل يذهب إلى الخياط، لأن الجميع يعلم أنه يصنع أفضل الملابس.,GENDER.unknown,"['male', '5', 'Die Analystin geht zu dem Schneider, weil alle wissen, dass er die besten Kleider macht.', 'Schneider']"
 بأعمال صداقة,"[4, 5]",و قد أقام القائم بأعمال صداقة مع المعلم و أخبره عن ثرثرة الموظفين.,GENDER.female,"['male', '6', 'Die Hausmeisterin freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch der Mitarbeiter.', 'Lehrer']"
 للمعلم,[3],قال عامل الإزالة للمعلم أنه يجب أن يكون أكثر صبرا مع الأطفال.,GENDER.male,"['male', '4', 'Die Umzugshelferin sagte dem Lehrer, dass er geduldiger mit den Kindern sein müsse.', 'Lehrer']"
 الكاتب,[3],وقد زار المحلل الكاتب لأنه ارتكب بعض الأخطاء في الكتاب.,GENDER.male,"['male', '4', 'Die Analystin besuchte den Schriftsteller, weil er einige Fehler im Buch gemacht hatte.', 'Schriftsteller']"

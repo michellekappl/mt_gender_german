@@ -1,251 +1,259 @@
-job_class,pred_gender,gold_gender,count,ab_code
-Allgemein,GENDER.female,female,27,0
-Allgemein,GENDER.female,male,1,0
-Allgemein,GENDER.male,female,11,0
-Allgemein,GENDER.male,male,40,0
-Allgemein,GENDER.neutral,female,2,0
-Allgemein,GENDER.neutral,male,2,0
-Allgemein,GENDER.unknown,female,9,0
-Allgemein,GENDER.unknown,male,6,0
-"Bauplanung u. -überwachung, Architektur",GENDER.female,female,5,311
-"Bauplanung u. -überwachung, Architektur",GENDER.female,male,1,311
-"Bauplanung u. -überwachung, Architektur",GENDER.male,female,7,311
-"Bauplanung u. -überwachung, Architektur",GENDER.male,male,9,311
-"Bauplanung u. -überwachung, Architektur",GENDER.unknown,female,2,311
-"Bauplanung u. -überwachung, Architektur",GENDER.unknown,male,4,311
-Büro und Sekretariat,GENDER.female,female,19,714
-Büro und Sekretariat,GENDER.female,male,2,714
-Büro und Sekretariat,GENDER.male,female,2,714
-Büro und Sekretariat,GENDER.male,male,18,714
-Büro und Sekretariat,GENDER.unknown,female,7,714
-Büro und Sekretariat,GENDER.unknown,male,8,714
-Chemie,GENDER.female,female,3,413
-Chemie,GENDER.male,female,4,413
-Chemie,GENDER.male,male,7,413
-Elektrotechnik,GENDER.female,female,1,263
-Elektrotechnik,GENDER.male,female,6,263
-Elektrotechnik,GENDER.male,male,7,263
-Energietechnik,GENDER.female,female,2,262
-Energietechnik,GENDER.female,male,2,262
-Energietechnik,GENDER.male,female,5,262
-Energietechnik,GENDER.male,male,5,262
-"Ernährungs-,Gesundheitsberatung,Wellness",GENDER.female,female,10,822
-"Ernährungs-,Gesundheitsberatung,Wellness",GENDER.female,male,1,822
-"Ernährungs-,Gesundheitsberatung,Wellness",GENDER.male,female,4,822
-"Ernährungs-,Gesundheitsberatung,Wellness",GENDER.male,male,13,822
-"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",GENDER.female,female,1,252
-"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",GENDER.female,male,1,252
-"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",GENDER.male,female,11,252
-"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",GENDER.male,male,11,252
-"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",GENDER.unknown,female,2,252
-"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",GENDER.unknown,male,2,252
-Fahrzeugführung im Straßenverkehr,GENDER.male,female,9,521
-Fahrzeugführung im Straßenverkehr,GENDER.male,male,10,521
-Fahrzeugführung im Straßenverkehr,GENDER.unknown,female,5,521
-Fahrzeugführung im Straßenverkehr,GENDER.unknown,male,4,521
-Gastronomie,GENDER.male,female,2,633
-Gastronomie,GENDER.male,male,2,633
-Gastronomie,GENDER.unknown,female,5,633
-Gastronomie,GENDER.unknown,male,5,633
-Gebäudetechnik,GENDER.female,female,6,341
-Gebäudetechnik,GENDER.male,female,4,341
-Gebäudetechnik,GENDER.male,male,8,341
-Gebäudetechnik,GENDER.unknown,female,4,341
-Gebäudetechnik,GENDER.unknown,male,6,341
-Geschäftsführung und Vorstand,GENDER.female,female,9,711
-Geschäftsführung und Vorstand,GENDER.female,male,2,711
-Geschäftsführung und Vorstand,GENDER.male,female,29,711
-Geschäftsführung und Vorstand,GENDER.male,male,41,711
-Geschäftsführung und Vorstand,GENDER.neutral,female,2,711
-Geschäftsführung und Vorstand,GENDER.unknown,female,16,711
-Geschäftsführung und Vorstand,GENDER.unknown,male,13,711
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.female,female,8,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.female,male,7,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.male,female,12,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.male,male,13,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.neutral,female,2,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.neutral,male,2,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.unknown,female,6,813
-"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",GENDER.unknown,male,6,813
-Hauswirtschaft und Verbraucherberatung,GENDER.female,female,10,832
-Hauswirtschaft und Verbraucherberatung,GENDER.female,male,6,832
-Hauswirtschaft und Verbraucherberatung,GENDER.male,female,1,832
-Hauswirtschaft und Verbraucherberatung,GENDER.male,male,6,832
-Hauswirtschaft und Verbraucherberatung,GENDER.unknown,female,3,832
-Hauswirtschaft und Verbraucherberatung,GENDER.unknown,male,2,832
-Hochbau,GENDER.female,female,6,321
-Hochbau,GENDER.male,female,8,321
-Hochbau,GENDER.male,male,13,321
-Hochbau,GENDER.unknown,male,1,321
-Holzbe- und -verarbeitung,GENDER.female,female,6,223
-Holzbe- und -verarbeitung,GENDER.female,male,2,223
-Holzbe- und -verarbeitung,GENDER.male,female,17,223
-Holzbe- und -verarbeitung,GENDER.male,male,20,223
-Holzbe- und -verarbeitung,GENDER.unknown,female,5,223
-Holzbe- und -verarbeitung,GENDER.unknown,male,6,223
-Hotellerie,GENDER.female,female,6,632
-Hotellerie,GENDER.female,male,2,632
-Hotellerie,GENDER.male,female,5,632
-Hotellerie,GENDER.male,male,9,632
-Hotellerie,GENDER.neutral,male,2,632
-Hotellerie,GENDER.unknown,female,3,632
-Hotellerie,GENDER.unknown,male,1,632
-Human- und Zahnmedizin,GENDER.female,female,8,814
-Human- und Zahnmedizin,GENDER.female,male,2,814
-Human- und Zahnmedizin,GENDER.male,female,52,814
-Human- und Zahnmedizin,GENDER.male,male,60,814
-Human- und Zahnmedizin,GENDER.unknown,female,3,814
-Human- und Zahnmedizin,GENDER.unknown,male,1,814
-"Klempnerei,Sanitär,Heizung,Klimatechnik",GENDER.female,female,2,342
-"Klempnerei,Sanitär,Heizung,Klimatechnik",GENDER.female,male,2,342
-"Klempnerei,Sanitär,Heizung,Klimatechnik",GENDER.male,female,4,342
-"Klempnerei,Sanitär,Heizung,Klimatechnik",GENDER.male,male,3,342
-"Klempnerei,Sanitär,Heizung,Klimatechnik",GENDER.unknown,female,1,342
-"Klempnerei,Sanitär,Heizung,Klimatechnik",GENDER.unknown,male,2,342
-Körperpflege,GENDER.female,female,6,823
-Körperpflege,GENDER.male,female,3,823
-Körperpflege,GENDER.male,male,7,823
-Körperpflege,GENDER.unknown,female,5,823
-Körperpflege,GENDER.unknown,male,7,823
-Landwirtschaft,GENDER.female,female,3,111
-Landwirtschaft,GENDER.female,male,1,111
-Landwirtschaft,GENDER.male,female,4,111
-Landwirtschaft,GENDER.male,male,7,111
-Landwirtschaft,GENDER.unknown,female,7,111
-Landwirtschaft,GENDER.unknown,male,6,111
-Lebensmittel- u. Genussmittelherstellung,GENDER.female,female,4,292
-Lebensmittel- u. Genussmittelherstellung,GENDER.female,male,2,292
-Lebensmittel- u. Genussmittelherstellung,GENDER.male,female,7,292
-Lebensmittel- u. Genussmittelherstellung,GENDER.male,male,9,292
-Lebensmittel- u. Genussmittelherstellung,GENDER.unknown,female,3,292
-Lebensmittel- u. Genussmittelherstellung,GENDER.unknown,male,3,292
-"Lehr-,Forschungstätigkeit an Hochschulen",GENDER.female,female,6,843
-"Lehr-,Forschungstätigkeit an Hochschulen",GENDER.female,male,1,843
-"Lehr-,Forschungstätigkeit an Hochschulen",GENDER.male,female,1,843
-"Lehr-,Forschungstätigkeit an Hochschulen",GENDER.male,male,5,843
-"Lehr-,Forschungstätigkeit an Hochschulen",GENDER.unknown,male,1,843
-"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",GENDER.female,female,2,842
-"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",GENDER.male,female,5,842
-"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",GENDER.male,male,7,842
-Lehrtätigkeit an allgemeinbild. Schulen,GENDER.female,female,14,841
-Lehrtätigkeit an allgemeinbild. Schulen,GENDER.female,male,4,841
-Lehrtätigkeit an allgemeinbild. Schulen,GENDER.male,female,3,841
-Lehrtätigkeit an allgemeinbild. Schulen,GENDER.male,male,14,841
-Lehrtätigkeit an allgemeinbild. Schulen,GENDER.unknown,female,4,841
-Lehrtätigkeit an allgemeinbild. Schulen,GENDER.unknown,male,3,841
-"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",GENDER.female,female,5,332
-"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",GENDER.male,female,2,332
-"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",GENDER.male,male,7,332
-Maschinenbau- und Betriebstechnik,GENDER.male,female,14,251
-Maschinenbau- und Betriebstechnik,GENDER.male,male,14,251
-Medien-Dokumentations-Informationsdienst,GENDER.female,female,7,733
-Medien-Dokumentations-Informationsdienst,GENDER.female,male,4,733
-Medien-Dokumentations-Informationsdienst,GENDER.male,female,4,733
-Medien-Dokumentations-Informationsdienst,GENDER.male,male,5,733
-Medien-Dokumentations-Informationsdienst,GENDER.neutral,male,1,733
-Medien-Dokumentations-Informationsdienst,GENDER.unknown,female,3,733
-Medien-Dokumentations-Informationsdienst,GENDER.unknown,male,4,733
-Museumstechnik und -management,GENDER.female,female,1,947
-Museumstechnik und -management,GENDER.male,female,6,947
-Museumstechnik und -management,GENDER.male,male,7,947
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.female,female,14,531
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.female,male,5,531
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.male,female,25,531
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.male,male,34,531
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.neutral,male,2,531
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.unknown,female,10,531
-"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",GENDER.unknown,male,8,531
-Personalwesen und -dienstleistung,GENDER.female,female,8,715
-Personalwesen und -dienstleistung,GENDER.female,male,2,715
-Personalwesen und -dienstleistung,GENDER.male,female,5,715
-Personalwesen und -dienstleistung,GENDER.male,male,10,715
-Personalwesen und -dienstleistung,GENDER.neutral,female,1,715
-Personalwesen und -dienstleistung,GENDER.neutral,male,1,715
-Personalwesen und -dienstleistung,GENDER.unknown,male,1,715
-Pharmazie,GENDER.female,female,4,818
-Pharmazie,GENDER.male,female,3,818
-Pharmazie,GENDER.male,male,7,818
-"Polizei,Kriminald.,Gerichts,Justizvollz.",GENDER.female,female,12,532
-"Polizei,Kriminald.,Gerichts,Justizvollz.",GENDER.male,female,3,532
-"Polizei,Kriminald.,Gerichts,Justizvollz.",GENDER.male,male,20,532
-"Polizei,Kriminald.,Gerichts,Justizvollz.",GENDER.unknown,female,6,532
-"Polizei,Kriminald.,Gerichts,Justizvollz.",GENDER.unknown,male,1,532
-Produkt- und Industriedesign,GENDER.female,female,7,931
-Produkt- und Industriedesign,GENDER.female,male,4,931
-Produkt- und Industriedesign,GENDER.male,female,4,931
-Produkt- und Industriedesign,GENDER.male,male,7,931
-Produkt- und Industriedesign,GENDER.unknown,female,3,931
-Produkt- und Industriedesign,GENDER.unknown,male,3,931
-"Psychologie, nichtärztl. Psychotherapie",GENDER.female,female,6,816
-"Psychologie, nichtärztl. Psychotherapie",GENDER.female,male,1,816
-"Psychologie, nichtärztl. Psychotherapie",GENDER.male,female,7,816
-"Psychologie, nichtärztl. Psychotherapie",GENDER.male,male,11,816
-"Psychologie, nichtärztl. Psychotherapie",GENDER.neutral,female,1,816
-"Psychologie, nichtärztl. Psychotherapie",GENDER.neutral,male,1,816
-"Psychologie, nichtärztl. Psychotherapie",GENDER.unknown,male,1,816
-"Rechnungswesen, Controlling und Revision",GENDER.female,female,4,722
-"Rechnungswesen, Controlling und Revision",GENDER.female,male,2,722
-"Rechnungswesen, Controlling und Revision",GENDER.male,female,12,722
-"Rechnungswesen, Controlling und Revision",GENDER.male,male,15,722
-"Rechnungswesen, Controlling und Revision",GENDER.neutral,female,3,722
-"Rechnungswesen, Controlling und Revision",GENDER.neutral,male,1,722
-"Rechnungswesen, Controlling und Revision",GENDER.unknown,female,9,722
-"Rechnungswesen, Controlling und Revision",GENDER.unknown,male,10,722
-"Rechtsberatung, -sprechung und -ordnung",GENDER.female,female,6,731
-"Rechtsberatung, -sprechung und -ordnung",GENDER.male,female,10,731
-"Rechtsberatung, -sprechung und -ordnung",GENDER.male,male,15,731
-"Rechtsberatung, -sprechung und -ordnung",GENDER.neutral,female,1,731
-"Rechtsberatung, -sprechung und -ordnung",GENDER.unknown,female,4,731
-"Rechtsberatung, -sprechung und -ordnung",GENDER.unknown,male,6,731
-Redaktion und Journalismus,GENDER.female,female,18,924
-Redaktion und Journalismus,GENDER.female,male,1,924
-Redaktion und Journalismus,GENDER.male,female,6,924
-Redaktion und Journalismus,GENDER.male,male,22,924
-Redaktion und Journalismus,GENDER.neutral,female,1,924
-Redaktion und Journalismus,GENDER.neutral,male,1,924
-Redaktion und Journalismus,GENDER.unknown,female,3,924
-Redaktion und Journalismus,GENDER.unknown,male,4,924
-Reinigung,GENDER.female,female,11,541
-Reinigung,GENDER.female,male,3,541
-Reinigung,GENDER.male,female,2,541
-Reinigung,GENDER.male,male,11,541
-Reinigung,GENDER.unknown,female,1,541
-Softwareentwicklung und Programmierung,GENDER.female,female,7,434
-Softwareentwicklung und Programmierung,GENDER.female,male,1,434
-Softwareentwicklung und Programmierung,GENDER.male,female,11,434
-Softwareentwicklung und Programmierung,GENDER.male,male,17,434
-Softwareentwicklung und Programmierung,GENDER.unknown,female,3,434
-Softwareentwicklung und Programmierung,GENDER.unknown,male,3,434
-Speisenzubereitung,GENDER.female,female,10,293
-Speisenzubereitung,GENDER.female,male,1,293
-Speisenzubereitung,GENDER.male,female,9,293
-Speisenzubereitung,GENDER.male,male,19,293
-Speisenzubereitung,GENDER.unknown,female,2,293
-Speisenzubereitung,GENDER.unknown,male,1,293
-Textilverarbeitung,GENDER.female,female,11,282
-Textilverarbeitung,GENDER.male,male,10,282
-Textilverarbeitung,GENDER.neutral,male,1,282
-Textilverarbeitung,GENDER.unknown,female,3,282
-Textilverarbeitung,GENDER.unknown,male,3,282
-Tiermedizin und Tierheilkunde,GENDER.male,female,7,815
-Tiermedizin und Tierheilkunde,GENDER.male,male,7,815
-Verkauf (ohne Produktspezialisierung),GENDER.female,female,20,621
-Verkauf (ohne Produktspezialisierung),GENDER.female,male,1,621
-Verkauf (ohne Produktspezialisierung),GENDER.male,female,6,621
-Verkauf (ohne Produktspezialisierung),GENDER.male,male,27,621
-Verkauf (ohne Produktspezialisierung),GENDER.neutral,female,1,621
-Verkauf (ohne Produktspezialisierung),GENDER.unknown,female,1,621
-Versicherungs- u. Finanzdienstleistungen,GENDER.female,female,5,721
-Versicherungs- u. Finanzdienstleistungen,GENDER.female,male,3,721
-Versicherungs- u. Finanzdienstleistungen,GENDER.male,female,8,721
-Versicherungs- u. Finanzdienstleistungen,GENDER.male,male,11,721
-Versicherungs- u. Finanzdienstleistungen,GENDER.unknown,female,8,721
-Versicherungs- u. Finanzdienstleistungen,GENDER.unknown,male,7,721
-Verwaltung,GENDER.female,female,2,732
-Verwaltung,GENDER.female,male,2,732
-Verwaltung,GENDER.male,female,2,732
-Verwaltung,GENDER.male,male,3,732
-Verwaltung,GENDER.neutral,female,1,732
-Verwaltung,GENDER.neutral,male,1,732
-Verwaltung,GENDER.unknown,female,2,732
-Verwaltung,GENDER.unknown,male,1,732
+job_class,gold_gender,pred_gender,count
+Allgemein,female,GENDER.female,27
+Allgemein,female,GENDER.male,11
+Allgemein,female,GENDER.neutral,2
+Allgemein,female,GENDER.unknown,9
+Allgemein,male,GENDER.female,1
+Allgemein,male,GENDER.male,40
+Allgemein,male,GENDER.neutral,2
+Allgemein,male,GENDER.unknown,6
+"Bauplanung u. -überwachung, Architektur",female,GENDER.female,5
+"Bauplanung u. -überwachung, Architektur",female,GENDER.male,7
+"Bauplanung u. -überwachung, Architektur",female,GENDER.unknown,2
+"Bauplanung u. -überwachung, Architektur",male,GENDER.female,1
+"Bauplanung u. -überwachung, Architektur",male,GENDER.male,9
+"Bauplanung u. -überwachung, Architektur",male,GENDER.unknown,4
+Büro und Sekretariat,female,GENDER.female,19
+Büro und Sekretariat,female,GENDER.male,2
+Büro und Sekretariat,female,GENDER.unknown,7
+Büro und Sekretariat,male,GENDER.female,2
+Büro und Sekretariat,male,GENDER.male,18
+Büro und Sekretariat,male,GENDER.unknown,8
+Chemie,female,GENDER.female,3
+Chemie,female,GENDER.male,4
+Chemie,male,GENDER.male,7
+Elektrotechnik,female,GENDER.female,1
+Elektrotechnik,female,GENDER.male,6
+Elektrotechnik,male,GENDER.male,7
+Energietechnik,female,GENDER.female,2
+Energietechnik,female,GENDER.male,5
+Energietechnik,male,GENDER.female,2
+Energietechnik,male,GENDER.male,5
+"Ernährungs-,Gesundheitsberatung,Wellness",female,GENDER.female,10
+"Ernährungs-,Gesundheitsberatung,Wellness",female,GENDER.male,4
+"Ernährungs-,Gesundheitsberatung,Wellness",male,GENDER.female,1
+"Ernährungs-,Gesundheitsberatung,Wellness",male,GENDER.male,13
+"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",female,GENDER.female,1
+"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",female,GENDER.male,11
+"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",female,GENDER.unknown,2
+"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",male,GENDER.female,1
+"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",male,GENDER.male,11
+"Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.",male,GENDER.unknown,2
+Fahrzeugführung im Straßenverkehr,female,GENDER.male,9
+Fahrzeugführung im Straßenverkehr,female,GENDER.unknown,5
+Fahrzeugführung im Straßenverkehr,male,GENDER.male,10
+Fahrzeugführung im Straßenverkehr,male,GENDER.unknown,4
+Gastronomie,female,GENDER.male,2
+Gastronomie,female,GENDER.unknown,5
+Gastronomie,male,GENDER.male,2
+Gastronomie,male,GENDER.unknown,5
+Gebäudetechnik,female,GENDER.female,6
+Gebäudetechnik,female,GENDER.male,4
+Gebäudetechnik,female,GENDER.unknown,4
+Gebäudetechnik,male,GENDER.male,8
+Gebäudetechnik,male,GENDER.unknown,6
+Geschäftsführung und Vorstand,female,GENDER.female,9
+Geschäftsführung und Vorstand,female,GENDER.male,29
+Geschäftsführung und Vorstand,female,GENDER.neutral,2
+Geschäftsführung und Vorstand,female,GENDER.unknown,16
+Geschäftsführung und Vorstand,male,GENDER.female,2
+Geschäftsführung und Vorstand,male,GENDER.male,41
+Geschäftsführung und Vorstand,male,GENDER.unknown,13
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",female,GENDER.female,8
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",female,GENDER.male,12
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",female,GENDER.neutral,2
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",female,GENDER.unknown,6
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",male,GENDER.female,7
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",male,GENDER.male,13
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",male,GENDER.neutral,2
+"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",male,GENDER.unknown,6
+Hauswirtschaft und Verbraucherberatung,female,GENDER.female,10
+Hauswirtschaft und Verbraucherberatung,female,GENDER.male,1
+Hauswirtschaft und Verbraucherberatung,female,GENDER.unknown,3
+Hauswirtschaft und Verbraucherberatung,male,GENDER.female,6
+Hauswirtschaft und Verbraucherberatung,male,GENDER.male,6
+Hauswirtschaft und Verbraucherberatung,male,GENDER.unknown,2
+Hochbau,female,GENDER.female,6
+Hochbau,female,GENDER.male,8
+Hochbau,male,GENDER.male,13
+Hochbau,male,GENDER.unknown,1
+Holzbe- und -verarbeitung,female,GENDER.female,6
+Holzbe- und -verarbeitung,female,GENDER.male,17
+Holzbe- und -verarbeitung,female,GENDER.unknown,5
+Holzbe- und -verarbeitung,male,GENDER.female,2
+Holzbe- und -verarbeitung,male,GENDER.male,20
+Holzbe- und -verarbeitung,male,GENDER.unknown,6
+Hotellerie,female,GENDER.female,6
+Hotellerie,female,GENDER.male,5
+Hotellerie,female,GENDER.unknown,3
+Hotellerie,male,GENDER.female,2
+Hotellerie,male,GENDER.male,9
+Hotellerie,male,GENDER.neutral,2
+Hotellerie,male,GENDER.unknown,1
+Human- und Zahnmedizin,female,GENDER.female,8
+Human- und Zahnmedizin,female,GENDER.male,52
+Human- und Zahnmedizin,female,GENDER.unknown,3
+Human- und Zahnmedizin,male,GENDER.female,2
+Human- und Zahnmedizin,male,GENDER.male,60
+Human- und Zahnmedizin,male,GENDER.unknown,1
+"Klempnerei,Sanitär,Heizung,Klimatechnik",female,GENDER.female,2
+"Klempnerei,Sanitär,Heizung,Klimatechnik",female,GENDER.male,4
+"Klempnerei,Sanitär,Heizung,Klimatechnik",female,GENDER.unknown,1
+"Klempnerei,Sanitär,Heizung,Klimatechnik",male,GENDER.female,2
+"Klempnerei,Sanitär,Heizung,Klimatechnik",male,GENDER.male,3
+"Klempnerei,Sanitär,Heizung,Klimatechnik",male,GENDER.unknown,2
+Körperpflege,female,GENDER.female,6
+Körperpflege,female,GENDER.male,3
+Körperpflege,female,GENDER.unknown,5
+Körperpflege,male,GENDER.male,7
+Körperpflege,male,GENDER.unknown,7
+Landwirtschaft,female,GENDER.female,3
+Landwirtschaft,female,GENDER.male,4
+Landwirtschaft,female,GENDER.unknown,7
+Landwirtschaft,male,GENDER.female,1
+Landwirtschaft,male,GENDER.male,7
+Landwirtschaft,male,GENDER.unknown,6
+Lebensmittel- u. Genussmittelherstellung,female,GENDER.female,4
+Lebensmittel- u. Genussmittelherstellung,female,GENDER.male,7
+Lebensmittel- u. Genussmittelherstellung,female,GENDER.unknown,3
+Lebensmittel- u. Genussmittelherstellung,male,GENDER.female,2
+Lebensmittel- u. Genussmittelherstellung,male,GENDER.male,9
+Lebensmittel- u. Genussmittelherstellung,male,GENDER.unknown,3
+"Lehr-,Forschungstätigkeit an Hochschulen",female,GENDER.female,6
+"Lehr-,Forschungstätigkeit an Hochschulen",female,GENDER.male,1
+"Lehr-,Forschungstätigkeit an Hochschulen",male,GENDER.female,1
+"Lehr-,Forschungstätigkeit an Hochschulen",male,GENDER.male,5
+"Lehr-,Forschungstätigkeit an Hochschulen",male,GENDER.unknown,1
+"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",female,GENDER.female,2
+"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",female,GENDER.male,5
+"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",male,GENDER.male,7
+Lehrtätigkeit an allgemeinbild. Schulen,female,GENDER.female,14
+Lehrtätigkeit an allgemeinbild. Schulen,female,GENDER.male,3
+Lehrtätigkeit an allgemeinbild. Schulen,female,GENDER.unknown,4
+Lehrtätigkeit an allgemeinbild. Schulen,male,GENDER.female,4
+Lehrtätigkeit an allgemeinbild. Schulen,male,GENDER.male,14
+Lehrtätigkeit an allgemeinbild. Schulen,male,GENDER.unknown,3
+"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",female,GENDER.female,5
+"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",female,GENDER.male,2
+"Maler.,Stuckat.,Bauwerksabd,Bautenschutz",male,GENDER.male,7
+Maschinenbau- und Betriebstechnik,female,GENDER.male,14
+Maschinenbau- und Betriebstechnik,male,GENDER.male,14
+Medien-Dokumentations-Informationsdienst,female,GENDER.female,7
+Medien-Dokumentations-Informationsdienst,female,GENDER.male,4
+Medien-Dokumentations-Informationsdienst,female,GENDER.unknown,3
+Medien-Dokumentations-Informationsdienst,male,GENDER.female,4
+Medien-Dokumentations-Informationsdienst,male,GENDER.male,5
+Medien-Dokumentations-Informationsdienst,male,GENDER.neutral,1
+Medien-Dokumentations-Informationsdienst,male,GENDER.unknown,4
+Museumstechnik und -management,female,GENDER.female,1
+Museumstechnik und -management,female,GENDER.male,6
+Museumstechnik und -management,male,GENDER.male,7
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",female,GENDER.female,14
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",female,GENDER.male,25
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",female,GENDER.unknown,10
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",male,GENDER.female,5
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",male,GENDER.male,34
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",male,GENDER.neutral,2
+"Obj.-,Pers.-,Brandschutz,Arbeitssicherh.",male,GENDER.unknown,8
+Personalwesen und -dienstleistung,female,GENDER.female,8
+Personalwesen und -dienstleistung,female,GENDER.male,5
+Personalwesen und -dienstleistung,female,GENDER.neutral,1
+Personalwesen und -dienstleistung,male,GENDER.female,2
+Personalwesen und -dienstleistung,male,GENDER.male,10
+Personalwesen und -dienstleistung,male,GENDER.neutral,1
+Personalwesen und -dienstleistung,male,GENDER.unknown,1
+Pharmazie,female,GENDER.female,4
+Pharmazie,female,GENDER.male,3
+Pharmazie,male,GENDER.male,7
+"Polizei,Kriminald.,Gerichts,Justizvollz.",female,GENDER.female,12
+"Polizei,Kriminald.,Gerichts,Justizvollz.",female,GENDER.male,3
+"Polizei,Kriminald.,Gerichts,Justizvollz.",female,GENDER.unknown,6
+"Polizei,Kriminald.,Gerichts,Justizvollz.",male,GENDER.male,20
+"Polizei,Kriminald.,Gerichts,Justizvollz.",male,GENDER.unknown,1
+Produkt- und Industriedesign,female,GENDER.female,7
+Produkt- und Industriedesign,female,GENDER.male,4
+Produkt- und Industriedesign,female,GENDER.unknown,3
+Produkt- und Industriedesign,male,GENDER.female,4
+Produkt- und Industriedesign,male,GENDER.male,7
+Produkt- und Industriedesign,male,GENDER.unknown,3
+"Psychologie, nichtärztl. Psychotherapie",female,GENDER.female,6
+"Psychologie, nichtärztl. Psychotherapie",female,GENDER.male,7
+"Psychologie, nichtärztl. Psychotherapie",female,GENDER.neutral,1
+"Psychologie, nichtärztl. Psychotherapie",male,GENDER.female,1
+"Psychologie, nichtärztl. Psychotherapie",male,GENDER.male,11
+"Psychologie, nichtärztl. Psychotherapie",male,GENDER.neutral,1
+"Psychologie, nichtärztl. Psychotherapie",male,GENDER.unknown,1
+"Rechnungswesen, Controlling und Revision",female,GENDER.female,4
+"Rechnungswesen, Controlling und Revision",female,GENDER.male,12
+"Rechnungswesen, Controlling und Revision",female,GENDER.neutral,3
+"Rechnungswesen, Controlling und Revision",female,GENDER.unknown,9
+"Rechnungswesen, Controlling und Revision",male,GENDER.female,2
+"Rechnungswesen, Controlling und Revision",male,GENDER.male,15
+"Rechnungswesen, Controlling und Revision",male,GENDER.neutral,1
+"Rechnungswesen, Controlling und Revision",male,GENDER.unknown,10
+"Rechtsberatung, -sprechung und -ordnung",female,GENDER.female,6
+"Rechtsberatung, -sprechung und -ordnung",female,GENDER.male,10
+"Rechtsberatung, -sprechung und -ordnung",female,GENDER.neutral,1
+"Rechtsberatung, -sprechung und -ordnung",female,GENDER.unknown,4
+"Rechtsberatung, -sprechung und -ordnung",male,GENDER.male,15
+"Rechtsberatung, -sprechung und -ordnung",male,GENDER.unknown,6
+Redaktion und Journalismus,female,GENDER.female,18
+Redaktion und Journalismus,female,GENDER.male,6
+Redaktion und Journalismus,female,GENDER.neutral,1
+Redaktion und Journalismus,female,GENDER.unknown,3
+Redaktion und Journalismus,male,GENDER.female,1
+Redaktion und Journalismus,male,GENDER.male,22
+Redaktion und Journalismus,male,GENDER.neutral,1
+Redaktion und Journalismus,male,GENDER.unknown,4
+Reinigung,female,GENDER.female,11
+Reinigung,female,GENDER.male,2
+Reinigung,female,GENDER.unknown,1
+Reinigung,male,GENDER.female,3
+Reinigung,male,GENDER.male,11
+Softwareentwicklung und Programmierung,female,GENDER.female,7
+Softwareentwicklung und Programmierung,female,GENDER.male,11
+Softwareentwicklung und Programmierung,female,GENDER.unknown,3
+Softwareentwicklung und Programmierung,male,GENDER.female,1
+Softwareentwicklung und Programmierung,male,GENDER.male,17
+Softwareentwicklung und Programmierung,male,GENDER.unknown,3
+Speisenzubereitung,female,GENDER.female,10
+Speisenzubereitung,female,GENDER.male,9
+Speisenzubereitung,female,GENDER.unknown,2
+Speisenzubereitung,male,GENDER.female,1
+Speisenzubereitung,male,GENDER.male,19
+Speisenzubereitung,male,GENDER.unknown,1
+Textilverarbeitung,female,GENDER.female,11
+Textilverarbeitung,female,GENDER.unknown,3
+Textilverarbeitung,male,GENDER.male,10
+Textilverarbeitung,male,GENDER.neutral,1
+Textilverarbeitung,male,GENDER.unknown,3
+Tiermedizin und Tierheilkunde,female,GENDER.male,7
+Tiermedizin und Tierheilkunde,male,GENDER.male,7
+Verkauf (ohne Produktspezialisierung),female,GENDER.female,20
+Verkauf (ohne Produktspezialisierung),female,GENDER.male,6
+Verkauf (ohne Produktspezialisierung),female,GENDER.neutral,1
+Verkauf (ohne Produktspezialisierung),female,GENDER.unknown,1
+Verkauf (ohne Produktspezialisierung),male,GENDER.female,1
+Verkauf (ohne Produktspezialisierung),male,GENDER.male,27
+Versicherungs- u. Finanzdienstleistungen,female,GENDER.female,5
+Versicherungs- u. Finanzdienstleistungen,female,GENDER.male,8
+Versicherungs- u. Finanzdienstleistungen,female,GENDER.unknown,8
+Versicherungs- u. Finanzdienstleistungen,male,GENDER.female,3
+Versicherungs- u. Finanzdienstleistungen,male,GENDER.male,11
+Versicherungs- u. Finanzdienstleistungen,male,GENDER.unknown,7
+Verwaltung,female,GENDER.female,2
+Verwaltung,female,GENDER.male,2
+Verwaltung,female,GENDER.neutral,1
+Verwaltung,female,GENDER.unknown,2
+Verwaltung,male,GENDER.female,2
+Verwaltung,male,GENDER.male,3
+Verwaltung,male,GENDER.neutral,1
+Verwaltung,male,GENDER.unknown,1
+[],female,GENDER.female,77
+[],female,GENDER.male,59
+[],female,GENDER.neutral,12
+[],female,GENDER.unknown,13
+[],male,GENDER.female,23
+[],male,GENDER.male,106
+[],male,GENDER.neutral,11
+[],male,GENDER.unknown,21

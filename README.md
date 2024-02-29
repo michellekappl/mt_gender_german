@@ -4,7 +4,7 @@ This code is an extension of the code published by [Gabriel Stanovsky](https://g
 
 This repository extends the current experiments to German as a base language and furthermore evaluates DeepL.
 It includes a Jupyter Notebook for an easier evaluation of the results as well as all evaluation results for the different MT systems, saved in the folder `data\human`.
-Furthermore, it includes the Bachelor Thesis this work was part of.
+
 
 The following instructions are taken from the original repo.
 
